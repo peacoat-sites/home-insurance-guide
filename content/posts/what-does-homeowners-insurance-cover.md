@@ -3,7 +3,7 @@ title: "What Does Homeowners Insurance Cover"
 date: 2026-05-18T18:30:05.368928+00:00
 draft: false
 description: "Discover what homeowners insurance covers, including dwelling protection, personal property, liability, and additional living expenses, so you can choose the ri"
-image: "https://images.pexels.com/photos/7768204/pexels-photo-7768204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12687136/pexels-photo-12687136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["what", "does", "homeowners", "insurance", "cover"]
 author: "Gary Simmons"
