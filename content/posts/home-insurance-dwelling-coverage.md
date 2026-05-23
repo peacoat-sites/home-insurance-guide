@@ -3,7 +3,7 @@ title: "Home Insurance Dwelling Coverage"
 date: 2026-05-19T12:22:56.042483+00:00
 draft: false
 description: "Learn what home insurance dwelling coverage is, what it protects, how much you need, and how to ensure your home is properly covered in case of damage or loss."
-image: "https://images.pexels.com/photos/7736029/pexels-photo-7736029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12725672/pexels-photo-12725672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "dwelling", "coverage"]
 author: "Diane Kowalski"
