@@ -1,5 +1,6 @@
 ---
 title: "How Much Home Insurance Do You Actually Need?"
+image: "https://images.pexels.com/photos/7731335/pexels-photo-7731335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 date: 2026-05-18
 slug: "how-much-home-insurance-do-you-need"
 description: "Most homeowners either over-insure or under-insure their homes. Here's how to find the right coverage amount without wasting money."
