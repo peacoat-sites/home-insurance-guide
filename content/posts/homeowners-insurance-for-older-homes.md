@@ -3,7 +3,7 @@ title: "Homeowners Insurance For Older Homes"
 date: 2026-05-21T12:29:54.743289+00:00
 draft: false
 description: "Discover how homeowners insurance for older homes works, what coverage you need, and how to find affordable rates that protect your vintage or historic property"
-image: "https://images.pexels.com/photos/36035073/pexels-photo-36035073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4817843/pexels-photo-4817843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "older", "homes"]
 author: "Brian Oates"
