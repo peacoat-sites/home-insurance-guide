@@ -3,7 +3,7 @@ title: "Homeowners Insurance Claim Process"
 date: 2026-05-22T12:05:11.633925+00:00
 draft: false
 description: "Homeowners insurance claim process: Step-by-step guide to filing claims, documentation requirements, and tips to expedite approval and get your settlement faste"
-image: "https://images.pexels.com/photos/7734650/pexels-photo-7734650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8943323/pexels-photo-8943323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "claim", "process"]
 author: "Diane Kowalski"
