@@ -3,7 +3,7 @@ title: "Home Insurance Flood Coverage"
 date: 2026-05-22T12:03:03.741061+00:00
 draft: false
 description: "Protect your home from flood damage. Learn about flood insurance coverage, what's included, costs, and how to choose the right policy for your property."
-image: "https://images.pexels.com/photos/28447774/pexels-photo-28447774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28447806/pexels-photo-28447806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "flood", "coverage"]
 author: "Brian Oates"
