@@ -1,6 +1,5 @@
 googleAnalytics = "G-Q7S9V8LRJN"
 baseURL = "https://homeinsuranceclear.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "Home Insurance Clear"
 [pagination]
