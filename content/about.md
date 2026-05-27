@@ -1,43 +1,40 @@
 ---
 title: "About Home Insurance Clear"
-description: "Learn about Home Insurance Clear — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Home Insurance Clear — meet Dana Holloway and learn how we help homeowners understand their coverage."
 ---
 
-## Our Mission
+## About Home Insurance Clear
 
-Home Insurance Clear demystifies homeowners insurance — what's actually covered, what's not, and what the fine print really means. We help homeowners understand their policies before disaster strikes, not after.
+Home Insurance Clear is an independent resource dedicated to helping homeowners understand their insurance coverage — before a claim, not after.
+
+## Meet the Editor
+
+**Dana Holloway** is the editor behind Home Insurance Clear.
+
+Dana spent years as a licensed property insurance agent helping homeowners shop for coverage, file claims, and navigate the fine print of their policies. Over time, she noticed a consistent pattern: homeowners rarely read their policies until something went wrong — and by then, it was too late to change coverage or understand their options.
+
+She created Home Insurance Clear to give homeowners the information they need up front: how policies are structured, what standard exclusions mean in practice, how claims affect premiums, and how to compare quotes without getting lost in jargon.
 
 ## What We Cover
 
-Home Insurance Clear publishes in-depth, reader-first guides on homeowners insurance coverage types, dwelling and liability protection, flood and earthquake insurance, policy exclusions, filing claims, and comparing insurance providers.
+Home Insurance Clear covers homeowners insurance from every angle — dwelling vs. personal property coverage, liability limits, flood and earthquake exclusions, how to document belongings, what to do after a loss, and how to shop for better rates without sacrificing coverage.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
+We don't sell insurance. We don't earn commissions from carriers. Our job is to translate policy language into plain English and help you ask the right questions before you sign.
 
-We follow a straightforward editorial process:
-
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+Every article on this site is researched from industry sources, state insurance department filings, and real policy language — and updated regularly as coverage standards and pricing change.
 
 ## Important Disclaimer
 
-<div class="disclaimer-box">
+Home Insurance Clear provides general informational content. Dana Holloway is a former insurance professional and researcher — not a licensed advisor in your state. Insurance regulations, policy terms, and coverage options vary significantly by state and insurer. Always consult a licensed insurance professional for advice specific to your situation.
 
-The content on this site is for **general educational purposes only** and does not constitute insurance advice. Coverage options, costs, and availability vary by insurer, location, and individual circumstances. Always consult a **licensed insurance agent or broker** before purchasing or modifying a homeowners insurance policy.
+## Affiliate Disclosure
 
-</div>
-
-## About This Site
-
-Home Insurance Clear is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site are affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you. This does not influence our editorial recommendations.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@homeinsuranceclear.com](mailto:hello@homeinsuranceclear.com)
+Have a question or topic suggestion? [Get in touch](/contact/).
