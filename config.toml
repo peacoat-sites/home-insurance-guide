@@ -8,7 +8,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-author = "Stephen Brenish"
   description = "Honest, jargon-free guides to homeowners insurance coverage, costs, claims, and how to get the best protection for your home."
   niche = "Home Insurance Education"
   adsense_id = "ca-pub-3466203197759215"
