@@ -2,6 +2,7 @@ baseURL = "https://homeinsuranceclear.com/"
 languageCode = "en-us"
 title = "Home Insurance Clear"
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
