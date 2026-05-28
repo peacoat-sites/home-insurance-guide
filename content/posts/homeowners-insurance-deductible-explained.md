@@ -144,8 +144,8 @@ The deductible is the single number on your policy that most directly determines
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) ,  Dual smoke and carbon monoxide detector with 10-year sealed battery ,  no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) ,  Professional-grade DIY home security system with optional 24/7 monitoring ,  one of the top ways to qualify for home insurance discounts.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89) ,  Whole-home 4-pack of 10-year battery-powered detectors ,  covers a standard 3-bedroom home and can reduce insurance premiums.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) ,  Certified pet first aid kit with step-by-step instructions ,  an essential item for every pet owner, especially before vet visits.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32),  Dual smoke and carbon monoxide detector with 10-year sealed battery,  no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199),  Professional-grade DIY home security system with optional 24/7 monitoring,  one of the top ways to qualify for home insurance discounts.
+- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89),  Whole-home 4-pack of 10-year battery-powered detectors,  covers a standard 3-bedroom home and can reduce insurance premiums.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22),  Certified pet first aid kit with step-by-step instructions,  an essential item for every pet owner, especially before vet visits.
 
