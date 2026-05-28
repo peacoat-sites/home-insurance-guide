@@ -7,7 +7,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#f8faff"
+  page_bg = "#f5f9ff"
   nav_style = "dark"
 logo_text_2 = "Insurance Guide"
 logo_text_1 = "Home"
@@ -21,7 +21,7 @@ logo_text_1 = "Home"
   author = "Home Insurance Clear Editorial Team"
   logo_text = "Home Insurance Clear"
   tagline = "Clear answers about home insurance — coverage explained in plain English"
-  primary_color = "#1d4ed8"
+  primary_color = "#1e3a8a"
   cloudflare_analytics = ""
 
   # Authority theme
