@@ -8,11 +8,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-hero_color_4 = "#000810"
-hero_color_3 = "#38bdf8"
-hero_color_2 = "#001525"
-hero_color_1 = "#00060d"
-primary_color = "#38bdf8"
 logo_text_2 = "Insurance Guide"
 logo_text_1 = "Home"
   description = "Honest, jargon-free guides to homeowners insurance coverage, costs, claims, and how to get the best protection for your home."
