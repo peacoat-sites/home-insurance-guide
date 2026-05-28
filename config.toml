@@ -8,8 +8,11 @@ title = "Home Insurance Clear"
 
 
 
+
 enableRobotsTXT = true
 enableEmoji = true
+
+disableHugoGeneratorInject = true
 
 [pagination]
   pagerSize = 12
