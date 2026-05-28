@@ -7,6 +7,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#f8faff"
+  nav_style = "dark"
 logo_text_2 = "Insurance Guide"
 logo_text_1 = "Home"
   description = "Honest, jargon-free guides to homeowners insurance coverage, costs, claims, and how to get the best protection for your home."
