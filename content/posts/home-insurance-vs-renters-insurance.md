@@ -1,6 +1,6 @@
 ---
 title: "Home Insurance Vs Renters Insurance"
-date: 2026-05-18T22:12:07.163818+00:00
+date: 2026-05-21T07:39:23.227678+00:00
 draft: false
 description: "Discover the key differences between home insurance and renters insurance, what each policy covers, and which one you need to protect your property and belongin"
 image: "https://images.pexels.com/photos/7734569/pexels-photo-7734569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

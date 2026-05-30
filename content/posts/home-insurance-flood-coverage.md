@@ -1,6 +1,6 @@
 ---
 title: "Home Insurance Flood Coverage"
-date: 2026-05-22T12:03:03.741061+00:00
+date: 2026-05-18T21:04:54.471287+00:00
 draft: false
 description: "Protect your home from flood damage. Learn about flood insurance coverage, what's included, costs, and how to choose the right policy for your property."
 image: "https://images.pexels.com/photos/28447806/pexels-photo-28447806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

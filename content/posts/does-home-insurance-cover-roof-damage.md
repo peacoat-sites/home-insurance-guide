@@ -1,6 +1,6 @@
 ---
 title: "Does Home Insurance Cover Roof Damage"
-date: 2026-05-25T12:49:17.897648+00:00
+date: 2026-05-23T19:26:30.404172+00:00
 draft: false
 description: "Home insurance typically covers roof damage from storms, hail, and falling objects, but not wear and tear. Learn what's covered and excluded today."
 image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

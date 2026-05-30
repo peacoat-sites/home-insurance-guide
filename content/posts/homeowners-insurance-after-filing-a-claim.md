@@ -1,6 +1,6 @@
 ---
 title: "Homeowners Insurance After Filing A Claim"
-date: 2026-05-26T12:26:46.095825+00:00
+date: 2026-05-19T21:34:58.931899+00:00
 draft: false
 description: "Homeowners insurance coverage after filing a claim: understand how claims affect your rates, policy renewal, and future insurability options."
 image: "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

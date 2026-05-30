@@ -1,6 +1,6 @@
 ---
 title: "Home Insurance Security System Discount"
-date: 2026-05-29T21:44:48.113967+00:00
+date: 2026-05-29T08:10:06.888399+00:00
 draft: false
 description: "Save money on home insurance with a security system discount. Learn how installing alarms and cameras can lower your premium and better protect your home today."
 image: "https://images.pexels.com/photos/32060657/pexels-photo-32060657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

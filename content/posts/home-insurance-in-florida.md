@@ -1,6 +1,6 @@
 ---
 title: "Home Insurance In Florida"
-date: 2026-05-28T12:49:55.901339+00:00
+date: 2026-05-18T04:00:10.696760+00:00
 draft: false
 description: "Discover everything you need to know about home insurance in Florida, including coverage options, average costs, and tips to find the best policy for your needs"
 image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

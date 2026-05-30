@@ -1,6 +1,6 @@
 ---
 title: "How To Switch Home Insurance"
-date: 2026-05-27T12:34:31.722912+00:00
+date: 2026-05-25T22:50:55.388480+00:00
 draft: false
 description: "Switch home insurance easily with our step-by-step guide. Learn how to compare quotes, cancel old policies, and find better coverage at lower rates today."
 image: "https://images.pexels.com/photos/7736036/pexels-photo-7736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
