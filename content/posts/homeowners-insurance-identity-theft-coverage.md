@@ -3,7 +3,7 @@ title: "Homeowners Insurance Identity Theft Coverage"
 date: 2026-05-29T22:02:07.359551+00:00
 draft: false
 description: "Discover how homeowners insurance identity theft coverage protects you financially. Learn what's covered, policy limits, and whether you need additional protect"
-image: ""
+image: "https://images.pexels.com/photos/7731332/pexels-photo-7731332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["homeowners", "insurance", "identity", "theft", "coverage"]
 author: "Dana Hargrove"
