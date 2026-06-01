@@ -10,6 +10,17 @@ author: "Gary Simmons"
 author_bio: "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."
 slug: "what-does-homeowners-insurance-cover"
 affiliate_disclosure: true
+faqs:
+  - q: "Does homeowners insurance cover roof damage?"
+    a: "Yes, if the damage is caused by a covered peril like wind, hail, or fire. But age and condition matter. Many insurers now pay ACV rather than RCV for older roofs, meaning heavy depreciation is applied. Some insurers won't write or renew policies on roofs older than a certain age. If your roof is aging, find out now whether your policy pays ACV or RCV for roof damage before you need to file a claim."
+  - q: "Does homeowners insurance cover mold?"
+    a: "Sometimes, but narrowly. If mold results directly and quickly from a covered peril (a burst pipe soaks drywall and mold appears), the remediation may be covered as part of that claim. But mold from long-term moisture, humidity issues, or neglected leaks is generally excluded as a maintenance problem. Mold claims are heavily scrutinized because the line between 'sudden covered event' and 'gradual neglect' is exactly where adjusters look hardest."
+  - q: "Does homeowners insurance cover theft outside the home?"
+    a: "Yes, typically. Personal property coverage usually extends to belongings stolen from your car, a hotel room, or a storage unit, though the coverage is often limited to 10% of your Coverage C limit when property is off-premises. So if you have $80,000 in personal property coverage, you may have only $8,000 for items stolen away from home. Know this limit before leaving valuables in your car."
+  - q: "Is a home-based business covered?"
+    a: "Only incidentally, and often not enough. Standard policies may cover a small amount of business equipment, but they exclude business liability entirely. If a client visits your home office and is injured, your homeowners liability won't cover it. If you run any business from home, talk to your agent about a home business endorsement or a separate business owner's policy."
+  - q: "Does homeowners insurance cover dog bites?"
+    a: "Usually yes, under liability coverage. Dog bites are actually one of the most common homeowners liability claims. However, many insurers exclude specific 'dangerous' breeds or charge higher premiums. If you own a breed on an insurer's exclusion list, your liability coverage may not apply to a bite claim. Read your policy's animal liability language carefully, and if your breed is excluded, shop accordingly."
 ---
 
 Most homeowners are stunned to learn, usually right after a loss, that the policy they've been paying for doesn't cover what they assumed it did. I've sat across the table from hundreds of people in that position. A burst pipe? Covered. A slow leak behind the wall that caused mold over six months? Probably not. Understanding what your homeowners insurance actually covers, before something goes wrong, is one of the most financially protective things you can do.

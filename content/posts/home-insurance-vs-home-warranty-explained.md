@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "home-insurance-vs-home-warranty-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Does home insurance cover appliance breakdown?"
+    a: "Generally, no. Standard home insurance policies don't cover appliances that simply stop working due to age or mechanical failure. However, if an appliance is damaged by a covered peril, like a fire or a power surge in some policies, there may be coverage under personal property. Check your specific policy language and ask your agent directly."
+  - q: "Can I have both home insurance and a home warranty at the same time?"
+    a: "Yes, and many homeowners do. They serve different purposes, so having both is reasonable if the cost makes sense for your situation. Think of insurance as your catastrophic protection and a warranty as your maintenance backup."
+  - q: "What happens if my insurer and warranty company both say the damage isn't covered?"
+    a: "This is the gray zone, and it's more common than it should be. If a claim is denied by your insurer, you have the right to appeal and, if needed, file a complaint with your state's department of insurance. For warranty disputes, your contract likely requires arbitration. In either case, document everything: dates, names, photos, and written correspondence."
+  - q: "Is a home warranty the same as a builder's warranty?"
+    a: "No. A builder's warranty comes from the builder who constructed your home and typically covers structural defects and workmanship for a set period after construction. A home warranty is a separate service contract you purchase. If you're in a new home, confirm what your builder's warranty covers before buying an additional home warranty plan."
+  - q: "Are home warranties regulated like insurance?"
+    a: "Not in the same way. Home insurance is regulated by state insurance commissioners, which means there are consumer protections, required disclosures, and formal complaint processes. Home warranties are regulated more loosely, often as service contracts under state consumer protection laws. The National Association of Insurance Commissioners has pushed for clearer consumer protections in this space, but regulation still varies significantly by state."
 ---
 
 You just got hit with a $4,000 HVAC repair bill, and your first call was to your homeowner's insurance company. The agent told you they couldn't help. So you called the home warranty company you've been paying $60 a month for, and they sent a technician who said the problem wasn't covered because of "improper maintenance." Now you're out $4,000, plus months of premiums, and nobody seems to be on your side. If that scenario sounds familiar, or if you're trying to figure out how to avoid it, you're in exactly the right place.

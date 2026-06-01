@@ -10,6 +10,17 @@ author: "Brian Oates"
 author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "homeowners-insurance-after-filing-a-claim"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does a claim stay on my record?"
+    a: "Claims typically remain in the CLUE database for seven years. During that window, any insurer you apply to can see them. After seven years, they age off the report entirely. Some insurers only look back three to five years for underwriting and pricing purposes, so the practical impact often diminishes before the claim fully disappears."
+  - q: "Can my insurer cancel me just for filing one claim?"
+    a: "Not mid-policy, in most states. Insurers generally can't cancel an active policy for filing a legitimate claim. What they can do is choose not to renew your policy when your current term ends. The rules vary by state, so check with your state's department of insurance if you receive any cancellation or non-renewal notice."
+  - q: "Will my rates go up even if my claim was denied?"
+    a: "Yes, potentially. Some insurers treat a filed claim the same regardless of outcome, because the act of filing reveals something about the home's risk profile. Others only adjust rates for paid claims. Ask your insurer directly how they handle denied claims before you file anything you're uncertain about."
+  - q: "Should I hire a public adjuster after a large claim?"
+    a: "For significant losses, a public adjuster who works exclusively on your behalf (not the insurer's) can sometimes negotiate a higher settlement. They typically charge a percentage of the final claim payout, often between 10 and 15 percent. For smaller claims, the fee may not be worth it. For losses involving major structural damage or complex situations, they're worth considering. Our guide on the homeowners insurance claim process covers this in more detail."
+  - q: "What if I can't find coverage after multiple claims?"
+    a: "Start with your state's FAIR plan as a short-term solution. Work with an independent agent who has access to surplus lines carriers, which specialize in non-standard risks. Focus on home improvements that reduce future claim likelihood. And give it time. As claims age on your CLUE report, your options in the standard market will improve."
 ---
 
 You filed a claim last spring after a burst pipe soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.

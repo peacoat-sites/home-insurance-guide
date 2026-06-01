@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-insurance-for-new-construction"
 affiliate_disclosure: true
+faqs:
+  - q: "Does my homeowner's insurance cover damage found during the builder's warranty period?"
+    a: "Not necessarily. Builder's warranties and homeowner's insurance are separate systems that cover different causes. Your warranty covers defective work by the builder. Your insurance covers sudden, accidental losses from covered perils like fire or windstorm. If there's a gray area, both the insurer and the builder may argue the other is responsible. Document everything and get your builder's warranty terms in writing before closing."
+  - q: "When should my homeowner's policy start?"
+    a: "The day the builder's risk policy ends, or the day you close, whichever comes first. Don't let there be a single day without coverage. Confirm the exact expiration date of the builder's policy in writing."
+  - q: "Is my new construction home more or less expensive to insure than an older home?"
+    a: "It depends on location and construction type, but new homes often cost less to insure per dollar of coverage because they meet current building codes, have modern electrical and plumbing, and have no known pre-existing issues. However, new homes are frequently larger and more expensive to replace, so total premiums can be higher even if the rate per $1,000 of coverage is lower."
+  - q: "Do I need a home inspection before getting insurance on a new build?"
+    a: "Insurers generally accept the certificate of occupancy in lieu of an independent inspection for new construction. But getting your own inspection before closing is still worth the cost. It protects you independently of insurance, and anything flagged before closing is the builder's problem to fix, not yours."
+  - q: "What happens if there's a fire during construction before I move in?"
+    a: "If the builder's risk policy is still active, it covers the structure. Your homeowner's policy likely hasn't started yet, or if it has, it may have limitations on unoccupied structures. This is one reason to understand the exact transition date and, if construction is delayed, to ask both your insurer and the builder how extended construction timelines affect coverage."
 ---
 
 You closed on your brand-new home last Thursday. The builder handed over the keys, you signed a stack of papers, and your lender confirmed your homeowner's policy was in place. Everything feels buttoned up. Then a pipe fitting fails behind the drywall during week two, and you discover your policy has a construction defect exclusion that your agent never mentioned. Welcome to new construction insurance, where the gaps are real and the marketing language is designed to make you feel covered when you're not.

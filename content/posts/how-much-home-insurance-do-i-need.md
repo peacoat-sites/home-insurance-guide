@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-home-insurance-do-i-need"
 affiliate_disclosure: true
+faqs:
+  - q: "Does my policy automatically keep up with inflation?"
+    a: "Some policies include an inflation guard endorsement that adjusts your dwelling limit annually to track construction cost inflation. Many don't. Even if yours does, check whether the adjustment rate keeps pace with actual local construction costs, which can outrun standard inflation indices substantially. Don't assume your coverage is adequate just because it adjusts."
+  - q: "Should I insure my home for its purchase price?"
+    a: "No. Purchase price includes land, location, and market conditions. It has no reliable relationship to replacement cost. Insuring to purchase price leaves most people significantly underinsured."
+  - q: "What happens if I'm underinsured at the time of a claim?"
+    a: "Most policies include a 'coinsurance' clause (sometimes called an 'insurance-to-value' provision). If you're insuring your home for less than a specified percentage of its replacement cost (usually 80%), your insurer may reduce your claim payout proportionally, even on a partial loss. A $30,000 kitchen fire claim can be reduced because you carried insufficient total coverage. Read your policy's coinsurance clause."
+  - q: "Is a home inventory really necessary?"
+    a: "Necessary is a strong word. But without one, you're reconstructing your entire life's worth of belongings from memory, usually while stressed and displaced. Insurers don't hand money over on your word: they want documentation. A video walkthrough stored in a fireproof document safe or uploaded to cloud storage takes an hour and changes the entire claims experience. The site may earn a commission."
+  - q: "Do I need a separate policy for my home office?"
+    a: "Possibly. Standard policies have limited coverage for business equipment kept at home, often $2,500 or less. They generally don't cover business liability on your property. If you work from home, run a side business, or store inventory or business equipment, ask specifically about home office endorsements or whether a separate business owner's policy is appropriate."
 ---
 
 Most homeowners are underinsured by 20% or more, according to industry research. That's not a rounding error. If your home costs $400,000 to rebuild and your policy covers $320,000, you're personally absorbing an $80,000 gap after a total loss. And that gap doesn't shrink when you're standing in the ash. It gets bigger.

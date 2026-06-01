@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-security-system-discount"
 affiliate_disclosure: true
+faqs:
+  - q: "Will adding a security system automatically lower my premium?"
+    a: "No. You have to notify your insurer, submit documentation (usually a certificate of installation or UL certificate from your monitoring company), and confirm the discount was applied to your policy. Nothing happens automatically."
+  - q: "Does it matter if I install the system myself?"
+    a: "Yes, often significantly. Many insurers require professionally installed systems for the larger discount tiers. DIY systems may qualify for a smaller credit if they include professional third-party monitoring, but you should ask your specific insurer before purchasing. The gap between 'professionally installed' and 'self-installed with monitoring' can mean the difference between a 15% credit and nothing."
+  - q: "I already have a security system. How do I find out if I'm getting the discount?"
+    a: "Pull your declarations page, which is the summary page at the front of your policy documents. Look for a line item called something like 'protective device credit' or 'burglar alarm discount.' If you don't see one, call your insurer, ask directly, and then send them your monitoring certificate if you haven't already."
+  - q: "Does the type of monitoring matter, like cellular vs. landline?"
+    a: "It can. Some insurers give higher credits for cellular-based systems because landline systems can be defeated by cutting the phone line. Cellular and broadband-connected systems are considered more reliable by underwriters. Ask your insurer if they differentiate."
+  - q: "Can I lose the discount after I get it?"
+    a: "Yes. If your monitoring service lapses, you cancel your contract, or your monitoring company loses its UL certification status, the credit can be removed at renewal. Some insurers audit this annually. Keep your monitoring active and your certificates current."
 ---
 
 Picture this: you just paid $850 to have a professional security system installed, complete with door sensors, motion detectors, and 24/7 monitoring. You call your insurer, proud of yourself, and they tell you the discount is 2%. On a $1,400 annual premium, that's $28 a year. You do the math and realize it'll take 30 years to break even on the equipment cost alone. I've seen this exact scenario play out dozens of times, and it's not because security systems are a bad idea. It's because most homeowners never ask the right questions before they buy.

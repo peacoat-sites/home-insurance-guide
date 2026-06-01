@@ -10,6 +10,17 @@ author: "Patricia Lawson"
 author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."
 slug: "homeowners-insurance-shopping-tips"
 affiliate_disclosure: true
+faqs:
+  - q: "How many quotes should I get when shopping for homeowners insurance?"
+    a: "Get at least three, and make sure they're structured identically. One from a national carrier, one from a regional carrier if possible, and one from a broker who can access multiple markets. That spread usually gives you a realistic picture of your pricing range and the coverage differences between companies."
+  - q: "Is bundling home and auto insurance always the best deal?"
+    a: "Usually bundling produces real savings, often 10% to 20% on one or both policies. But not always. Run the numbers independently. Sometimes the bundled home policy comes from a carrier with a poor claims reputation, or the combined savings don't offset a significantly higher premium on one side of the bundle."
+  - q: "What questions should I ask an insurance agent before buying?"
+    a: "Ask what your policy's dwelling coverage limit is and how it was calculated. Ask whether personal property is covered on a replacement cost or actual cash value basis. Ask what the most common exclusions are. Ask what happens if your home is underinsured at the time of a claim. Ask how they handle claims for your policy type specifically. The answers will tell you a lot about whether you're working with someone who knows the product."
+  - q: "Can I switch homeowners insurance companies anytime?"
+    a: "Yes. You can cancel a homeowners policy mid-term. You'll typically receive a prorated refund for the unused portion of your premium. If your policy is escrowed through your mortgage, notify your lender immediately so they can update the escrow account and process the new premium correctly."
+  - q: "Do I need extra coverage if I work from home or run a small business?"
+    a: "Most likely, yes. Standard HO-3 policies have very limited coverage for business property and essentially no coverage for business liability. If you have clients visiting your home, significant business equipment, or inventory stored at home, talk to your agent about an in-home business endorsement or a separate business owner's policy."
 ---
 
 Most homeowners spend more time choosing a new refrigerator than they do shopping for a policy that could determine whether they recover financially after a disaster. I've seen it play out in real life: a family loses their roof in a hailstorm, calls their agent, and discovers their policy pays actual cash value instead of replacement cost, leaving them thousands short of what they need to rebuild. That single misunderstood line in a declarations page can cost more than a decade of premium savings. Shopping for homeowners insurance isn't just about finding the lowest monthly number. It's about understanding exactly what you're buying before you need it.

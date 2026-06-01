@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-credit-score-impact"
 affiliate_disclosure: true
+faqs:
+  - q: "Does checking my own credit hurt my insurance score?"
+    a: "No. When you pull your own credit report, it's recorded as a 'soft inquiry.' Only 'hard inquiries,' the kind generated when you apply for credit, show up in the data insurers use. Checking your own report has zero negative impact. Do it regularly."
+  - q: "Can an insurer deny my application based on credit alone?"
+    a: "In most states where credit scoring is permitted, yes, technically. In practice, most insurers use it as a rating factor rather than a hard eligibility gate. But some carriers do decline to write policies for applicants below a certain credit tier, particularly in voluntary market programs. If you're having trouble getting coverage, your state's FAIR Plan (insurer of last resort) cannot use credit as a disqualifying factor."
+  - q: "Will filing a homeowner claim hurt my credit score?"
+    a: "No, not directly. Homeowner insurance claims don't show up on your credit report. Your credit score is unaffected by claims activity. However, claims are tracked separately in a database called CLUE (Comprehensive Loss Underwriting Exchange), maintained by LexisNexis, and prior claims can affect your insurability and your rate independent of your credit. These are two completely separate systems."
+  - q: "How long do negative credit items affect my insurance score?"
+    a: "Most negative items, late payments, collections, defaults, age off your credit report after seven years. Bankruptcies can remain for up to ten years. As these items age and eventually fall off, your credit-based insurance score will generally improve assuming you've maintained better habits since. The trajectory matters as much as the absolute score."
+  - q: "My credit dropped during a divorce. What can I do?"
+    a: "Request a life event exception from your insurer. Document the timeline: when the divorce proceedings began, how they affected joint accounts, any errors introduced to your report. Most states with credit scoring rules require insurers to offer this exception process in writing. Submit a formal written request, keep a copy, and follow up in writing if you don't hear back. If your insurer refuses to engage, your state insurance department has a consumer complaints process."
 ---
 
 Most people know a bad credit score raises their car loan interest rate. Far fewer realize it can add hundreds of dollars a year to their home insurance premium, sometimes more than a speeding ticket or a prior claim would. I'll be honest: when I was reviewing claims for a living, I didn't fully appreciate how aggressively insurers used credit data until I moved to the other side of the table and started seeing the rate quotes my clients were getting. The gap between what a policyholder with excellent credit pays and what someone with poor credit pays, for identical homes and identical coverage, can be staggering.

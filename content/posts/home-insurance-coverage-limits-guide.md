@@ -10,6 +10,17 @@ author: "Diane Kowalski"
 author_bio: "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."
 slug: "home-insurance-coverage-limits-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "What happens if my coverage limit is too low when I file a claim?"
+    a: "You pay the difference out of pocket. There's no automatic top-up. If your dwelling Coverage A limit is $250,000 and rebuilding costs $350,000, you're responsible for the $100,000 gap unless you have an extended or guaranteed replacement cost endorsement that covers it. This is called being underinsured, and it's distressingly common. The best protection is setting your limits accurately before a loss, not hoping the numbers work out afterward."
+  - q: "Can I lower my coverage limits to reduce my premium?"
+    a: "Technically yes, but I'd call it a bad trade in most cases. You might save a few hundred dollars annually while exposing yourself to a six-figure shortfall after a major loss. If you're trying to reduce your premium, consider raising your deductible, improving your credit score (which affects rates in most states), or bundling with auto insurance. Cutting limits is a last resort, not a strategy."
+  - q: "Does my homeowner policy automatically update my limits when construction costs rise?"
+    a: "Only if you have an inflation guard endorsement, and even then it may not keep pace with actual cost increases. Without that endorsement, your limits stay exactly where you set them until you change them. Annual review matters here. Construction costs don't politely wait for you to pay attention."
+  - q: "What's the difference between actual cash value and replacement cost for personal property?"
+    a: "Actual cash value (ACV) pays what your item was worth at the time of the loss, factoring in depreciation. Replacement cost value (RCV) pays what it would cost to buy the same item new today. The difference is significant. A five-year-old laptop might have an ACV of $150 but cost $900 to replace. Many policies default to ACV for personal property. You can often upgrade to replacement cost coverage for personal property for a modest additional premium. Check your policy declarations page to see which you have."
+  - q: "Should I tell my insurer about home improvements?"
+    a: "Yes, and promptly. Renovations increase your home's replacement cost. If you remodel your kitchen for $60,000 and don't report it, your Coverage A limit hasn't changed to reflect the new value. After a total loss, your insurer could argue your coverage was inadequate for the risk and potentially limit your payout. Report improvements as they're completed, even if renewal isn't coming up for months."
 ---
 
 Imagine your house burns down. The fire department saves the foundation, but everything else is gone. You call your insurer expecting relief, and then you get the number: your dwelling coverage limit is $280,000, but rebuilding costs in your area have jumped to $420,000 since you last updated your policy. You're facing a $140,000 gap, and nothing in your policy automatically closes it. This happens more often than the industry admits. Coverage limits are the single most consequential detail in your homeowner policy, and most people never look at them until something goes wrong.

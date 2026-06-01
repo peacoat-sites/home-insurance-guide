@@ -10,6 +10,17 @@ author: "Gary Simmons"
 author_bio: "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."
 slug: "home-insurance-vs-renters-insurance"
 affiliate_disclosure: true
+faqs:
+  - q: "Does my landlord's insurance cover my belongings?"
+    a: "No. Your landlord's policy covers the building they own. Your personal property, your furniture, electronics, clothing, and valuables, is your responsibility. If a pipe bursts and ruins your belongings, the landlord's insurer has no obligation to compensate you. Renters insurance exists specifically to fill this gap."
+  - q: "Can I get renters insurance if I have roommates?"
+    a: "You can, but be careful. Some insurers allow roommates to be added to a single policy, while others require separate policies. Adding a roommate means their claims history affects yours and vice versa. If your roommate has a history of claims, sharing a policy could cost you. Ask your insurer specifically about how roommate coverage works before assuming you're both covered."
+  - q: "What happens if I rent out a room in my home?"
+    a: "Standard HO-3 home insurance typically does not cover short-term rental activity. If you rent through Airbnb or a similar platform, or even if you have a long-term paying tenant in a room, you may need to notify your insurer and potentially add a rider or switch to a landlord policy, called a dwelling fire or DP-3 policy. Failing to disclose rental activity can result in a denied claim."
+  - q: "Is renters insurance required by law?"
+    a: "No state law currently requires renters insurance, but landlords increasingly include it as a lease requirement. If your lease requires it, the landlord can enforce that contractually, but they generally can't tell you which company to use. Even when it's not required, buying it is one of the smarter financial decisions a renter can make."
+  - q: "What does 'scheduled personal property' mean, and do I need it?"
+    a: "Standard personal property coverage applies sublimits to categories like jewelry, firearms, art, and electronics. If you own a $5,000 engagement ring, your base policy might only cover $1,500 of it. Scheduling an item, meaning listing it separately on the policy with its own appraised value, gives you full coverage for that specific item, often without a deductible. If you have high-value items, ask your agent about scheduling them. It's usually not expensive and it closes a coverage gap that surprises a lot of people at claim time."
 ---
 
 Picture this: your upstairs neighbor leaves the bathtub running, falls asleep, and you wake up at 2 a.m. to water pouring through your ceiling. Your laptop is ruined. Your couch is soaked. You call your landlord, who calls their insurer, and you quickly learn a brutal truth: the landlord's policy covers the building. It covers nothing you own. If you don't have renters insurance, you're paying out of pocket for every bit of it. I've seen this exact scenario play out dozens of times in my years reviewing claims, and it never gets easier to explain to someone who didn't know the gap existed.

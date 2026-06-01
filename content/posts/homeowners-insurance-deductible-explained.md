@@ -10,6 +10,17 @@ author: "Brian Oates"
 author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "homeowners-insurance-deductible-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Does my deductible apply to every type of claim?"
+    a: "Not always. Liability claims, for instance, typically don't carry a deductible. If someone is injured on your property and sues, your liability coverage generally pays without you contributing a deductible. Medical payments coverage usually works the same way. Deductibles primarily apply to property damage claims under Coverage A (dwelling) and Coverage C (personal property)."
+  - q: "Can I negotiate my deductible amount with my insurer?"
+    a: "You can select from the options your insurer makes available, but you generally can't name an arbitrary number. Most insurers offer tiered choices, such as $500, $1,000, $2,500, or $5,000. In some states and markets, your options for peril-specific deductibles may be more constrained, particularly in coastal areas where regulators allow percentage deductibles as a condition of insurers participating in the market at all."
+  - q: "If I have a $2,500 deductible and my damage is $2,400, do I get anything?"
+    a: "No. The deductible is the threshold your claim must exceed before any payment is made. If your covered loss is less than your deductible, the insurer pays nothing. This is exactly why filing a claim for borderline amounts can hurt you: you absorb the full cost anyway, but the claim still appears in your history."
+  - q: "How does my deductible interact with an ACV versus RCV settlement?"
+    a: "This is an important sequence to understand. Under a replacement cost value policy, depreciation is initially withheld. You receive the actual cash value minus your deductible, then you can claim the depreciation holdback after completing repairs. Under an actual cash value policy, you receive the depreciated value minus your deductible, with no additional payment. The combination of depreciation and a high deductible can significantly reduce your net recovery, particularly on older homes or aging systems."
+  - q: "Will raising my deductible always lower my premium?"
+    a: "Generally yes, but not always proportionally. Going from a $500 to a $1,000 deductible often produces a more meaningful premium reduction than going from $2,500 to $5,000. The relationship isn't linear, and the savings vary significantly by state, insurer, and coverage amount. Always ask for the specific dollar difference before making a decision based on the assumption that a higher deductible equals meaningful savings."
 ---
 
 A neighbor of mine filed a roof claim after a hailstorm a few years back. She had a standard $1,000 deductible, the damage came in at $4,200, and she walked away expecting a check for $3,200. What she actually got was a letter explaining that her policy had a separate wind and hail deductible equal to 2% of her dwelling coverage, which was insured for $380,000. Her out-of-pocket cost wasn't $1,000. It was $7,600, and the insurer legally owed her nothing at all. She had never heard of a percentage deductible. Nobody explained it when she bought the policy.

@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "what-is-dwelling-coverage-in-home-insurance"
 affiliate_disclosure: true
+faqs:
+  - q: "Does dwelling coverage include my detached garage?"
+    a: "No. A detached garage is covered under Coverage B: Other Structures, not Coverage A. Coverage B is typically set at 10% of your dwelling limit by default. If your detached garage, fence, or other structures would cost more than that to replace, you may need to request a higher limit for Coverage B."
+  - q: "Is my Coverage A limit the same as my home's market value?"
+    a: "Not necessarily, and confusing these two is one of the most common and costly mistakes homeowners make. Your dwelling coverage limit should reflect the cost to rebuild your home from scratch at current construction costs in your area. Market value includes land and is influenced by factors that have nothing to do with what it costs to build. In many markets these numbers are quite different, in either direction."
+  - q: "What happens if my rebuild costs exceed my dwelling coverage limit?"
+    a: "You pay the difference out of pocket unless you have extended replacement cost or guaranteed replacement cost coverage. This is exactly why getting an accurate replacement cost estimate and making sure your limit matches it is so important. Some policies include an inflation guard that automatically adjusts your limit annually, which helps, but it's not a substitute for having the right limit to begin with."
+  - q: "Does dwelling coverage pay for temporary housing while my home is being rebuilt?"
+    a: "No, that falls under Coverage D: Loss of Use, which covers additional living expenses like hotel stays, temporary rental costs, and restaurant meals if you're displaced while your home is being repaired. Check your Coverage D limit separately from your Coverage A limit. They're connected but distinct."
+  - q: "Are renovations or additions automatically covered under my existing dwelling coverage?"
+    a: "Not necessarily. If you add a room, finish a basement, or significantly renovate your kitchen, your home's rebuild cost increases, but your Coverage A limit doesn't automatically adjust. You need to notify your insurer of major improvements so your coverage can be updated. Failing to do this can leave a meaningful gap between what you've invested in the home and what your policy will actually pay."
 ---
 
 Picture this: a fire starts in your kitchen, spreads to the walls, and by the time the trucks leave, half your house is a charred skeleton. You file your claim expecting your insurer to write a check that covers rebuilding everything. Then the adjuster tells you your dwelling coverage limit is $180,000, but the actual cost to rebuild your home to current code with today's lumber prices is $290,000. You're staring at a $110,000 gap that you have to cover yourself. I've seen this scenario play out more times than I care to count, and almost every time, the homeowner had no idea it could happen. That gap exists because of one misunderstood line on their policy: Coverage A, otherwise known as dwelling coverage.

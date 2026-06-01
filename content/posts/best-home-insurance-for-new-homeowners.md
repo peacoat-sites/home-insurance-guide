@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-home-insurance-for-new-homeowners"
 affiliate_disclosure: true
+faqs:
+  - q: "How much home insurance do I actually need as a new homeowner?"
+    a: "You need enough dwelling coverage to rebuild your home from scratch at current local construction costs, not its purchase price. You need personal property coverage that reflects the actual replacement value of your belongings. And you need at least $300,000 in liability coverage. Beyond that, the right answer depends on your specific home, location, and financial situation. A licensed independent agent (not a captive agent tied to one company) can give you a more tailored analysis. Always verify any recommendations against guidance from your state insurance department."
+  - q: "Is the policy my lender required enough coverage?"
+    a: "Usually not. Lenders require insurance to protect their financial interest in your home, meaning they want enough coverage to pay off the mortgage balance. That's often less than what it would cost to actually rebuild your home and replace your belongings. Review your policy limits independently of what your lender required."
+  - q: "What's the difference between an independent agent and a captive agent?"
+    a: "A captive agent represents one insurer exclusively. An independent agent represents multiple carriers and can compare options across the market. For new homeowners who don't yet know which insurer fits their situation, an independent agent generally provides more useful comparison shopping. Either type can provide competent advice, but you should understand the difference."
+  - q: "When should I file a claim vs. pay out of pocket?"
+    a: "This is a genuinely nuanced question. Filing a claim can raise your premium at renewal or, in some states, affect your insurability. For small losses that are only modestly above your deductible, many homeowners choose to pay out of pocket to protect their claims history. For significant losses, file. If you're uncertain, call your insurer to discuss the situation before formally filing; some companies allow preliminary inquiries that don't trigger a claim record."
+  - q: "Does home insurance cover home-based business equipment or liability?"
+    a: "Standard HO-3 policies provide limited or no coverage for business property or liability arising from a home-based business. If you run any kind of business from home, even part-time consulting or an online retail operation, ask your insurer about a home business endorsement or a separate business owner's policy. This is one of the most commonly overlooked gaps for new homeowners who also work remotely."
 ---
 
 You closed on your house a week ago. You've got a mortgage, a moving truck bill, and an insurance policy someone handed you at the title company that you signed without fully reading. Statistically, that policy has at least two coverage gaps you haven't found yet. Most new homeowners don't find them until they file a claim.
