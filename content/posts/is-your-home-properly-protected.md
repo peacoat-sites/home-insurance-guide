@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Is Your Home Properly Protected? Take the Coverage-Fit Quiz"
 description: "Take this quick 7-question quiz to see how well-prepared your home insurance coverage really is. For general education and self-reflection, not insurance advice."
 slug: "is-your-home-properly-protected"
