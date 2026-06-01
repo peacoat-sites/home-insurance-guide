@@ -1,0 +1,149 @@
+{
+  "title": "Is Your Home Properly Protected?",
+  "intro": "Answer 7 quick questions to see how confident and prepared you are about your home insurance coverage. This is a self-reflection tool for general education, not insurance advice.",
+  "disclaimer": "This quiz is for general education and self-reflection only. It is not insurance advice. Your actual coverage depends on your specific policy, home, and location, so review your policy with a licensed insurance agent before making any decisions.",
+  "questions": [
+    {
+      "q": "When did you last actually read through your homeowners policy?",
+      "options": [
+        {
+          "t": "Within the past year, I know roughly what's covered",
+          "s": 3
+        },
+        {
+          "t": "A while ago, the details are fuzzy now",
+          "s": 1
+        },
+        {
+          "t": "Honestly, I've never really read it",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Could your current coverage rebuild your home at today's construction costs?",
+      "options": [
+        {
+          "t": "Yes, I've checked the rebuild estimate recently",
+          "s": 3
+        },
+        {
+          "t": "I think so, but I haven't confirmed the numbers",
+          "s": 1
+        },
+        {
+          "t": "No idea what it would actually cost to rebuild",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Have you made any home upgrades or big purchases your insurer doesn't know about?",
+      "options": [
+        {
+          "t": "No, I update my policy after any major change",
+          "s": 3
+        },
+        {
+          "t": "Maybe a few things I never got around to reporting",
+          "s": 1
+        },
+        {
+          "t": "Probably several, I rarely think to tell them",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How well do you understand your deductible and what you'd pay out of pocket in a claim?",
+      "options": [
+        {
+          "t": "I know my deductible and I'm comfortable with it",
+          "s": 3
+        },
+        {
+          "t": "I know the number but haven't thought it through",
+          "s": 1
+        },
+        {
+          "t": "I'm not sure what my deductible even is",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Do you have a home inventory or photos of your belongings in case of a loss?",
+      "options": [
+        {
+          "t": "Yes, a documented list or photos I keep updated",
+          "s": 3
+        },
+        {
+          "t": "A few old photos, nothing organized",
+          "s": 1
+        },
+        {
+          "t": "No, I'd be recreating everything from memory",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How aware are you of risks your standard policy might NOT cover, like flood or earthquake?",
+      "options": [
+        {
+          "t": "Very aware, I've matched coverage to my area's risks",
+          "s": 3
+        },
+        {
+          "t": "Somewhat, I've heard these can be excluded",
+          "s": 1
+        },
+        {
+          "t": "I assumed my policy covers pretty much everything",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about reviewing your coverage and asking your insurer questions?",
+      "options": [
+        {
+          "t": "Ready, I want to make sure I'm properly protected",
+          "s": 3
+        },
+        {
+          "t": "Open to it if someone walks me through the basics",
+          "s": 1
+        },
+        {
+          "t": "I'd rather not, it feels confusing and overwhelming",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "There may be some coverage gaps worth a closer look",
+      "body": "Based on your answers, there are a few corners of your coverage you haven't had a chance to explore yet, and that's completely normal. The good news is that a little awareness goes a long way. Start small: pull out your policy declarations page and just skim what's listed. You don't have to understand it all at once. Getting familiar with the basics is the first step toward feeling genuinely protected.",
+      "cta": "Read our home insurance basics guide"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "You're on solid ground, with a few things to firm up",
+      "body": "You have a real handle on several parts of your coverage, and you're clearly thinking about the right questions. A few areas could use a closer look, like confirming your rebuild cost, updating your policy after changes, or understanding what's excluded. A quick coverage review, with a checklist in hand, would close most of those gaps. You're closer to fully protected than you might think.",
+      "cta": "Use our policy review checklist"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a well-protected, engaged homeowner",
+      "body": "Your answers show you take your coverage seriously: you know your policy, you keep it current, and you understand the risks specific to your home. That kind of awareness is exactly what keeps a claim from turning into a nightmare. Keep that momentum going by reviewing annually and staying sharp on the finer details, like endorsements and emerging risks, so your protection grows right alongside your home.",
+      "cta": "Explore our advanced coverage guides"
+    }
+  ]
+}
