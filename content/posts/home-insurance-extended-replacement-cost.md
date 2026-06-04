@@ -3,7 +3,7 @@ title: "Home Insurance Extended Replacement Cost"
 date: 2026-05-19T11:25:57.431484+00:00
 draft: false
 description: "Get peace of mind with home insurance extended replacement cost coverage. Learn how it protects you from rising rebuild costs beyond your policy limit after a d"
-image: "https://images.pexels.com/photos/5849553/pexels-photo-5849553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7688366/pexels-photo-7688366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "extended", "replacement", "cost"]
 author: "Alex Reeves"

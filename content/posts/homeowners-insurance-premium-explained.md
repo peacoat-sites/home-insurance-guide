@@ -3,7 +3,7 @@ title: "Homeowners Insurance Premium Explained"
 date: 2026-05-27T21:29:04.426709+00:00
 draft: false
 description: "Learn what affects your homeowners insurance premium, how rates are calculated, and practical tips to lower your costs without sacrificing coverage."
-image: "https://images.pexels.com/photos/7736032/pexels-photo-7736032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7579046/pexels-photo-7579046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "premium", "explained"]
 author: "Claire Novak"

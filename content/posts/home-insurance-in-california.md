@@ -3,7 +3,7 @@ title: "Home Insurance In California"
 date: 2026-05-28T05:44:22.032303+00:00
 draft: false
 description: "Protect your California home with the right insurance. Compare coverage options, costs, and top providers to find the best home insurance policy for your needs."
-image: "https://images.pexels.com/photos/7736032/pexels-photo-7736032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2263675/pexels-photo-2263675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "california"]
 author: "Dana Hargrove"

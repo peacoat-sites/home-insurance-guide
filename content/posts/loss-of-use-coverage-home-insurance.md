@@ -3,7 +3,7 @@ title: "Loss Of Use Coverage Home Insurance"
 date: 2026-05-20T22:18:26.716991+00:00
 draft: false
 description: "Learn how loss of use coverage in home insurance pays for temporary living expenses if your home becomes uninhabitable after a covered disaster or damage."
-image: "https://images.pexels.com/photos/31853791/pexels-photo-31853791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/27196413/pexels-photo-27196413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["loss", "coverage", "home", "insurance"]
 author: "Maria Vasquez"

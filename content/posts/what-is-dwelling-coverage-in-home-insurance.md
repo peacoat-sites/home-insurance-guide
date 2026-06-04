@@ -3,7 +3,7 @@ title: "What Is Dwelling Coverage In Home Insurance"
 date: 2026-05-31T11:09:28.435295+00:00
 draft: false
 description: "Learn what dwelling coverage is in home insurance, what it protects, how much you need, and why it matters for safeguarding your home and finances."
-image: "https://images.pexels.com/photos/5849553/pexels-photo-5849553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2681640/pexels-photo-2681640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["what", "dwelling", "coverage", "home", "insurance"]
 author: "Dana Hargrove"
