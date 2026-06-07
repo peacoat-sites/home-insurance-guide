@@ -167,13 +167,3 @@ Shopping for homeowners insurance shouldn't feel like guessing. The pricing logi
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32),  Dual smoke and carbon monoxide detector with 10-year sealed battery,  no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199),  Professional-grade DIY home security system with optional 24/7 monitoring,  one of the top ways to qualify for home insurance discounts.
-- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9),  Daily structured journal for tracking anxiety triggers, patterns, and progress,  ideal between therapy sessions.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10),  Daily check-in journal for depression,  structured mood tracking and reflection prompts designed around therapeutic principles.
-
