@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "mark-thompson",
+    "name": "Mark Thompson",
+    "title": "Insurance Writer",
+    "specialty": "Home Insurance Policies & Coverage",
+    "bio": "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+  },
+  {
+    "slug": "diana-foster",
+    "name": "Diana Foster",
+    "title": "Claims Specialist",
+    "specialty": "Insurance Claims & Settlement Negotiation",
+    "bio": "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+  },
+  {
+    "slug": "kevin-park",
+    "name": "Kevin Park",
+    "title": "Risk Analyst",
+    "specialty": "Home Risk Assessment & Coverage Gaps",
+    "bio": "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+  },
+  {
+    "slug": "laura-martinez",
+    "name": "Laura Martinez",
+    "title": "Disaster Coverage Writer",
+    "specialty": "Natural Disaster & Catastrophic Loss Coverage",
+    "bio": "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+  },
+  {
+    "slug": "carl-brooks",
+    "name": "Carl Brooks",
+    "title": "Policy Researcher",
+    "specialty": "Insurance Comparison & Policy Fine Print",
+    "bio": "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+  }
+]
