@@ -6,8 +6,6 @@ description: "Protect your Texas home with the right insurance coverage. Compare
 image: "https://images.pexels.com/photos/7736044/pexels-photo-7736044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "texas"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-in-texas"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, yes, if your policy covers the type of damage caused. If a neighbor's tree falls on your roof during a storm, your own homeowner policy typically covers the repair to your structure (minus your deductible), regardless of whether the neighbor was negligent. Whether you can recover that deductible from the neighbor depends on whether they were negligent (e.g., a known dead tree they ignored). This is a common source of neighbor disputes. Document everything."
   - q: "How much liability coverage do I actually need in Texas?"
     a: "Standard policies typically include $100,000 in personal liability coverage. I'll be honest, that number hasn't kept pace with the cost of serious injuries or lawsuits. Many homeowners consider $300,000 to $500,000 as a more realistic floor, and if you have significant assets, a personal umbrella policy (usually sold separately) adds an additional layer of protection at a relatively low cost. Talk to a licensed agent about your specific situation before making that call."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Most Texas homeowners I've talked to assume their policy works like their neighbor's policy in Ohio or Colorado. It doesn't. Texas is one of the few states where insurers can use policy forms that aren't used anywhere else in the country, where the wind and hail deductible system is genuinely unlike anything you'll encounter in other markets, and where a growing number of carriers are quietly refusing to renew policies in entire ZIP codes without much explanation. If you're buying a home here, renewing a policy, or just wondering why your premium jumped 30% this year, you need to understand how this market actually works. Not the brochure version.

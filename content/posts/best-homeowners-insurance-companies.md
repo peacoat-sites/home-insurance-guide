@@ -6,8 +6,6 @@ description: "Discover the best homeowners insurance companies of 2024. Compare 
 image: "https://images.pexels.com/photos/3958954/pexels-photo-3958954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["best", "homeowners", "insurance", "companies"]
-author: "Gary Simmons"
-author_bio: "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."
 slug: "best-homeowners-insurance-companies"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Open perils covers any loss that isn't specifically excluded. Named perils only covers events explicitly listed in the policy. Open perils provides broader protection and is generally worth paying for. The HO-3 form covers your dwelling on open perils but your personal property on named perils. An HO-5 policy extends open perils to your contents as well. Ask whether an HO-5 or equivalent endorsement is available if you have significant personal property."
   - q: "How often should I review my homeowners insurance policy?"
     a: "At minimum, once a year at renewal. But also review it after any major renovation or addition to your home, after a large purchase (jewelry, electronics, art), after your mortgage is paid off, and after major changes in local construction costs. I've seen people pay premiums for years on a policy that hadn't been updated since they bought the house, only to discover they were underinsured by $150,000 or more."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 You file a claim after a pipe bursts and floods your kitchen. The damage is real, the stress is real, and then your insurer calls to tell you the payout will cover about half of what the repairs actually cost. That's not a horror story I invented. I watched versions of it play out hundreds of times over 14 years as a claims adjuster. The insurer wasn't necessarily acting in bad faith. The policyholder had simply bought coverage that looked good on paper but had serious gaps underneath.

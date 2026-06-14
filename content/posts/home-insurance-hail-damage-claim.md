@@ -6,8 +6,6 @@ description: "Learn how to file a home insurance hail damage claim successfully.
 image: "https://images.pexels.com/photos/17931269/pexels-photo-17931269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["home", "insurance", "hail", "damage", "claim"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-hail-damage-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "ACV is actual cash value, meaning the insurer pays what your damaged materials are worth today after depreciation. RCV is replacement cost value, meaning they pay what it costs to replace them with new materials. If your policy is ACV, a 15-year-old roof might get you a fraction of what a new one costs. This is one of the more significant coverage differences to understand before you need to make a claim."
   - q: "What if the hail damaged my car in the driveway, not just the house?"
     a: "Your homeowner's policy won't cover your car. Vehicle hail damage falls under the comprehensive portion of your auto insurance policy. These are separate claims filed separately, with separate deductibles."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Most homeowners have no idea their hail claim has already been partially decided before they ever pick up the phone to call their insurer. The adjuster arriving at your house isn't coming in neutral. They're working from a damage threshold matrix, a regional hail history database, and years of training on how to distinguish "cosmetic" damage from "functional" damage. That distinction alone determines whether you get a check or a denial letter.

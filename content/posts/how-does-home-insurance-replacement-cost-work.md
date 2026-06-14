@@ -6,8 +6,6 @@ description: "Learn how home insurance replacement cost coverage works, what it 
 image: "https://images.pexels.com/photos/28914932/pexels-photo-28914932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["does", "home", "insurance", "replacement", "cost"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-does-home-insurance-replacement-cost-work"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is one of the most common post-claim disputes. You can negotiate with your insurer, hire a public adjuster to advocate on your behalf, or invoke your policy's appraisal clause. Document everything and get multiple contractor bids in writing before accepting a settlement."
   - q: "Is replacement cost coverage worth the higher premium?"
     a: "For most homeowners, yes, without much hesitation. The premium difference between ACV and RCV policies is rarely dramatic, but the difference in payout after a serious loss can be tens of thousands of dollars. The exception might be if your home is very old and you're planning to sell soon, but even then, you're still on the hook for repairs in the meantime."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Most people find out what "replacement cost" actually means at the worst possible moment: standing in a gutted living room, smoke still in the air, waiting for an adjuster to tell them what they're getting back.

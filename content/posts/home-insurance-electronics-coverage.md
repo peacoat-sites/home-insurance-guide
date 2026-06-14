@@ -6,8 +6,6 @@ description: "Protect your TVs, laptops, and gadgets with home insurance electro
 image: "https://images.pexels.com/photos/27745581/pexels-photo-27745581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "electronics", "coverage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-electronics-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Largely yes, with the same gaps. Personal property coverage in a renters policy works on the same named-perils or open-perils logic, with the same ACV versus replacement cost distinction, and the same sub-limits on computers and electronics. If you're renting, the coverage questions here apply to you in equal measure."
   - q: "Can I insure a home recording studio or video production setup under my homeowner's policy?"
     a: "Probably not fully, and this is a real trap. Equipment used for business purposes is often excluded or severely sub-limited under personal property coverage. A home business endorsement or a separate inland marine policy designed for professional equipment is usually the right answer here. Talk to a licensed independent agent about what fits your setup."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 A reader emailed me last month after her basement flooded. Her home theater setup, a 75-inch Samsung QLED, two gaming consoles, and a Sonos surround system she'd spent three years building, sat in four inches of water. Total loss. Her homeowner's policy paid exactly zero dollars for any of it.

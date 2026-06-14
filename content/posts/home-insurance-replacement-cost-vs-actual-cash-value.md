@@ -6,8 +6,6 @@ description: "Home insurance replacement cost vs actual cash value: understand t
 image: "https://images.pexels.com/photos/30139495/pexels-photo-30139495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "replacement", "cost", "actual"]
-author: "Gary Simmons"
-author_bio: "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."
 slug: "home-insurance-replacement-cost-vs-actual-cash-value"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your policy, but most standard HO-3 policies do cover the dwelling at replacement cost up to your policy limit. The catch is the limit itself. If your coverage limit is lower than your home's actual rebuilding cost, you'll face a gap even with RCV coverage. Review your dwelling coverage limit against current local construction costs annually, especially in markets where building costs have risen sharply. You can get a sense of whether your limits are adequate using a home insurance coverage limits guide."
   - q: "Does ACV or RCV apply to flood or earthquake losses?"
     a: "Standard homeowners policies don't cover flood or earthquake damage at all. Flood coverage is typically purchased separately through the National Flood Insurance Program (NFIP) or private insurers, and it has its own loss settlement rules. The NFIP generally pays ACV for contents, with different terms for building coverage. Our home insurance flood coverage article covers those specifics. Earthquake policies also have their own valuation terms. Don't assume your RCV homeowners policy extends to these perils."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Imagine filing a claim after a kitchen fire destroys your cabinets, appliances, and flooring. You paid $18,000 for all of it seven years ago. The adjuster hands you a check for $6,400. You're stunned. Nothing was wrong with that stuff before the fire. But your policy was written on actual cash value terms, and depreciation just swallowed the rest. I watched this happen to policyholders regularly during my 14 years adjusting claims. The confusion on their faces was always the same, and the frustration was completely justified, because nobody explained this to them when they bought the policy.

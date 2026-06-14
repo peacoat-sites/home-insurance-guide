@@ -6,8 +6,6 @@ description: "Confused about home insurance vs home warranty? Learn the key diff
 image: "https://images.pexels.com/photos/7736030/pexels-photo-7736030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["policies"]
 tags: ["home", "insurance", "home", "warranty", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "home-insurance-vs-home-warranty-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. A builder's warranty comes from the builder who constructed your home and typically covers structural defects and workmanship for a set period after construction. A home warranty is a separate service contract you purchase. If you're in a new home, confirm what your builder's warranty covers before buying an additional home warranty plan."
   - q: "Are home warranties regulated like insurance?"
     a: "Not in the same way. Home insurance is regulated by state insurance commissioners, which means there are consumer protections, required disclosures, and formal complaint processes. Home warranties are regulated more loosely, often as service contracts under state consumer protection laws. The National Association of Insurance Commissioners has pushed for clearer consumer protections in this space, but regulation still varies significantly by state."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 You just got hit with a $4,000 HVAC repair bill, and your first call was to your homeowner's insurance company. The agent told you they couldn't help. So you called the home warranty company you've been paying $60 a month for, and they sent a technician who said the problem wasn't covered because of "improper maintenance." Now you're out $4,000, plus months of premiums, and nobody seems to be on your side. If that scenario sounds familiar, or if you're trying to figure out how to avoid it, you're in exactly the right place.

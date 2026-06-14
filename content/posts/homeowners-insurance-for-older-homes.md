@@ -6,8 +6,6 @@ description: "Discover how homeowners insurance for older homes works, what cove
 image: "https://images.pexels.com/photos/4817843/pexels-photo-4817843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "older", "homes"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "homeowners-insurance-for-older-homes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably not. Standard homeowner policies cover sudden and accidental losses, not gradual deterioration. If a galvanized pipe develops a pinhole leak that slowly damages a subfloor over months, most insurers will deny the claim as maintenance-related. If that same pipe ruptures suddenly and floods your basement, you'd likely have coverage for the water damage, though possibly not for replacing the pipe itself. The distinction between 'sudden' and 'gradual' is one of the most contested areas in residential claims."
   - q: "Should I tell my insurer about repairs I'm planning to make?"
     a: "Yes. If you've just purchased an older home and you're planning to re-wire or re-pipe within the next year, it's worth having that conversation with your insurer now. Some will write coverage with a condition that work is completed within a certain timeframe. Others may require the work first. Either way, transparency protects you: if you fail to disclose a known problem and then file a claim related to that problem, you may face a denial based on misrepresentation."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 You buy a charming 1920s Craftsman bungalow, fall in love with the original hardwood floors and built-in cabinetry, and then your insurance renewal notice arrives with a premium that makes your stomach drop. Or worse, you file a claim after a pipe bursts and discover your policy pays only a fraction of the actual repair cost because of something buried in the fine print called "actual cash value." This is one of the most common and painful surprises I saw during my 14 years reviewing claims, and it hits older home owners especially hard.

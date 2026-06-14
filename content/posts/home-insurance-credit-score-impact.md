@@ -6,8 +6,6 @@ description: "Discover how your credit score affects home insurance rates. Learn
 image: "https://images.pexels.com/photos/34812042/pexels-photo-34812042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["home", "insurance", "credit", "score", "impact"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-credit-score-impact"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most negative items, late payments, collections, defaults, age off your credit report after seven years. Bankruptcies can remain for up to ten years. As these items age and eventually fall off, your credit-based insurance score will generally improve assuming you've maintained better habits since. The trajectory matters as much as the absolute score."
   - q: "My credit dropped during a divorce. What can I do?"
     a: "Request a life event exception from your insurer. Document the timeline: when the divorce proceedings began, how they affected joint accounts, any errors introduced to your report. Most states with credit scoring rules require insurers to offer this exception process in writing. Submit a formal written request, keep a copy, and follow up in writing if you don't hear back. If your insurer refuses to engage, your state insurance department has a consumer complaints process."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Most people know a bad credit score raises their car loan interest rate. Far fewer realize it can add hundreds of dollars a year to their home insurance premium, sometimes more than a speeding ticket or a prior claim would. I'll be honest: when I was reviewing claims for a living, I didn't fully appreciate how aggressively insurers used credit data until I moved to the other side of the table and started seeing the rate quotes my clients were getting. The gap between what a policyholder with excellent credit pays and what someone with poor credit pays, for identical homes and identical coverage, can be staggering.

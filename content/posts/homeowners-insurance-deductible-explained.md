@@ -6,8 +6,6 @@ description: "Learn what a homeowners insurance deductible is, how it works, and
 image: "https://images.pexels.com/photos/34135038/pexels-photo-34135038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "deductible", "explained"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "homeowners-insurance-deductible-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is an important sequence to understand. Under a replacement cost value policy, depreciation is initially withheld. You receive the actual cash value minus your deductible, then you can claim the depreciation holdback after completing repairs. Under an actual cash value policy, you receive the depreciated value minus your deductible, with no additional payment. The combination of depreciation and a high deductible can significantly reduce your net recovery, particularly on older homes or aging systems."
   - q: "Will raising my deductible always lower my premium?"
     a: "Generally yes, but not always proportionally. Going from a $500 to a $1,000 deductible often produces a more meaningful premium reduction than going from $2,500 to $5,000. The relationship isn't linear, and the savings vary significantly by state, insurer, and coverage amount. Always ask for the specific dollar difference before making a decision based on the assumption that a higher deductible equals meaningful savings."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 A neighbor of mine filed a roof claim after a hailstorm a few years back. She had a standard $1,000 deductible, the damage came in at $4,200, and she walked away expecting a check for $3,200. What she actually got was a letter explaining that her policy had a separate wind and hail deductible equal to 2% of her dwelling coverage, which was insured for $380,000. Her out-of-pocket cost wasn't $1,000. It was $7,600, and the insurer legally owed her nothing at all. She had never heard of a percentage deductible. Nobody explained it when she bought the policy.

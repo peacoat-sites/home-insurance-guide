@@ -6,8 +6,6 @@ description: "Find out how much homeowners insurance costs on average, what fact
 image: "https://images.pexels.com/photos/11953905/pexels-photo-11953905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["much", "does", "homeowners", "insurance", "cost"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "how-much-does-homeowners-insurance-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The big exclusions on standard policies include floods (you need a separate NFIP or private flood policy), earthquakes (separate policy or endorsement), sewer backup (usually an endorsement), normal wear and tear, maintenance issues, and pest infestations. Mold is often excluded or severely sublimited. If your home is in a flood zone, your mortgage lender will require separate flood coverage. Even if you're not in a designated flood zone, more than 20% of flood claims come from properties outside high-risk areas."
   - q: "Should I file every small claim?"
     a: "Almost certainly not. Claims stay on your CLUE report for five to seven years and can raise your premium, affect your ability to get coverage elsewhere, or get your policy non-renewed. A general rule I used to tell claimants: if the loss is less than two to three times your deductible, seriously consider paying out of pocket. Your insurance is best preserved for the large, unexpected losses that could actually threaten your financial stability."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 The average American pays somewhere around $1,400 to $2,000 a year for homeowners insurance, but I've seen nearly identical houses on the same street quoted at wildly different premiums. One client paid $1,100 annually. Her neighbor, same square footage, same roof age, paid $2,600. The difference came down to claims history, credit score, and one detail neither of them knew to ask about: the neighbor had filed a water damage claim six years earlier at a previous address, and that followed him to every quote he got. Homeowners insurance pricing is not arbitrary, but the logic behind it is buried in systems most buyers never see. Understanding those systems is how you stop guessing and start shopping smart.

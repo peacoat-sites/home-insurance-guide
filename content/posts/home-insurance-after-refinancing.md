@@ -6,8 +6,6 @@ description: "Refinancing your home? Learn how it affects your homeowners insura
 image: "https://images.pexels.com/photos/28447776/pexels-photo-28447776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Life Events"]
 tags: ["home", "insurance", "after", "refinancing"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-after-refinancing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not directly, but it's a smart trigger to re-evaluate. Refinancing often coincides with changes in home value or planned renovations, both of which can affect how much dwelling coverage you should carry. At minimum, use it as a prompt to verify your replacement cost estimate is current."
   - q: "Will my insurer notify me if there's a problem with my policy after refinancing?"
     a: "They'll try. But notices go to the address on file, and if you've moved or if your contact information has drifted, things fall through the cracks. Don't rely on your insurer to catch problems created by your refinance. Take about 20 minutes after closing to verify everything yourself."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Most homeowners who just refinanced their mortgage have no idea they may have accidentally broken their insurance policy.

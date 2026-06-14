@@ -6,8 +6,6 @@ description: "Get peace of mind with home insurance extended replacement cost co
 image: "https://images.pexels.com/photos/7688366/pexels-photo-7688366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "extended", "replacement", "cost"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-extended-replacement-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Inflation guard is an endorsement that automatically increases your Coverage A limit each year by a set percentage to track construction cost inflation. ERC is a percentage buffer beyond whatever your limit happens to be. Ideally, you'd have both: an inflation guard keeping your base limit current, and ERC providing a buffer for unexpected cost spikes."
   - q: "Should I also install water leak detection if I'm thinking about coverage improvements?"
     a: "Water damage is one of the most common and costly homeowners claims, and it's worth addressing alongside your coverage review. Installing water leak sensors (the site may earn a commission) near appliances and in basements can catch slow leaks before they become major claims. Some insurers offer premium discounts for documented smart home devices, so ask your agent directly. The bottom line is that most homeowners are one disaster away from discovering their policy doesn't do what they think it does. Extended replacement cost isn't a luxury add-on. For anyone living in an area with weather ris"
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Most homeowners assume that if their house burns down, their insurance will rebuild it. That assumption has bankrupted families. Here's the scenario I watched play out repeatedly in my claims career: a home is insured for $350,000, which was the appraised value two years ago. A wildfire tears through the neighborhood. Suddenly every contractor within 50 miles is booked, lumber prices have spiked 40%, and your $350,000 policy covers maybe $290,000 worth of today's construction. The remaining gap? That comes out of your pocket. Extended replacement cost coverage exists specifically to close that gap, and yet most people buying homeowners insurance have never heard it explained clearly.

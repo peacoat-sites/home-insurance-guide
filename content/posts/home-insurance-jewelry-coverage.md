@@ -6,8 +6,6 @@ description: "Protect your valuable jewelry with home insurance coverage. Learn 
 image: "https://images.pexels.com/photos/28973201/pexels-photo-28973201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "jewelry", "coverage"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "home-insurance-jewelry-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can. Jewelry claims are still claims on your homeowner policy, and some carriers do rate accordingly. This is worth discussing with your agent, and it's part of why some people with high-value pieces prefer a standalone specialty policy where the claims history doesn't follow them back to their home policy."
   - q: "What's the difference between an endorsement and a floater for jewelry?"
     a: "They're typically the same thing, just different terms carriers use. A scheduled personal property endorsement, a jewelry floater, a valuable articles rider, these all refer to adding specific high-value items to your policy with individual coverage limits and broader perils. Don't let the terminology confusion stop you from asking your agent directly what options your carrier offers."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Most people have no idea their jewelry is barely covered by their home insurance policy. Not as a minor gap. As in, you could lose a $6,000 engagement ring in a house fire and walk away with maybe $1,500. I watched this happen to claimants more times than I can count.

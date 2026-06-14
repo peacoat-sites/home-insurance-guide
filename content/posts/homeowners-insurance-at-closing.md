@@ -6,8 +6,6 @@ description: "Learn what homeowners insurance at closing means, why lenders requ
 image: "https://images.pexels.com/photos/24524484/pexels-photo-24524484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["homeowners", "insurance", "closing"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "homeowners-insurance-at-closing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Prior claims can affect your ability to get coverage, your premium, or both. Insurers check the CLUE (Comprehensive Loss Underwriting Exchange) report on a property, not just on you personally. A home with multiple water claims in the last five years is going to be a harder write. Find this out early so you're not surprised."
   - q: "What happens if my insurance lapses after closing?"
     a: "Your lender will find out, usually faster than you'd expect. They require you to maintain continuous coverage as a loan condition. If your policy lapses, they can purchase force-placed insurance on your behalf and bill it to your escrow account. Force-placed insurance is expensive, covers only the structure (not your belongings), and protects the lender, not you. Avoid it entirely."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Most first-time buyers don't realize their mortgage won't close without proof of homeowners insurance already in place. Not pending. Not "I have an agent looking into it." Bound and paid. That requirement catches people off guard three days before closing, and the scramble that follows almost always costs them money.

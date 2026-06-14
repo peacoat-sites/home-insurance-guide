@@ -6,8 +6,6 @@ description: "Find out if home insurance covers roof leaks, what conditions appl
 image: "https://images.pexels.com/photos/17606783/pexels-photo-17606783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["does", "home", "insurance", "cover", "roof"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "does-home-insurance-cover-roof-leaks"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some insurers are increasingly reluctant to provide full replacement cost coverage on roofs over 15-20 years old, depending on material and condition. Some will only offer ACV for older roofs, and some may require a roof inspection before binding or renewing your policy. If your roof is aging, ask your insurer directly about how its age affects your coverage terms. You may also be able to get a partial roof replacement to extend coverage eligibility."
   - q: "What should I do if my claim is denied?"
     a: "Read the denial letter carefully and ask for the specific policy language they're relying on. You have the right to an itemized explanation. From there, you can file a formal complaint through your state's department of insurance (the NAIC website provides links to every state regulator), request a re-inspection with your own contractor's documentation, or invoke the appraisal clause in your policy, which brings in a neutral appraiser to resolve disagreements about damage value. For significant disputes, a licensed public adjuster or an attorney who specializes in insurance claims can also hel"
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 You wake up to a water stain spreading across your bedroom ceiling. Maybe you heard dripping in the night, or maybe you just spotted it on a Sunday morning with coffee in hand, stomach dropping as you realize what you're looking at. Your first thought is almost certainly: *does my homeowner's insurance cover this?* The honest answer is: it depends on what caused the leak, and that distinction matters more than most people realize until they're standing in the middle of a claim denial.

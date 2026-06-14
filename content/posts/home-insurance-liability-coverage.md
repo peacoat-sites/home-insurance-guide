@@ -6,8 +6,6 @@ description: "Discover how home insurance liability coverage protects you from c
 image: "https://images.pexels.com/photos/32842044/pexels-photo-32842044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "liability", "coverage"]
-author: "Patricia Lawson"
-author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."
 slug: "home-insurance-liability-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The duty to defend is actually one of the most valuable parts of liability coverage. Your insurer is obligated to provide you with a legal defense when a covered claim is made against you, even if the lawsuit turns out to be groundless. Legal defense costs alone in a civil case can run into tens of thousands of dollars. This is separate from the settlement or judgment your insurer would pay. It means you don't have to pay out of pocket for an attorney the moment someone files a claim."
   - q: "Can my liability coverage be canceled or non-renewed after I file a claim?"
     a: "Technically, yes, though insurers are regulated in how and when they can do this. A single liability claim generally doesn't automatically result in cancellation. However, multiple claims in a short period, or a claim that reveals a persistent high-risk condition on your property, can lead to non-renewal. Some insurers also exclude certain conditions from future coverage once a claim has been filed. This is another reason to consult with an independent agent rather than just accepting whatever your renewal notice says."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Your neighbor slips on your icy front steps, breaks her wrist, and ends up with $18,000 in medical bills and six weeks of lost wages. You're a good person. You feel terrible. You also have a homeowner's policy. Now here's the question that will keep you up at night until you actually read that policy: does your liability coverage actually protect you from what comes next?

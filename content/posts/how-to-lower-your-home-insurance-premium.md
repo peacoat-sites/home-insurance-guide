@@ -6,8 +6,6 @@ description: "Save money on your home insurance by learning proven tips to lower
 image: "https://images.pexels.com/photos/27639887/pexels-photo-27639887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["premiums"]
 tags: ["lower", "your", "home", "insurance", "premium"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-lower-your-home-insurance-premium"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually yes, especially water backup coverage. Standard homeowner policies exclude water that backs up through sewers or drains, and I've processed those claims. They're devastating and common. Water backup endorsements are typically inexpensive (often under $100 per year) relative to the potential payout. Equipment breakdown coverage, which covers HVAC systems, appliances, and similar equipment failing from mechanical or electrical breakdown, is worth evaluating based on the age of your systems."
   - q: "Should I tell my insurer about every home improvement I make?"
     a: "Yes, with nuance. Improvements that increase the replacement cost of your home (additions, high-end kitchen remodels, finished basements) should be reported so your dwelling coverage limit stays adequate. Improvements that reduce risk (new roof, updated electrical, security systems) should be reported because they may earn you a discount. The only reason to hesitate is if an improvement reveals an unpermitted prior condition, which is a separate conversation to have carefully with your agent."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Most homeowners assume their insurance premium is more or less fixed, something that creeps up a little each year the way utility bills do, and that there's not much to be done about it. I believed that too, honestly, until I spent 14 years sitting on the other side of the desk, watching what actually moved the needle on pricing. The truth is that insurers have dozens of rating factors they rarely explain, and a surprising number of them are within your control. I've seen policies drop by hundreds of dollars annually after a single phone call. I've also seen people pay thousands more than necessary for years simply because nobody told them what questions to ask.

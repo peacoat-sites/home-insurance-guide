@@ -6,8 +6,6 @@ description: "Protect your California home with the right insurance. Compare cov
 image: "https://images.pexels.com/photos/2263675/pexels-photo-2263675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "california"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-in-california"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Start with the FAIR Plan plus a DIC policy. Contact a surplus lines broker, not just a standard captive agent, because surplus lines insurers operate outside the standard market and have more flexibility on risk selection. Also check whether your home qualifies for any insurer currently writing in California, some have resumed limited writing for homes that meet wildfire hardening standards. The California Department of Insurance's website lists admitted carriers and has updated resources for homeowners in your situation."
   - q: "Does homeowner's insurance in California cover earthquakes?"
     a: "No. Earthquake coverage is specifically excluded from standard homeowner's policies in California. It's available as a separate policy, often through the California Earthquake Authority (CEA) or private insurers. Given that California has both significant wildfire and seismic risk, this is a gap that matters. The CEA offers several tiers of earthquake coverage, including more affordable basic policies that cover your dwelling but not personal property. Worth a real conversation with your agent."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 You just got a non-renewal notice in the mail. Your insurer, the one you've had for eleven years, is dropping you. Not because you filed too many claims. Not because you missed a payment. Because your zip code is now on an internal risk model that penciled out the wrong way. This is happening to California homeowners by the tens of thousands right now, and if it hasn't happened to you personally, there's a good chance it's happened to someone on your street.

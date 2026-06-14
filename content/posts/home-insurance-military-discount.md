@@ -6,8 +6,6 @@ description: "Save on home insurance with military discounts. Learn how active d
 image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "military", "discount"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "home-insurance-military-discount"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some policies include vacancy clauses that can limit or void coverage if a home is unoccupied for 30 to 60 consecutive days. The Servicemembers Civil Relief Act (SCRA) offers some protections in other financial contexts, but it doesn't specifically prevent a vacancy clause from applying. Ask your insurer directly, and consider a deployment endorsement if one is available."
   - q: "Is it worth bundling home and auto insurance for a military discount?"
     a: "Bundling discounts (home plus auto with the same insurer) are often larger than the military discount alone. If a given insurer offers both, getting a bundled quote is almost always worth doing. Just make sure the policy terms on both sides still make sense for your situation, not just the combined price."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 If you're active-duty, a veteran, or a military spouse sitting down to renew your homeowner's policy right now, you might be wondering whether there's a discount out there specifically for you. Short answer: sometimes yes, sometimes it's buried, and sometimes what's marketed as a "military discount" is mostly a branding exercise. After 14 years reviewing claims, I've seen the full range, and I want to help you actually get something out of this, not just feel good about clicking a button that says "military savings."

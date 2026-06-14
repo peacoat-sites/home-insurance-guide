@@ -6,8 +6,6 @@ description: "Learn what home insurance dwelling coverage is, what it protects, 
 image: "https://images.pexels.com/photos/31853791/pexels-photo-31853791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "dwelling", "coverage"]
-author: "Diane Kowalski"
-author_bio: "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."
 slug: "home-insurance-dwelling-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You bear the difference out of pocket. This is the scenario that destroys people financially after a major disaster. If you don't have an extended or guaranteed replacement cost endorsement, your insurer's obligation ends at your stated Coverage A limit. This is why reviewing your limit annually and after renovations is so important."
   - q: "Does dwelling coverage apply to detached structures on my property?"
     a: "No. Detached structures like a separate garage, fence, or storage shed fall under Coverage B, other structures. This is a separate sublimit, typically set at 10% of your Coverage A dwelling limit by default. If you have significant detached structures, verify that 10% is actually sufficient to rebuild them."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Most homeowners assume their house is fully covered the moment they sign their policy. Then a fire destroys their kitchen, and they learn their dwelling coverage limit was set four years ago based on a quick online estimate, construction costs have jumped 40% since then, and they're now staring at a $90,000 gap between what their insurer will pay and what it actually costs to rebuild. I've watched this scenario play out more times than I care to count. Dwelling coverage is the spine of your homeowner's policy, and most people don't truly understand how it works until something goes wrong.

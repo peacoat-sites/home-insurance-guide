@@ -6,8 +6,6 @@ description: "Discover the key differences between home insurance and renters in
 image: "https://images.pexels.com/photos/7734569/pexels-photo-7734569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "renters", "insurance"]
-author: "Gary Simmons"
-author_bio: "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."
 slug: "home-insurance-vs-renters-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No state law currently requires renters insurance, but landlords increasingly include it as a lease requirement. If your lease requires it, the landlord can enforce that contractually, but they generally can't tell you which company to use. Even when it's not required, buying it is one of the smarter financial decisions a renter can make."
   - q: "What does 'scheduled personal property' mean, and do I need it?"
     a: "Standard personal property coverage applies sublimits to categories like jewelry, firearms, art, and electronics. If you own a $5,000 engagement ring, your base policy might only cover $1,500 of it. Scheduling an item, meaning listing it separately on the policy with its own appraised value, gives you full coverage for that specific item, often without a deductible. If you have high-value items, ask your agent about scheduling them. It's usually not expensive and it closes a coverage gap that surprises a lot of people at claim time."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Picture this: your upstairs neighbor leaves the bathtub running, falls asleep, and you wake up at 2 a.m. to water pouring through your ceiling. Your laptop is ruined. Your couch is soaked. You call your landlord, who calls their insurer, and you quickly learn a brutal truth: the landlord's policy covers the building. It covers nothing you own. If you don't have renters insurance, you're paying out of pocket for every bit of it. I've seen this exact scenario play out dozens of times in my years reviewing claims, and it never gets easier to explain to someone who didn't know the gap existed.

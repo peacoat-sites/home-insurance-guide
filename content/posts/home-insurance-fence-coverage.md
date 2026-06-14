@@ -6,8 +6,6 @@ description: "Learn if your home insurance covers fence damage from storms, fall
 image: "https://images.pexels.com/photos/38038202/pexels-photo-38038202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["home", "insurance", "fence", "coverage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-fence-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Possibly, yes. Filing a claim for fence damage, especially a relatively small one, can affect your loss history and trigger a rate increase at renewal. Many homeowners find the long-term cost of the rate impact outweighs the payout on smaller claims. It's worth doing the math before you file."
   - q: "Can I get more coverage for an expensive fence?"
     a: "Yes. Talk to your agent about increasing your Coverage B limit or adding an endorsement for other structures. If you have a high-value fence, a shared gate system, or a long perimeter, this is one of the cheaper upgrades you can make to your policy and one that most agents won't proactively suggest."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Your fence comes down in a windstorm. You file a claim. The adjuster tells you it's only covered up to $500 because your policy treats fencing as "other structures" and caps it at 10% of your dwelling coverage — except yours has a sublimit buried on page 31. I've seen this exact scenario play out dozens of times, and the homeowner is always blindsided. Not because they didn't read their policy, but because nobody told them fences sit in a strange middle ground of home insurance that most agents gloss over at signing.

@@ -6,8 +6,6 @@ description: "Discover which home insurance coverages are legally required and w
 image: "https://images.pexels.com/photos/7768204/pexels-photo-7768204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "mandatory", "optional", "coverage"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-insurance-mandatory-vs-optional-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, in most states. Frequent claims, especially smaller ones, can trigger non-renewal. In my experience reviewing claims, the threshold most insurers watch is two or more claims within three years, though this varies by carrier and state. Insurers also share claims history through a database called CLUE (Comprehensive Loss Underwriting Exchange), so a new insurer can see your history. For small losses close to your deductible, it's often worth calculating whether filing is worth the potential impact on your insurability and future premiums."
   - q: "What's the difference between replacement cost and actual cash value?"
     a: "Replacement cost pays what it would cost to replace a damaged item or structure with a new equivalent today. Actual cash value (ACV) subtracts depreciation. A 10-year-old roof destroyed by hail has significantly depreciated. Under ACV, you'd receive a fraction of what a new roof costs. Under replacement cost, you'd receive close to the full replacement amount, minus your deductible. ACV policies have lower premiums. They also produce dramatically smaller claim payments. For your dwelling, replacement cost coverage is almost always worth the premium difference. For older personal property with"
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Your mortgage lender requires home insurance. You buy it, pay the premium, and assume you're covered. Then a pipe bursts in the wall, ruins the hardwood floors, and you file a claim, only to learn your policy covers the pipe repair but not the floor replacement because water damage from "slow leaks" is classified differently than sudden damage. The claim gets denied. This happens constantly, and it's not buried in fine print so much as hidden in plain sight, in the gap between what people assume coverage means and what it actually says.

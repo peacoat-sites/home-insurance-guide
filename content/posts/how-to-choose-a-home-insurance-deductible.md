@@ -6,8 +6,6 @@ description: "Choose the right home insurance deductible by balancing upfront co
 image: "https://images.pexels.com/photos/28053206/pexels-photo-28053206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["policies"]
 tags: ["choose", "home", "insurance", "deductible"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-choose-a-home-insurance-deductible"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your insurer, your location, and your home's risk profile. In competitive markets with favorable loss histories, the savings can be meaningful. In high-risk areas where insurers are already pricing carefully, the premium difference between deductible tiers may be smaller than you expect. Get actual quotes before assuming a higher deductible is worth it."
   - q: "What happens if my repair cost is right around my deductible amount?"
     a: "You pay for it yourself, effectively. If your deductible is $2,000 and the damage comes to $2,200, your insurer technically covers $200. Filing a claim for $200 is almost never worth it. The administrative friction, the potential rate impact, and the mark on your claim history make it a losing proposition. Treat any loss within striking distance of your deductible as a self-funded repair."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Most homeowners pick their deductible the same way they pick a seat on an airplane: they grab what looks reasonable in the middle and stop thinking about it. Then a storm tears off part of the roof, the adjuster writes up a $9,000 repair estimate, and they discover their $2,500 deductible wasn't the painless choice it seemed when they signed up. The deductible decision deserves more than thirty seconds of comparison shopping. Here's how to actually make it.

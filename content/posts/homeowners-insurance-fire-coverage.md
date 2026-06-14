@@ -6,8 +6,6 @@ description: "Learn what homeowners insurance fire coverage includes, what it ex
 image: "https://images.pexels.com/photos/11574635/pexels-photo-11574635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "fire", "coverage"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "homeowners-insurance-fire-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally no. Negligence on your part does not void fire coverage. Homeowners insurance is explicitly designed to cover accidental and negligent fires. The exceptions are intentional acts, fraud, or exclusions specifically named in your policy. An adjuster will ask how the fire started, but an honest accidental cause is not grounds for denial."
   - q: "Should I hire a public adjuster after a major fire loss?"
     a: "For significant losses, many people find a public adjuster valuable. They work for you, not the insurer, and handle documentation, estimation, and negotiation on your behalf. They typically charge 10 to 15 percent of the final settlement. That cost can be worth it on a complex total-loss claim. Be cautious of anyone who approaches you unsolicited at your property in the days after a fire. Legitimate public adjusters exist, but so do opportunists. Verify their license through your state's insurance department before signing anything."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 You just watched the news coverage of a house fire three blocks away, or maybe you smelled smoke last night and it got you thinking. Or perhaps you're sitting down to renew your policy and you're staring at a declarations page that might as well be written in a foreign language. Whatever brought you here, you're asking the right question at the right time: does my homeowners insurance actually cover fire damage, and what does that really mean in practice? The answer is mostly yes, but the word "mostly" is doing a lot of heavy lifting in that sentence, and that's exactly what we need to unpack.

@@ -6,8 +6,6 @@ description: "Learn how escrow accounts work with home insurance, how lenders co
 image: "https://images.pexels.com/photos/7736032/pexels-photo-7736032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["escrow", "home", "insurance"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "escrow-and-home-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, and conflating the two is a real mistake. Lenders typically require coverage equal to the loan balance or replacement cost -- definitions vary -- and their minimum has nothing to do with whether you'd be made whole after a loss. Replacement cost valuations, which most good policies use, should reflect actual current construction costs in your area, which have risen sharply since 2020. Review your dwelling limit every couple of years, not just when you renew."
   - q: "Will escrow automatically handle my flood insurance premium too?"
     a: "Sometimes, but not always. Federal law requires lenders to escrow flood insurance premiums for certain higher-risk loans, but not universally. If you're in a required flood zone, ask your servicer directly whether flood is being escrowed. If you're not in a required zone but bought flood coverage voluntarily, it's almost certainly not in escrow -- you're paying that directly, and you need to track it yourself."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Most homeowners pay their insurance premium every month without ever actually paying it themselves. The bill goes to an escrow account, the servicer cuts the check, and the homeowner sees a line item on a mortgage statement and thinks nothing more of it. That hands-off arrangement sounds convenient. It is, right up until something goes wrong.

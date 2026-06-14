@@ -6,8 +6,6 @@ description: "Protect your empty property with vacant home insurance. Learn what
 image: "https://images.pexels.com/photos/7736037/pexels-photo-7736037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["vacant", "home", "insurance"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "vacant-home-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your standard insurer can deny the claim based on the vacancy clause, and that denial will almost certainly hold up. You'd be paying for repairs or rebuilding entirely out of pocket on a property that may already be costing you carrying costs."
   - q: "How often does someone need to check on a vacant home to keep coverage valid?"
     a: "This varies by policy, but weekly inspections are a common requirement, sometimes documented. Some insurers require a signed log. Ask your specific insurer what their inspection requirement is before you buy."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 If your house sits empty for more than 30 days, your standard homeowner's policy has probably already stopped covering it. Most people don't find out until they file a claim.

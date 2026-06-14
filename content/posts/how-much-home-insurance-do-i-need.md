@@ -6,8 +6,6 @@ description: "Find out how much home insurance you really need to protect your p
 image: "https://images.pexels.com/photos/28447778/pexels-photo-28447778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["much", "home", "insurance", "need"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-home-insurance-do-i-need"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Necessary is a strong word. But without one, you're reconstructing your entire life's worth of belongings from memory, usually while stressed and displaced. Insurers don't hand money over on your word: they want documentation. A video walkthrough stored in a fireproof document safe or uploaded to cloud storage takes an hour and changes the entire claims experience. The site may earn a commission."
   - q: "Do I need a separate policy for my home office?"
     a: "Possibly. Standard policies have limited coverage for business equipment kept at home, often $2,500 or less. They generally don't cover business liability on your property. If you work from home, run a side business, or store inventory or business equipment, ask specifically about home office endorsements or whether a separate business owner's policy is appropriate."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Most homeowners are underinsured by 20% or more, according to industry research. That's not a rounding error. If your home costs $400,000 to rebuild and your policy covers $320,000, you're personally absorbing an $80,000 gap after a total loss. And that gap doesn't shrink when you're standing in the ash. It gets bigger.

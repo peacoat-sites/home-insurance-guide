@@ -6,8 +6,6 @@ description: "Homeowners insurance coverage after filing a claim: understand how
 image: "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "after", "filing", "claim"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "homeowners-insurance-after-filing-a-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For significant losses, a public adjuster who works exclusively on your behalf (not the insurer's) can sometimes negotiate a higher settlement. They typically charge a percentage of the final claim payout, often between 10 and 15 percent. For smaller claims, the fee may not be worth it. For losses involving major structural damage or complex situations, they're worth considering. Our guide on the homeowners insurance claim process covers this in more detail."
   - q: "What if I can't find coverage after multiple claims?"
     a: "Start with your state's FAIR plan as a short-term solution. Work with an independent agent who has access to surplus lines carriers, which specialize in non-standard risks. Focus on home improvements that reduce future claim likelihood. And give it time. As claims age on your CLUE report, your options in the standard market will improve."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 You filed a claim last spring after a burst pipe soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.

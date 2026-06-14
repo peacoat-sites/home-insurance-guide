@@ -6,8 +6,6 @@ description: "Discover everything you need to know about home insurance in Flori
 image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "florida"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "home-insurance-in-florida"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and I say this without hesitation. Flood zone maps are updated periodically and can be wrong. More importantly, flooding in Florida routinely happens outside designated high-risk zones. If you're in an 'X' zone and believe you're safe, consider that FEMA data shows roughly 25% of flood claims come from low-to-moderate risk areas. Flood insurance outside high-risk zones is often more affordable than people expect."
   - q: "What is a 'takeout' offer and should I accept it?"
     a: "A takeout offer means a private insurer wants to assume your Citizens policy. You're not required to accept, but declining means you stay with Citizens. Before deciding, compare the new policy's coverage terms side by side with your Citizens policy, not just the premium. Pay particular attention to the hurricane deductible, roof coverage terms, and any exclusions that weren't in your Citizens policy. Florida's insurance market is genuinely hard right now, and I won't pretend otherwise. But homeowners who understand their policy, document their property, make smart coverage decisions, and stay"
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 If you've recently opened a homeowner insurance renewal notice in Florida and felt your stomach drop, you're not imagining things. Florida homeowners pay an average premium that is roughly three times the national average, and in some coastal counties, insurers have simply stopped writing new policies altogether. Several major carriers have exited the state entirely in the last few years. So if you're sitting there wondering whether you're overpaying, underinsured, or about to lose your current policy, those are exactly the right questions to be asking.

@@ -6,8 +6,6 @@ description: "Learn what dwelling coverage is in home insurance, what it protect
 image: "https://images.pexels.com/photos/2681640/pexels-photo-2681640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["what", "dwelling", "coverage", "home", "insurance"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "what-is-dwelling-coverage-in-home-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, that falls under Coverage D: Loss of Use, which covers additional living expenses like hotel stays, temporary rental costs, and restaurant meals if you're displaced while your home is being repaired. Check your Coverage D limit separately from your Coverage A limit. They're connected but distinct."
   - q: "Are renovations or additions automatically covered under my existing dwelling coverage?"
     a: "Not necessarily. If you add a room, finish a basement, or significantly renovate your kitchen, your home's rebuild cost increases, but your Coverage A limit doesn't automatically adjust. You need to notify your insurer of major improvements so your coverage can be updated. Failing to do this can leave a meaningful gap between what you've invested in the home and what your policy will actually pay."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Picture this: a fire starts in your kitchen, spreads to the walls, and by the time the trucks leave, half your house is a charred skeleton. You file your claim expecting your insurer to write a check that covers rebuilding everything. Then the adjuster tells you your dwelling coverage limit is $180,000, but the actual cost to rebuild your home to current code with today's lumber prices is $290,000. You're staring at a $110,000 gap that you have to cover yourself. I've seen this scenario play out more times than I care to count, and almost every time, the homeowner had no idea it could happen. That gap exists because of one misunderstood line on their policy: Coverage A, otherwise known as dwelling coverage.

@@ -6,8 +6,6 @@ description: "Discover what insurance coverage mortgage lenders require before a
 image: "https://images.pexels.com/photos/28447775/pexels-photo-28447775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "lender", "insurance", "requirements"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "mortgage-lender-insurance-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Force-placed insurance is a policy your mortgage servicer purchases on your behalf if you let your homeowners coverage lapse. It protects the lender's interest in the structure only. It does not cover your belongings, liability, or additional living expenses, and it's priced at a significant premium over what you'd pay on the open market. Avoid it by setting a calendar reminder before your homeowners policy renews each year, and confirming your servicer has your current insurer's information on file."
   - q: "Can I get a lower coverage limit than my lender requires if my home is paid off?"
     a: "Once your mortgage is paid off, your lender has no authority over your insurance decisions. You can carry whatever coverage you choose. That said, carrying inadequate insurance on a paid-off home is a real financial risk that the absence of a lender requirement doesn't make disappear. Your home's replacement cost doesn't care whether you have a mortgage."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Your mortgage approval came through, and now there's a five-page insurance requirements document sitting in your email. Nobody explained this part. You're staring at terms like "dwelling coverage equal to replacement cost" and "loss payee endorsement" and wondering if your current homeowner's policy even qualifies, or whether you need to go buy something entirely different before closing.

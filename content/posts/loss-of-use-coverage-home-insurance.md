@@ -6,8 +6,6 @@ description: "Learn how loss of use coverage in home insurance pays for temporar
 image: "https://images.pexels.com/photos/27196413/pexels-photo-27196413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["loss", "coverage", "home", "insurance"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "loss-of-use-coverage-home-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Your landlord's policy covers the building structure and the landlord's liability. It doesn't cover your personal property or your additional living expenses. That's precisely what your own renters insurance is for. If you don't have renters insurance, you'd have no coverage for displacement costs."
   - q: "Should I get a water leak sensor to help protect my loss of use exposure?"
     a: "Honestly, yes. Not because it changes your insurance, but because catching a slow leak early can prevent the kind of extensive water damage that leads to displacement in the first place. A water leak sensor placed near appliances, water heaters, and under sinks costs very little and can prevent a six-figure claim, including months of living somewhere else. (This site may earn a commission from qualifying purchases.)"
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Imagine your kitchen catches fire on a Tuesday night. The flames are out by midnight, but the smoke damage is severe enough that your home is uninhabitable. You're standing in your driveway at 1 a.m., your family behind you, and you have nowhere to go. Now imagine your insurance company calls the next morning and tells you they'll cover your hotel, your meals, and your laundry costs while your home gets repaired. That coverage has a name: loss of use. And if you've never read that section of your policy, you might not know exactly what you have, or what you don't.

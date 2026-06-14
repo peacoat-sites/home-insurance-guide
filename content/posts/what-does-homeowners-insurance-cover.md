@@ -6,8 +6,6 @@ description: "Discover what homeowners insurance covers, including dwelling prot
 image: "https://images.pexels.com/photos/9899096/pexels-photo-9899096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["what", "does", "homeowners", "insurance", "cover"]
-author: "Gary Simmons"
-author_bio: "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."
 slug: "what-does-homeowners-insurance-cover"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Only incidentally, and often not enough. Standard policies may cover a small amount of business equipment, but they exclude business liability entirely. If a client visits your home office and is injured, your homeowners liability won't cover it. If you run any business from home, talk to your agent about a home business endorsement or a separate business owner's policy."
   - q: "Does homeowners insurance cover dog bites?"
     a: "Usually yes, under liability coverage. Dog bites are actually one of the most common homeowners liability claims. However, many insurers exclude specific 'dangerous' breeds or charge higher premiums. If you own a breed on an insurer's exclusion list, your liability coverage may not apply to a bite claim. Read your policy's animal liability language carefully, and if your breed is excluded, shop accordingly."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Most homeowners are stunned to learn, usually right after a loss, that the policy they've been paying for doesn't cover what they assumed it did. I've sat across the table from hundreds of people in that position. A burst pipe? Covered. A slow leak behind the wall that caused mold over six months? Probably not. Understanding what your homeowners insurance actually covers, before something goes wrong, is one of the most financially protective things you can do.

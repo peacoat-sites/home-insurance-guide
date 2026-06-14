@@ -6,8 +6,6 @@ description: "Discover essential homeowners insurance shopping tips to find the 
 image: "https://images.pexels.com/photos/7734574/pexels-photo-7734574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["homeowners", "insurance", "shopping", "tips"]
-author: "Patricia Lawson"
-author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."
 slug: "homeowners-insurance-shopping-tips"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. You can cancel a homeowners policy mid-term. You'll typically receive a prorated refund for the unused portion of your premium. If your policy is escrowed through your mortgage, notify your lender immediately so they can update the escrow account and process the new premium correctly."
   - q: "Do I need extra coverage if I work from home or run a small business?"
     a: "Most likely, yes. Standard HO-3 policies have very limited coverage for business property and essentially no coverage for business liability. If you have clients visiting your home, significant business equipment, or inventory stored at home, talk to your agent about an in-home business endorsement or a separate business owner's policy."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Most homeowners spend more time choosing a new refrigerator than they do shopping for a policy that could determine whether they recover financially after a disaster. I've seen it play out in real life: a family loses their roof in a hailstorm, calls their agent, and discovers their policy pays actual cash value instead of replacement cost, leaving them thousands short of what they need to rebuild. That single misunderstood line in a declarations page can cost more than a decade of premium savings. Shopping for homeowners insurance isn't just about finding the lowest monthly number. It's about understanding exactly what you're buying before you need it.

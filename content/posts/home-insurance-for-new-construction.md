@@ -6,8 +6,6 @@ description: "Protect your newly built home with the right insurance coverage. L
 image: "https://images.pexels.com/photos/37627682/pexels-photo-37627682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["home", "insurance", "construction"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-insurance-for-new-construction"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Insurers generally accept the certificate of occupancy in lieu of an independent inspection for new construction. But getting your own inspection before closing is still worth the cost. It protects you independently of insurance, and anything flagged before closing is the builder's problem to fix, not yours."
   - q: "What happens if there's a fire during construction before I move in?"
     a: "If the builder's risk policy is still active, it covers the structure. Your homeowner's policy likely hasn't started yet, or if it has, it may have limitations on unoccupied structures. This is one reason to understand the exact transition date and, if construction is delayed, to ask both your insurer and the builder how extended construction timelines affect coverage."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 You closed on your brand-new home last Thursday. The builder handed over the keys, you signed a stack of papers, and your lender confirmed your homeowner's policy was in place. Everything feels buttoned up. Then a pipe fitting fails behind the drywall during week two, and you discover your policy has a construction defect exclusion that your agent never mentioned. Welcome to new construction insurance, where the gaps are real and the marketing language is designed to make you feel covered when you're not.

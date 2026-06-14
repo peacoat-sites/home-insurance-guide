@@ -6,8 +6,6 @@ description: "Protect your valuable collectibles with the right home insurance c
 image: "https://images.pexels.com/photos/7736029/pexels-photo-7736029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "collectibles", "coverage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-collectibles-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You'll only be paid what it was insured for at the time of the claim. If a card was scheduled at $3,000 and it's now worth $15,000, you're receiving $3,000. Review and update scheduled values regularly, especially for items in categories with volatile markets like sports cards, coins, or vintage electronics."
   - q: "Is theft of collectibles covered by a standard homeowner's policy?"
     a: "Theft is generally a covered peril, but two things can undercut your claim: sublimits that cap the payout well below actual value, and exclusions for mysterious disappearance if you can't demonstrate a theft actually occurred. Scheduled coverage removes both problems for items you've listed individually."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 A woman I spoke with a few years ago had a basement full of vintage baseball cards, including a 1952 Topps Mickey Mantle she'd inherited from her father. Worth somewhere in the neighborhood of $50,000 to $80,000, depending on grading. She had homeowner's insurance. She assumed she was covered. After a burst pipe soaked the basement, she found out her policy had a $2,500 sublimit on collectibles.

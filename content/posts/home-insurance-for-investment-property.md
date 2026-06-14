@@ -6,8 +6,6 @@ description: "Home insurance for investment property protects your rental or vac
 image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Property Types"]
 tags: ["home", "insurance", "investment", "property"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "home-insurance-for-investment-property"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Landlord insurance generally costs somewhere between 15% and 25% more than a comparable homeowners policy, primarily because the risk profile of tenant-occupied properties is statistically higher. The exact premium depends on location, property age, construction type, coverage limits, and claims history. Shopping multiple insurers matters here."
   - q: "What happens to my landlord insurance if the property sits vacant between tenants?"
     a: "Most landlord policies include a vacancy clause that limits or eliminates coverage after the property has been unoccupied for 30 to 60 consecutive days. The specific threshold depends on your policy. If you anticipate a longer vacancy, contact your insurer before it happens to ask about a vacancy endorsement or a standalone vacant property policy. Don't let coverage lapse silently."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 You buy a rental property, feel good about the investment, and assume your regular homeowners insurance policy has you covered. Then a tenant leaves the water running, walks out the door, and causes $40,000 in water damage. You file a claim. The insurer denies it. Why? Because you were using a homeowners policy on a property you don't occupy, and the insurer considers that a material misrepresentation. The claim is void. The loss is yours.

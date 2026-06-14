@@ -6,10 +6,13 @@ description: "Learn how to resolve home insurance disputes effectively. Discover
 image: "https://images.pexels.com/photos/7579143/pexels-photo-7579143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["home", "insurance", "dispute", "resolution"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-insurance-dispute-resolution"
 affiliate_disclosure: true
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Roughly 40% of homeowners who file a claim accept the first settlement offer without questioning it. I know this because I spent 14 years on the other side of that transaction, reviewing claims for a national insurer. I'm not proud of everything I saw. The first offer is often not the best offer, and the gap between what's initially proposed and what a policy actually covers can be thousands of dollars. Sometimes tens of thousands.

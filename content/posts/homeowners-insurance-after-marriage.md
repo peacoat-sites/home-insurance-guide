@@ -6,8 +6,6 @@ description: "Getting married? Learn how marriage affects your homeowners insura
 image: "https://images.pexels.com/photos/27695207/pexels-photo-27695207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Life Events"]
 tags: ["homeowners", "insurance", "after", "marriage"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "homeowners-insurance-after-marriage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your primary residence needs a homeowners policy. A second property that's vacant or being rented out needs different coverage entirely: a vacant home policy or a landlord/dwelling fire policy. A standard homeowners policy won't cover you correctly for those situations."
   - q: "Is it worth getting an umbrella policy right after getting married?"
     a: "For most couples combining two incomes and meaningful assets, yes. The cost is low relative to the protection. If you have a dog, a pool, a trampoline, or a history of entertaining at home, I'd consider it a near-priority rather than a nice-to-have."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Getting married changes your insurance situation faster than most newlyweds realize, and the gap between "we should probably update that" and actually doing it has cost couples real money.

@@ -6,8 +6,6 @@ description: "Discover how a swimming pool affects your home insurance liability
 image: "https://images.pexels.com/photos/34023965/pexels-photo-34023965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Liability"]
 tags: ["home", "insurance", "swimming", "pool", "liability"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-swimming-pool-liability"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Invited guests are covered under your personal liability coverage if they're injured and you're found negligent. Trespassers, especially children, can still trigger liability under the attractive nuisance doctrine even without an invitation. This is exactly why fencing and gate requirements exist."
   - q: "Does a hot tub require the same disclosures as a pool?"
     a: "Yes, in most cases. Hot tubs carry their own injury and liability risks (scalding, drowning, electrical hazards) and are treated similarly to pools by most insurers. Disclose it, ask about specific coverage terms, and make sure it's properly maintained. A neglected hot tub is a liability waiting to happen."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 A neighbor's kid drowned in a backyard pool in a suburb of Columbus, Ohio in 2017. The family who owned the pool had what they thought was solid homeowner's insurance. What they didn't know was that their liability limit was $100,000, the lawsuit that followed exceeded $400,000, and their policy had a specific exclusion because they hadn't disclosed the pool to their insurer when it was installed. That family lost their home.

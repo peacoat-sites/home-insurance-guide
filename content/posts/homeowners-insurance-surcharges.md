@@ -6,8 +6,6 @@ description: "Learn what homeowners insurance surcharges are, why insurers add t
 image: "https://images.pexels.com/photos/34811748/pexels-photo-34811748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["homeowners", "insurance", "surcharges"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "homeowners-insurance-surcharges"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your state. Most states require insurers to provide a written explanation when a premium increases beyond a certain threshold due to individual underwriting factors. A broad rate increase applied to all policyholders may not require individual notice. If your increase feels personal and unexplained, contact your state's department of insurance. The NAIC website can direct you to your specific state regulator."
   - q: "I disputed a CLUE error. How long does it take to resolve, and will my premium come down?"
     a: "LexisNexis is required to investigate disputes within 30 days under the Fair Credit Reporting Act (FCRA), which covers consumer reporting agencies. If the error is corrected, you can then present the updated report to your insurer and request a re-rating. Whether your premium comes down depends on whether the disputed item was the basis for the surcharge, and most insurers won't make the change retroactively. You'll typically see the correction reflected at your next renewal."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 You open your renewal notice, and the number is higher than last year. Not by a little. Maybe it's $200 more, maybe $400, and there's no explanation attached beyond a vague line about "rate adjustments." You're not sure whether to call your agent, shop around, or just pay it and move on. If that's where you are right now, you're in good company. Surcharges are one of the least explained, most consequential parts of homeowners insurance, and most policyholders never fully understand what triggered them or what they can do about it.

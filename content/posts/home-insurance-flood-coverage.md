@@ -6,8 +6,6 @@ description: "Protect your home from flood damage. Learn about flood insurance c
 image: "https://images.pexels.com/photos/28447806/pexels-photo-28447806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "flood", "coverage"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "home-insurance-flood-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Lenders only require flood insurance for federally backed mortgages on properties in high-risk Special Flood Hazard Areas. If you're in a lower-risk zone or you own your home outright, it's optional. That doesn't mean you don't need it. Given that a substantial percentage of flood claims come from outside mapped high-risk zones, voluntarily carrying coverage is worth the cost for many homeowners."
   - q: "What's the single biggest mistake homeowners make with flood coverage?"
     a: "Waiting too long to buy it. I've seen this more times than I can count. People who live in flood-prone areas know they should have it, keep meaning to get around to it, and then a weather event arrives. With a standard 30-day waiting period on NFIP policies, 'I'll get it this week' in response to a forecast storm often means you're already too late. Buy it on a day when nothing threatening is on the horizon and you won't be scrambling."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Your basement fills with two feet of water after a heavy rainstorm. You call your insurance company, relieved that you've been faithfully paying your homeowners premium for years. Then comes the gut punch: "I'm sorry, sir, but flood damage isn't covered under your policy." That call happens thousands of times every year in this country. After 14 years reviewing claims, I can tell you that flood exclusions are one of the most consistently misunderstood gaps in residential insurance, and they catch good, responsible homeowners completely off guard.

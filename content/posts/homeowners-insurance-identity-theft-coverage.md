@@ -6,8 +6,6 @@ description: "Discover how homeowners insurance identity theft coverage protects
 image: "https://images.pexels.com/photos/6266311/pexels-photo-6266311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["homeowners", "insurance", "identity", "theft", "coverage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "homeowners-insurance-identity-theft-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The identity theft rider is available on renters insurance policies as well, not just homeowner's policies. If you rent, ask your insurer the same questions. The coverage structure is typically identical."
   - q: "Is this the same as cyber insurance?"
     a: "Not exactly. Some insurers have started offering 'personal cyber' endorsements that are broader and include things like ransomware, cyberbullying response costs, and online fraud. Identity theft riders are narrower and focused on traditional identity fraud. If you're offered a 'personal cyber' endorsement, read carefully what it includes and compare the cost to a basic identity theft rider before deciding which fits your situation."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Picture this: you get a call from a collections agency about a $14,000 medical debt you've never heard of. Someone used your Social Security number at a hospital three states away. You've spent the last six months disputing it, you've filed a police report, you've written letters you never thought you'd have to write, and you're only now discovering that your homeowner's insurance policy had an identity theft rider the whole time. You just never activated it. I've seen this exact situation play out more times than I'd like to count, and the frustration is always the same: the coverage was right there, buried in the endorsements section nobody reads.

@@ -6,8 +6,6 @@ description: "Homeowners insurance claim process: Step-by-step guide to filing c
 image: "https://images.pexels.com/photos/8943323/pexels-photo-8943323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "claim", "process"]
-author: "Diane Kowalski"
-author_bio: "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."
 slug: "homeowners-insurance-claim-process"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You have options. Start by requesting a detailed written explanation of how they calculated the offer. You can submit additional documentation, contractor bids, or photos. If you can't resolve the dispute informally, most policies have an appraisal clause: both sides hire independent appraisers, and an umpire resolves disagreements. As a last resort, you can file a complaint with your state insurance commissioner or consult a policyholder attorney."
   - q: "What's the difference between a claims adjuster and a public adjuster?"
     a: "A claims adjuster represents your insurance company. A public adjuster represents you, the policyholder. Public adjusters are licensed professionals who assess your damage independently and help negotiate your settlement. They make sense on large, complicated claims where you feel outmatched. For a straightforward small claim, the cost of hiring one may exceed the benefit."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Most homeowners never read their policy until the moment they need it. A pipe bursts at 11 p.m., water is spreading across the hardwood floors, and suddenly you're squinting at a 60-page document trying to figure out what to do next. I've seen this play out hundreds of times. The homeowners who navigate claims smoothly aren't the ones with the best policies. They're the ones who knew what to expect before disaster struck. The process has more steps than insurers advertise, and the gaps where claims go sideways are predictable. Let me walk you through exactly how this works.

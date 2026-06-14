@@ -6,8 +6,6 @@ description: "Learn how to file a home insurance claim step by step. We cover do
 image: "https://images.pexels.com/photos/8473782/pexels-photo-8473782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["claims"]
 tags: ["file", "home", "insurance", "claim"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-file-a-home-insurance-claim"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A denial isn't necessarily final. Request the denial in writing and ask for the specific policy language the insurer relied on. You can then dispute the denial internally through the insurer's appeals process, file a complaint with your state insurance department, or consult an attorney who specializes in insurance law. Some denials are legitimate, but others reflect incorrect policy interpretation or incomplete documentation that can be corrected."
   - q: "Should I file a police report for theft or vandalism claims?"
     a: "Yes, almost always. A police report creates an official record of the loss and its timing, which supports your claim. Some insurers won't even process a theft claim without one. File it as close to the discovery of the loss as possible. Keep a copy of the report number and request a copy of the written report once it's available."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Most homeowners assume filing a claim is the hard part. I'll be honest: after 14 years reviewing claims from the other side of the desk, I can tell you the hard part is everything that happens in the first 48 hours before most people even pick up the phone. The decisions you make in that window, including what you say, what you photograph, and what you touch, can meaningfully affect whether your claim pays out in full, gets partially denied, or triggers a coverage dispute that drags on for months. I've seen well-documented claims sail through in two weeks. I've also seen legitimate losses turn into six-month fights because the homeowner unknowingly made four small mistakes on day one. This guide is about making sure you're in the first group.

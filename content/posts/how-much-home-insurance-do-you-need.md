@@ -6,8 +6,11 @@ slug: "how-much-home-insurance-do-you-need"
 description: "Most homeowners either over-insure or under-insure their homes. Here's how to find the right coverage amount without wasting money."
 categories: ["Coverage Basics"]
 tags: ["homeowners insurance", "coverage limits", "dwelling coverage"]
-author: "Patricia Lawson"
-author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand what they're actually buying."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Here's a question most people never think to ask their insurance agent: does my policy cover what it would actually cost to *rebuild* my home today?

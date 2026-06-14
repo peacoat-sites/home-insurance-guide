@@ -5,6 +5,11 @@ description: "Take this quick 7-question quiz to see how well-prepared your home
 slug: "is-your-home-properly-protected"
 date: 2026-05-27T10:00:00+00:00
 tags: ["home insurance", "coverage checkup", "homeowners", "policy review", "self-assessment"]
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Most homeowners only think hard about their insurance policy on the day they buy it and the day they file a claim. The stretch in between is where surprises hide: a coverage gap you never knew about, a deductible that quietly crept up, or a renovation that was never added to the policy.

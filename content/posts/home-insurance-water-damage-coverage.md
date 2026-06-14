@@ -6,8 +6,6 @@ description: "Learn what home insurance water damage coverage includes, what it 
 image: "https://images.pexels.com/photos/28447777/pexels-photo-28447777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["home", "insurance", "water", "damage", "coverage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-water-damage-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your homeowner insurance can cover the damage to your property regardless of the source. You'd file a claim with your own insurer and pay your deductible. Your insurer may then pursue subrogation against your neighbor's liability coverage. If your neighbor's negligence is clear, their liability coverage may ultimately cover your losses, but don't wait on that process. File with your own insurer promptly to get your repairs moving."
   - q: "If I install a water leak sensor, will my insurance premium go down?"
     a: "Some insurers offer small discounts for smart home monitoring devices including water leak sensors, though this varies considerably by company and state. The more significant benefit is loss prevention. Catching a leak early enough to shut off the water can mean the difference between a minor repair and a five-figure claim. Check with your specific insurer about any available discounts, and consider water leak sensors regardless of whether a discount applies. (This site may earn a small commission.)"
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Picture this: you come home from a week-long vacation, open your front door, and hear the soft, unmistakable sound of running water. You follow it to the upstairs bathroom, where a supply line behind the toilet silently failed sometime on day two of your trip. The floor is warped. The ceiling below is sagging. Your hardwood floors in the hallway are buckled like a topographic map. You call your insurance company expecting relief, and then you hear something that will haunt you: "That looks like it may have been ongoing. We'll need to investigate before we can confirm coverage." I've seen this exact situation play out dozens of times. The homeowner did nothing wrong, and they still had to fight for their claim. Understanding what your policy actually covers before water touches a single floorboard is the single most important thing you can do.

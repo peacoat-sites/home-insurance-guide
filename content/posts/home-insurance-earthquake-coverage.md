@@ -6,8 +6,6 @@ description: "Protect your home from earthquake damage. Learn what earthquake co
 image: "https://images.pexels.com/photos/28447774/pexels-photo-28447774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "earthquake", "coverage"]
-author: "Patricia Lawson"
-author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."
 slug: "home-insurance-earthquake-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Unlike flood insurance, which federally backed lenders require for properties in designated flood zones, there is no federal mandate requiring earthquake insurance. Your mortgage lender can't typically force you to buy it. That said, if you own a home in a very high-risk zone, some lenders do require it as a loan condition, so check your loan documents."
   - q: "What does 'loss assessment coverage' mean in the context of condos and earthquakes?"
     a: "If you own a condo in a seismic area, your homeowners association's master policy may not fully cover the building for earthquake damage. When repair costs exceed the master policy coverage, the HOA can assess individual unit owners for their share of the gap. Loss assessment coverage on your individual condo policy pays for those assessments, up to your policy limit. This is a real and often overlooked exposure for condo owners in high-risk zones."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Your house just survived a 5.8-magnitude earthquake. The walls are standing, but a load-bearing chimney has collapsed, your foundation has visible cracks, and the gas line inside one wall has sheared. You call your insurance company, relieved that you've been paying premiums faithfully for years. Then you hear four words that will haunt you: "Earthquake damage isn't covered."

@@ -6,8 +6,6 @@ description: "Save money on home insurance with a security system discount. Lear
 image: "https://images.pexels.com/photos/32060657/pexels-photo-32060657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "security", "system", "discount"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-security-system-discount"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can. Some insurers give higher credits for cellular-based systems because landline systems can be defeated by cutting the phone line. Cellular and broadband-connected systems are considered more reliable by underwriters. Ask your insurer if they differentiate."
   - q: "Can I lose the discount after I get it?"
     a: "Yes. If your monitoring service lapses, you cancel your contract, or your monitoring company loses its UL certification status, the credit can be removed at renewal. Some insurers audit this annually. Keep your monitoring active and your certificates current."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Picture this: you just paid $850 to have a professional security system installed, complete with door sensors, motion detectors, and 24/7 monitoring. You call your insurer, proud of yourself, and they tell you the discount is 2%. On a $1,400 annual premium, that's $28 a year. You do the math and realize it'll take 30 years to break even on the equipment cost alone. I've seen this exact scenario play out dozens of times, and it's not because security systems are a bad idea. It's because most homeowners never ask the right questions before they buy.

@@ -6,8 +6,6 @@ description: "Save money by bundling your home, auto, and life insurance policie
 image: "https://images.pexels.com/photos/33305177/pexels-photo-33305177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["multi-policy", "discount", "insurance"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "multi-policy-discount-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Every two years is a reasonable floor. More often if you've had a major life change (new home, teen driver added to auto, significant home renovation) or if you've noticed your premiums increasing more than 5% to 6% at renewal. Loyalty discounts are real, but they don't always keep pace with rate increases."
   - q: "What happens to my discount if I need to remove one policy from the bundle?"
     a: "You'll typically lose the multi-policy discount on the remaining policy, which means the premium goes up even though you didn't change that coverage. Factor this in when you're deciding whether to keep, say, a motorcycle policy you rarely use. Dropping it might cost you more in lost bundling discounts than the policy itself was running."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Most people discover the multi-policy discount exists the same way they discover a lot of things about their insurance: accidentally, after they've already been overpaying for years. A coworker mentions it. A new agent brings it up during a quote. Or you finally sit down and read your renewal notice closely enough to notice you're paying $340 a year more than your neighbor for nearly identical coverage.

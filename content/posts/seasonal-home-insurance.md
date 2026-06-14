@@ -6,8 +6,6 @@ description: "Protect your home year-round with seasonal home insurance. Discove
 image: "https://images.pexels.com/photos/7579135/pexels-photo-7579135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["seasonal", "home", "insurance"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "seasonal-home-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A water backup endorsement covers damage from a backed-up sewer or drain, or a failed sump pump. Flood insurance covers water that enters your home from rising external water sources. They're addressing different scenarios, and in some situations, you'd want both."
   - q: "Can I get coverage for a home I only live in part of the year?"
     a: "Yes, but you need to tell your insurer it's a secondary or seasonal property. Standard homeowner's policies often have vacancy clauses that can void or reduce coverage if the home sits empty for more than 30 to 60 days. A proper seasonal or secondary home policy, or a vacancy endorsement, keeps you protected during those gaps."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Most homeowners renew their insurance policy every year without reading it. They get the bill, they pay it, they move on. I did this myself for the first few years I owned my house, and I was working in claims at the time. That's how easy it is to ignore.

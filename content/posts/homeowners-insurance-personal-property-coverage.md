@@ -6,8 +6,6 @@ description: "Homeowners insurance personal property coverage protects your belo
 image: "https://images.pexels.com/photos/7578882/pexels-photo-7578882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "personal", "property", "coverage"]
-author: "Patricia Lawson"
-author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."
 slug: "homeowners-insurance-personal-property-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Possibly. Insurers track claim history, and a filed claim can affect your renewal premium or even your eligibility with some carriers. This doesn't mean you shouldn't file legitimate claims. It means you should weigh small losses against your deductible and the potential rate impact before automatically filing. A $900 loss with an $1,000 deductible is a non-starter anyway. A $15,000 loss is exactly what insurance is for."
   - q: "Does renters insurance cover personal property the same way?"
     a: "Broadly, yes. Renters insurance includes personal property coverage that functions similarly: covered perils, ACV vs. RCV options, and sub-limits for certain item categories. The key difference is that renters insurance doesn't include dwelling coverage (that's the landlord's responsibility). If you're renting, your belongings are not covered by your landlord's policy, period. The structure is. Your stuff is not."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Imagine you come home to find your basement flooded after a pipe bursts overnight. Your furniture is ruined, your television is gone, your kids' gaming equipment is destroyed. You call your insurer confident you're covered. Then the adjuster tells you your personal property payout is $4,200 for losses you'd estimate at $12,000 or more. How? You had actual cash value coverage, not replacement cost. Your five-year-old couch wasn't worth what a new one costs today. This scenario played out in claims I reviewed more than I'd like to count, and it's almost always a surprise to the policyholder.

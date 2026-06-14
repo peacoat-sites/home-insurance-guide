@@ -6,8 +6,6 @@ description: "Save money on homeowners insurance with these proven tips. Learn h
 image: "https://images.pexels.com/photos/10252682/pexels-photo-10252682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["lower", "homeowners", "insurance", "cost"]
-author: "Patricia Lawson"
-author_bio: "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."
 slug: "how-to-lower-homeowners-insurance-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, always. Renewal time is your best leverage point. Call at least 30 days before your renewal date, ask whether any new discounts apply, mention any home improvements you've made, and let them know you're getting competing quotes. Agents have more flexibility than most people realize, and a customer who's clearly about to leave gets more attention than a passive auto-renewal."
   - q: "What's the difference between market value and replacement cost, and why does it matter?"
     a: "Market value is what your home would sell for, including the land. Replacement cost is what it would cost to rebuild the structure from scratch at current construction prices, without the land. You insure the structure, not the land. In most markets, replacement cost is significantly lower than market value, but in high-cost construction areas it can be the opposite. Getting this number right protects you from both over-paying on premium and being under-covered after a total loss."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 The average American homeowner pays over $2,000 a year for home insurance, and a significant chunk of that cost is completely optional. Not optional in the "skip the coverage and hope for the best" sense, but optional in the sense that most people have never asked the right questions, never shopped their policy, and never taken a few targeted steps that could shave hundreds of dollars off their annual premium without sacrificing real protection. I spent 14 years on the other side of the claims desk. I know how these pricing systems work, and I'm going to show you exactly where the savings are hiding.

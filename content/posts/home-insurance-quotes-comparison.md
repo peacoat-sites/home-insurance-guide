@@ -6,8 +6,6 @@ description: "Compare home insurance quotes easily and find the best coverage at
 image: "https://images.pexels.com/photos/7735621/pexels-photo-7735621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "quotes", "comparison"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "home-insurance-quotes-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your financial situation and your claims history. Raising a deductible from $1,000 to $2,500 might save you $150 to $200 per year on your premium, but it also means absorbing an additional $1,500 out of pocket on any claim. If you have a solid emergency fund and a clean claims history, a higher deductible can make sense. If a $2,500 out-of-pocket would genuinely strain your finances, it's probably not the right trade-off."
   - q: "Do I need separate flood or earthquake coverage?"
     a: "In almost every case, yes, if you face those risks. Standard homeowner policies exclude both. Flood insurance is available through the National Flood Insurance Program (NFIP) or private carriers. Earthquake insurance is a separate endorsement or standalone policy. Even if you're not in a high-risk zone, FEMA data consistently shows that a large share of flood claims come from moderate- and low-risk areas. Talk to a licensed agent about the specific risks in your ZIP code."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 You find three quotes in your inbox. One is $847 a year. One is $1,203. One is $1,619. All three claim to cover your home. You pick the cheapest and move on with your day. That decision, made in about 90 seconds, could cost you tens of thousands of dollars after a major claim. I watched it happen dozens of times during my 14 years reviewing claims. The policy that looked like a bargain turned out to be missing the one coverage the homeowner needed most.

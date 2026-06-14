@@ -6,8 +6,6 @@ description: "Switch home insurance easily with our step-by-step guide. Learn ho
 image: "https://images.pexels.com/photos/7736036/pexels-photo-7736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["switch", "home", "insurance"]
-author: "Diane Kowalski"
-author_bio: "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."
 slug: "how-to-switch-home-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but it's manageable. Insurers pull a C.L.U.E. report on the property, not just on you as a policyholder, so claims by previous owners can sometimes show up. Most insurers look at the past three to five years, and a single claim doesn't automatically disqualify you. However, if you've had multiple water damage or liability claims recently, some carriers may decline coverage or surcharge. If you're concerned, check your C.L.U.E. report before you start shopping so you know what they'll see. There's a deeper look at how claims history affects your options in this article on homeowners insura"
   - q: "Is it worth switching if I've only had my current policy for a year?"
     a: "Possibly. Some policies have a loyalty discount that takes a few years to vest, so you'd want to check whether leaving early forfeits a future discount. But if the new policy offers significantly better coverage or price, a year in is fine to switch. Don't let sunk-time thinking keep you in a policy that isn't serving you."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Most homeowners assume switching insurance is complicated enough to justify staying put. I've talked to people who've been with the same insurer for a decade, quietly paying 30-40% more than necessary, simply because they didn't know the process takes less than a week and costs nothing to initiate. Here's the reality: switching home insurance is one of the easiest financial moves you can make, and the window when it makes sense is wider than most people realize. You don't have to wait for your renewal date. You don't have to fight anyone. You just need to know what to do in the right order.

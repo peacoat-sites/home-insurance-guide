@@ -6,8 +6,6 @@ description: "Learn which types of water damage homeowners insurance covers, wha
 image: "https://images.pexels.com/photos/28447767/pexels-photo-28447767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["does", "homeowners", "insurance", "cover", "water"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "does-homeowners-insurance-cover-water-damage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In insurance language, 'flood' has a very specific meaning: water that originates from outside your home, from storm surge, rising rivers, heavy rainfall accumulating on the ground, or overflowing bodies of water. This is categorically excluded from standard homeowners policies. Water damage, by contrast, refers to water that originates from within your home's systems (pipes, appliances, plumbing fixtures). Understanding this distinction is essential, because what looks like 'flooding' to you may be 'flood' in the insurer's terms, and vice versa."
   - q: "Can my claim be denied because of lack of maintenance?"
     a: "Yes, and this happens regularly. Insurers call it the 'maintenance exclusion,' and it's one of the most common reasons water damage claims are denied or reduced. The insurer's position is that homeowners have an obligation to maintain their property and address known defects. If they can show, through physical evidence or your own statements, that the problem existed for an extended period before causing damage, they can deny coverage on the grounds that a reasonable homeowner would have identified and repaired it. This is why ongoing maintenance documentation matters."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 Most homeowners assume water damage is water damage. A pipe bursts, the ceiling caves in, the floor buckles, and they reach for their insurance card confident that somewhere in that thick policy binder, this mess is covered. What I found after 14 years of reviewing those claims is that this assumption is wrong more often than it's right. The difference between a six-figure payout and a denial letter often comes down to a single word: *sudden*.

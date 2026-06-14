@@ -6,8 +6,6 @@ description: "Save money on home insurance with a water leak sensor. Discover ho
 image: "https://images.pexels.com/photos/29091316/pexels-photo-29091316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["water", "leak", "sensor", "insurance", "discount"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "water-leak-sensor-insurance-discount"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, in most cases. Call your insurer, tell them what you have, provide whatever documentation they request (usually a photo or a receipt), and ask them to apply the discount going forward. You likely won't get a refund on past premiums, but there's no reason to keep paying the higher rate."
   - q: "Do water sensors affect my deductible or how a claim is handled?"
     a: "No, they don't change your deductible or the claims process directly. What they can do is reduce the scope of damage before a claim is even necessary, which is ultimately more valuable than a discount. An insurer can't raise your rates for having sensors, either."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Most homeowners have no idea their insurer might cut their premium just for plugging in a $20 sensor. I didn't either, until a claim I reviewed back in 2011 changed how I thought about water damage entirely.

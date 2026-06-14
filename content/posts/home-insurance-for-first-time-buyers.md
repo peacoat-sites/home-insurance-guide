@@ -6,8 +6,6 @@ description: "Buying your first home? Discover everything you need to know about
 image: "https://images.pexels.com/photos/8482895/pexels-photo-8482895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "first", "time", "buyers"]
-author: "Diane Kowalski"
-author_bio: "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."
 slug: "home-insurance-for-first-time-buyers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Actual cash value pays you what your damaged property is worth today, after depreciation. Replacement cost pays you what it costs to replace or repair the item with a new equivalent. On a claim, the difference can be dramatic. A 10-year-old roof might have an actual cash value of very little even if replacing it costs $15,000. Replacement cost coverage generally costs more in premium, but it closes a significant gap for older homes and aging personal property. Always ask which basis your policy uses for both the dwelling and personal property sections."
   - q: "Is a higher deductible always a bad idea?"
     a: "Not automatically. A higher deductible reduces your premium, and if you can comfortably absorb a larger out-of-pocket expense in an emergency, the math may work in your favor over time. The problem is when people choose a high deductible to cut costs without actually having that money available. Also, watch for separate wind and hail deductibles that are percentage-based rather than flat dollar amounts. On a $400,000 home, a 2% wind deductible means you'd pay $8,000 before coverage kicks in for a storm claim. That can be a real shock."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 You're sitting at the closing table, pen in hand, when the title company asks for proof of homeowner's insurance. You thought you had more time. You grab the first policy you found online, pay for it, and move on. Six months later, a pipe bursts in your wall, causes $40,000 in damage, and your adjuster informs you that your policy's water damage sub-limit is $10,000. Nobody told you that was buried in the policy. I've seen that exact scenario play out dozens of times in my career. The problem isn't that first-time buyers are careless. It's that the insurance industry does a genuinely poor job of explaining what you're actually buying.

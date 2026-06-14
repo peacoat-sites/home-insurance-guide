@@ -6,8 +6,6 @@ description: "Learn whether homeowners insurance covers mold damage, what exclus
 image: "https://images.pexels.com/photos/7735626/pexels-photo-7735626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "mold", "coverage"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "homeowners-insurance-mold-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Look at your declarations page for any listed endorsements or riders. You can also call your insurer directly and ask for a complete list of all endorsements attached to your policy. If no mold endorsement exists, ask whether one is available for purchase and what its cost and coverage limit would be. This is a straightforward question that every agent should be able to answer clearly."
   - q: "Does renters insurance cover mold?"
     a: "The same logic applies as with homeowners insurance: coverage depends on the cause. If mold results from a covered sudden event, like a burst pipe, renters insurance may cover your personal property damaged by mold. It does not cover the building structure itself, which is the landlord's responsibility. Renters insurance also won't cover mold from chronic conditions. If you're a renter dealing with mold caused by your landlord's failure to maintain the property, the legal recourse is typically through tenant rights laws, not your own insurance policy."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and water damage is covered, so it all works out. I spent 14 years reviewing claims that started exactly that way, and I'll be honest: that assumption gets people into serious financial trouble more often than almost any other coverage gap I've seen.

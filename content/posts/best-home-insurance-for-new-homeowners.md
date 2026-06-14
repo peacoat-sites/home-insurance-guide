@@ -6,8 +6,6 @@ description: "Discover the best home insurance for new homeowners. Compare top p
 image: "https://images.pexels.com/photos/7731332/pexels-photo-7731332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["policies"]
 tags: ["best", "home", "insurance", "homeowners"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-home-insurance-for-new-homeowners"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a genuinely nuanced question. Filing a claim can raise your premium at renewal or, in some states, affect your insurability. For small losses that are only modestly above your deductible, many homeowners choose to pay out of pocket to protect their claims history. For significant losses, file. If you're uncertain, call your insurer to discuss the situation before formally filing; some companies allow preliminary inquiries that don't trigger a claim record."
   - q: "Does home insurance cover home-based business equipment or liability?"
     a: "Standard HO-3 policies provide limited or no coverage for business property or liability arising from a home-based business. If you run any kind of business from home, even part-time consulting or an online retail operation, ask your insurer about a home business endorsement or a separate business owner's policy. This is one of the most commonly overlooked gaps for new homeowners who also work remotely."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 You closed on your house a week ago. You've got a mortgage, a moving truck bill, and an insurance policy someone handed you at the title company that you signed without fully reading. Statistically, that policy has at least two coverage gaps you haven't found yet. Most new homeowners don't find them until they file a claim.

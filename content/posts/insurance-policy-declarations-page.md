@@ -6,8 +6,6 @@ description: "Learn what an insurance policy declarations page is, what key info
 image: "https://images.pexels.com/photos/7734672/pexels-photo-7734672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["insurance", "policy", "declarations", "page"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "insurance-policy-declarations-page"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It's the policy form type. HO-3 is the most common homeowner policy, covering your dwelling on an 'open perils' basis (everything is covered unless specifically excluded) and your personal property on a 'named perils' basis (only specific events are covered). HO-5 offers broader personal property coverage. HO-4 is renters insurance. These abbreviations show up at the top of most declarations pages."
   - q: "Should I review my declarations page every year?"
     a: "Yes. Every year without exception. Your rebuild costs change, your belongings change, your home improvements change. A covered porch addition that you never reported to your insurer could mean your Coverage A is too low. Set a calendar reminder for two weeks before your renewal date and actually read it."
+author: "Diana Foster"
+author_slug: "diana-foster"
+author_title: "Claims Specialist"
+author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+
 ---
 
 Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. I spent 14 years on the other side of that claim, and I can tell you: that one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.

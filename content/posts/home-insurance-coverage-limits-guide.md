@@ -6,8 +6,6 @@ description: "Learn how home insurance coverage limits work, what factors affect
 image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "coverage", "limits", "guide"]
-author: "Diane Kowalski"
-author_bio: "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."
 slug: "home-insurance-coverage-limits-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Actual cash value (ACV) pays what your item was worth at the time of the loss, factoring in depreciation. Replacement cost value (RCV) pays what it would cost to buy the same item new today. The difference is significant. A five-year-old laptop might have an ACV of $150 but cost $900 to replace. Many policies default to ACV for personal property. You can often upgrade to replacement cost coverage for personal property for a modest additional premium. Check your policy declarations page to see which you have."
   - q: "Should I tell my insurer about home improvements?"
     a: "Yes, and promptly. Renovations increase your home's replacement cost. If you remodel your kitchen for $60,000 and don't report it, your Coverage A limit hasn't changed to reflect the new value. After a total loss, your insurer could argue your coverage was inadequate for the risk and potentially limit your payout. Report improvements as they're completed, even if renewal isn't coming up for months."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Imagine your house burns down. The fire department saves the foundation, but everything else is gone. You call your insurer expecting relief, and then you get the number: your dwelling coverage limit is $280,000, but rebuilding costs in your area have jumped to $420,000 since you last updated your policy. You're facing a $140,000 gap, and nothing in your policy automatically closes it. This happens more often than the industry admits. Coverage limits are the single most consequential detail in your homeowner policy, and most people never look at them until something goes wrong.

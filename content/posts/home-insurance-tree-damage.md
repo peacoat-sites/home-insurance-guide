@@ -6,8 +6,6 @@ description: "Learn what home insurance covers for tree damage, including fallen
 image: "https://images.pexels.com/photos/5351108/pexels-photo-5351108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["home", "insurance", "tree", "damage"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-insurance-tree-damage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can. A single weather-related claim is generally less likely to trigger a large surcharge than a liability claim, but your insurer's specific rules, your state's regulatory environment, and your claims history all factor in. Some insurers won't surcharge for the first weather claim in a multi-year period; others will. Ask your agent directly before you file, especially if the damage amount is close to your deductible. This is one of those situations where knowing your options before pulling the trigger matters."
   - q: "Can I get paid for a tree that was destroyed on my property even if it didn't fall on anything?"
     a: "Your homeowner's policy almost certainly won't pay for landscaping damage beyond very limited circumstances, and even then, there are strict caps. Some policies include a small landscaping allowance, perhaps $500 per plant or tree up to a combined limit, but it applies only when the damage is caused by a covered peril and the tree was destroyed rather than simply knocked over. If a storm uproots and kills a mature tree you valued at $5,000 in appraised landscape value, you're very unlikely to recover anywhere near that amount from a standard policy."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 You wake up at 2 a.m. to a sound like a cannon going off. A massive oak from your neighbor's yard has just crashed through your roof, and now rain is pouring into your living room while your family stands in the hallway in their pajamas. You grab your phone to call your insurance company, then pause: wait, whose insurance covers this? Yours? Theirs? Does it matter who owns the tree? This exact scenario plays out thousands of times every year, and I've seen it from both sides of the desk. The confusion people feel at that moment is completely understandable, and it's made worse by the fact that most homeowners don't read the fine print until they're standing in a room with a tree in it.

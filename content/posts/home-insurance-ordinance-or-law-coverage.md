@@ -6,8 +6,6 @@ description: "Learn what ordinance or law coverage means for home insurance, why
 image: "https://images.pexels.com/photos/7731329/pexels-photo-7731329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "ordinance", "coverage"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-insurance-ordinance-or-law-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They're related but not identical. Increased cost of construction (ICC) is a term also used in the National Flood Insurance Program context. In homeowner's policies, it typically refers to Coverage C within an ordinance or law package. If an agent uses the terms interchangeably, ask them to clarify which components are actually included."
   - q: "Will my insurer tell me if I'm underinsured in this area?"
     a: "Probably not proactively. Insurers aren't obligated to audit your coverage needs at renewal. It's your responsibility to understand what you have. A good independent agent who knows your local market is the best resource here, but ultimately, you need to ask the question directly: 'Do I have ordinance or law coverage, what components does it include, and is my sublimit realistic for a full rebuild in my municipality?'"
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Your house burns down. The fire department clears the scene, your adjuster walks the lot, and you're ready to rebuild. Then the city steps in. Your home was built in 1978, and current building codes require upgraded electrical panels, additional fire blocking in the walls, and a sprinkler system the original structure never had. The cost to bring the new build up to code adds $40,000 to your reconstruction bill. Your standard homeowner's policy covers what was there before. Not what the law now requires. That $40,000 is yours to absorb, unless you have ordinance or law coverage.

@@ -6,8 +6,6 @@ description: "Learn what affects your homeowners insurance premium, how rates ar
 image: "https://images.pexels.com/photos/7579046/pexels-photo-7579046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "premium", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "homeowners-insurance-premium-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Insurers use a credit-based insurance score, derived from credit data but calculated differently than a FICO score, to predict claim likelihood. Better credit typically correlates with lower premiums in states where this practice is permitted. California, Massachusetts, and Maryland have restrictions on its use. If your credit has improved significantly since you first bought your policy, a requote or formal request for re-rating may reduce your premium."
   - q: "What's the most overlooked coverage gap in a standard policy?"
     a: "Sewer and water backup. Most HO-3 policies explicitly exclude damage from water that backs up through a drain or sump. A backed-up sewer line can cause tens of thousands of dollars in damage to floors, walls, and personal property. The endorsement to add this coverage typically costs between $50 and $150 per year. Few agents proactively mention it. Ask for it specifically."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Your neighbor's house is identical to yours. Same square footage, same roof age, same ZIP code. His homeowners premium is $400 less per year than yours. No, he didn't get a special deal. You're probably just paying the price of not knowing what's actually inside your policy or what levers you can pull to change it.

@@ -6,8 +6,6 @@ description: "Discover how a home insurance umbrella policy adds extra liability
 image: "https://images.pexels.com/photos/27299792/pexels-photo-27299792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "umbrella", "policy"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "home-insurance-umbrella-policy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost certainly not under a standard umbrella. Home-based business liability is one of the most consistently excluded categories. If a client slips at your home office, or a product you sell injures a customer, your personal umbrella will likely deny the claim as a business activity. You need either a home-based business endorsement on your homeowner's policy or a separate business owner's policy. Don't assume personal coverage extends to commercial activity, even if the activity feels casual."
   - q: "How does the claims process work with an umbrella policy?"
     a: "You report the claim to your homeowner's insurer first. They investigate and defend using their process. If a judgment or settlement exceeds your underlying limit, the umbrella carrier steps in. You'll likely need to notify your umbrella carrier early in the process, even if you don't know yet whether the underlying limit will be exceeded. Most umbrella policies require prompt notice of any event that might trigger coverage, and delayed notice can become grounds for a coverage dispute. When in doubt, notify both carriers simultaneously."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Your neighbor's kid breaks his arm on your backyard trampoline. The family sues. Your homeowner's liability limit is $300,000, but the lawsuit demands $750,000. Your standard policy pays its cap and stops. The remaining $450,000 is your problem. An umbrella policy would have covered it. Most people find out what an umbrella does, and doesn't do, only after they need one.

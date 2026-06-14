@@ -6,8 +6,6 @@ description: "Protect your condo with the right homeowners insurance. Learn what
 image: "https://images.pexels.com/photos/1669787/pexels-photo-1669787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["homeowners", "insurance", "condos"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "homeowners-insurance-for-condos"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Standard HO-6 policies exclude flood damage, defined as water entering from outside the building. You'll need a separate flood insurance policy, available through the National Flood Insurance Program or, in some states, private carriers."
   - q: "What is loss assessment coverage and do I really need it?"
     a: "Loss assessment coverage pays your share of an HOA assessment when a major loss to common areas exceeds the master policy's limits. Given that a single large claim, like a fire in a common area, can result in assessments of $5,000 to $20,000 per unit, the standard $1,000 default on many policies is nearly useless. Carry at least $25,000 to $50,000."
+author: "Carl Brooks"
+author_slug: "carl-brooks"
+author_title: "Policy Researcher"
+author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+
 ---
 
 Most condo owners are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.

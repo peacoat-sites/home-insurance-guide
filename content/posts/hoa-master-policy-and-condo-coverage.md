@@ -6,8 +6,6 @@ description: "Learn how HOA master policies and condo insurance work together, w
 image: "https://images.pexels.com/photos/7579138/pexels-photo-7579138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["master", "policy", "condo", "coverage"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "hoa-master-policy-and-condo-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The HOA master policy covers liability in common areas, not inside your unit. Incidents that happen within your unit fall under your personal liability coverage, which is part of your HO-6 policy. Without it, you'd be personally responsible for any resulting claims."
   - q: "What happens if a pipe in my unit leaks and damages my neighbor's unit?"
     a: "This is where things get genuinely complicated and fact-specific. Your HO-6 liability coverage may respond if the damage was caused by your negligence. Your CC&Rs may also allocate responsibility between owners. Some situations involve both policies. This is exactly the scenario where having your own policy with solid liability limits matters most, and where consulting your agent before anything happens is worth the time."
+author: "Kevin Park"
+author_slug: "kevin-park"
+author_title: "Risk Analyst"
+author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+
 ---
 
 Most condo owners I've spoken with assume they're fully covered because their HOA pays for insurance. That assumption has cost people tens of thousands of dollars. I've seen the claims. I know exactly how this plays out.

@@ -6,8 +6,6 @@ description: "Calculate your home insurance costs instantly with our free online
 image: "https://images.pexels.com/photos/30840676/pexels-photo-30840676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "calculator"]
-author: "Brian Oates"
-author_bio: "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."
 slug: "home-insurance-calculator"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Treat it as an estimate, not a final answer. Insurers have an incentive to write accurate policies, but their calculators still rely on the inputs you provide and a cost database that may not reflect the most current local conditions. Always cross-check with at least one other tool, and ask your agent to walk through the assumptions the calculator used."
   - q: "How often should I recalculate my home's replacement cost?"
     a: "At minimum, once a year at renewal. More often if you've done significant renovations, if local construction costs have shifted sharply, or if you've had a major weather event in your area that's put contractor demand through the roof. A coverage level that was accurate two years ago may have drifted meaningfully out of step with what it would actually cost to rebuild today."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Insurance Writer"
+author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+
 ---
 
 You punch your address into a home insurance calculator, it spits out a coverage number in about 45 seconds, and you feel like you've done your homework. I've watched that false confidence cost homeowners tens of thousands of dollars. In my 14 years reviewing claims, I saw the pattern constantly: the calculator said one thing, the actual rebuild cost said something very different, and the gap came straight out of the homeowner's pocket.

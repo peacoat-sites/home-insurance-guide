@@ -6,8 +6,6 @@ description: "Learn what lender placed insurance is, why banks impose it, how it
 image: "https://images.pexels.com/photos/29899813/pexels-photo-29899813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["lender", "placed", "insurance"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "lender-placed-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. The lender selects the insurer. You can end the force-placed policy by providing proof of your own coverage, but you have no say in which company is used or what the premium will be."
   - q: "What if the force-placed policy premium caused me to miss a mortgage payment?"
     a: "This gets complicated fast. Contact your loan servicer in writing, dispute the charge if it was applied in error, and document everything. If you're not getting resolution, file a complaint with your state's insurance department and consider reaching out to the CFPB. A HUD-approved housing counselor can also help you sort through your options at no cost."
+author: "Laura Martinez"
+author_slug: "laura-martinez"
+author_title: "Disaster Coverage Writer"
+author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+
 ---
 
 Most homeowners don't realize their insurance can be replaced without their permission. Then they get the bill.
