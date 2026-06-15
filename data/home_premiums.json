@@ -1,0 +1,206 @@
+{
+  "title": "Average Annual Home Insurance Premium by State (2025)",
+  "source": "Source: Bankrate / Quadrant Information Services (2025). Averages for a typical policy; your premium depends on your home, location, coverage, and deductible.",
+  "rows": [
+    {
+      "state": "Alabama",
+      "premium": "$2,944"
+    },
+    {
+      "state": "Alaska",
+      "premium": "$1,270"
+    },
+    {
+      "state": "Arizona",
+      "premium": "$1,702"
+    },
+    {
+      "state": "Arkansas",
+      "premium": "$2,876"
+    },
+    {
+      "state": "California",
+      "premium": "$1,976"
+    },
+    {
+      "state": "Colorado",
+      "premium": "$3,644"
+    },
+    {
+      "state": "Connecticut",
+      "premium": "$1,855"
+    },
+    {
+      "state": "Delaware",
+      "premium": "$1,011"
+    },
+    {
+      "state": "Florida",
+      "premium": "$5,527"
+    },
+    {
+      "state": "Georgia",
+      "premium": "$2,261"
+    },
+    {
+      "state": "Hawaii",
+      "premium": "$582"
+    },
+    {
+      "state": "Idaho",
+      "premium": "$1,382"
+    },
+    {
+      "state": "Illinois",
+      "premium": "$2,052"
+    },
+    {
+      "state": "Indiana",
+      "premium": "$1,888"
+    },
+    {
+      "state": "Iowa",
+      "premium": "$2,362"
+    },
+    {
+      "state": "Kansas",
+      "premium": "$3,372"
+    },
+    {
+      "state": "Kentucky",
+      "premium": "$2,469"
+    },
+    {
+      "state": "Louisiana",
+      "premium": "$5,677"
+    },
+    {
+      "state": "Maine",
+      "premium": "$1,468"
+    },
+    {
+      "state": "Maryland",
+      "premium": "$1,561"
+    },
+    {
+      "state": "Massachusetts",
+      "premium": "$1,902"
+    },
+    {
+      "state": "Michigan",
+      "premium": "$2,351"
+    },
+    {
+      "state": "Minnesota",
+      "premium": "$2,860"
+    },
+    {
+      "state": "Mississippi",
+      "premium": "$3,105"
+    },
+    {
+      "state": "Missouri",
+      "premium": "$2,616"
+    },
+    {
+      "state": "Montana",
+      "premium": "$2,413"
+    },
+    {
+      "state": "Nebraska",
+      "premium": "$4,802"
+    },
+    {
+      "state": "Nevada",
+      "premium": "$1,467"
+    },
+    {
+      "state": "New Hampshire",
+      "premium": "$1,383"
+    },
+    {
+      "state": "New Jersey",
+      "premium": "$1,231"
+    },
+    {
+      "state": "New Mexico",
+      "premium": "$2,012"
+    },
+    {
+      "state": "New York",
+      "premium": "$1,788"
+    },
+    {
+      "state": "North Carolina",
+      "premium": "$2,016"
+    },
+    {
+      "state": "North Dakota",
+      "premium": "$2,368"
+    },
+    {
+      "state": "Ohio",
+      "premium": "$1,406"
+    },
+    {
+      "state": "Oklahoma",
+      "premium": "$4,623"
+    },
+    {
+      "state": "Oregon",
+      "premium": "$1,317"
+    },
+    {
+      "state": "Pennsylvania",
+      "premium": "$1,426"
+    },
+    {
+      "state": "Rhode Island",
+      "premium": "$2,238"
+    },
+    {
+      "state": "South Carolina",
+      "premium": "$2,597"
+    },
+    {
+      "state": "South Dakota",
+      "premium": "$2,278"
+    },
+    {
+      "state": "Tennessee",
+      "premium": "$2,327"
+    },
+    {
+      "state": "Texas",
+      "premium": "$4,142"
+    },
+    {
+      "state": "Utah",
+      "premium": "$1,187"
+    },
+    {
+      "state": "Vermont",
+      "premium": "$962"
+    },
+    {
+      "state": "Virginia",
+      "premium": "$1,643"
+    },
+    {
+      "state": "Washington",
+      "premium": "$1,536"
+    },
+    {
+      "state": "West Virginia",
+      "premium": "$1,387"
+    },
+    {
+      "state": "Wisconsin",
+      "premium": "$1,530"
+    },
+    {
+      "state": "Wyoming",
+      "premium": "$1,798"
+    }
+  ]
+}
