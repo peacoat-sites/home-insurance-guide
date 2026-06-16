@@ -131,27 +131,6 @@ Also, check in with [your state's department of insurance](https://www.naic.org/
 
 ---
 
-## Frequently Asked Questions
-
-### Will adding a security system automatically lower my premium?
-
-No. You have to notify your insurer, submit documentation (usually a certificate of installation or UL certificate from your monitoring company), and confirm the discount was applied to your policy. Nothing happens automatically.
-
-### Does it matter if I install the system myself?
-
-Yes, often significantly. Many insurers require professionally installed systems for the larger discount tiers. DIY systems may qualify for a smaller credit if they include professional third-party monitoring, but you should ask your specific insurer before purchasing. The gap between "professionally installed" and "self-installed with monitoring" can mean the difference between a 15% credit and nothing.
-
-### I already have a security system. How do I find out if I'm getting the discount?
-
-Pull your declarations page, which is the summary page at the front of your policy documents. Look for a line item called something like "protective device credit" or "burglar alarm discount." If you don't see one, call your insurer, ask directly, and then send them your monitoring certificate if you haven't already.
-
-### Does the type of monitoring matter, like cellular vs. landline?
-
-It can. Some insurers give higher credits for cellular-based systems because landline systems can be defeated by cutting the phone line. Cellular and broadband-connected systems are considered more reliable by underwriters. Ask your insurer if they differentiate.
-
-### Can I lose the discount after I get it?
-
-Yes. If your monitoring service lapses, you cancel your contract, or your monitoring company loses its UL certification status, the credit can be removed at renewal. Some insurers audit this annually. Keep your monitoring active and your certificates current.
 
 ---
 

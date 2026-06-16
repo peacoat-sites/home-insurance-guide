@@ -124,27 +124,6 @@ Switching home insurance is simple, but a few avoidable errors can turn a smooth
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch home insurance at any time, or only at renewal?
-
-You can switch at any time. There's no obligation to stay until renewal, and most insurers won't charge a penalty for mid-term cancellation, though some do charge a small administrative fee. Your current insurer is required to refund any unused prepaid premium on a pro-rated basis. Switching mid-term is completely standard and insurers deal with it routinely.
-
-### Will switching home insurance hurt my credit score?
-
-Not in any meaningful way. When a new insurer quotes you, they typically run an insurance-based credit inquiry, which is a soft pull for most purposes. Insurance inquiries generally don't affect your FICO score the same way a mortgage or auto loan application does. You can get multiple quotes from multiple insurers during your shopping process without worrying about a credit impact.
-
-### What happens to my escrow account when I switch?
-
-Your mortgage servicer pays your premium from your escrow account. When you switch, your new insurer sends updated billing information to your lender. Your servicer will pay the new insurer from the same escrow funds. If you've already paid your old insurer for the year, the refund for unused premium comes back to you or is credited to your escrow account depending on how your servicer handles it. Call your servicer after binding the new policy to confirm they've received the new declarations page.
-
-### Should I worry about a claims history affecting my new coverage?
-
-Yes, but it's manageable. Insurers pull a C.L.U.E. report on the property, not just on you as a policyholder, so claims by previous owners can sometimes show up. Most insurers look at the past three to five years, and a single claim doesn't automatically disqualify you. However, if you've had multiple water damage or liability claims recently, some carriers may decline coverage or surcharge. If you're concerned, check your C.L.U.E. report before you start shopping so you know what they'll see. There's a deeper look at how claims history affects your options in this article on [homeowners insurance after filing a claim](/homeowners-insurance-after-filing-a-claim/).
-
-### Is it worth switching if I've only had my current policy for a year?
-
-Possibly. Some policies have a loyalty discount that takes a few years to vest, so you'd want to check whether leaving early forfeits a future discount. But if the new policy offers significantly better coverage or price, a year in is fine to switch. Don't let sunk-time thinking keep you in a policy that isn't serving you.
 
 ---
 

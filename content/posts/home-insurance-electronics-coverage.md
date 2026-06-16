@@ -78,27 +78,6 @@ A water leak sensor placed near your entertainment center or home office equipme
 
 ---
 
-## FAQ
-
-### Does homeowner's insurance cover a power surge that damages my TV?
-
-It depends on the cause. If lightning strikes your home and causes the surge, most standard policies will cover the resulting damage. If the surge originates from your utility's grid without a direct lightning strike, coverage is spottier and often excluded. An equipment breakdown endorsement can cover that gap.
-
-### Is my laptop covered if I accidentally spill coffee on it?
-
-Almost certainly not under a standard policy. Accidental damage from liquid spills is excluded from most HO-3 policies. A scheduled personal property endorsement or a product like AppleCare+ (for Apple devices) would typically cover this scenario.
-
-### What happens if my electronics are stolen from my car?
-
-Your auto insurance doesn't cover personal property inside the vehicle. Your homeowner's or renters policy does, but it may apply a 10% off-premises sub-limit, meaning only 10% of your total personal property coverage applies to items stolen away from your home. Check your policy for the exact language.
-
-### Does renters insurance cover my electronics the same way homeowner's insurance does?
-
-Largely yes, with the same gaps. Personal property coverage in a renters policy works on the same named-perils or open-perils logic, with the same ACV versus replacement cost distinction, and the same sub-limits on computers and electronics. If you're renting, the coverage questions here apply to you in equal measure.
-
-### Can I insure a home recording studio or video production setup under my homeowner's policy?
-
-Probably not fully, and this is a real trap. Equipment used for business purposes is often excluded or severely sub-limited under personal property coverage. A home business endorsement or a separate inland marine policy designed for professional equipment is usually the right answer here. Talk to a licensed independent agent about what fits your setup.
 
 ## Helpful Resources
 

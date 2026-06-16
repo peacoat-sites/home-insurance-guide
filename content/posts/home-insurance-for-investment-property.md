@@ -137,27 +137,6 @@ For water leak detection specifically, placing [smart water sensors](https://www
 
 ---
 
-## Frequently Asked Questions
-
-### Can I just add my rental property to my existing homeowners policy?
-
-No. A homeowners policy insures an owner-occupied primary or secondary residence. A property you rent to tenants full-time requires a separate landlord policy (DP-3). Adding the rental property address to your homeowners policy won't create valid coverage for it, and if you file a claim without proper disclosure, the insurer can deny it.
-
-### What's the difference between a DP-1, DP-2, and DP-3 policy?
-
-These are three tiers of dwelling fire policies. A DP-1 is the most basic, covering only named perils like fire, lightning, and internal explosion. A DP-2 adds more named perils. A DP-3 is open-peril, meaning it covers all causes of loss except those specifically excluded, which gives you much broader protection. For a property that represents a significant financial asset, DP-3 is almost always the right choice.
-
-### Does landlord insurance cover my tenants' belongings?
-
-No. Your landlord policy covers the structure and your own property within it (like appliances you own). Tenants' personal belongings are their responsibility. That's exactly why encouraging or requiring tenants to get renters insurance is in everyone's interest. The [home insurance vs renters insurance](/home-insurance-vs-renters-insurance/) comparison explains what each policy covers and why they're designed to work together.
-
-### How much does landlord insurance typically cost compared to homeowners insurance?
-
-Landlord insurance generally costs somewhere between 15% and 25% more than a comparable homeowners policy, primarily because the risk profile of tenant-occupied properties is statistically higher. The exact premium depends on location, property age, construction type, coverage limits, and claims history. Shopping multiple insurers matters here.
-
-### What happens to my landlord insurance if the property sits vacant between tenants?
-
-Most landlord policies include a vacancy clause that limits or eliminates coverage after the property has been unoccupied for 30 to 60 consecutive days. The specific threshold depends on your policy. If you anticipate a longer vacancy, contact your insurer before it happens to ask about a vacancy endorsement or a standalone vacant property policy. Don't let coverage lapse silently.
 
 ---
 

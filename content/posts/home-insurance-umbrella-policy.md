@@ -142,27 +142,6 @@ A few extra precautions also lower your overall liability exposure. [Water leak 
 
 ---
 
-## Frequently Asked Questions
-
-### Does an umbrella policy cover lawsuits related to social media posts?
-
-Often yes, though with limits. Many umbrella policies include personal injury coverage that extends to defamation, libel, and slander. A negative review that someone claims damaged their business, or a post that becomes the basis of a defamation claim, can potentially trigger this coverage. The key qualifier is that the act must be unintentional. If you knowingly published false information, the intentional acts exclusion applies. Review your policy's personal injury definition carefully, because this varies by carrier.
-
-### Can I buy an umbrella policy if my homeowner's and auto insurance are with different companies?
-
-Yes, but it's more complicated. Some carriers will issue an umbrella independently, but they'll require proof that your underlying policies meet their minimum thresholds, and they'll want documentation updated regularly. Others require you to hold at least your auto policy with them. Very few will issue an umbrella on top of underlying policies they don't control without scrutinizing the gap risk carefully. Bundling simplifies administration but isn't always required.
-
-### Does an umbrella policy cover me if I cause an accident in someone else's car?
-
-This depends on how your umbrella defines "insured." Most personal umbrella policies extend to you as an individual, so if you're driving a borrowed car and your auto liability doesn't fully cover a claim, the umbrella may step in. But the borrowed car's owner's insurance is typically primary, then your own auto policy, and then the umbrella. The sequence matters, and your policy document spells it out. If in doubt, ask your agent to walk through the coverage waterfall explicitly.
-
-### Will an umbrella policy cover a home-based business claim?
-
-Almost certainly not under a standard umbrella. Home-based business liability is one of the most consistently excluded categories. If a client slips at your home office, or a product you sell injures a customer, your personal umbrella will likely deny the claim as a business activity. You need either a home-based business endorsement on your homeowner's policy or a separate business owner's policy. Don't assume personal coverage extends to commercial activity, even if the activity feels casual.
-
-### How does the claims process work with an umbrella policy?
-
-You report the claim to your homeowner's insurer first. They investigate and defend using their process. If a judgment or settlement exceeds your underlying limit, the umbrella carrier steps in. You'll likely need to notify your umbrella carrier early in the process, even if you don't know yet whether the underlying limit will be exceeded. Most umbrella policies require prompt notice of any event that might trigger coverage, and delayed notice can become grounds for a coverage dispute. When in doubt, notify both carriers simultaneously.
 
 ---
 

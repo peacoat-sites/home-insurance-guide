@@ -119,27 +119,6 @@ For most homeowners, the relevant comparison is HO-3 versus HO-5. The HO-5 costs
 
 ---
 
-## FAQ
-
-### Why did my premium go up even though I didn't file a claim?
-
-Several things can trigger a renewal increase with no claim involved: rising construction costs in your area, increased regional catastrophe exposure (wildfire, hurricane activity), changes in your credit-based insurance score, or simply the insurer re-rating its entire book of business in your state. Inflation in materials and labor has driven this harder over the past several years than at almost any prior point.
-
-### What's the difference between replacement cost and actual cash value?
-
-Replacement cost pays what it costs to replace a damaged item with a new equivalent today. Actual cash value deducts depreciation, so a 10-year-old roof or a five-year-old laptop is worth a fraction of what replacing it costs. The premium difference between these two options is usually modest. The claim difference can be enormous.
-
-### Does filing a small claim make sense?
-
-Usually not. A $700 claim that's smaller than your deductible is obvious, but even a claim slightly above your deductible can cost you more over three to five renewal cycles than you received in the payout. I've seen clients collect $1,200 and pay an extra $300 to $400 per year for three years as a result. Run the math before you call.
-
-### How does my credit score affect my premium?
-
-Insurers use a credit-based insurance score, derived from credit data but calculated differently than a FICO score, to predict claim likelihood. Better credit typically correlates with lower premiums in states where this practice is permitted. California, Massachusetts, and Maryland have restrictions on its use. If your credit has improved significantly since you first bought your policy, a requote or formal request for re-rating may reduce your premium.
-
-### What's the most overlooked coverage gap in a standard policy?
-
-Sewer and water backup. Most HO-3 policies explicitly exclude damage from water that backs up through a drain or sump. A backed-up sewer line can cause tens of thousands of dollars in damage to floors, walls, and personal property. The endorsement to add this coverage typically costs between $50 and $150 per year. Few agents proactively mention it. Ask for it specifically.
 
 ---
 

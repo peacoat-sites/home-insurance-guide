@@ -112,27 +112,6 @@ The takeaway: the further you get from a real human with local knowledge, the le
 
 ---
 
-## Frequently Asked Questions
-
-### Is a home insurance calculator the same as a replacement cost estimator?
-
-They're closely related but not identical. A replacement cost estimator specifically focuses on what it would cost to rebuild your home today using current materials and labor. A broader home insurance calculator may also factor in personal property limits, liability, and other coverage components. Most online tools are really doing replacement cost estimation, even if they call themselves insurance calculators.
-
-### Why does my calculator result differ from my current policy's dwelling limit?
-
-This is extremely common, and it's a warning sign worth investigating. Your current limit may have been set years ago without being adjusted for inflation or construction cost increases. It may also have been set too low originally if a previous agent used a generic estimate rather than a detailed assessment. The gap between the two numbers isn't a technical error. It could mean you're underinsured.
-
-### Should I insure my home for its market value or its replacement cost?
-
-Replacement cost, always. Market value includes the land, which can't burn down, and reflects neighborhood demand rather than what it costs to rebuild. In some markets, replacement cost exceeds market value. In others, it's lower. Setting coverage based on your Zillow estimate is one of the most common and costly mistakes I saw during my time in claims.
-
-### Can I trust a calculator provided by my insurance company's website?
-
-Treat it as an estimate, not a final answer. Insurers have an incentive to write accurate policies, but their calculators still rely on the inputs you provide and a cost database that may not reflect the most current local conditions. Always cross-check with at least one other tool, and ask your agent to walk through the assumptions the calculator used.
-
-### How often should I recalculate my home's replacement cost?
-
-At minimum, once a year at renewal. More often if you've done significant renovations, if local construction costs have shifted sharply, or if you've had a major weather event in your area that's put contractor demand through the roof. A coverage level that was accurate two years ago may have drifted meaningfully out of step with what it would actually cost to rebuild today.
 
 ---
 

@@ -110,27 +110,6 @@ I've watched homeowners make the same errors repeatedly. Knowing them in advance
 
 ---
 
-## FAQ
-
-### How many quotes should I get when shopping for homeowners insurance?
-
-Get at least three, and make sure they're structured identically. One from a national carrier, one from a regional carrier if possible, and one from a broker who can access multiple markets. That spread usually gives you a realistic picture of your pricing range and the coverage differences between companies.
-
-### Is bundling home and auto insurance always the best deal?
-
-Usually bundling produces real savings, often 10% to 20% on one or both policies. But not always. Run the numbers independently. Sometimes the bundled home policy comes from a carrier with a poor claims reputation, or the combined savings don't offset a significantly higher premium on one side of the bundle.
-
-### What questions should I ask an insurance agent before buying?
-
-Ask what your policy's dwelling coverage limit is and how it was calculated. Ask whether personal property is covered on a replacement cost or actual cash value basis. Ask what the most common exclusions are. Ask what happens if your home is underinsured at the time of a claim. Ask how they handle claims for your policy type specifically. The answers will tell you a lot about whether you're working with someone who knows the product.
-
-### Can I switch homeowners insurance companies anytime?
-
-Yes. You can cancel a homeowners policy mid-term. You'll typically receive a prorated refund for the unused portion of your premium. If your policy is escrowed through your mortgage, notify your lender immediately so they can update the escrow account and process the new premium correctly.
-
-### Do I need extra coverage if I work from home or run a small business?
-
-Most likely, yes. Standard HO-3 policies have very limited coverage for business property and essentially no coverage for business liability. If you have clients visiting your home, significant business equipment, or inventory stored at home, talk to your agent about an in-home business endorsement or a separate business owner's policy.
 
 ---
 

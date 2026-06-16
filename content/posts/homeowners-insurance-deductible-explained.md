@@ -111,27 +111,6 @@ Adding a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home&t
 
 ---
 
-## FAQ
-
-### Does my deductible apply to every type of claim?
-
-Not always. Liability claims, for instance, typically don't carry a deductible. If someone is injured on your property and sues, your liability coverage generally pays without you contributing a deductible. Medical payments coverage usually works the same way. Deductibles primarily apply to property damage claims under Coverage A (dwelling) and Coverage C (personal property).
-
-### Can I negotiate my deductible amount with my insurer?
-
-You can select from the options your insurer makes available, but you generally can't name an arbitrary number. Most insurers offer tiered choices, such as $500, $1,000, $2,500, or $5,000. In some states and markets, your options for peril-specific deductibles may be more constrained, particularly in coastal areas where regulators allow percentage deductibles as a condition of insurers participating in the market at all.
-
-### If I have a $2,500 deductible and my damage is $2,400, do I get anything?
-
-No. The deductible is the threshold your claim must exceed before any payment is made. If your covered loss is less than your deductible, the insurer pays nothing. This is exactly why filing a claim for borderline amounts can hurt you: you absorb the full cost anyway, but the claim still appears in your history.
-
-### How does my deductible interact with an ACV versus RCV settlement?
-
-This is an important sequence to understand. Under a replacement cost value policy, depreciation is initially withheld. You receive the actual cash value minus your deductible, then you can claim the depreciation holdback after completing repairs. Under an actual cash value policy, you receive the depreciated value minus your deductible, with no additional payment. The combination of depreciation and a high deductible can significantly reduce your net recovery, particularly on older homes or aging systems.
-
-### Will raising my deductible always lower my premium?
-
-Generally yes, but not always proportionally. Going from a $500 to a $1,000 deductible often produces a more meaningful premium reduction than going from $2,500 to $5,000. The relationship isn't linear, and the savings vary significantly by state, insurer, and coverage amount. Always ask for the specific dollar difference before making a decision based on the assumption that a higher deductible equals meaningful savings.
 
 ---
 

@@ -78,27 +78,6 @@ One practical move: build a home inventory before you need it. Apps like Encircl
 
 ---
 
-## Frequently Asked Questions
-
-### Where do I find my declarations page?
-
-Your insurer sends it at the start of every policy term, usually by mail or email. It's also available in your online account portal under "Policy Documents." If you can't find it, call your agent and ask them to send a copy.
-
-### How is the declarations page different from the full policy?
-
-The declarations page is the summary. The full policy is the legal contract that contains all the conditions, exclusions, and definitions. You need both. The declarations page tells you your coverage amounts; the full policy tells you the fine print around when and how those amounts are paid.
-
-### Can I change the coverage amounts on my declarations page?
-
-Yes, and you probably should review them annually. You can call your agent or make changes through your insurer's website. Increasing your dwelling coverage, adjusting deductibles, or adding endorsements will update what appears on your next declarations page.
-
-### What does "HO-3" mean on my declarations page?
-
-It's the policy form type. HO-3 is the most common homeowner policy, covering your dwelling on an "open perils" basis (everything is covered unless specifically excluded) and your personal property on a "named perils" basis (only specific events are covered). HO-5 offers broader personal property coverage. HO-4 is renters insurance. These abbreviations show up at the top of most declarations pages.
-
-### Should I review my declarations page every year?
-
-Yes. Every year without exception. Your rebuild costs change, your belongings change, your home improvements change. A covered porch addition that you never reported to your insurer could mean your Coverage A is too low. Set a calendar reminder for two weeks before your renewal date and actually read it.
 
 ---
 

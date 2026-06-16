@@ -105,27 +105,6 @@ Finally, don't assume your insurer will volunteer information about coverage gap
 
 ---
 
-## Frequently Asked Questions
-
-### Does dwelling coverage pay for hotel stays while my home is being repaired?
-
-No. That's covered under a separate part of your policy called Coverage D, or loss of use coverage. This pays for additional living expenses like hotel costs, restaurant meals, and laundry while your home is uninhabitable due to a covered loss. Your dwelling coverage only applies to the physical structure.
-
-### If I have a finished basement, does dwelling coverage include it?
-
-Generally yes, since finished basement space is part of the dwelling's square footage and structure. However, if the damage was caused by flooding rather than a covered peril, your standard dwelling coverage won't pay for it regardless. Water intrusion from outside the home typically requires flood insurance.
-
-### Can I set my dwelling limit higher than my insurer recommends?
-
-Yes, and in many cases you should. Insurers set a suggested limit, but you're not obligated to accept it. If an independent estimate shows higher rebuild costs, you can request a higher limit. You'll pay a higher premium, but that's the point.
-
-### What happens if my home is a total loss and my dwelling limit isn't enough to rebuild?
-
-You bear the difference out of pocket. This is the scenario that destroys people financially after a major disaster. If you don't have an extended or guaranteed replacement cost endorsement, your insurer's obligation ends at your stated Coverage A limit. This is why reviewing your limit annually and after renovations is so important.
-
-### Does dwelling coverage apply to detached structures on my property?
-
-No. Detached structures like a separate garage, fence, or storage shed fall under Coverage B, other structures. This is a separate sublimit, typically set at 10% of your Coverage A dwelling limit by default. If you have significant detached structures, verify that 10% is actually sufficient to rebuild them.
 
 ---
 

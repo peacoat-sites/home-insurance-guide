@@ -80,27 +80,6 @@ One thing worth doing before you buy any sensor: check whether your insurer requ
 
 ---
 
-## FAQ
-
-### Will any water leak sensor qualify for an insurance discount?
-
-Not always. Some insurers require WiFi-connected sensors that log alerts, others require automatic shutoff capability, and a few have no formal discount program at all. Call your insurer before purchasing a device and ask specifically what qualifies.
-
-### How much can I realistically save?
-
-The honest answer is: it varies widely and is often smaller than marketing suggests. Discounts typically range from 5% to 10% off a portion of your premium, not the whole thing. On a $1,200 annual premium that might mean $15 to $60 per year. Some carriers offer more, especially for whole-home automatic shutoff systems.
-
-### Does installation have to be professional to qualify?
-
-It depends on the insurer and the device. Simple passive sensors are almost universally self-installed, but some carriers require professional installation for main-line shutoff systems to honor a discount or to honor a claim where the device malfunctions. Get that confirmed in writing if you can.
-
-### Can I claim a discount retroactively if I already have sensors installed?
-
-Yes, in most cases. Call your insurer, tell them what you have, provide whatever documentation they request (usually a photo or a receipt), and ask them to apply the discount going forward. You likely won't get a refund on past premiums, but there's no reason to keep paying the higher rate.
-
-### Do water sensors affect my deductible or how a claim is handled?
-
-No, they don't change your deductible or the claims process directly. What they can do is reduce the scope of damage before a claim is even necessary, which is ultimately more valuable than a discount. An insurer can't raise your rates for having sensors, either.
 
 ## Helpful Resources
 

@@ -110,27 +110,6 @@ Once you have your policy documents and inventory together, keep copies somewher
 
 ---
 
-## FAQ
-
-### How low is too low for a homeowners insurance premium?
-
-There's no universal floor, because premiums vary enormously by region, home age, construction type, and coverage terms. A $600 annual premium might be entirely appropriate for a small older home in a low-risk area or dangerously inadequate for a larger home near the coast. The number itself is less important than whether your Coverage A limit reflects actual rebuild cost, your deductible is something you can cover out of pocket, and you haven't lost critical endorsements like replacement cost or water backup coverage. Focus on the policy terms, not the price.
-
-### Is a higher deductible always a bad idea?
-
-Not at all. A higher deductible is a reasonable trade-off if you have liquid savings to cover it and you're not someone who files small claims regularly. Many insurance professionals suggest treating homeowners insurance as catastrophic coverage and self-insuring smaller losses. Filing a $1,800 claim on a $1,000 deductible policy can trigger a rate increase that costs you more than the claim paid out. Carry the deductible you can actually pay.
-
-### Can I negotiate my homeowners insurance premium?
-
-You can't negotiate the rate the way you'd negotiate a car price, but you can influence it through documented improvements, asking specifically for every applicable discount, and shopping multiple carriers. Being a loyal, long-term, claims-free customer also carries weight at some carriers in terms of retention pricing. Always ask what discounts are available before accepting the quote as final.
-
-### What's the difference between a named perils and an open perils policy?
-
-A named perils policy (often called HO-1 or HO-2) only covers the specific causes of loss listed in the policy. If it's not on the list, it's not covered. An open perils policy (HO-3 or HO-5) covers all causes of loss except those explicitly excluded. Open perils is the broader coverage and the standard for most homeowner policies today. Budget policies sometimes revert to named perils on personal property even when the structure is on open perils. Check which applies to your Contents coverage (Coverage C) specifically.
-
-### Does my credit score really affect my homeowners insurance premium?
-
-In most U.S. states, yes. Insurers use an insurance-based credit score (slightly different from your lending credit score) as a rating factor, based on research showing a correlation between credit behavior and claims frequency. A lower score can meaningfully raise your premium. Improving your credit over time may lead to rate reductions at renewal. A small number of states, including California, Maryland, and Massachusetts, restrict or prohibit this practice, so check your state's rules if this is a concern.
 
 ---
 

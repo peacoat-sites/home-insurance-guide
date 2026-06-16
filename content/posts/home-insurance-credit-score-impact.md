@@ -100,27 +100,6 @@ If you're dealing with this right now, here's how I'd approach it.
 
 ---
 
-## Frequently Asked Questions
-
-### Does checking my own credit hurt my insurance score?
-
-No. When you pull your own credit report, it's recorded as a "soft inquiry." Only "hard inquiries," the kind generated when you apply for credit, show up in the data insurers use. Checking your own report has zero negative impact. Do it regularly.
-
-### Can an insurer deny my application based on credit alone?
-
-In most states where credit scoring is permitted, yes, technically. In practice, most insurers use it as a rating factor rather than a hard eligibility gate. But some carriers do decline to write policies for applicants below a certain credit tier, particularly in voluntary market programs. If you're having trouble getting coverage, your state's FAIR Plan (insurer of last resort) cannot use credit as a disqualifying factor.
-
-### Will filing a homeowner claim hurt my credit score?
-
-No, not directly. Homeowner insurance claims don't show up on your credit report. Your credit score is unaffected by claims activity. However, claims are tracked separately in a database called CLUE (Comprehensive Loss Underwriting Exchange), maintained by LexisNexis, and prior claims can affect your insurability and your rate independent of your credit. These are two completely separate systems.
-
-### How long do negative credit items affect my insurance score?
-
-Most negative items, late payments, collections, defaults, age off your credit report after seven years. Bankruptcies can remain for up to ten years. As these items age and eventually fall off, your credit-based insurance score will generally improve assuming you've maintained better habits since. The trajectory matters as much as the absolute score.
-
-### My credit dropped during a divorce. What can I do?
-
-Request a life event exception from your insurer. Document the timeline: when the divorce proceedings began, how they affected joint accounts, any errors introduced to your report. Most states with credit scoring rules require insurers to offer this exception process in writing. Submit a formal written request, keep a copy, and follow up in writing if you don't hear back. If your insurer refuses to engage, your state insurance department has a consumer complaints process.
 
 ---
 

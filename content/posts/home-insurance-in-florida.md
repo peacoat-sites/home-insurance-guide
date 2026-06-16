@@ -104,29 +104,6 @@ Installing water leak sensors [(like these on Amazon, we may earn a commission)]
 
 Connecting with your [state's insurance department](https://www.naic.org/state_web_map.htm) through their consumer services division can also be valuable if you feel a rate increase is unjustified or a claim was handled improperly. Florida's Office of Insurance Regulation has a complaint process, and documented complaints do matter.
 
-## FAQ
-
-### Is it legal for my insurance company to cancel or non-renew my Florida homeowner policy?
-
-Yes, and it happens regularly. Florida law does require advance notice, typically at least 45 days for non-renewal and 90 days if the insurer is exiting the state entirely. But the insurer's right to non-renew is fairly broad. If your roof is old, if your home is in a high-risk coastal zone, or if the company is simply reducing its Florida exposure, they can decline to renew your policy when the term ends. Don't wait for the cancellation letter to start shopping for alternatives.
-
-### My insurer is only offering actual cash value for my roof. Is that standard in Florida now?
-
-It's become increasingly common, yes. After years of roof claim litigation, many Florida insurers revised their policies to limit roof coverage for older roofs. Whether this applies to your policy depends on your specific carrier, your roof's age, and the policy form. If you're on an ACV roof endorsement, understand what that means financially before the next storm season.
-
-### What happens if I can't find homeowner insurance in Florida at all?
-
-Citizens Property Insurance Corporation is your fallback option if you've been denied coverage by the private market. You'll need documentation showing you've been rejected or quoted premiums above Citizens' rates. Working with an independent insurance agent who writes both Citizens and private market coverage can help you navigate this.
-
-### Do I need to buy flood insurance even if I'm not in a flood zone?
-
-Yes, and I say this without hesitation. Flood zone maps are updated periodically and can be wrong. More importantly, flooding in Florida routinely happens outside designated high-risk zones. If you're in an "X" zone and believe you're safe, consider that FEMA data shows roughly 25% of flood claims come from low-to-moderate risk areas. Flood insurance outside high-risk zones is often more affordable than people expect.
-
-### What is a "takeout" offer and should I accept it?
-
-A takeout offer means a private insurer wants to assume your Citizens policy. You're not required to accept, but declining means you stay with Citizens. Before deciding, compare the new policy's coverage terms side by side with your Citizens policy, not just the premium. Pay particular attention to the hurricane deductible, roof coverage terms, and any exclusions that weren't in your Citizens policy.
-
-Florida's insurance market is genuinely hard right now, and I won't pretend otherwise. But homeowners who understand their policy, document their property, make smart coverage decisions, and stay engaged with the market are in a meaningfully better position than those who just auto-renew every year without looking. Given what's at stake in a state where a single storm season can change everything, that engagement is worth the effort. If you're uncertain about your specific situation, an independent agent or a licensed public adjuster can offer guidance tailored to your property and your actual risk.
 
 ## Helpful Resources
 

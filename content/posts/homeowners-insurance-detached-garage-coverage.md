@@ -81,27 +81,6 @@ Add a water leak sensor near any plumbing in the garage. Small investment, poten
 
 ---
 
-## Frequently Asked Questions
-
-### Does my homeowners policy automatically cover my detached garage?
-
-Yes, typically, but only up to the "other structures" limit, which defaults to 10% of your dwelling coverage. That limit often isn't enough to fully rebuild a detached garage, especially a finished or oversized one. You can usually increase it by requesting a Coverage B endorsement.
-
-### What happens if my garage has an apartment above it?
-
-If the space above the garage is a guest suite or in-law unit that you don't rent out, it still falls under Coverage B. The moment you rent it for income, standard other structures coverage likely won't apply. You'd need to disclose it to your insurer and get appropriate additional coverage.
-
-### Are my power tools covered if they're stolen from my detached garage?
-
-Possibly, but sublimits apply. Most HO-3 policies cover personal property in detached structures, but many cap coverage on tools, electronics, and other specific categories well below their actual value. Check the special limits of liability section of your declarations page.
-
-### Does a detached garage need its own insurance policy?
-
-No, not typically. Coverage through your homeowners policy is usually sufficient with appropriate limit adjustments. A separate policy would only make sense in unusual situations, like if the structure is on a different property parcel than your home.
-
-### Is my car covered inside the detached garage?
-
-The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof.
 
 ---
 

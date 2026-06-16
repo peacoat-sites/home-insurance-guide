@@ -86,27 +86,6 @@ What's not fine: assuming the servicer will figure it out. They won't always. I'
 
 ---
 
-## Frequently Asked Questions
-
-### Can I remove my home insurance from escrow?
-
-In some cases, yes. Once you've built substantial equity (typically 20% or more, though lenders vary), you can request to manage your own insurance payments. You'll need to demonstrate a consistent payment history and may need to formally petition your servicer. Not all lenders allow it even then, and honestly, the convenience is real -- the risk is that you become solely responsible for not missing a premium due date.
-
-### What happens if my escrow account doesn't have enough to pay my insurance premium?
-
-Your servicer will conduct an escrow analysis showing a shortage. They'll typically offer you two options: pay the shortfall as a lump sum now, or spread it across your monthly payments over the next 12 months, which increases your mortgage payment. Neither option is a penalty -- it's just a correction.
-
-### If my servicer doesn't pay my premium on time and my policy lapses, who's responsible?
-
-Legally this can get complicated, and the answer genuinely varies by state and by the specifics of your loan documents. In practice, you'll still bear the consequences of lapsed coverage first -- any claim during the gap period is your problem. Your servicer may be liable for damages caused by their error, but pursuing that takes time and often legal help. The smarter play is to monitor the payment yourself so it never gets to that point.
-
-### Does my lender's required coverage amount equal the right amount of insurance for me?
-
-No, and conflating the two is a real mistake. Lenders typically require coverage equal to the loan balance or replacement cost -- definitions vary -- and their minimum has nothing to do with whether you'd be made whole after a loss. Replacement cost valuations, which most good policies use, should reflect actual current construction costs in your area, which have risen sharply since 2020. Review your dwelling limit every couple of years, not just when you renew.
-
-### Will escrow automatically handle my flood insurance premium too?
-
-Sometimes, but not always. Federal law requires lenders to escrow flood insurance premiums for certain higher-risk loans, but not universally. If you're in a required flood zone, ask your servicer directly whether flood is being escrowed. If you're not in a required zone but bought flood coverage voluntarily, it's almost certainly not in escrow -- you're paying that directly, and you need to track it yourself.
 
 ---
 

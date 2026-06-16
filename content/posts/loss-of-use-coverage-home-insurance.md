@@ -93,27 +93,6 @@ Renters often carry lower coverage limits because rents and cost-of-living assum
 
 ---
 
-## Frequently Asked Questions
-
-### Does loss of use coverage pay for a hotel if I voluntarily leave during renovations?
-
-No. Loss of use requires that the displacement be caused by a covered peril that makes the home uninhabitable. Choosing to leave during an elective renovation, even a major one, doesn't trigger Coverage D. The home has to be genuinely unsafe or unlivable due to a covered damage event.
-
-### Will my insurer pay loss of use if I stay with family instead of a hotel?
-
-This depends on your policy language, but many insurers won't pay for hypothetical costs you didn't actually incur. Some policies do allow a reduced payment for "fair rental value" of the space you occupy, but you'll need to ask your insurer directly. Don't assume you'll be reimbursed for staying with your parents.
-
-### What if my repair takes longer than my policy's time limit?
-
-You may be responsible for living expenses beyond that point. This is one reason the [IBHS home fortification guides](https://ibhs.org/) recommend hardening your home proactively. Preventing severe damage in the first place reduces how long you'd be displaced. Beyond that, talk to your insurer early in the process about what options exist if repairs run long.
-
-### Can my landlord's insurance cover my loss of use as a renter?
-
-No. Your landlord's policy covers the building structure and the landlord's liability. It doesn't cover your personal property or your additional living expenses. That's precisely what your own renters insurance is for. If you don't have renters insurance, you'd have no coverage for displacement costs.
-
-### Should I get a water leak sensor to help protect my loss of use exposure?
-
-Honestly, yes. Not because it changes your insurance, but because catching a slow leak early can prevent the kind of extensive water damage that leads to displacement in the first place. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home) placed near appliances, water heaters, and under sinks costs very little and can prevent a six-figure claim, including months of living somewhere else. *(This site may earn a commission from qualifying purchases.)*
 
 ---
 

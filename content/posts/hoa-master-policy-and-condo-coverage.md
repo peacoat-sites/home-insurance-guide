@@ -79,27 +79,6 @@ I'll also say this clearly: [IBHS home fortification research](https://ibhs.org/
 
 ---
 
-## Frequently Asked Questions
-
-### Does the HOA master policy cover my personal belongings?
-
-No. Master policies are written to protect the building structure and common areas, not the contents of individual units. Your furniture, electronics, clothing, and other personal property require separate coverage under your own HO-6 policy.
-
-### What is loss assessment coverage and do I really need it?
-
-Loss assessment coverage protects you if your HOA charges unit owners to cover a loss that exceeds the master policy's deductible or limits. Given that master policy deductibles are frequently $25,000 or higher now, this coverage is genuinely worth carrying. It's usually inexpensive to add.
-
-### How do I know if my HOA has a bare walls-in or all-in policy?
-
-Request a copy of the master policy declarations from your HOA board or management company. The policy will identify the coverage basis, and your insurance agent can help you interpret it. This distinction directly determines how much dwelling coverage you need on your HO-6.
-
-### Am I covered if a guest is injured inside my condo?
-
-The HOA master policy covers liability in common areas, not inside your unit. Incidents that happen within your unit fall under your personal liability coverage, which is part of your HO-6 policy. Without it, you'd be personally responsible for any resulting claims.
-
-### What happens if a pipe in my unit leaks and damages my neighbor's unit?
-
-This is where things get genuinely complicated and fact-specific. Your HO-6 liability coverage may respond if the damage was caused by your negligence. Your CC&Rs may also allocate responsibility between owners. Some situations involve both policies. This is exactly the scenario where having your own policy with solid liability limits matters most, and where consulting your agent before anything happens is worth the time.
 
 ## Helpful Resources
 

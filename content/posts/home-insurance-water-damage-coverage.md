@@ -112,27 +112,6 @@ Your state's insurance department is also a resource worth knowing about. You ca
 
 ---
 
-## Frequently Asked Questions
-
-### Does homeowner insurance cover a leaking roof?
-
-It depends on why the roof is leaking. If a storm caused sudden damage and water entered as a result, that's generally covered. If the roof was already deteriorating due to age and lack of maintenance, the insurer will likely deny the claim under the maintenance exclusion. Document any storm damage immediately and have a licensed roofer assess and photograph the cause as soon as it's safe to do so.
-
-### Is mold covered under homeowner insurance?
-
-Mold coverage is limited and conditional in most standard policies. If the mold resulted directly from a covered water loss that you addressed promptly, some remediation costs may be covered. If the mold developed over time due to ongoing moisture or neglect, it's typically excluded. Many policies cap mold-related payments at a sublimit significantly lower than your overall dwelling coverage. Ask your agent specifically what that sublimit is.
-
-### Does my policy cover a dishwasher or washing machine leak?
-
-If the appliance suddenly and accidentally leaked or overflowed, the resulting water damage is generally covered. The appliance itself is usually not covered because homeowner insurance covers the structure and personal property, not mechanical failures. A home warranty or appliance protection plan is a separate product that may cover appliance repair or replacement. Be aware that if an adjuster determines the appliance had a slow leak over time, coverage for the resulting damage can be disputed.
-
-### What happens if my neighbor's plumbing causes water damage to my home?
-
-Your homeowner insurance can cover the damage to your property regardless of the source. You'd file a claim with your own insurer and pay your deductible. Your insurer may then pursue subrogation against your neighbor's liability coverage. If your neighbor's negligence is clear, their liability coverage may ultimately cover your losses, but don't wait on that process. File with your own insurer promptly to get your repairs moving.
-
-### If I install a water leak sensor, will my insurance premium go down?
-
-Some insurers offer small discounts for smart home monitoring devices including water leak sensors, though this varies considerably by company and state. The more significant benefit is loss prevention. Catching a leak early enough to shut off the water can mean the difference between a minor repair and a five-figure claim. Check with your specific insurer about any available discounts, and consider [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home) regardless of whether a discount applies. (This site may earn a small commission.)
 
 ---
 

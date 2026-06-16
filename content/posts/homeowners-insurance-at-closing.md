@@ -84,27 +84,6 @@ One practical thing before closing: do a home inventory now, while you're in mov
 
 ---
 
-## FAQ
-
-### Can I close on a house without homeowners insurance?
-
-Not if you have a mortgage. Lenders universally require proof of a paid policy before funding the loan. Cash buyers aren't legally required to carry insurance, but skipping it on a property you own outright is a significant financial risk most advisors wouldn't recommend.
-
-### Does it matter which insurer I choose, or just that I have coverage?
-
-Lenders care that the policy meets their minimum requirements and that they're listed correctly as mortgagee. Beyond that, the choice is yours. What matters to you is coverage quality, financial strength of the insurer, and what the claims process actually looks like. An AM Best rating of A or better is a reasonable baseline for insurer financial stability.
-
-### How far in advance do I need to buy homeowners insurance before closing?
-
-Technically, you just need the bound policy and paid premium before the closing date. Practically, give yourself three to four weeks, especially if you have an older home, prior claims on your record, or anything that might cause a standard carrier to hesitate.
-
-### What if my home has a prior claim in its history?
-
-Prior claims can affect your ability to get coverage, your premium, or both. Insurers check the CLUE (Comprehensive Loss Underwriting Exchange) report on a property, not just on you personally. A home with multiple water claims in the last five years is going to be a harder write. Find this out early so you're not surprised.
-
-### What happens if my insurance lapses after closing?
-
-Your lender will find out, usually faster than you'd expect. They require you to maintain continuous coverage as a loan condition. If your policy lapses, they can purchase force-placed insurance on your behalf and bill it to your escrow account. Force-placed insurance is expensive, covers only the structure (not your belongings), and protects the lender, not you. Avoid it entirely.
 
 ## Helpful Resources
 

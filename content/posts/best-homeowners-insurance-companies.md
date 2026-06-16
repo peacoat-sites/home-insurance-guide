@@ -110,27 +110,6 @@ Independent agents work with multiple carriers and can genuinely shop your cover
 
 ---
 
-## FAQ
-
-### How many quotes should I get before choosing a homeowners insurance company?
-
-Get at least three quotes, but don't stop at the price. Request the actual policy declarations page and the full coverage summary for each one. You're comparing coverage terms, not just premiums. A policy that costs $200 more per year but includes replacement cost on personal property and a water backup endorsement may save you $15,000 on a single claim.
-
-### Does my credit score actually affect my homeowners insurance premium?
-
-In most states, yes. Insurers use an "insurance credit score" (which is different from your FICO score) to help set premiums. The data suggests that people with lower credit scores file more claims, so insurers price accordingly. A handful of states, including California, Maryland, and Massachusetts, restrict or prohibit credit-based insurance scoring. Check what your state allows.
-
-### Should I file every claim or try to handle small losses out of pocket?
-
-This is a genuinely important question. Filing frequent small claims can trigger a non-renewal or a rate increase at renewal. My general rule of thumb: if the damage is less than twice your deductible, strongly consider paying out of pocket. Keep the claims process for the losses that would genuinely strain your finances. And consider installing [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=yourtag-20) in areas like under sinks, near water heaters, and behind appliances. Catching a leak early means you might never need to file a claim at all. *(This site may earn a commission on qualifying purchases.)*
-
-### What's the difference between a named perils and open perils policy?
-
-Open perils covers any loss that isn't specifically excluded. Named perils only covers events explicitly listed in the policy. Open perils provides broader protection and is generally worth paying for. The HO-3 form covers your dwelling on open perils but your personal property on named perils. An HO-5 policy extends open perils to your contents as well. Ask whether an HO-5 or equivalent endorsement is available if you have significant personal property.
-
-### How often should I review my homeowners insurance policy?
-
-At minimum, once a year at renewal. But also review it after any major renovation or addition to your home, after a large purchase (jewelry, electronics, art), after your mortgage is paid off, and after major changes in local construction costs. I've seen people pay premiums for years on a policy that hadn't been updated since they bought the house, only to discover they were underinsured by $150,000 or more.
 
 ---
 

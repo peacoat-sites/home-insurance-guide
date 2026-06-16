@@ -126,27 +126,6 @@ Here's a step-by-step approach to making sure these two products work together r
 
 ---
 
-## Frequently Asked Questions
-
-### Does home insurance cover appliance breakdown?
-
-Generally, no. Standard home insurance policies don't cover appliances that simply stop working due to age or mechanical failure. However, if an appliance is damaged by a covered peril, like a fire or a power surge in some policies, there may be coverage under personal property. Check your specific policy language and ask your agent directly.
-
-### Can I have both home insurance and a home warranty at the same time?
-
-Yes, and many homeowners do. They serve different purposes, so having both is reasonable if the cost makes sense for your situation. Think of insurance as your catastrophic protection and a warranty as your maintenance backup.
-
-### What happens if my insurer and warranty company both say the damage isn't covered?
-
-This is the gray zone, and it's more common than it should be. If a claim is denied by your insurer, you have the right to appeal and, if needed, file a complaint with your state's department of insurance. For warranty disputes, your contract likely requires arbitration. In either case, document everything: dates, names, photos, and written correspondence.
-
-### Is a home warranty the same as a builder's warranty?
-
-No. A builder's warranty comes from the builder who constructed your home and typically covers structural defects and workmanship for a set period after construction. A home warranty is a separate service contract you purchase. If you're in a new home, confirm what your builder's warranty covers before buying an additional home warranty plan.
-
-### Are home warranties regulated like insurance?
-
-Not in the same way. Home insurance is regulated by state insurance commissioners, which means there are consumer protections, required disclosures, and formal complaint processes. Home warranties are regulated more loosely, often as service contracts under state consumer protection laws. The National Association of Insurance Commissioners has pushed for clearer consumer protections in this space, but regulation still varies significantly by state.
 
 ---
 

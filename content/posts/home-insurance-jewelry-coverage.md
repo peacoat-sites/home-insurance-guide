@@ -72,27 +72,6 @@ This sounds tedious. It takes about an hour for most people. It is absolutely wo
 
 ---
 
-## Frequently Asked Questions
-
-### Does homeowner insurance cover lost jewelry?
-
-Generally, no, not under a standard base policy. Most HO-3 policies exclude "mysterious disappearance," which is the category that covers losses where there's no clear cause. To cover a ring you simply can't find, you'd need a scheduled jewelry endorsement that includes mysterious disappearance coverage.
-
-### How much does it cost to add jewelry coverage to a home insurance policy?
-
-It varies by carrier, location, and the value of the pieces, but a rough ballpark is $1 to $2 per $100 of appraised value per year. A $5,000 ring might add $50 to $100 annually to your premium. Getting the actual quote takes about five minutes and is worth doing before you assume it's too expensive.
-
-### Do I need an appraisal to schedule jewelry on my policy?
-
-Most carriers require one, yes. Some will accept a receipt for recently purchased items, but an appraisal from a certified gemologist is the standard. Make sure it's current, as a 10-year-old appraisal won't reflect what the piece is actually worth today.
-
-### Will making a jewelry claim raise my home insurance rates?
-
-It can. Jewelry claims are still claims on your homeowner policy, and some carriers do rate accordingly. This is worth discussing with your agent, and it's part of why some people with high-value pieces prefer a standalone specialty policy where the claims history doesn't follow them back to their home policy.
-
-### What's the difference between an endorsement and a floater for jewelry?
-
-They're typically the same thing, just different terms carriers use. A scheduled personal property endorsement, a jewelry floater, a valuable articles rider, these all refer to adding specific high-value items to your policy with individual coverage limits and broader perils. Don't let the terminology confusion stop you from asking your agent directly what options your carrier offers.
 
 ## Helpful Resources
 

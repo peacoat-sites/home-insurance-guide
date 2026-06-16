@@ -106,27 +106,6 @@ In my experience, the homeowners most likely to be underinsured for liability ar
 
 ---
 
-## Frequently Asked Questions
-
-### Does liability coverage protect me if someone is injured at my home during a party?
-
-Generally, yes, as long as the injury results from your negligence and the claim doesn't fall under an exclusion. If a guest trips over a rug and breaks a hip, your liability coverage should respond. However, if your guest was injured because of alcohol you served and your state has social host liability laws, the situation becomes more complex legally. Some states hold hosts partially responsible for injuries caused by guests who were visibly intoxicated. Standard policies cover this in many cases, but the details vary. Your insurer will investigate the circumstances before confirming coverage.
-
-### What happens if a contractor is injured while doing work at my home?
-
-This is a common area of confusion. Licensed and insured contractors should carry their own workers' compensation coverage, which would handle their own injuries on the job. If a contractor is properly licensed and insured, your liability coverage typically isn't the first line of defense. The risk increases significantly if you hire someone who is unlicensed and uninsured. In that situation, you could face a liability claim directly. Always ask for proof of insurance and licensure before any contractor starts work, and keep a copy.
-
-### Does my liability coverage follow me away from home?
-
-Yes, personal liability in a standard homeowner's policy typically covers you as an individual away from your home too, not just on your property. If you accidentally break someone's expensive camera while visiting their home, or your child damages someone else's property at school, your homeowner's liability coverage may apply. The key limitation is that it covers personal activities, not business activities.
-
-### Will my insurer defend me even if the lawsuit against me has no merit?
-
-Yes. The duty to defend is actually one of the most valuable parts of liability coverage. Your insurer is obligated to provide you with a legal defense when a covered claim is made against you, even if the lawsuit turns out to be groundless. Legal defense costs alone in a civil case can run into tens of thousands of dollars. This is separate from the settlement or judgment your insurer would pay. It means you don't have to pay out of pocket for an attorney the moment someone files a claim.
-
-### Can my liability coverage be canceled or non-renewed after I file a claim?
-
-Technically, yes, though insurers are regulated in how and when they can do this. A single liability claim generally doesn't automatically result in cancellation. However, multiple claims in a short period, or a claim that reveals a persistent high-risk condition on your property, can lead to non-renewal. Some insurers also exclude certain conditions from future coverage once a claim has been filed. This is another reason to consult with an independent agent rather than just accepting whatever your renewal notice says.
 
 ---
 

@@ -84,27 +84,6 @@ Adding replacement cost coverage for personal property is usually not expensive,
 
 ---
 
-## Frequently Asked Questions
-
-### What's the difference between replacement cost and market value?
-
-Market value is what a buyer would pay for your home, including the land. Replacement cost is what it would cost to rebuild the structure from the ground up. In most cases these numbers are different, sometimes dramatically so. Your insurance should be based on rebuild cost, not market value.
-
-### Does replacement cost coverage pay out right away?
-
-Usually not in full. Most policies pay actual cash value first, then release the "recoverable depreciation" after you complete repairs or replacement and submit proof of the expense. This is called a two-step payout, and it catches people off guard when they need cash upfront to start the work.
-
-### Can my insurer require me to increase my coverage limit?
-
-Yes. Many insurers have provisions that let them adjust your dwelling limit at renewal to keep pace with replacement cost estimates. This is called an inflation guard or automatic adjustment clause. Read your renewal documents rather than assuming nothing changed.
-
-### What happens if my contractor charges more than my insurer's estimate?
-
-This is one of the most common post-claim disputes. You can negotiate with your insurer, hire a public adjuster to advocate on your behalf, or invoke your policy's appraisal clause. Document everything and get multiple contractor bids in writing before accepting a settlement.
-
-### Is replacement cost coverage worth the higher premium?
-
-For most homeowners, yes, without much hesitation. The premium difference between ACV and RCV policies is rarely dramatic, but the difference in payout after a serious loss can be tens of thousands of dollars. The exception might be if your home is very old and you're planning to sell soon, but even then, you're still on the hook for repairs in the meantime.
 
 ---
 

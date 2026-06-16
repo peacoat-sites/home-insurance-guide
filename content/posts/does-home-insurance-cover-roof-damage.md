@@ -106,27 +106,6 @@ If you have an older home, the coverage considerations get even more layered, an
 
 ---
 
-## Frequently Asked Questions
-
-### Does home insurance cover a roof that just wears out over time?
-
-No. Normal wear and tear, age-related deterioration, and gradual weathering are not covered by any standard homeowner policy. Insurance is designed to cover sudden and accidental losses, not maintenance costs. If your shingles are curling, granules are washing away, or your roof is simply old, those repairs come out of pocket. This is a core distinction: insurance is not a home warranty.
-
-### What if the storm only damaged part of my roof?
-
-Insurers generally pay to repair or replace the damaged sections, not automatically the entire roof. If half your roof takes a hail hit and the other half is fine, the claim will typically address the damaged portion. This can create a practical problem: new shingles often don't match aged ones visually. Some policies include matching provisions; many don't. This is a detail worth asking about before you buy a policy.
-
-### Is there a separate deductible for wind and hail claims?
-
-In many states, yes. Wind and hail deductibles are common in storm-prone regions and are often calculated as a percentage of your home's insured value rather than a flat dollar amount. Review your declarations page to confirm whether you have a standard deductible, a named-storm deductible, or a separate wind/hail deductible. They work very differently.
-
-### Can I get dropped for filing a roof claim?
-
-It's possible. While a single claim typically won't result in non-renewal, it does go into your claims history via the CLUE (Comprehensive Loss Underwriting Exchange) database. Multiple claims in a short period, or a claim on a roof that your insurer already considered aged, can lead to policy changes or non-renewal at the end of your term. This doesn't mean you shouldn't file legitimate claims, but it's a real factor to weigh.
-
-### What can I do to make sure my roof is actually covered before a storm hits?
-
-Start by reviewing your declarations page and policy endorsements specifically for roof-related language. Look for ACV vs. RCV valuation, any cosmetic damage exclusions, and your deductible structure. Ask your agent directly: "If a hailstorm damaged my roof today, how would that claim be valued?" Consider a professional roof inspection, which gives you documentation of your roof's current condition. Some insurers offer discounts or better terms for impact-resistant roofing materials, so it's worth exploring that conversation if you're planning a replacement soon.
 
 ---
 

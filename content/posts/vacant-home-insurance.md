@@ -84,27 +84,6 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 ---
 
-## FAQ
-
-### Does my regular homeowner's insurance cover a vacant home?
-
-Only up to the vacancy threshold in your policy, which is usually 30 to 60 days. After that, your insurer can deny claims for many types of damage. Review your policy's vacancy clause and call your agent if you're approaching that window.
-
-### How much does vacant home insurance cost?
-
-Expect to pay significantly more than a standard policy for the same dwelling coverage, often 50 to 150 percent more annually, depending on location, how long the home has been empty, its condition, and what coverage limits you need. Get multiple quotes before buying.
-
-### Can I get vacant home insurance if I'm doing renovations?
-
-Sometimes, but active renovation work may require a builder's risk or dwelling under construction policy instead of a standard vacant home product. Ask the insurer specifically whether work being done on the property affects your coverage, and get the answer in writing.
-
-### What happens if I don't get vacant home insurance and something goes wrong?
-
-Your standard insurer can deny the claim based on the vacancy clause, and that denial will almost certainly hold up. You'd be paying for repairs or rebuilding entirely out of pocket on a property that may already be costing you carrying costs.
-
-### How often does someone need to check on a vacant home to keep coverage valid?
-
-This varies by policy, but weekly inspections are a common requirement, sometimes documented. Some insurers require a signed log. Ask your specific insurer what their inspection requirement is before you buy.
 
 ---
 

@@ -127,27 +127,6 @@ If a quake damages your home and you have earthquake coverage, your first hours 
 
 ---
 
-## Frequently Asked Questions
-
-### Does renters insurance cover earthquake damage?
-
-Standard renters insurance excludes earthquake damage for exactly the same reasons homeowners insurance does. The earth movement exclusion applies to personal property coverage under a renters policy. If you rent in a seismic zone, you can typically add an earthquake endorsement to your renters policy, just as homeowners can. The coverage structure is similar: a percentage deductible, dwelling-structure coverage doesn't apply (since you don't own the building), but personal property and loss of use can be covered.
-
-### Is earthquake coverage worth it in low-risk states?
-
-It depends on your specific location within that state and your financial situation. The New Madrid Seismic Zone affects areas many people consider "low-risk" because they don't think of the Midwest as earthquake country. If you're near that zone, or near any active fault, the "low-risk state" label can be misleading. Check USGS hazard maps, not just your state's general reputation.
-
-### Can I add earthquake coverage at any time, or are there waiting periods?
-
-Most insurers impose a waiting period of 10 to 30 days after you purchase earthquake coverage before it takes effect. The practical implication: you can't buy coverage after an earthquake is announced or after seismic activity in your area has already begun. Some insurers will suspend new earthquake policy sales entirely during a heightened seismic alert period. Buy it when things are calm.
-
-### Will my mortgage lender require earthquake insurance?
-
-Unlike flood insurance, which federally backed lenders require for properties in designated flood zones, there is no federal mandate requiring earthquake insurance. Your mortgage lender can't typically force you to buy it. That said, if you own a home in a very high-risk zone, some lenders do require it as a loan condition, so check your loan documents.
-
-### What does "loss assessment coverage" mean in the context of condos and earthquakes?
-
-If you own a condo in a seismic area, your homeowners association's master policy may not fully cover the building for earthquake damage. When repair costs exceed the master policy coverage, the HOA can assess individual unit owners for their share of the gap. Loss assessment coverage on your individual condo policy pays for those assessments, up to your policy limit. This is a real and often overlooked exposure for condo owners in high-risk zones.
 
 ---
 

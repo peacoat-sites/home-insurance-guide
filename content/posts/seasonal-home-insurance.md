@@ -80,27 +80,6 @@ Also worth asking: what is my deductible for wind and hail versus my standard de
 
 ---
 
-## Frequently asked questions
-
-### Does homeowner's insurance cover storm damage from hurricanes and tornadoes?
-
-Wind damage from storms is generally covered under standard homeowner's policies, but check whether your policy has a separate windstorm or hurricane deductible, which is common in coastal states. Flood damage from a hurricane is not covered under a standard policy; that requires separate flood insurance.
-
-### Is frozen pipe damage covered by homeowner's insurance?
-
-Usually yes, but there's a catch: most policies require that you took reasonable precautions to maintain heat in the home. If your pipes freeze because you turned the heat off entirely while traveling, your insurer may deny the claim on the grounds that the damage was preventable.
-
-### How often should I review my home insurance policy?
-
-At minimum, once a year at renewal time. You should also review it after any major home improvement, after a significant change in your local risk environment (new wildfire risk maps, updated flood zone designations), and after any major purchase that increases what you have to lose.
-
-### What's the difference between a water backup endorsement and flood insurance?
-
-A water backup endorsement covers damage from a backed-up sewer or drain, or a failed sump pump. Flood insurance covers water that enters your home from rising external water sources. They're addressing different scenarios, and in some situations, you'd want both.
-
-### Can I get coverage for a home I only live in part of the year?
-
-Yes, but you need to tell your insurer it's a secondary or seasonal property. Standard homeowner's policies often have vacancy clauses that can void or reduce coverage if the home sits empty for more than 30 to 60 days. A proper seasonal or secondary home policy, or a vacancy endorsement, keeps you protected during those gaps.
 
 ---
 

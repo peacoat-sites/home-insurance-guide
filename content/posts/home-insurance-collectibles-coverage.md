@@ -72,27 +72,6 @@ A home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+a
 
 The IBHS home fortification guides are focused on structural protection, but the broader principle applies to your possessions too: damage prevention matters as much as coverage. If you're storing vintage cards or paper ephemera, consider a climate-controlled space, not a basement or attic, and invest in a leak detection sensor near any water source. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=YOURTAG-20) run $20 to $40 and have saved people thousands.
 
-## FAQ
-
-### Does homeowner's insurance cover sports cards?
-
-Standard policies either don't cover sports cards specifically or lump them under a collectibles sublimit that may be as low as a few hundred dollars. If your collection has any significant value, you need to schedule individual high-value cards or get a separate collectibles floater to be properly protected.
-
-### How do I get my collectibles appraised for insurance purposes?
-
-For sports cards, professional grading from PSA, BGS, or SGC is typically accepted. For coins, PCGS or NGC certification. For other collectibles like vintage toys, art, or instruments, look for appraisers who are members of the American Society of Appraisers or the Appraisers Association of America. Some insurers accept recent comparable auction sales for items with active markets.
-
-### Will my insurance cover a collectible if it breaks accidentally?
-
-Not under a standard homeowner's policy, which generally doesn't cover accidental breakage. A scheduled personal articles floater or specialty collectibles policy typically does include accidental breakage, which is one of the main reasons collectors should schedule valuable items individually.
-
-### What happens if my collectible's value has gone up since I insured it?
-
-You'll only be paid what it was insured for at the time of the claim. If a card was scheduled at $3,000 and it's now worth $15,000, you're receiving $3,000. Review and update scheduled values regularly, especially for items in categories with volatile markets like sports cards, coins, or vintage electronics.
-
-### Is theft of collectibles covered by a standard homeowner's policy?
-
-Theft is generally a covered peril, but two things can undercut your claim: sublimits that cap the payout well below actual value, and exclusions for mysterious disappearance if you can't demonstrate a theft actually occurred. Scheduled coverage removes both problems for items you've listed individually.
 
 ---
 

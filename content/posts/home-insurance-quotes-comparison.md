@@ -114,27 +114,6 @@ Finally, if a quote comes from an unfamiliar company and the premium is dramatic
 
 ---
 
-## FAQ
-
-### How many quotes should I get before choosing a policy?
-
-Three is a common recommendation and a reasonable minimum. Five is better. The goal is to get enough data points to understand where your risk profile prices well and where it doesn't. Using an independent insurance broker can speed this up since they can access multiple carriers simultaneously, but you can also go directly to carriers yourself.
-
-### Does getting multiple insurance quotes hurt my credit score?
-
-Insurance inquiries are soft pulls in most states, not hard pulls, so they don't affect your credit score the way applying for a loan would. However, your credit-based insurance score is a separate scoring model that insurers use for rating purposes, not the same as your FICO score. Checking your own credit before shopping gives you a clearer picture of where you stand.
-
-### What's the difference between a named perils and open perils policy?
-
-A named perils policy covers your property only against losses specifically listed in the policy. Open perils (also called all-risk) covers everything except what's specifically excluded. For dwelling coverage, you generally want open perils. For personal property, many standard policies default to named perils, which is why reading the full policy form, not just the declarations page, matters so much.
-
-### Should I raise my deductible to get a lower premium?
-
-It depends on your financial situation and your claims history. Raising a deductible from $1,000 to $2,500 might save you $150 to $200 per year on your premium, but it also means absorbing an additional $1,500 out of pocket on any claim. If you have a solid emergency fund and a clean claims history, a higher deductible can make sense. If a $2,500 out-of-pocket would genuinely strain your finances, it's probably not the right trade-off.
-
-### Do I need separate flood or earthquake coverage?
-
-In almost every case, yes, if you face those risks. Standard homeowner policies exclude both. Flood insurance is available through the National Flood Insurance Program (NFIP) or private carriers. Earthquake insurance is a separate endorsement or standalone policy. Even if you're not in a high-risk zone, FEMA data consistently shows that a large share of flood claims come from moderate- and low-risk areas. Talk to a licensed agent about the specific risks in your ZIP code.
 
 ---
 

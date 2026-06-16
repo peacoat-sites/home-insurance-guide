@@ -115,27 +115,6 @@ Use this before signing anything. If you can't answer a question, that's a red f
 
 ---
 
-## FAQ
-
-### Will my insurer cancel my policy because my home is old?
-
-They can, and sometimes they do. Insurers can non-renew a policy if a home inspection reveals conditions they're not willing to cover, such as knob-and-tube wiring, a severely deteriorated roof, or unoccupied sections with deferred maintenance. Non-renewal isn't the same as cancellation mid-term, but the outcome for you is similar: you need new coverage fast. If this happens, contact your state's insurance commissioner office. Many states have FAIR Plans (Fair Access to Insurance Requirements) as a last-resort option for homes that can't get coverage in the standard market.
-
-### Can I get replacement cost coverage on a very old home?
-
-Yes, though it may require more shopping. Some specialty insurers focus specifically on historic and older homes and will write replacement cost policies that account for period-appropriate materials and craftsmanship. These policies cost more, but they're what you actually need if your home has irreplaceable architectural features. Ask your agent about specialty carriers and be prepared to provide documentation of the home's materials and any historic designation.
-
-### What if I've already made updates to electrical and plumbing?
-
-Document everything. Permitted work with a final inspection on record is the gold standard. If a previous owner updated the panel, replaced the wiring, or re-piped the home, gather whatever documentation exists: permits, inspection records, contractor invoices. When you apply for or renew coverage, disclosing these updates proactively often results in better rates and fewer exclusions.
-
-### Does my policy cover damage from old pipes just wearing out?
-
-Probably not. Standard homeowner policies cover sudden and accidental losses, not gradual deterioration. If a galvanized pipe develops a pinhole leak that slowly damages a subfloor over months, most insurers will deny the claim as maintenance-related. If that same pipe ruptures suddenly and floods your basement, you'd likely have coverage for the water damage, though possibly not for replacing the pipe itself. The distinction between "sudden" and "gradual" is one of the most contested areas in residential claims.
-
-### Should I tell my insurer about repairs I'm planning to make?
-
-Yes. If you've just purchased an older home and you're planning to re-wire or re-pipe within the next year, it's worth having that conversation with your insurer now. Some will write coverage with a condition that work is completed within a certain timeframe. Others may require the work first. Either way, transparency protects you: if you fail to disclose a known problem and then file a claim related to that problem, you may face a denial based on misrepresentation.
 
 ---
 

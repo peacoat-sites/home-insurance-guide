@@ -82,27 +82,6 @@ The [Insurance Institute for Business and Home Safety](https://ibhs.org/) has gu
 
 ---
 
-## Frequently Asked Questions
-
-### Can I be force-placed even if I never missed a payment?
-
-Yes. Force-placement is triggered by an insurance gap, not a mortgage payment gap. If your homeowner's policy lapses or gets cancelled for any reason, even an administrative error, your lender can place a policy regardless of your payment history.
-
-### Will force-placed insurance cover my personal belongings?
-
-No. Lender-placed insurance is a structural policy designed to protect the lender's interest in the building itself. It doesn't cover your furniture, clothing, electronics, or any personal property. It also typically doesn't include liability coverage.
-
-### How much notice do I get before force-placed insurance is activated?
-
-Federal rules generally require servicers to provide at least two notices before charging you for force-placed insurance, with the second notice sent at least 30 days after the first. That said, the clock starts when your coverage gap is detected, so acting quickly when you get the first notice matters.
-
-### Can I choose which insurer provides the force-placed policy?
-
-No. The lender selects the insurer. You can end the force-placed policy by providing proof of your own coverage, but you have no say in which company is used or what the premium will be.
-
-### What if the force-placed policy premium caused me to miss a mortgage payment?
-
-This gets complicated fast. Contact your loan servicer in writing, dispute the charge if it was applied in error, and document everything. If you're not getting resolution, file a complaint with your state's insurance department and consider reaching out to the CFPB. A HUD-approved housing counselor can also help you sort through your options at no cost.
 
 ## Helpful Resources
 

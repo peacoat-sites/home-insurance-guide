@@ -84,27 +84,6 @@ I'll be direct here: life insurance bundled with a P&C carrier (property and cas
 
 ---
 
-## Frequently Asked Questions
-
-### Is it always cheaper to bundle home and auto insurance?
-
-No, and that's the part nobody says clearly enough. Bundling produces a discount, but if the base rates at that carrier are higher than a competitor's, you can end up paying more in total even with the discount applied. Always compare the total combined cost against separate policies at different carriers.
-
-### Can I bundle policies if I have a claim history or poor credit?
-
-Yes, but your options may be narrower. Some carriers are more forgiving on claims history or credit-based insurance scores than others, and an independent agent can help you find carriers that will still offer competitive bundled pricing in your situation. Don't assume you can't bundle; just don't assume the first quote you get is the best one.
-
-### Will bundling affect my coverage quality?
-
-The discount itself doesn't change your coverage, but the insurer you choose absolutely affects what you're covered for and how claims are handled. Check complaint ratios through your state's insurance department before committing, and read the declarations page carefully rather than assuming all policies of the same type are equivalent.
-
-### How often should I re-shop my bundled policies?
-
-Every two years is a reasonable floor. More often if you've had a major life change (new home, teen driver added to auto, significant home renovation) or if you've noticed your premiums increasing more than 5% to 6% at renewal. Loyalty discounts are real, but they don't always keep pace with rate increases.
-
-### What happens to my discount if I need to remove one policy from the bundle?
-
-You'll typically lose the multi-policy discount on the remaining policy, which means the premium goes up even though you didn't change that coverage. Factor this in when you're deciding whether to keep, say, a motorcycle policy you rarely use. Dropping it might cost you more in lost bundling discounts than the policy itself was running.
 
 ---
 

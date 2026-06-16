@@ -88,27 +88,6 @@ Above-ground pools, inflatable pools above a certain size (often anything over 2
 
 ---
 
-## FAQ
-
-### Does my homeowner's insurance automatically cover my swimming pool?
-
-Your pool is typically covered for liability purposes under your standard homeowner's policy, but only if you disclosed it to your insurer when it was installed or purchased. If you didn't disclose, coverage could be denied when you need it most. Call your insurer and confirm it's on record.
-
-### How much liability coverage do I actually need if I have a pool?
-
-Most insurance professionals recommend a minimum of $300,000 to $500,000 in personal liability through your homeowner's policy, plus a separate umbrella policy of at least $1 million. The default $100,000 limit on many policies is dangerously low for a property with a pool.
-
-### Will my insurer drop me or raise my rates if I add a pool?
-
-Some insurers will non-renew policies after discovering an undisclosed pool, and most will adjust your premium when you add one. Rates typically increase based on pool type, safety features present, and your claim history. It's almost always better to disclose proactively than to have it come up during a claim.
-
-### Are guests injured in my pool covered differently than trespassers?
-
-Invited guests are covered under your personal liability coverage if they're injured and you're found negligent. Trespassers, especially children, can still trigger liability under the attractive nuisance doctrine even without an invitation. This is exactly why fencing and gate requirements exist.
-
-### Does a hot tub require the same disclosures as a pool?
-
-Yes, in most cases. Hot tubs carry their own injury and liability risks (scalding, drowning, electrical hazards) and are treated similarly to pools by most insurers. Disclose it, ask about specific coverage terms, and make sure it's properly maintained. A neglected hot tub is a liability waiting to happen.
 
 ---
 

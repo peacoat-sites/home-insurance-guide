@@ -121,27 +121,6 @@ This table isn't meant to show you exact dollar amounts. Those vary too much by 
 
 ---
 
-## Frequently Asked Questions
-
-### Can my insurer cancel my policy because of a surcharge, or is the surcharge instead of cancellation?
-
-These are two separate decisions. A surcharge means your insurer wants to keep you but at a higher price. Cancellation or non-renewal is a different action. However, multiple claims in a short window can prompt an insurer to non-renew you after the policy term ends, even while currently applying a surcharge. If you receive both a surcharge notice and any language about non-renewal, treat that seriously and start shopping immediately.
-
-### Do I have to tell my insurer about my dog, pool, or trampoline?
-
-You're not legally required to call them the moment you adopt a dog. But failing to disclose a material change in your property can give an insurer grounds to deny a related claim. If your dog bites someone and your insurer discovers it was a breed they would have excluded, you may find yourself with no coverage for that liability. Disclosure protects you as much as it affects your premium.
-
-### Will shopping for a new policy reset my claims history?
-
-No. Your claims history lives in your CLUE report and follows you from insurer to insurer. What changes is how different insurers weight and price that history. One claim three years ago might be ignored by some carriers and heavily penalized by others. Shopping doesn't erase the history, but it can absolutely change what you pay for it.
-
-### My premium went up but I got no explanation. Is that legal?
-
-It depends on your state. Most states require insurers to provide a written explanation when a premium increases beyond a certain threshold due to individual underwriting factors. A broad rate increase applied to all policyholders may not require individual notice. If your increase feels personal and unexplained, contact your state's department of insurance. The NAIC website can direct you to your specific state regulator.
-
-### I disputed a CLUE error. How long does it take to resolve, and will my premium come down?
-
-LexisNexis is required to investigate disputes within 30 days under the Fair Credit Reporting Act (FCRA), which covers consumer reporting agencies. If the error is corrected, you can then present the updated report to your insurer and request a re-rating. Whether your premium comes down depends on whether the disputed item was the basis for the surcharge, and most insurers won't make the change retroactively. You'll typically see the correction reflected at your next renewal.
 
 ---
 

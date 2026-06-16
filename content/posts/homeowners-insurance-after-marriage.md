@@ -84,27 +84,6 @@ While you're at it: [water leak sensors](https://www.amazon.com/s?k=water+leak+s
 
 ---
 
-## FAQ
-
-### Does my spouse automatically get added to my homeowners policy when we get married?
-
-No. Marriage doesn't automatically update your policy. You need to contact your insurer and explicitly add your spouse as a named insured. Don't assume it happened; confirm it in writing.
-
-### Will combining households raise my homeowners insurance premium?
-
-Possibly, but not dramatically for most couples. Adding a spouse and updating your personal property coverage limit may nudge your premium up slightly. Bundling discounts and improved credit profiles (some insurers use credit scores as a rating factor) can offset that. It varies by insurer and [your state's](https://www.naic.org/state_web_map.htm) regulatory environment.
-
-### What happens to my spouse's renters insurance when they move into my home?
-
-Cancel it once they've fully moved out of the old rental. Their belongings are now covered under the shared homeowners policy, assuming you've added them as a named insured. Paying for both simultaneously is just waste.
-
-### Do we need separate policies if we own two properties?
-
-Your primary residence needs a homeowners policy. A second property that's vacant or being rented out needs different coverage entirely: a vacant home policy or a landlord/dwelling fire policy. A standard homeowners policy won't cover you correctly for those situations.
-
-### Is it worth getting an umbrella policy right after getting married?
-
-For most couples combining two incomes and meaningful assets, yes. The cost is low relative to the protection. If you have a dog, a pool, a trampoline, or a history of entertaining at home, I'd consider it a near-priority rather than a nice-to-have.
 
 ## Helpful Resources
 

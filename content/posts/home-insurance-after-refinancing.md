@@ -80,27 +80,6 @@ Tell your agent what you're planning before the work starts. Some insurers offer
 
 ---
 
-## FAQ
-
-### Does refinancing automatically change my home insurance policy?
-
-No. Refinancing doesn't trigger any automatic changes to your insurance policy. You have to proactively update the mortgagee clause to reflect your new lender, or your policy will still list the old one. Nothing about the closing process notifies your insurer on your behalf.
-
-### How quickly do I need to update my insurance after refinancing?
-
-Do it within a week of closing, ideally within a day or two. Your new lender may require proof of insurance with their name listed as mortgagee before they'll finalize certain paperwork, and some will flag your account quickly if they can't verify coverage.
-
-### What is force-placed insurance and why is it so bad?
-
-Force-placed insurance is a policy your lender buys on your behalf if they can't verify you have adequate coverage. It protects only their financial interest in the structure, not your belongings or your liability. It's typically far more expensive than a policy you'd buy yourself, and those costs get added to your mortgage payment.
-
-### Does refinancing affect how much coverage I need?
-
-Not directly, but it's a smart trigger to re-evaluate. Refinancing often coincides with changes in home value or planned renovations, both of which can affect how much dwelling coverage you should carry. At minimum, use it as a prompt to verify your replacement cost estimate is current.
-
-### Will my insurer notify me if there's a problem with my policy after refinancing?
-
-They'll try. But notices go to the address on file, and if you've moved or if your contact information has drifted, things fall through the cracks. Don't rely on your insurer to catch problems created by your refinance. Take about 20 minutes after closing to verify everything yourself.
 
 ---
 

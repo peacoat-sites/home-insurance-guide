@@ -118,27 +118,6 @@ For anyone who's gone years without inventorying their possessions, a home inven
 
 ---
 
-## FAQ
-
-### Will filing a claim always raise my premium?
-
-Not always, but often yes. Most insurers surcharge policies after one claim and more significantly after two claims within a rolling three-to-five-year window. The increase and duration vary by carrier and state regulations. Before filing any claim, especially for smaller losses close to your deductible, it's worth asking your agent to walk through the likely impact on your renewal rate. I've seen homeowners file $2,000 claims and pay an extra $400 per year for three years. The math doesn't always work in your favor.
-
-### How much can I actually save by bundling home and auto insurance?
-
-Bundling discounts typically range from 5 to 25 percent depending on the carrier and your state. What surprised me when I looked at this closely is that the discount isn't always evenly applied. Sometimes the savings are heavier on the auto side. Get the total combined premium both ways and compare the actual dollar difference, not just the percentage.
-
-### Does my credit score really affect my home insurance premium?
-
-In most states, yes. Insurers use a credit-based insurance score (which is similar to but not identical to your credit score) as a rating factor. The correlation they're acting on is statistical: homeowners with lower credit-based insurance scores file more claims on average. If your credit has improved significantly since you took out your policy, ask your insurer to re-run your insurance score at renewal.
-
-### Is it worth paying for endorsements like water backup or equipment breakdown coverage?
-
-Usually yes, especially water backup coverage. Standard homeowner policies exclude water that backs up through sewers or drains, and I've processed those claims. They're devastating and common. Water backup endorsements are typically inexpensive (often under $100 per year) relative to the potential payout. Equipment breakdown coverage, which covers HVAC systems, appliances, and similar equipment failing from mechanical or electrical breakdown, is worth evaluating based on the age of your systems.
-
-### Should I tell my insurer about every home improvement I make?
-
-Yes, with nuance. Improvements that increase the replacement cost of your home (additions, high-end kitchen remodels, finished basements) should be reported so your dwelling coverage limit stays adequate. Improvements that reduce risk (new roof, updated electrical, security systems) should be reported because they may earn you a discount. The only reason to hesitate is if an improvement reveals an unpermitted prior condition, which is a separate conversation to have carefully with your agent.
 
 ---
 

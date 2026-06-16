@@ -90,29 +90,6 @@ If you've done significant renovations since your policy was last updated, like 
 
 Keeping a detailed home inventory is one of the most underrated things a homeowner can do. There are solid home inventory apps that let you photograph, catalog, and store records of your belongings and improvements. Storing physical copies of your policy, deed, and appraisals in a fireproof document safe [like this one on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) *(the site may earn a commission on qualifying purchases)* is a basic step that pays off when you actually need those documents mid-claim.
 
-## Frequently Asked Questions
-
-### Does extended replacement cost mean I don't have to worry about my coverage limit?
-
-No. ERC adds a percentage buffer above your limit, so the limit still matters. If your Coverage A is significantly underestimated, even a 50% ERC buffer may not cover a full rebuild. Your policy limit should reflect an accurate current rebuild cost before you rely on ERC as your safety net.
-
-### How much does extended replacement cost coverage typically add to my premium?
-
-The research here is mixed and highly variable by insurer and location. In general, upgrading from standard RCV to 25% ERC is often a modest premium increase relative to the protection it provides. Getting quotes with multiple ERC percentage options is the most reliable way to understand your specific cost difference, since general averages won't tell you much.
-
-### Can I get extended replacement cost on an older home?
-
-Sometimes, but with conditions. Insurers may require an updated appraisal or an "agreed value" endorsement for older homes with custom or hard-to-source materials. Some carriers will offer ERC but exclude matching costs for materials no longer in production. Read the exclusions carefully.
-
-### What's the difference between extended replacement cost and an inflation guard?
-
-Inflation guard is an endorsement that automatically increases your Coverage A limit each year by a set percentage to track construction cost inflation. ERC is a percentage buffer beyond whatever your limit happens to be. Ideally, you'd have both: an inflation guard keeping your base limit current, and ERC providing a buffer for unexpected cost spikes.
-
-### Should I also install water leak detection if I'm thinking about coverage improvements?
-
-Water damage is one of the most common and costly homeowners claims, and it's worth addressing alongside your coverage review. Installing [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor) *(the site may earn a commission)* near appliances and in basements can catch slow leaks before they become major claims. Some insurers offer premium discounts for documented smart home devices, so ask your agent directly.
-
-The bottom line is that most homeowners are one disaster away from discovering their policy doesn't do what they think it does. Extended replacement cost isn't a luxury add-on. For anyone living in an area with weather risk, wildfire exposure, or a tight local contractor market, it's basic financial protection. Talk to an independent insurance agent, not just the company's own representative, and ask the hard questions before the next renewal. Your state's insurance department can also help you understand your rights and available options. The conversation is much easier to have now than after a total loss.
 
 ## Helpful Resources
 

@@ -120,27 +120,6 @@ Defensible space, fire-resistant roofing, and ember-resistant vents can all affe
 
 ---
 
-## Frequently Asked Questions
-
-### Does renters insurance cover fire damage too?
-
-Yes. Renters insurance covers your personal belongings in a fire and typically includes additional living expenses if you're displaced. What it doesn't cover is the physical structure of the building, that's your landlord's responsibility under their policy. If you're a renter, you might be wondering whether your landlord's insurance will take care of you. It won't. Your landlord's policy covers the building, not your furniture, clothing, or electronics.
-
-### What if the fire started in a neighbor's unit or property?
-
-Your own policy covers your losses regardless of where the fire originated. You may also have a subrogation claim against your neighbor (or their insurer) if they were negligent, but your insurer handles that process, not you. Don't wait to file your own claim while hoping your neighbor's insurance will step up.
-
-### How long does a fire insurance claim typically take to settle?
-
-Simple claims with good documentation and no disputes can settle in a few weeks. Complex claims involving total losses, large personal property inventories, or coverage disputes can take many months. Additional living expenses are paid on an ongoing basis throughout, not as a lump sum at the end.
-
-### Can my claim be denied if I had a candle burning or fell asleep and left the stove on?
-
-Generally no. Negligence on your part does not void fire coverage. Homeowners insurance is explicitly designed to cover accidental and negligent fires. The exceptions are intentional acts, fraud, or exclusions specifically named in your policy. An adjuster will ask how the fire started, but an honest accidental cause is not grounds for denial.
-
-### Should I hire a public adjuster after a major fire loss?
-
-For significant losses, many people find a public adjuster valuable. They work for you, not the insurer, and handle documentation, estimation, and negotiation on your behalf. They typically charge 10 to 15 percent of the final settlement. That cost can be worth it on a complex total-loss claim. Be cautious of anyone who approaches you unsolicited at your property in the days after a fire. Legitimate public adjusters exist, but so do opportunists. Verify their license through your state's insurance department before signing anything.
 
 ---
 

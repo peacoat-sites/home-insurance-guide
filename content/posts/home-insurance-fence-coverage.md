@@ -85,27 +85,6 @@ The [IBHS fortification guides](https://ibhs.org/) also have recommendations for
 
 ---
 
-## FAQ
-
-### Is my fence covered under homeowner insurance?
-
-Most standard homeowner policies cover fences under the "other structures" (Coverage B) section, but coverage is limited to specific causes of damage and subject to your deductible and any applicable sublimits. Check your declarations page for a separate fence sublimit, which can be much lower than your overall Coverage B amount.
-
-### What happens if my neighbor's tree falls on my fence?
-
-In most cases, you'd file a claim with your own insurer. Your neighbor is generally only liable if you can prove they knew the tree was a hazard and failed to address it. Your insurer may pursue subrogation against the neighbor's liability coverage, but that process doesn't speed up your claim.
-
-### Does homeowner insurance cover a rotting or aging fence?
-
-No. Rot, deterioration, insect damage, and normal wear and tear are excluded from virtually every standard homeowner policy. Coverage applies to sudden, accidental damage from covered perils like wind, hail, fire, or vandalism.
-
-### Will my rates go up if I file a fence claim?
-
-Possibly, yes. Filing a claim for fence damage, especially a relatively small one, can affect your loss history and trigger a rate increase at renewal. Many homeowners find the long-term cost of the rate impact outweighs the payout on smaller claims. It's worth doing the math before you file.
-
-### Can I get more coverage for an expensive fence?
-
-Yes. Talk to your agent about increasing your Coverage B limit or adding an endorsement for other structures. If you have a high-value fence, a shared gate system, or a long perimeter, this is one of the cheaper upgrades you can make to your policy and one that most agents won't proactively suggest.
 
 ## Helpful Resources
 

@@ -87,27 +87,6 @@ Understanding which layer covers what helps you avoid both gaps and overlap.
 
 ---
 
-## Frequently Asked Questions
-
-### Does homeowners insurance cover identity theft if I don't add a rider?
-
-Almost never. Standard homeowner's policies don't include identity theft coverage by default. You need to specifically add an endorsement. If you're not sure, look at your declarations page or call your insurer and ask directly about endorsements.
-
-### Will my insurer cancel or raise my rates if I file an identity theft claim?
-
-This varies by insurer and state, but identity theft claims are generally treated differently than property damage claims. That said, filing any claim can potentially affect your record. If your costs are modest, it may be worth handling them out of pocket and reserving the policy for larger, more complex situations. Ask your agent how your insurer handles these claims before you file.
-
-### What's the first thing I should do if I discover my identity has been stolen?
-
-File a report at IdentityTheft.gov (a Federal Trade Commission resource), place a fraud alert or credit freeze with all three major credit bureaus, and file a local police report. Then notify your insurer if you have coverage. The order matters because insurers often require that official report before they'll open a claim.
-
-### Can renters get this type of coverage too?
-
-Yes. The identity theft rider is available on renters insurance policies as well, not just homeowner's policies. If you rent, ask your insurer the same questions. The coverage structure is typically identical.
-
-### Is this the same as cyber insurance?
-
-Not exactly. Some insurers have started offering "personal cyber" endorsements that are broader and include things like ransomware, cyberbullying response costs, and online fraud. Identity theft riders are narrower and focused on traditional identity fraud. If you're offered a "personal cyber" endorsement, read carefully what it includes and compare the cost to a basic identity theft rider before deciding which fits your situation.
 
 ---
 
