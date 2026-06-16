@@ -20,6 +20,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCLRh0t2_23u2t7HuaUqatTg"
   page_bg = "#f5f9ff"
   nav_style = "dark"
 logo_text_2 = "Insurance Guide"
