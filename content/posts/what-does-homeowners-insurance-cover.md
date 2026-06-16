@@ -3,7 +3,7 @@ title: "What Does Homeowners Insurance Cover"
 date: 2026-05-24T10:26:21.169295+00:00
 draft: false
 description: "Discover what homeowners insurance covers, including dwelling protection, personal property, liability, and additional living expenses, so you can choose the ri"
-image: "https://images.pexels.com/photos/9899096/pexels-photo-9899096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11489908/pexels-photo-11489908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["what", "does", "homeowners", "insurance", "cover"]
 slug: "what-does-homeowners-insurance-cover"
@@ -126,7 +126,7 @@ The honest truth is that homeowners insurance is a contract, and contracts rewar
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Алесь Усцінаў](https://www.pexels.com/@alesustinau) via Pexels*
 
 ---
 

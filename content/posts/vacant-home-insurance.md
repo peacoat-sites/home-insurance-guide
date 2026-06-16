@@ -3,7 +3,7 @@ title: "Vacant Home Insurance"
 date: 2026-06-12T12:46:07.763559+00:00
 draft: false
 description: "Protect your empty property with vacant home insurance. Learn what it covers, why standard policies fall short, and how to find the best rates for unoccupied ho"
-image: "https://images.pexels.com/photos/7736037/pexels-photo-7736037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32556923/pexels-photo-32556923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["vacant", "home", "insurance"]
 slug: "vacant-home-insurance"
@@ -98,7 +98,7 @@ A vacant home is a risk you can manage, but you can't manage it with a policy de
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Aysegul Aytoren](https://www.pexels.com/@aysegul-aytoren-46790226) via Pexels*
 
 ---
 

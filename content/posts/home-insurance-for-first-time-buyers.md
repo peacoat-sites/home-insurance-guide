@@ -3,7 +3,7 @@ title: "Home Insurance For First Time Buyers"
 date: 2026-05-18T12:47:17.847300+00:00
 draft: false
 description: "Buying your first home? Discover everything you need to know about home insurance for first time buyers, including costs, coverage types and how to find the bes"
-image: "https://images.pexels.com/photos/8482895/pexels-photo-8482895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36729675/pexels-photo-36729675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "first", "time", "buyers"]
 slug: "home-insurance-for-first-time-buyers"
@@ -123,7 +123,7 @@ Buying your first home is genuinely exciting, and dealing with insurance paperwo
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

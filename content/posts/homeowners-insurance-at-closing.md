@@ -3,7 +3,7 @@ title: "Homeowners Insurance At Closing"
 date: 2026-06-09T12:30:54.707671+00:00
 draft: false
 description: "Learn what homeowners insurance at closing means, why lenders require it, and how to get covered before your closing date to avoid delays on your new home purch"
-image: "https://images.pexels.com/photos/24524484/pexels-photo-24524484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8293750/pexels-photo-8293750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["homeowners", "insurance", "closing"]
 slug: "homeowners-insurance-at-closing"
@@ -94,7 +94,7 @@ One practical thing before closing: do a home inventory now, while you're in mov
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
 
-*Photo: [Thomas P](https://www.pexels.com/@pth686817) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

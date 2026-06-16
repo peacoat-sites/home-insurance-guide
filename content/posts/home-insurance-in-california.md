@@ -3,7 +3,7 @@ title: "Home Insurance In California"
 date: 2026-05-28T05:44:22.032303+00:00
 draft: false
 description: "Protect your California home with the right insurance. Compare coverage options, costs, and top providers to find the best home insurance policy for your needs."
-image: "https://images.pexels.com/photos/2263675/pexels-photo-2263675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37175977/pexels-photo-37175977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "california"]
 slug: "home-insurance-in-california"
@@ -124,7 +124,7 @@ You didn't sign up for a market in crisis when you bought your home. But you're 
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [D Goug](https://www.pexels.com/@d-goug-211350543) via Pexels*
 
 ---
 

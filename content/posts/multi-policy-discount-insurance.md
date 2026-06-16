@@ -3,7 +3,7 @@ title: "Multi-Policy Discount Insurance"
 date: 2026-06-10T12:48:30.791074+00:00
 draft: false
 description: "Save money by bundling your home, auto, and life insurance policies. Learn how multi-policy discounts work and how to maximize your savings with top insurers."
-image: "https://images.pexels.com/photos/33305177/pexels-photo-33305177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6693654/pexels-photo-6693654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["multi-policy", "discount", "insurance"]
 slug: "multi-policy-discount-insurance"
@@ -100,7 +100,7 @@ The bundling discount is real. Just make sure it's actually working in your favo
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

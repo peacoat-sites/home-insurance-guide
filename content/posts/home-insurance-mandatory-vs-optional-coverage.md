@@ -3,7 +3,7 @@ title: "Home Insurance Mandatory Vs Optional Coverage"
 date: 2026-05-25T03:05:17.076057+00:00
 draft: false
 description: "Discover which home insurance coverages are legally required and which are optional. Learn how to protect your home and finances with the right policy choices."
-image: "https://images.pexels.com/photos/7768204/pexels-photo-7768204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7641853/pexels-photo-7641853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "mandatory", "optional", "coverage"]
 slug: "home-insurance-mandatory-vs-optional-coverage"
@@ -131,7 +131,7 @@ The gap between what you assume your policy covers and what it actually covers i
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
 
 ---
 

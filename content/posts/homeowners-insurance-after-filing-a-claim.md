@@ -3,7 +3,7 @@ title: "Homeowners Insurance After Filing A Claim"
 date: 2026-05-19T21:34:58.931899+00:00
 draft: false
 description: "Homeowners insurance coverage after filing a claim: understand how claims affect your rates, policy renewal, and future insurability options."
-image: "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/7821457/pexels-photo-7821457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "after", "filing", "claim"]
 slug: "homeowners-insurance-after-filing-a-claim"

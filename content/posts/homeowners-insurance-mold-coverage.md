@@ -3,7 +3,7 @@ title: "Homeowners Insurance Mold Coverage"
 date: 2026-05-25T07:24:16.279125+00:00
 draft: false
 description: "Learn whether homeowners insurance covers mold damage, what exclusions apply, and how to protect your home and finances with the right policy coverage."
-image: "https://images.pexels.com/photos/7735626/pexels-photo-7735626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28552619/pexels-photo-28552619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "mold", "coverage"]
 slug: "homeowners-insurance-mold-coverage"
@@ -120,7 +120,7 @@ The gap between what people assume is covered and what's actually in their polic
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Roman Biernacki](https://www.pexels.com/@szafran) via Pexels*
 
 ---
 

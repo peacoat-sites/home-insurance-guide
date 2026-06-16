@@ -3,7 +3,7 @@ title: "Home Insurance Swimming Pool Liability"
 date: 2026-06-05T12:23:51.208601+00:00
 draft: false
 description: "Discover how a swimming pool affects your home insurance liability coverage, what risks are involved, and how to protect yourself from costly lawsuits and accid"
-image: "https://images.pexels.com/photos/34023965/pexels-photo-34023965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33560232/pexels-photo-33560232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Liability"]
 tags: ["home", "insurance", "swimming", "pool", "liability"]
 slug: "home-insurance-swimming-pool-liability"
@@ -102,7 +102,7 @@ The paperwork and phone calls feel like a hassle right now. I get it. But I've s
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Dominik Pajor](https://www.pexels.com/@dominik-pajor-2155116376) via Pexels*
 
 ---
 

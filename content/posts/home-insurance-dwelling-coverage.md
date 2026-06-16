@@ -3,7 +3,7 @@ title: "Home Insurance Dwelling Coverage"
 date: 2026-05-22T08:42:42.534131+00:00
 draft: false
 description: "Learn what home insurance dwelling coverage is, what it protects, how much you need, and how to ensure your home is properly covered in case of damage or loss."
-image: "https://images.pexels.com/photos/31853791/pexels-photo-31853791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/987550/pexels-photo-987550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "dwelling", "coverage"]
 slug: "home-insurance-dwelling-coverage"
@@ -119,7 +119,7 @@ Dwelling coverage is the most important number on your homeowner's policy, and i
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Felix Lauster](https://www.pexels.com/@felix-lauster-343083) via Pexels*
 
 ---
 

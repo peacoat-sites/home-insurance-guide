@@ -3,7 +3,7 @@ title: "Home Insurance Flood Coverage"
 date: 2026-05-18T21:04:54.471287+00:00
 draft: false
 description: "Protect your home from flood damage. Learn about flood insurance coverage, what's included, costs, and how to choose the right policy for your property."
-image: "https://images.pexels.com/photos/28447806/pexels-photo-28447806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32782556/pexels-photo-32782556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "flood", "coverage"]
 slug: "home-insurance-flood-coverage"
@@ -157,7 +157,7 @@ Flood coverage is one of those gaps that seems abstract right up until the momen
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Sabbir Bhuiyan](https://www.pexels.com/@sabbir-bhuiyan-1747552532) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Home Insurance Fence Coverage"
 date: 2026-06-14T11:50:39.009474+00:00
 draft: false
 description: "Learn if your home insurance covers fence damage from storms, fallen trees, or vandalism, and find out what exclusions may apply to your policy."
-image: "https://images.pexels.com/photos/38038202/pexels-photo-38038202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/922797/pexels-photo-922797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["home", "insurance", "fence", "coverage"]
 slug: "home-insurance-fence-coverage"

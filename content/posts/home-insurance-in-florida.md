@@ -3,7 +3,7 @@ title: "Home Insurance In Florida"
 date: 2026-05-18T04:00:10.696760+00:00
 draft: false
 description: "Discover everything you need to know about home insurance in Florida, including coverage options, average costs, and tips to find the best policy for your needs"
-image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15334541/pexels-photo-15334541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "florida"]
 slug: "home-insurance-in-florida"
@@ -114,7 +114,7 @@ Connecting with your [state's insurance department](https://www.naic.org/state_w
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Eric Prouzet](https://www.pexels.com/@eric-prouzet-225470) via Pexels*
 
 ---
 

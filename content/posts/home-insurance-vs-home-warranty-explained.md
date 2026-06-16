@@ -3,7 +3,7 @@ title: "Home Insurance Vs Home Warranty Explained"
 date: 2026-05-30T14:27:14.779902+00:00
 draft: false
 description: "Confused about home insurance vs home warranty? Learn the key differences, what each covers, and which one you truly need to protect your home and budget."
-image: "https://images.pexels.com/photos/7736030/pexels-photo-7736030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8963081/pexels-photo-8963081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["policies"]
 tags: ["home", "insurance", "home", "warranty", "explained"]
 slug: "home-insurance-vs-home-warranty-explained"

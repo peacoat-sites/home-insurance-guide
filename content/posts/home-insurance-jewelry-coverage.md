@@ -3,7 +3,7 @@ title: "Home Insurance Jewelry Coverage"
 date: 2026-06-13T11:44:53.286643+00:00
 draft: false
 description: "Protect your valuable jewelry with home insurance coverage. Learn what's covered, policy limits, and when to add a rider for extra protection of your precious i"
-image: "https://images.pexels.com/photos/28973201/pexels-photo-28973201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5737315/pexels-photo-5737315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "jewelry", "coverage"]
 slug: "home-insurance-jewelry-coverage"
@@ -82,7 +82,7 @@ This sounds tedious. It takes about an hour for most people. It is absolutely wo
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [The Glorious  Studio](https://www.pexels.com/@the-glorious-studio-3584518) via Pexels*
 
 ---
 

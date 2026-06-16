@@ -3,7 +3,7 @@ title: "HOA Master Policy And Condo Coverage"
 date: 2026-06-11T13:46:59.811268+00:00
 draft: false
 description: "Learn how HOA master policies and condo insurance work together, what each covers, and how to close coverage gaps to fully protect your unit and belongings."
-image: "https://images.pexels.com/photos/7579138/pexels-photo-7579138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36578404/pexels-photo-36578404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["master", "policy", "condo", "coverage"]
 slug: "hoa-master-policy-and-condo-coverage"
@@ -89,7 +89,7 @@ I'll also say this clearly: [IBHS home fortification research](https://ibhs.org/
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Oluwatobiloba Babalola](https://www.pexels.com/@tobilobababs) via Pexels*
 
 ---
 

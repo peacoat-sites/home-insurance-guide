@@ -3,7 +3,7 @@ title: "How To File A Home Insurance Claim"
 date: 2026-06-02T12:54:01.084167+00:00
 draft: false
 description: "Learn how to file a home insurance claim step by step. We cover documentation, deadlines, and tips to maximize your payout and speed up the process."
-image: "https://images.pexels.com/photos/8473782/pexels-photo-8473782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4792288/pexels-photo-4792288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["claims"]
 tags: ["file", "home", "insurance", "claim"]
 slug: "how-to-file-a-home-insurance-claim"
@@ -122,7 +122,7 @@ The claims process rewards preparation more than most people expect. Adjusters s
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*
 
 ---
 

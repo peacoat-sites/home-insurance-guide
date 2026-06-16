@@ -3,7 +3,7 @@ title: "How To Choose A Home Insurance Deductible"
 date: 2026-06-02T12:55:52.595251+00:00
 draft: false
 description: "Choose the right home insurance deductible by balancing upfront costs with monthly premiums. Learn how deductible amounts impact your savings and coverage today"
-image: "https://images.pexels.com/photos/28053206/pexels-photo-28053206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8439732/pexels-photo-8439732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["policies"]
 tags: ["choose", "home", "insurance", "deductible"]
 slug: "how-to-choose-a-home-insurance-deductible"
@@ -124,7 +124,7 @@ The deductible isn't a throwaway line item. It's the floor of your financial exp
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

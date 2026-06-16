@@ -3,7 +3,7 @@ title: "Ho-3 Policy Explained"
 date: 2026-06-15T15:33:56.013544+00:00
 draft: false
 description: "Learn what an HO-3 homeowners insurance policy covers, including dwelling, personal property, and liability protections explained simply."
-image: "https://images.pexels.com/photos/7746914/pexels-photo-7746914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["ho-3", "policy", "explained"]
 author: "Mark Thompson"
@@ -102,7 +102,7 @@ One more thing worth doing: put a [water leak sensor](https://www.amazon.com/s?k
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
 
-*Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
 ---
 

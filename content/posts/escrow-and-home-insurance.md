@@ -3,7 +3,7 @@ title: "Escrow And Home Insurance"
 date: 2026-06-04T12:24:46.014037+00:00
 draft: false
 description: "Learn how escrow accounts work with home insurance, how lenders collect payments, and what homeowners should know to manage their coverage and costs effectively"
-image: "https://images.pexels.com/photos/7736032/pexels-photo-7736032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32045959/pexels-photo-32045959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["escrow", "home", "insurance"]
 slug: "escrow-and-home-insurance"
@@ -100,7 +100,7 @@ The escrow system works reasonably well when nothing changes. The moment you ref
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

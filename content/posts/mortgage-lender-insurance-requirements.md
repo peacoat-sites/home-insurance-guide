@@ -3,7 +3,7 @@ title: "Mortgage Lender Insurance Requirements"
 date: 2026-06-08T13:57:23.096632+00:00
 draft: false
 description: "Discover what insurance coverage mortgage lenders require before approving your home loan, including homeowners, PMI, and flood insurance essentials for borrowe"
-image: "https://images.pexels.com/photos/28447775/pexels-photo-28447775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7415057/pexels-photo-7415057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["mortgage", "lender", "insurance", "requirements"]
 slug: "mortgage-lender-insurance-requirements"
@@ -92,7 +92,7 @@ Your state's department of insurance is also a resource if you feel like you're 
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
 
-*Photo: [Helena Jankovičová Kováčová](https://www.pexels.com/@helen1) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

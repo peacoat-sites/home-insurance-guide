@@ -3,7 +3,7 @@ title: "Seasonal Home Insurance"
 date: 2026-06-05T12:21:32.426204+00:00
 draft: false
 description: "Protect your home year-round with seasonal home insurance. Discover coverage options, costs, and tips to safeguard your property against seasonal risks and weat"
-image: "https://images.pexels.com/photos/7579135/pexels-photo-7579135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11849370/pexels-photo-11849370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["seasonal", "home", "insurance"]
 slug: "seasonal-home-insurance"
@@ -94,7 +94,7 @@ If reading this made you realize you haven't actually looked at your declaration
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Serhii Bondarchuk](https://www.pexels.com/@serhii-bondarchuk-216200266) via Pexels*
 
 ---
 

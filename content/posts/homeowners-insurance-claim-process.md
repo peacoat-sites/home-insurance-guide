@@ -3,7 +3,7 @@ title: "Homeowners Insurance Claim Process"
 date: 2026-05-28T16:45:21.801139+00:00
 draft: false
 description: "Homeowners insurance claim process: Step-by-step guide to filing claims, documentation requirements, and tips to expedite approval and get your settlement faste"
-image: "https://images.pexels.com/photos/8943323/pexels-photo-8943323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8293746/pexels-photo-8293746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "claim", "process"]
 slug: "homeowners-insurance-claim-process"
@@ -136,7 +136,7 @@ The claims process rewards preparation and attention to detail. Document your pr
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

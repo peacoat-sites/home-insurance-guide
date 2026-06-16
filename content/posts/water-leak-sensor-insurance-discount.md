@@ -3,7 +3,7 @@ title: "Water Leak Sensor Insurance Discount"
 date: 2026-06-06T11:13:57.065304+00:00
 draft: false
 description: "Save money on home insurance with a water leak sensor. Discover how smart leak detectors can qualify you for valuable discounts and prevent costly water damage."
-image: "https://images.pexels.com/photos/29091316/pexels-photo-29091316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18274115/pexels-photo-18274115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["water", "leak", "sensor", "insurance", "discount"]
 slug: "water-leak-sensor-insurance-discount"
@@ -90,7 +90,7 @@ One thing worth doing before you buy any sensor: check whether your insurer requ
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [aamir dukanwala](https://www.pexels.com/@aamir) via Pexels*
 
 ---
 

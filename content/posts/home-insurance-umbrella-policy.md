@@ -3,7 +3,7 @@ title: "Home Insurance Umbrella Policy"
 date: 2026-05-19T07:40:50.095874+00:00
 draft: false
 description: "Discover how a home insurance umbrella policy adds extra liability protection beyond standard coverage, safeguarding your assets from costly lawsuits and unexpe"
-image: "https://images.pexels.com/photos/27299792/pexels-photo-27299792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8470057/pexels-photo-8470057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "umbrella", "policy"]
 slug: "home-insurance-umbrella-policy"
@@ -156,7 +156,7 @@ The decision to buy an umbrella policy is really a decision about how much finan
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Home Insurance Liability Coverage"
 date: 2026-05-18T15:05:31.557513+00:00
 draft: false
 description: "Discover how home insurance liability coverage protects you from costly lawsuits and accidents. Learn what it covers, policy limits, and how to choose the right"
-image: "https://images.pexels.com/photos/32842044/pexels-photo-32842044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2121670/pexels-photo-2121670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "liability", "coverage"]
 slug: "home-insurance-liability-coverage"
@@ -120,7 +120,7 @@ Your liability coverage is the part of your policy that protects your financial 
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Darya Sannikova](https://www.pexels.com/@myatezhny39) via Pexels*
 
 ---
 

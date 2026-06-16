@@ -3,7 +3,7 @@ title: "Home Insurance Quotes Comparison"
 date: 2026-05-27T03:28:25.011678+00:00
 draft: false
 description: "Compare home insurance quotes easily and find the best coverage at the lowest price. Save money today by reviewing multiple insurers side by side in minutes."
-image: "https://images.pexels.com/photos/7735621/pexels-photo-7735621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29034871/pexels-photo-29034871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "quotes", "comparison"]
 slug: "home-insurance-quotes-comparison"
@@ -128,7 +128,7 @@ The real point of comparing quotes isn't to win a negotiation with an insurance 
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

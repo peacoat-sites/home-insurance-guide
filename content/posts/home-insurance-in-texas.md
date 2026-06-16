@@ -3,7 +3,7 @@ title: "Home Insurance In Texas"
 date: 2026-05-22T10:24:28.593810+00:00
 draft: false
 description: "Protect your Texas home with the right insurance coverage. Compare top providers, costs, and policy options to find the best home insurance in Texas for your ne"
-image: "https://images.pexels.com/photos/7736044/pexels-photo-7736044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33282813/pexels-photo-33282813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Guides"]
 tags: ["home", "insurance", "texas"]
 slug: "home-insurance-in-texas"
@@ -122,7 +122,7 @@ Texas home insurance is not a commodity you should buy on autopilot. The policy 
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [HRK Gallery](https://www.pexels.com/@hrk-gallery-245057798) via Pexels*
 
 ---
 

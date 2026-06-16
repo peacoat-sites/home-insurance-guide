@@ -3,7 +3,7 @@ title: "Lender Placed Insurance"
 date: 2026-06-10T12:50:30.879801+00:00
 draft: false
 description: "Learn what lender placed insurance is, why banks impose it, how it affects your mortgage, and steps you can take to avoid costly forced coverage on your propert"
-image: "https://images.pexels.com/photos/29899813/pexels-photo-29899813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8441820/pexels-photo-8441820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost Factors"]
 tags: ["lender", "placed", "insurance"]
 slug: "lender-placed-insurance"
@@ -92,7 +92,7 @@ The [Insurance Institute for Business and Home Safety](https://ibhs.org/) has gu
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

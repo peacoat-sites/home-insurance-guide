@@ -3,7 +3,7 @@ title: "How To Switch Home Insurance"
 date: 2026-05-25T22:50:55.388480+00:00
 draft: false
 description: "Switch home insurance easily with our step-by-step guide. Learn how to compare quotes, cancel old policies, and find better coverage at lower rates today."
-image: "https://images.pexels.com/photos/7736036/pexels-photo-7736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7163950/pexels-photo-7163950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Shopping Tips"]
 tags: ["switch", "home", "insurance"]
 slug: "how-to-switch-home-insurance"
@@ -138,7 +138,7 @@ Switching home insurance doesn't require a special occasion, a frustrating renew
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 ---
 

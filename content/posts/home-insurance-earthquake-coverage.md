@@ -3,7 +3,7 @@ title: "Home Insurance Earthquake Coverage"
 date: 2026-05-28T05:21:50.252769+00:00
 draft: false
 description: "Protect your home from earthquake damage. Learn what earthquake coverage includes, how much it costs, and whether you need it in your area."
-image: "https://images.pexels.com/photos/28447774/pexels-photo-28447774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15823381/pexels-photo-15823381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "earthquake", "coverage"]
 slug: "home-insurance-earthquake-coverage"
@@ -141,7 +141,7 @@ Earthquake coverage is one of those decisions you have to make before you need i
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
 
-*Photo: [Helena Jankovičová Kováčová](https://www.pexels.com/@helen1) via Pexels*
+*Photo: [Doruk Aksel Anıl](https://www.pexels.com/@doruk-aksel-anil-477355556) via Pexels*
 
 ---
 

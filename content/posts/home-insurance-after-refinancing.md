@@ -3,7 +3,7 @@ title: "Home Insurance After Refinancing"
 date: 2026-06-09T12:29:12.570861+00:00
 draft: false
 description: "Refinancing your home? Learn how it affects your homeowners insurance, what updates you may need to make, and how to ensure you stay fully protected after closi"
-image: "https://images.pexels.com/photos/28447776/pexels-photo-28447776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7489119/pexels-photo-7489119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Life Events"]
 tags: ["home", "insurance", "after", "refinancing"]
 slug: "home-insurance-after-refinancing"
@@ -94,7 +94,7 @@ One genuinely useful habit: keep a digital and physical copy of your current dec
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
 
-*Photo: [Helena Jankovičová Kováčová](https://www.pexels.com/@helen1) via Pexels*
+*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
 ---
 

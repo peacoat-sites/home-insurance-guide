@@ -3,7 +3,7 @@ title: "Home Insurance Water Damage Coverage"
 date: 2026-05-20T22:48:34.225915+00:00
 draft: false
 description: "Learn what home insurance water damage coverage includes, what it excludes, and how to file a claim to protect your home and belongings from costly water damage"
-image: "https://images.pexels.com/photos/28447777/pexels-photo-28447777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5146920/pexels-photo-5146920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["home", "insurance", "water", "damage", "coverage"]
 slug: "home-insurance-water-damage-coverage"
@@ -126,7 +126,7 @@ The frustrating truth about home insurance water damage coverage is that it's ge
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
 
-*Photo: [Helena Jankovičová Kováčová](https://www.pexels.com/@helen1) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

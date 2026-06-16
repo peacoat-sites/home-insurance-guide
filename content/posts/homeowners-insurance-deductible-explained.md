@@ -3,7 +3,7 @@ title: "Homeowners Insurance Deductible Explained"
 date: 2026-05-21T07:58:41.357006+00:00
 draft: false
 description: "Learn what a homeowners insurance deductible is, how it works, and how choosing the right amount can lower your premium and protect your finances when filing a "
-image: "https://images.pexels.com/photos/34135038/pexels-photo-34135038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8962468/pexels-photo-8962468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "deductible", "explained"]
 slug: "homeowners-insurance-deductible-explained"
@@ -125,7 +125,7 @@ The deductible is the single number on your policy that most directly determines
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 ---
 

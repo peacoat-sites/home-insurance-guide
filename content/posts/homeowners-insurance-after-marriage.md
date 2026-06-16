@@ -3,7 +3,7 @@ title: "Homeowners Insurance After Marriage"
 date: 2026-06-11T13:49:08.894083+00:00
 draft: false
 description: "Getting married? Learn how marriage affects your homeowners insurance, what to update on your policy, and how to potentially save money by bundling coverage."
-image: "https://images.pexels.com/photos/27695207/pexels-photo-27695207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36730579/pexels-photo-36730579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Life Events"]
 tags: ["homeowners", "insurance", "after", "marriage"]
 slug: "homeowners-insurance-after-marriage"
@@ -94,7 +94,7 @@ While you're at it: [water leak sensors](https://www.amazon.com/s?k=water+leak+s
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Home Insurance Replacement Cost Vs Actual Cash Value"
 date: 2026-05-20T17:24:56.191477+00:00
 draft: false
 description: "Home insurance replacement cost vs actual cash value: understand the key differences, how each coverage works, and which option best protects your property."
-image: "https://images.pexels.com/photos/30139495/pexels-photo-30139495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19760996/pexels-photo-19760996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "replacement", "cost", "actual"]
 slug: "home-insurance-replacement-cost-vs-actual-cash-value"
@@ -126,7 +126,7 @@ The decision between replacement cost and actual cash value isn't glamorous, but
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 
 
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
+*Photo: [Vitaliy Haiduk](https://www.pexels.com/@vitaliy-haiduk-326720599) via Pexels*
 
 ---
 

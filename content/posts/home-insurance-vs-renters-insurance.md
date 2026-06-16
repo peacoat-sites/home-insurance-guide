@@ -3,7 +3,7 @@ title: "Home Insurance Vs Renters Insurance"
 date: 2026-05-21T07:39:23.227678+00:00
 draft: false
 description: "Discover the key differences between home insurance and renters insurance, what each policy covers, and which one you need to protect your property and belongin"
-image: "https://images.pexels.com/photos/7734569/pexels-photo-7734569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36729961/pexels-photo-36729961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "renters", "insurance"]
 slug: "home-insurance-vs-renters-insurance"
@@ -135,7 +135,7 @@ If there's one thing I'd want you to take away from this, it's that neither poli
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

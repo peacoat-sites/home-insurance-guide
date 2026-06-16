@@ -3,7 +3,7 @@ title: "Home Insurance Electronics Coverage"
 date: 2026-06-08T13:59:17.909338+00:00
 draft: false
 description: "Protect your TVs, laptops, and gadgets with home insurance electronics coverage. Learn what's covered, what's excluded, and how to maximize your policy today."
-image: "https://images.pexels.com/photos/27745581/pexels-photo-27745581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12709580/pexels-photo-12709580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "electronics", "coverage"]
 slug: "home-insurance-electronics-coverage"
@@ -88,7 +88,7 @@ A water leak sensor placed near your entertainment center or home office equipme
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Homeowners Insurance Personal Property Coverage"
 date: 2026-05-22T21:37:02.925695+00:00
 draft: false
 description: "Homeowners insurance personal property coverage protects your belongings inside and outside your home from theft, fire, and weather damage. Learn coverage limit"
-image: "https://images.pexels.com/photos/7578882/pexels-photo-7578882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7464463/pexels-photo-7464463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "personal", "property", "coverage"]
 slug: "homeowners-insurance-personal-property-coverage"

@@ -3,7 +3,7 @@ title: "How Does Home Insurance Replacement Cost Work"
 date: 2026-06-12T12:48:17.329478+00:00
 draft: false
 description: "Learn how home insurance replacement cost coverage works, what it pays out after a loss, and why it differs from actual cash value to protect your home fully."
-image: "https://images.pexels.com/photos/28914932/pexels-photo-28914932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34192130/pexels-photo-34192130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["coverage"]
 tags: ["does", "home", "insurance", "replacement", "cost"]
 slug: "how-does-home-insurance-replacement-cost-work"
@@ -98,7 +98,7 @@ Your policy is a contract, and like any contract, the details matter more than t
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
 
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
+*Photo: [D Goug](https://www.pexels.com/@d-goug-211350543) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Reinsurance Costs Just Fell Hard. Will Your Premium Follow?"
 date: 2026-06-16T14:50:41.236996+00:00
 draft: false
 description: "Reinsurance costs are dropping sharply. Find out what this means for your insurance premium and whether savings will actually be passed on to policyholders."
-image: "https://images.pexels.com/photos/8439656/pexels-photo-8439656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34134977/pexels-photo-34134977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["reinsurance", "costs", "just", "fell", "hard."]
 author: "Kevin Park"
@@ -89,7 +89,7 @@ The shift in the reinsurance market is real and significant. Whether it reaches 
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

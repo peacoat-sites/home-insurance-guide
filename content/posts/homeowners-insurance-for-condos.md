@@ -3,7 +3,7 @@ title: "Homeowners Insurance For Condos"
 date: 2026-06-13T11:46:35.372804+00:00
 draft: false
 description: "Protect your condo with the right homeowners insurance. Learn what HO-6 policies cover, how they differ from your HOA master policy, and how to find the best ra"
-image: "https://images.pexels.com/photos/1669787/pexels-photo-1669787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31640055/pexels-photo-31640055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["homeowners", "insurance", "condos"]
 slug: "homeowners-insurance-for-condos"

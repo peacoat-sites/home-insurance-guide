@@ -3,7 +3,7 @@ title: "Home Insurance For New Construction"
 date: 2026-05-23T11:11:02.589910+00:00
 draft: false
 description: "Protect your newly built home with the right insurance coverage. Learn what new construction home insurance covers, costs, and how to find the best policy for y"
-image: "https://images.pexels.com/photos/37627682/pexels-photo-37627682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33405084/pexels-photo-33405084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["home", "insurance", "construction"]
 slug: "home-insurance-for-new-construction"

@@ -3,7 +3,7 @@ title: "Home Insurance Hail Damage Claim"
 date: 2026-06-04T12:22:46.951352+00:00
 draft: false
 description: "Learn how to file a home insurance hail damage claim successfully. Discover tips on documenting damage, working with adjusters, and maximizing your payout."
-image: "https://images.pexels.com/photos/17931269/pexels-photo-17931269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18631466/pexels-photo-18631466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Claims"]
 tags: ["home", "insurance", "hail", "damage", "claim"]
 slug: "home-insurance-hail-damage-claim"
@@ -110,7 +110,7 @@ And yes, you can file a complaint with your state's department of insurance. Car
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Ezgi Bircan](https://www.pexels.com/@ezgibircan) via Pexels*
 
 ---
 

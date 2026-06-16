@@ -3,7 +3,7 @@ title: "Homeowners Insurance Detached Garage Coverage"
 date: 2026-06-15T15:35:56.180062+00:00
 draft: false
 description: "Learn how homeowners insurance covers your detached garage, what damages are included, policy limits, and how to get the right amount of protection."
-image: "https://images.pexels.com/photos/36777845/pexels-photo-36777845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15461302/pexels-photo-15461302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Property Types"]
 tags: ["homeowners", "insurance", "detached", "garage", "coverage"]
 author: "Diana Foster"
@@ -95,7 +95,7 @@ One last thing. Don't wait for your renewal to look at this. Call your agent thi
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
 
-*Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
+*Photo: [Jason  Dsouza](https://www.pexels.com/@jason-dsouza-55234749) via Pexels*
 
 ---
 

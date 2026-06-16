@@ -3,7 +3,7 @@ title: "Home Insurance Coverage Limits Guide"
 date: 2026-05-18T13:45:36.283483+00:00
 draft: false
 description: "Learn how home insurance coverage limits work, what factors affect them, and how to choose the right amount to fully protect your home and belongings."
-image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19640440/pexels-photo-19640440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "coverage", "limits", "guide"]
 slug: "home-insurance-coverage-limits-guide"
@@ -155,7 +155,7 @@ Getting your coverage limits right isn't exciting work. It doesn't feel urgent u
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Taylor Thompson](https://www.pexels.com/@taylor-thompson-865581658) via Pexels*
 
 ---
 
