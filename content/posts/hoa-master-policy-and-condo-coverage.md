@@ -30,6 +30,16 @@ Most condo owners I've spoken with assume they're fully covered because their HO
 
 I'll be honest: the relationship between an HOA master policy and your individual condo insurance is one of the most genuinely confusing areas in all of personal lines coverage. Not because the concepts are complicated, but because almost nobody explains it clearly, and the marketing language on both sides makes it worse. Let me try to give you the real version.
 
+
+<div class="value-module">
+  <div class="vm-head">Coverage Gap Checklist by Policy Type</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to identify which items fall under your responsibility based on your HOA's master policy type.</p>
+    <table><thead><tr><th>Item Category</th><th>Bare Walls-In Policy</th><th>All-In Policy</th><th>Your HO-6 Policy</th></tr></thead><tbody><tr><td>Building structure (exterior walls, roof)</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Drywall, studs, insulation</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Original flooring (carpet, tile, hardwood)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original cabinets and countertops</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original appliances (built-in)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original plumbing fixtures</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Light fixtures, electrical outlets</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Upgrades you installed (new floors, kitchen remodel)</td><td>YOU pay</td><td>YOU pay</td><td>Must add to Dwelling/Coverage A</td></tr><tr><td>Personal property (furniture, electronics, clothing)</td><td>YOU pay</td><td>YOU pay</td><td>Coverage C required</td></tr><tr><td>Loss assessment (HOA deductible passed to owners)</td><td>YOU pay share</td><td>YOU pay share</td><td>Add Loss Assessment coverage ($10K–$50K typical)</td></tr><tr><td>Personal liability (guest injured in your unit)</td><td>Not covered by HOA</td><td>Not covered by HOA</td><td>Coverage E required ($100K minimum, $300K+ recommended)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Master Policy Is Not Your Policy
 
 Your HOA carries a master policy that covers the building structure, common areas, liability in shared spaces, and sometimes more. The premiums come out of your HOA dues, which is probably why so many owners mentally file it under "I'm covered." But that policy is written to protect the association and the building, not you specifically.

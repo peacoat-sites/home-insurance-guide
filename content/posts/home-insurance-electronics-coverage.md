@@ -32,6 +32,16 @@ She wasn't uninsured. She wasn't careless. She just didn't know what her policy 
 
 I spent 14 years reviewing claims like hers. That experience made me pretty protective of people who are about to get the same surprise.
 
+
+<div class="value-module">
+  <div class="vm-head">Electronics Claim Scenarios: What Pays Out</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix shows how the same $3,000 TV loss would be handled under different damage scenarios and coverage types, revealing why coverage gaps catch homeowners off guard.</p>
+    <table><thead><tr><th>Damage Scenario</th><th>Standard HO-3 (ACV)</th><th>Standard HO-3 (RCV)</th><th>With Scheduled Endorsement</th><th>Separate Flood Policy</th></tr></thead><tbody><tr><td>Lightning strike destroys TV</td><td>~$900 (depreciated value after 3 years)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Burglar steals TV</td><td>~$900 (depreciated)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Power surge from utility grid</td><td>$0 (excluded peril)</td><td>$0 (excluded peril)</td><td>Varies; some endorsements cover</td><td>Not applicable</td></tr><tr><td>Child knocks TV off mount</td><td>$0 (accidental damage excluded)</td><td>$0 (accidental damage excluded)</td><td>$3,000 if endorsement covers breakage</td><td>Not applicable</td></tr><tr><td>Basement floods from storm runoff</td><td>$0 (flood excluded)</td><td>$0 (flood excluded)</td><td>$0 (flood still excluded)</td><td>Up to policy limit, minus deductible</td></tr><tr><td>Burst pipe soaks entertainment center</td><td>~$900 (covered as sudden discharge)</td><td>$3,000 minus deductible</td><td>$3,000</td><td>Not applicable</td></tr><tr><td>TV fails after 3 years, no damage event</td><td>$0 (wear/breakdown excluded)</td><td>$0 (wear/breakdown excluded)</td><td>$0 unless equipment breakdown rider</td><td>Not applicable</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Your Standard Policy Actually Covers (And What It Doesn't)
 
 Here's what most people don't realize: your homeowner's policy does cover electronics, but only under very specific circumstances, and with limits that are probably lower than you assume.

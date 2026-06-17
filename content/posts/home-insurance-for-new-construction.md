@@ -32,6 +32,16 @@ New builds come with a specific set of risks that standard homeowner policies ha
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">New vs Existing Home Risk Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This comparison highlights the specific first-year risks that differ between new construction and established homes, showing where standard policies typically fall short.</p>
+    <table><thead><tr><th>Risk Category</th><th>New Construction (Year 1)</th><th>Existing Home (10+ Years)</th><th>Standard Policy Response</th></tr></thead><tbody><tr><td>Workmanship failures</td><td>High probability; untested systems, multiple subcontractors</td><td>Low; defects already surfaced and repaired</td><td>Typically excluded under construction defect clause</td></tr><tr><td>Plumbing leaks</td><td>Fitting failures common in months 1–18</td><td>Corrosion/age failures more predictable</td><td>Resulting water damage often covered; defective fitting repair excluded</td></tr><tr><td>Foundation settlement</td><td>Active settling for 2–5 years; crack risk elevated</td><td>Settlement complete; issues already documented</td><td>Earth movement exclusion applies in most states</td></tr><tr><td>HVAC system failures</td><td>Installation errors; refrigerant leaks; ductwork gaps</td><td>Wear-based failures; replacement scheduling known</td><td>Equipment breakdown rider required; install defects excluded</td></tr><tr><td>Electrical issues</td><td>Loose connections; code compliance gaps from inspections</td><td>Older wiring concerns but known quantities</td><td>Fire damage covered; faulty wiring repair excluded</td></tr><tr><td>Appliance failures</td><td>Manufacturing defects; improper installation</td><td>Age-related failures</td><td>Manufacturer warranty primary; policy secondary for resulting damage</td></tr><tr><td>Builder warranty overlap</td><td>Active 1–10 year warranty complicates claims</td><td>No warranty; insurer is sole recourse</td><td>Insurer may require warranty claim first, delaying payout</td></tr><tr><td>Subcontractor liability gaps</td><td>Builder may use under-insured subs; chain of liability unclear</td><td>Not applicable</td><td>Homeowner may need to pursue builder's insurance separately</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why New Construction Insurance Is Not the Same as Standard Homeowner Coverage
 
 The comparison agents won't make for you: a 1985 ranch house and a brand-new custom build face completely different risks in year one.

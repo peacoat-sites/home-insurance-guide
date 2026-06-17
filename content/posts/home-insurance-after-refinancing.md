@@ -32,6 +32,16 @@ I'll be honest: I didn't fully appreciate how often this happened until I starte
 
 Refinancing touches your home insurance in ways nobody explains at the closing table.
 
+
+<div class="value-module">
+  <div class="vm-head">Post-Refinance Insurance Checklist with Deadlines</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this timeline to avoid coverage gaps and force-placed insurance after refinancing.</p>
+    <table><caption>Critical Insurance Tasks After Refinancing</caption><thead><tr><th>Task</th><th>Deadline</th><th>What You Need</th><th>Red Flag If Missed</th></tr></thead><tbody><tr><td>Update mortgagee clause with insurer</td><td>Within 3 business days of closing</td><td>New lender's exact legal name, mailing address, loan number (from closing docs)</td><td>Claim checks issued to wrong lender; payout delays of 30–90 days</td></tr><tr><td>Verify new lender received declarations page</td><td>Within 14 days of closing</td><td>Confirmation from agent showing transmission date</td><td>Lender may flag policy as unverified</td></tr><tr><td>Confirm escrow account insurance payment setup</td><td>Before first mortgage payment</td><td>Escrow disclosure statement; annual premium amount</td><td>Premium not funded; policy lapses at renewal</td></tr><tr><td>Review dwelling coverage against new loan amount</td><td>Within 30 days of closing</td><td>Loan payoff amount; current replacement cost estimate</td><td>Coverage below lender's 100% replacement cost requirement</td></tr><tr><td>Check mailbox for insurer or lender notices</td><td>Ongoing for 90 days post-closing</td><td>Watch for requests to verify coverage or increase limits</td><td>Force-placed insurance added at 2–3× normal premium</td></tr><tr><td>Confirm old lender removed from policy</td><td>Within 45 days of closing</td><td>Updated declarations page listing only new mortgagee</td><td>Duplicate mortgagee clauses complicate future claims</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Your Lender Has Changed. Your Policy Doesn't Know That.
 
 Here's the most common and most avoidable problem: when you refinance, your old lender is paid off and a new one takes over. Your home insurance policy, however, still lists the old lender as the "mortgagee" on record.

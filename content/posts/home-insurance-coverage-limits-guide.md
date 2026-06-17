@@ -30,6 +30,16 @@ Imagine your house burns down. The fire department saves the foundation, but eve
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Coverage Limit Adequacy Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these thresholds to identify gaps before a claim forces the discovery.</p>
+    <table><thead><tr><th>Coverage</th><th>Adequacy Test</th><th>Red Flag Threshold</th><th>Action If Flagged</th></tr></thead><tbody><tr><td>A: Dwelling</td><td>Compare limit to local per-sq-ft rebuild cost × your square footage</td><td>Limit is &lt;90% of calculated rebuild cost</td><td>Request insurer's replacement cost estimator or hire independent appraiser</td></tr><tr><td>B: Other Structures</td><td>Sum replacement cost of detached garage, shed, fence, pool house, etc.</td><td>Total exceeds 10% of Coverage A</td><td>Endorse policy to raise Coverage B separately</td></tr><tr><td>C: Personal Property</td><td>Run a room-by-room inventory (apps like Sortly or Encircle help)</td><td>Inventory total exceeds 50–70% of Coverage A</td><td>Increase limit or add scheduled items for high-value goods</td></tr><tr><td>C Sub-limits</td><td>Check policy declarations for jewelry, electronics, firearms, collectibles</td><td>Any single category sub-limit &lt; value of your items in that category</td><td>Add a scheduled personal property endorsement (floater)</td></tr><tr><td>D: Loss of Use</td><td>Estimate 12–18 months of rent + meals + storage in your ZIP code</td><td>Estimate exceeds 20–30% of Coverage A</td><td>Ask insurer about extended loss-of-use endorsement</td></tr><tr><td>E: Liability</td><td>Tally net worth + future earnings exposure</td><td>Assets exceed $300K and liability limit is only $100K</td><td>Raise to $300K–$500K or add umbrella policy</td></tr><tr><td>Policy Inflation Guard</td><td>Confirm whether policy auto-adjusts Coverage A annually</td><td>No inflation guard or adjustment &lt;3% in high-growth markets</td><td>Add endorsement or manually review limits each renewal</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Coverage Limits Actually Are (And Why They're Not What You Think)
 
 A coverage limit is the maximum dollar amount your insurer will pay for a covered loss. That sounds simple. It isn't.

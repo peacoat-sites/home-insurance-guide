@@ -30,6 +30,16 @@ Most people know a bad credit score raises their car loan interest rate. Far few
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Credit Tier Premium Impact Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows how credit-based insurance scores typically translate to annual premium differences for the same $300,000 home with identical coverage.</p>
+    <table><thead><tr><th>Credit Tier</th><th>Typical Insurance Score Range</th><th>Estimated Annual Premium</th><th>Cost vs. Excellent Credit</th><th>Monthly Difference</th></tr></thead><tbody><tr><td>Excellent</td><td>776–997</td><td>$1,450</td><td>Baseline</td><td>$0</td></tr><tr><td>Good</td><td>626–775</td><td>$1,740</td><td>+$290 (+20%)</td><td>+$24</td></tr><tr><td>Fair</td><td>501–625</td><td>$2,175</td><td>+$725 (+50%)</td><td>+$60</td></tr><tr><td>Poor</td><td>300–500</td><td>$2,755</td><td>+$1,305 (+90%)</td><td>+$109</td></tr></tbody><tfoot><tr><td colspan="5"><em>Figures are illustrative national averages; actual premiums vary by insurer, state, and individual risk factors. States including California, Maryland, and Massachusetts restrict or prohibit credit-based insurance scoring.</em></td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Insurers Actually Use: The Insurance Score vs. Your Credit Score
 
 Here's where a lot of confusion starts. Insurers don't typically pull your FICO score directly. They use something called an **insurance-based credit score**, sometimes called a **credit-based insurance score (CBIS)**. It's built from similar raw data, but the algorithm weights things differently than a mortgage lender would.

@@ -32,6 +32,16 @@ I spent 14 years reviewing claims at a national insurer. I saw people lose their
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Bundled vs. Unbundled Cost Comparison Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">This worked example shows how a bundling discount can still cost more than separate policies—use it as a template for your own quotes.</p>
+    <table><caption>Annual Premium Comparison: Bundled vs. Separate Carriers</caption><thead><tr><th>Scenario</th><th>Home Premium</th><th>Auto Premium</th><th>Bundle Discount</th><th>Total Annual Cost</th></tr></thead><tbody><tr><td>Carrier A (bundled, 15% discount)</td><td>$1,800</td><td>$1,400</td><td>−$480 (15% off combined)</td><td><strong>$2,720</strong></td></tr><tr><td>Carrier B (home only)</td><td>$1,450</td><td>—</td><td>—</td><td>$1,450</td></tr><tr><td>Carrier C (auto only)</td><td>—</td><td>$1,100</td><td>—</td><td>$1,100</td></tr><tr><td>Separate carriers total (B + C)</td><td>$1,450</td><td>$1,100</td><td>None</td><td><strong>$2,550</strong></td></tr></tbody><tfoot><tr><td colspan="5"><strong>Result:</strong> Separate policies save $170/year despite no discount. The bundle discount masked Carrier A's higher base rates.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Bundling Discount Actually Is (and What It Isn't)
 
 Bundling, also called a multi-policy discount, is a price reduction an insurer offers when you purchase more than one type of policy from them. The most common combination is homeowners plus auto, but you can also bundle life insurance, umbrella policies, boat insurance, or renters insurance with a home policy.

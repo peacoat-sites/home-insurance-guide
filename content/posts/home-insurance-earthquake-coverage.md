@@ -34,6 +34,16 @@ Let's fix that knowledge gap right now.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Earthquake Coverage Decision Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these specific thresholds to determine whether earthquake insurance makes financial sense for your situation.</p>
+    <table><thead><tr><th>Decision Factor</th><th>Consider Coverage If...</th><th>May Skip If...</th></tr></thead><tbody><tr><td>USGS Seismic Risk Zone</td><td>Located in high or moderate risk area (peak ground acceleration >10% g)</td><td>Located in low-risk zone with <2% chance of damaging shake in 50 years</td></tr><tr><td>Home Construction Type</td><td>Unreinforced masonry, brick veneer, raised foundation, pre-1980 build</td><td>Single-story wood frame, post-1990 seismic code compliance, slab foundation</td></tr><tr><td>Mortgage Remaining</td><td>Owe more than 50% of home value; lender could demand full repayment after total loss</td><td>Home owned outright with funds to rebuild or relocate</td></tr><tr><td>Emergency Savings</td><td>Less than 6 months expenses; couldn't cover 10-20% deductible out of pocket</td><td>Liquid assets exceed typical deductible (often $15,000-$50,000)</td></tr><tr><td>Home Value vs. Land Value</td><td>Structure represents >60% of total property value</td><td>Land value dominates (e.g., $800K land, $200K structure)</td></tr><tr><td>Retrofit Status</td><td>No foundation bolting, no cripple wall bracing, original water heater strapping</td><td>Completed seismic retrofit with permit; may qualify for 5-15% premium discount</td></tr><tr><td>Annual Premium Cost</td><td>Premium is <0.5% of dwelling coverage annually</td><td>Premium exceeds 1% of coverage and deductible would consume most payout</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Your Standard Policy Won't Help You After an Earthquake
 
 A standard HO-3 homeowners policy, which is the most common policy form in the country, covers a list of named perils for personal property and covers the dwelling against all perils except those specifically excluded. Earthquakes are explicitly excluded. So are volcanic eruption, landslide, and earth movement broadly. That last phrase matters, because insurers use "earth movement" as a catch-all that also blocks claims for damage caused by sinkholes, mudslides, and soil settling.

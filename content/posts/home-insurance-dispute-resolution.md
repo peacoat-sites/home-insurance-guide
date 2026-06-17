@@ -19,6 +19,16 @@ Roughly 40% of homeowners who file a claim accept the first settlement offer wit
 
 That gap is what this article is about.
 
+
+<div class="value-module">
+  <div class="vm-head">Dispute Resolution Methods Compared</div>
+  <div class="vm-body">
+    <p class="vm-intro">Each escalation path has different costs, timelines, and leverage—here's how they compare for typical homeowners insurance disputes.</p>
+    <table><thead><tr><th>Resolution Method</th><th>Typical Cost</th><th>Timeline</th><th>Best For</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Internal Appeal</td><td>$0 (your time only)</td><td>30–45 days</td><td>Documentation errors, missed line items, depreciation disputes under $5,000</td><td>Insurer reviews its own decision; no neutral party</td></tr><tr><td>State Insurance Department Complaint</td><td>$0</td><td>45–90 days</td><td>Procedural violations, claim handling delays, suspected bad faith patterns</td><td>Regulators mediate but cannot force settlement amounts</td></tr><tr><td>Public Adjuster</td><td>5–15% of settlement increase</td><td>60–120 days</td><td>Complex claims over $15,000, scope disputes, specialty materials or systems</td><td>Fee reduces net recovery; some states have licensing gaps</td></tr><tr><td>Appraisal Clause</td><td>$500–$2,500 (your appraiser + umpire share)</td><td>30–60 days</td><td>Pure dollar disputes where coverage is agreed but amount is contested</td><td>Only resolves valuation—cannot address coverage denials</td></tr><tr><td>Mediation</td><td>$1,000–$3,000 (split with insurer)</td><td>60–90 days</td><td>Mid-range disputes ($10,000–$50,000) where both parties want resolution</td><td>Non-binding unless agreement is reached</td></tr><tr><td>Attorney/Litigation</td><td>Contingency 25–40% or hourly ($250–$500/hr)</td><td>6–24 months</td><td>Denials over $25,000, bad faith claims, policy interpretation disputes</td><td>Slow, adversarial, and costly if you lose</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Disputes Happen in the First Place
 
 Most homeowners assume a dispute means the insurer is acting in bad faith. Sometimes that's true. More often, disputes come from something less sinister: genuine disagreement over scope, ambiguous policy language, or an adjuster who's carrying 80 open files and spent 45 minutes on your roof inspection.

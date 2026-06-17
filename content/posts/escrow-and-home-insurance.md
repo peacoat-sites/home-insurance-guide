@@ -32,6 +32,16 @@ I spent 14 years reviewing claims, and a surprising number of homeowners I dealt
 
 Let's fix the gap in understanding.
 
+
+<div class="value-module">
+  <div class="vm-head">Escrow Insurance Failure Warning Signs</div>
+  <div class="vm-body">
+    <p class="vm-intro">These specific red flags indicate your escrow-paid insurance may be at risk—each requires immediate action to prevent a coverage lapse.</p>
+    <table><thead><tr><th>Warning Sign</th><th>What It Means</th><th>Action Threshold</th><th>Immediate Step</th></tr></thead><tbody><tr><td>Escrow shortage notice exceeds 20% of annual premium</td><td>Premium increased significantly or servicer miscalculated; payment may not cover full renewal</td><td>Shortage &gt; $300 or &gt;20% of premium</td><td>Call insurer directly to verify payment was received and policy is active</td></tr><tr><td>No escrow analysis letter by month 13</td><td>Annual reconciliation may have been skipped; your account balance is unknown</td><td>14+ months since last analysis</td><td>Request written escrow statement from servicer within 30 days</td></tr><tr><td>Premium renewal notice sent to you (not servicer)</td><td>Insurer may have wrong billing address; servicer won't receive payment request</td><td>Any renewal notice arriving at your address</td><td>Forward to servicer immediately and confirm they have correct policy number</td></tr><tr><td>Servicer changed in past 90 days</td><td>Loan transfers frequently cause escrow payment misdirection</td><td>Any servicer change</td><td>Verify new servicer has current insurance policy and correct payment address</td></tr><tr><td>Force-placed insurance charge appears</td><td>Servicer believes your coverage lapsed and bought expensive backup policy</td><td>Any force-placed charge</td><td>Provide proof of continuous coverage within 15 days to remove charge and get refund</td></tr><tr><td>Policy renewal date within 45 days, no payment confirmation</td><td>Servicer may miss payment window, causing automatic cancellation</td><td>45 days before renewal</td><td>Call insurer to confirm payment received or expected; follow up with servicer if not</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## How Escrow and Home Insurance Actually Work Together
 
 Your mortgage servicer collects a portion of your estimated annual insurance premium with each monthly payment, holds it in an escrow account, and pays your insurer directly when the premium comes due. The logic is sound: lenders need the collateral (your house) protected, so they'd rather not leave that to chance.

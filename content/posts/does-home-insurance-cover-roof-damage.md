@@ -28,6 +28,16 @@ author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years 
 
 You file a claim after a bad hailstorm tears up your roof. The adjuster comes out, inspects the damage, and then informs you that your payout will cover less than half the repair cost because your roof has depreciated significantly. You thought you were fully covered. You weren't. I watched this exact scenario play out hundreds of times during my years adjusting claims, and it almost always comes as a genuine shock to the homeowner. Roof damage is the single most claimed category in homeowner insurance, yet coverage works in ways most people never take the time to understand until the moment they desperately need it.
 
+
+<div class="value-module">
+  <div class="vm-head">Roof Claim Payout: ACV vs RCV Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">The difference between Actual Cash Value and Replacement Cost Value policies dramatically affects your check—here's how the math works on a typical claim.</p>
+    <table><caption>Same $18,000 Roof Replacement, Two Policy Types</caption><thead><tr><th>Factor</th><th>ACV Policy</th><th>RCV Policy</th></tr></thead><tbody><tr><td>Roof replacement cost</td><td>$18,000</td><td>$18,000</td></tr><tr><td>Roof age</td><td>12 years</td><td>12 years</td></tr><tr><td>Expected lifespan</td><td>20 years</td><td>20 years</td></tr><tr><td>Depreciation applied</td><td>60% ($10,800)</td><td>$0 (after completion)</td></tr><tr><td>Deductible</td><td>$1,500</td><td>$1,500</td></tr><tr><td>Initial payout</td><td>$5,700</td><td>$16,500*</td></tr><tr><td>Your out-of-pocket</td><td>$12,300</td><td>$1,500</td></tr></tbody></table><ul><li><strong>ACV calculation:</strong> Replacement cost minus depreciation minus deductible ($18,000 − $10,800 − $1,500 = $5,700)</li><li><strong>RCV note:</strong> *Many RCV policies pay ACV initially, then reimburse depreciation after you complete repairs and submit receipts</li><li><strong>Depreciation method varies:</strong> Some insurers use age-based schedules; others assess actual condition—request your insurer's specific method in writing</li><li><strong>Policy check:</strong> Look for "Roof Surfacing" endorsements that may impose ACV on roofs over 10–15 years old even on RCV policies</li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Home Insurance Actually Covers When It Comes to Your Roof
 
 The short answer is: it depends entirely on what caused the damage. Home insurance is a named-peril or open-peril contract, and the cause of loss is the first thing any adjuster examines.

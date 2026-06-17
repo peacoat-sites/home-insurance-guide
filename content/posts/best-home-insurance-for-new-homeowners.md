@@ -30,6 +30,16 @@ You closed on your house a week ago. You've got a mortgage, a moving truck bill,
 
 Let's fix that now, before something happens.
 
+
+<div class="value-module">
+  <div class="vm-head">Coverage Gap Checklist With Cost Thresholds</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to audit your policy within 30 days of closing—each item includes when to act and typical costs to budget.</p>
+    <table><thead><tr><th>Coverage Gap</th><th>Risk Trigger</th><th>Action Threshold</th><th>Typical Annual Cost</th></tr></thead><tbody><tr><td>Flood insurance</td><td>Property within 500 ft of any water; basement; low-lying lot</td><td>Add if lender didn't require AND property has any risk trigger</td><td>$400–$900 (moderate risk); $1,200+ (high risk zone)</td></tr><tr><td>Sewer/drain backup rider</td><td>Home has basement; municipal sewer system; trees near sewer line</td><td>Add regardless—one of highest ROI endorsements</td><td>$50–$150</td></tr><tr><td>Ordinance or law coverage</td><td>Home built before 2005; unpermitted additions; historic district</td><td>Add 25% of dwelling coverage minimum if home &gt;20 years old</td><td>$25–$75</td></tr><tr><td>Water backup vs. flood confusion</td><td>Sump pump present; finished basement</td><td>Confirm policy distinguishes internal backup from external flood</td><td>Often bundled with sewer rider</td></tr><tr><td>Personal property upgrade (HO-5)</td><td>Own items worth &gt;$10K that aren't jewelry/art</td><td>Upgrade from named-perils to open-perils if replacement value exceeds premium difference by 50×</td><td>$100–$300 over HO-3</td></tr><tr><td>Scheduled personal property</td><td>Jewelry, art, collectibles, instruments worth &gt;$2,500 each</td><td>Schedule individually—standard sub-limits are typically $1,500–$2,500</td><td>$15–$30 per $1,000 of value</td></tr><tr><td>Service line coverage</td><td>Older home; mature trees; shared driveway</td><td>Add if water/sewer lines to street are &gt;25 years old</td><td>$30–$60</td></tr><tr><td>Dwelling coverage amount</td><td>Lumber/labor costs up since purchase</td><td>Verify dwelling limit reflects rebuild cost, not purchase price—request replacement cost estimate</td><td>Adjust premium accordingly</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Home Insurance Actually Covers (And What It Quietly Doesn't)
 
 A standard homeowner's policy, called an HO-3 in the industry, covers your dwelling, your personal property, liability, and additional living expenses if you're displaced. That sounds comprehensive. It isn't.
