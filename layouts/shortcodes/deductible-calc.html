@@ -1,0 +1,203 @@
+{{- /* Home Insurance Deductible Trade-off Calculator */ -}}
+<div class="ded-calc" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">
+    Home Insurance Deductible Calculator
+  </div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Current annual premium ($)
+        <input id="dc-prem-cur" type="number" min="0" placeholder="e.g. 1800" oninput="dcUpdate()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Current deductible ($)
+        <input id="dc-ded-cur" type="number" min="0" placeholder="e.g. 1000" oninput="dcAutoEst()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Proposed higher deductible ($)
+        <input id="dc-ded-new" type="number" min="0" placeholder="e.g. 2500" oninput="dcAutoEst()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Est. premium with higher deductible ($)
+        <input id="dc-prem-new" type="number" min="0" placeholder="Auto-estimated below" oninput="dcUpdate()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+        <span id="dc-est-note" style="font-size:11px;color:var(--stone)"></span>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        How often do you file claims?
+        <select id="dc-freq" onchange="dcUpdate()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="0">Never</option>
+          <option value="10" selected>Once every 10+ years</option>
+          <option value="7">Once every 5–10 years</option>
+          <option value="4">More often</option>
+        </select>
+      </label>
+    </div>
+
+    <div id="dc-results" style="display:none;margin-top:24px">
+      <!-- Summary cards -->
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Annual Savings</span>
+          <span id="dc-annual-save" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0"></span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Break-Even</span>
+          <span id="dc-breakeven" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0"></span>
+          <span style="font-size:11px;color:var(--stone)">years to recoup higher deductible</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Deductible Difference</span>
+          <span id="dc-ded-diff" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0"></span>
+        </div>
+      </div>
+
+      <!-- 10-year comparison table -->
+      <div style="margin-top:20px">
+        <h4 style="margin:0 0 10px;font-size:14px;font-weight:700;color:var(--text)">10-Year Total Cost Comparison</h4>
+        <div style="overflow-x:auto">
+          <table style="width:100%;border-collapse:collapse;font-size:13px">
+            <thead>
+              <tr style="background:var(--surface2)">
+                <th style="text-align:left;padding:9px 12px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.05em;border-bottom:1px solid var(--border)">Claims in 10 yrs</th>
+                <th style="text-align:right;padding:9px 12px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.05em;border-bottom:1px solid var(--border)">Current Deductible</th>
+                <th style="text-align:right;padding:9px 12px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.05em;border-bottom:1px solid var(--border)">Higher Deductible</th>
+                <th style="text-align:left;padding:9px 12px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.05em;border-bottom:1px solid var(--border)">Winner</th>
+              </tr>
+            </thead>
+            <tbody id="dc-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Verdict -->
+      <div id="dc-verdict" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem"></div>
+
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">
+        <strong>Important:</strong> Never file a claim for losses under $2,000 — rate increases from a claim often cost more than the payout over 3–5 years.
+        Also note: your roof deductible may differ from your standard deductible, often set at 1–2% of dwelling coverage for hail and wind damage in storm-prone areas.
+      </p>
+    </div>
+
+    <div id="dc-placeholder" style="margin-top:20px;padding:20px;text-align:center;color:var(--muted);font-size:14px;background:var(--surface2);border-radius:12px">
+      Enter your current premium and both deductible amounts above to see your savings and break-even analysis.
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  function fmt(n){return '$'+Math.round(n).toLocaleString();}
+  function fmtDec(n,d){return '$'+(Math.round(n*100)/100).toFixed(d||0).replace(/\B(?=(\d{3})+(?!\d))/g,',');}
+
+  // Estimate savings rate based on deductible change
+  window.dcAutoEst=function(){
+    var pc=parseFloat(document.getElementById('dc-prem-cur').value)||0;
+    var dc=parseFloat(document.getElementById('dc-ded-cur').value)||0;
+    var dn=parseFloat(document.getElementById('dc-ded-new').value)||0;
+    var pnEl=document.getElementById('dc-prem-new');
+    var note=document.getElementById('dc-est-note');
+
+    if(!pc||!dc||!dn||dn<=dc){note.textContent='';dcUpdate();return;}
+
+    // Savings rate estimation
+    var rate=0;
+    var desc='';
+    if(dc<=500&&dn>=1000&&dn<2500){rate=0.07;desc='~7% savings ($500→$1,000 typical)';}
+    else if(dc<=1000&&dn>=2500&&dn<5000){rate=0.12;desc='~12% savings ($1,000→$2,500 typical)';}
+    else if(dc<=2500&&dn>=5000){rate=0.10;desc='~10% savings ($2,500→$5,000 typical)';}
+    else if(dc<dn){
+      // Generic: ~5% per $500 increase, capped at 15%
+      var steps=Math.floor((dn-dc)/500);
+      rate=Math.min(steps*0.05,0.15);
+      desc='~'+Math.round(rate*100)+'% estimated savings';
+    }
+
+    if(rate>0&&pc>0&&!pnEl.value){
+      var est=Math.round(pc*(1-rate));
+      note.textContent='Auto-estimate: '+fmt(est)+' ('+desc+') — enter actual quote for precision';
+      // Only auto-fill if field is empty
+      pnEl.placeholder=fmt(est);
+    }
+    dcUpdate();
+  };
+
+  window.dcUpdate=function(){
+    var pc=parseFloat(document.getElementById('dc-prem-cur').value)||0;
+    var pn=parseFloat(document.getElementById('dc-prem-new').value)||0;
+    var dc=parseFloat(document.getElementById('dc-ded-cur').value)||0;
+    var dn=parseFloat(document.getElementById('dc-ded-new').value)||0;
+    var freqYrs=parseInt(document.getElementById('dc-freq').value)||0;
+
+    // Try auto-estimate for new premium if not entered
+    if(!pn&&pc&&dc&&dn&&dn>dc){
+      var rate=0;
+      if(dc<=500&&dn>=1000&&dn<2500){rate=0.07;}
+      else if(dc<=1000&&dn>=2500&&dn<5000){rate=0.12;}
+      else if(dc<=2500&&dn>=5000){rate=0.10;}
+      else{var steps=Math.floor((dn-dc)/500);rate=Math.min(steps*0.05,0.15);}
+      pn=pc*(1-rate);
+    }
+
+    if(!pc||!dc||!dn||dn<=dc||!pn){
+      document.getElementById('dc-results').style.display='none';
+      document.getElementById('dc-placeholder').style.display='block';
+      return;
+    }
+
+    document.getElementById('dc-results').style.display='block';
+    document.getElementById('dc-placeholder').style.display='none';
+
+    var annualSave=pc-pn;
+    var dedDiff=dn-dc;
+    var breakEven=annualSave>0?dedDiff/annualSave:Infinity;
+
+    document.getElementById('dc-annual-save').textContent=fmt(annualSave)+'/yr';
+    document.getElementById('dc-breakeven').textContent=breakEven===Infinity?'∞':breakEven.toFixed(1);
+    document.getElementById('dc-ded-diff').textContent=fmt(dedDiff);
+
+    // 10-year comparison: 0, 1, 2 claims
+    var tbody=document.getElementById('dc-tbody');
+    tbody.innerHTML='';
+    var yrs=10;
+    var verdictClaims=freqYrs>0?Math.round(yrs/freqYrs):0;
+
+    [0,1,2].forEach(function(claims,i){
+      // Cost over 10 years = premiums + (claims * deductible paid)
+      var costCur=pc*yrs+claims*dc;
+      var costNew=pn*yrs+claims*dn;
+      var winner=costNew<costCur?'Higher ded.':costCur<costNew?'Current ded.':'Tie';
+      var winColor=costNew<costCur?'#16a34a':costCur<costNew?'#dc2626':'#6b6860';
+
+      var tr=document.createElement('tr');
+      tr.style.borderBottom='1px solid var(--border)';
+      if(i%2===1)tr.style.background='var(--surface2)';
+      tr.innerHTML='<td style="padding:9px 12px;font-weight:600;color:var(--text)">'+claims+' claim'+(claims!==1?'s':'')+'</td>'
+        +'<td style="padding:9px 12px;text-align:right;color:var(--text)">'+fmt(costCur)+'</td>'
+        +'<td style="padding:9px 12px;text-align:right;color:var(--text)">'+fmt(costNew)+'</td>'
+        +'<td style="padding:9px 12px;font-weight:700;color:'+winColor+'">'+winner+'</td>';
+      tbody.appendChild(tr);
+    });
+
+    // Verdict
+    var costCurFreq=pc*yrs+(freqYrs>0?Math.round(yrs/freqYrs):0)*dc;
+    var costNewFreq=pn*yrs+(freqYrs>0?Math.round(yrs/freqYrs):0)*dn;
+    var verdict='';
+    if(freqYrs===0){
+      verdict='Since you never file claims, the <strong>higher deductible</strong> saves you <strong>'+fmt(annualSave*yrs)+'</strong> over 10 years with no downside.';
+    } else if(costNewFreq<costCurFreq){
+      verdict='At your claim frequency (~'+Math.round(yrs/freqYrs)+' claim per 10 years), the <strong>higher deductible</strong> saves more over 10 years — by <strong>'+fmt(costCurFreq-costNewFreq)+'</strong>.';
+    } else {
+      verdict='At your claim frequency (~'+Math.round(yrs/freqYrs)+' claim per 10 years), the <strong>current (lower) deductible</strong> saves more over 10 years — by <strong>'+fmt(costNewFreq-costCurFreq)+'</strong>.';
+    }
+    if(breakEven!==Infinity&&breakEven<=3){
+      verdict+=' <em>Break-even in just '+breakEven.toFixed(1)+' years — a fast payback.</em>';
+    }
+    document.getElementById('dc-verdict').innerHTML=verdict;
+  };
+})();
+</script>

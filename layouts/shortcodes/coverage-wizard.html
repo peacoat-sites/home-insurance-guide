@@ -1,0 +1,306 @@
+{{- /* Home Insurance Coverage Needs Wizard */ -}}
+<div class="cov-wiz" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">
+    Home Insurance Coverage Needs Wizard
+  </div>
+  <div id="cw-body" style="padding:20px">
+
+    <!-- Progress bar -->
+    <div style="margin-bottom:20px">
+      <div style="display:flex;justify-content:space-between;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:6px">
+        <span id="cw-step-label">Step 1 of 4</span>
+        <span id="cw-step-title">Your Home</span>
+      </div>
+      <div style="height:6px;background:var(--border);border-radius:99px;overflow:hidden">
+        <div id="cw-prog" style="height:100%;background:var(--accent);border-radius:99px;transition:width .3s;width:25%"></div>
+      </div>
+    </div>
+
+    <!-- Step 1: Your Home -->
+    <div id="cw-s1" class="cw-step">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Home type
+          <select id="cw-home-type" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+            <option value="single">Single-family</option>
+            <option value="condo">Condo</option>
+            <option value="townhouse">Townhouse</option>
+            <option value="mobile">Mobile home</option>
+          </select>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Home age
+          <select id="cw-home-age" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+            <option value="new">&lt;10 years</option>
+            <option value="mid" selected>10–30 years</option>
+            <option value="older">30–50 years</option>
+            <option value="old">50+ years</option>
+          </select>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Replacement cost estimate ($)
+          <input id="cw-replace" type="number" min="0" placeholder="e.g. 350000"
+            style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <span style="font-size:11px;color:var(--stone)">Not sure? <a href="/home-replacement-cost-calculator/" style="color:var(--accent)">Calculate it here</a></span>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Mortgage balance ($)
+          <input id="cw-mortgage" type="number" min="0" placeholder="0 if paid off"
+            style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+        </label>
+      </div>
+      <div id="cw-err1" style="color:#dc2626;font-size:13px;margin-top:10px;display:none">Please enter a replacement cost estimate.</div>
+      <div style="margin-top:20px;text-align:right">
+        <button onclick="cwNext(1)" style="background:var(--accent);color:#fff;border:none;border-radius:10px;padding:12px 28px;font-size:15px;font-weight:700;cursor:pointer">Next →</button>
+      </div>
+    </div>
+
+    <!-- Step 2: Your Belongings -->
+    <div id="cw-s2" class="cw-step" style="display:none">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Personal property value ($)
+          <input id="cw-prop" type="number" min="0" placeholder="e.g. 60000"
+            style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <span style="font-size:11px;color:var(--stone)">Typical household: $30,000–$100,000. Do a home inventory for accuracy.</span>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          High-value items total ($)
+          <input id="cw-highval" type="number" min="0" placeholder="jewelry, art, electronics, guns"
+            style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <span style="font-size:11px;color:var(--stone)">Standard policies limit these to $1,500–$5,000 — riders may be needed.</span>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Business equipment at home?
+          <select id="cw-biz" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit" onchange="cwToggleBiz()">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+          </select>
+        </label>
+        <label id="cw-bizval-wrap" style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted);display:none">
+          Business equipment value ($)
+          <input id="cw-bizval" type="number" min="0" placeholder="e.g. 5000"
+            style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+        </label>
+      </div>
+      <div id="cw-err2" style="color:#dc2626;font-size:13px;margin-top:10px;display:none">Please enter a personal property estimate.</div>
+      <div style="margin-top:20px;display:flex;gap:12px;justify-content:flex-end">
+        <button onclick="cwBack(2)" style="background:var(--surface2);color:var(--text);border:1px solid var(--border-strong);border-radius:10px;padding:12px 22px;font-size:15px;font-weight:600;cursor:pointer">← Back</button>
+        <button onclick="cwNext(2)" style="background:var(--accent);color:#fff;border:none;border-radius:10px;padding:12px 28px;font-size:15px;font-weight:700;cursor:pointer">Next →</button>
+      </div>
+    </div>
+
+    <!-- Step 3: Your Liability -->
+    <div id="cw-s3" class="cw-step" style="display:none">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Pool, trampoline, or dog?
+          <select id="cw-bite" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+            <option value="no">No</option>
+            <option value="yes">Yes (elevated liability risk)</option>
+          </select>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Guests/clients at home for business?
+          <select id="cw-biz-guests" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+          </select>
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Net worth estimate ($)
+          <input id="cw-networth" type="number" min="0" placeholder="e.g. 500000"
+            style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <span style="font-size:11px;color:var(--stone)">Liability coverage should generally match your net worth.</span>
+        </label>
+      </div>
+      <div style="margin-top:20px;display:flex;gap:12px;justify-content:flex-end">
+        <button onclick="cwBack(3)" style="background:var(--surface2);color:var(--text);border:1px solid var(--border-strong);border-radius:10px;padding:12px 22px;font-size:15px;font-weight:600;cursor:pointer">← Back</button>
+        <button onclick="cwNext(3)" style="background:var(--accent);color:#fff;border:none;border-radius:10px;padding:12px 28px;font-size:15px;font-weight:700;cursor:pointer">Next →</button>
+      </div>
+    </div>
+
+    <!-- Step 4: Risk Profile -->
+    <div id="cw-s4" class="cw-step" style="display:none">
+      <p style="margin:0 0 14px;font-size:14px;color:var(--muted);font-weight:600">Select all that apply to your location:</p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+        <label style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600;color:var(--text);padding:12px 14px;border:1.5px solid var(--border-strong);border-radius:10px;cursor:pointer">
+          <input type="checkbox" id="cw-flood" style="width:18px;height:18px;accent-color:var(--accent)"> Flood zone (NFIP required)
+        </label>
+        <label style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600;color:var(--text);padding:12px 14px;border:1.5px solid var(--border-strong);border-radius:10px;cursor:pointer">
+          <input type="checkbox" id="cw-hurricane" style="width:18px;height:18px;accent-color:var(--accent)"> Hurricane zone
+        </label>
+        <label style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600;color:var(--text);padding:12px 14px;border:1.5px solid var(--border-strong);border-radius:10px;cursor:pointer">
+          <input type="checkbox" id="cw-wildfire" style="width:18px;height:18px;accent-color:var(--accent)"> Wildfire risk area
+        </label>
+        <label style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:600;color:var(--text);padding:12px 14px;border:1.5px solid var(--border-strong);border-radius:10px;cursor:pointer">
+          <input type="checkbox" id="cw-quake" style="width:18px;height:18px;accent-color:var(--accent)"> Earthquake risk (CA / Pacific NW / New Madrid)
+        </label>
+      </div>
+      <div style="margin-top:20px;display:flex;gap:12px;justify-content:flex-end">
+        <button onclick="cwBack(4)" style="background:var(--surface2);color:var(--text);border:1px solid var(--border-strong);border-radius:10px;padding:12px 22px;font-size:15px;font-weight:600;cursor:pointer">← Back</button>
+        <button onclick="cwCalc()" style="background:var(--accent);color:#fff;border:none;border-radius:10px;padding:12px 28px;font-size:15px;font-weight:700;cursor:pointer">Get My Recommendations →</button>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="cw-results" style="display:none">
+      <h3 style="margin:0 0 16px;font-size:1.1rem;font-weight:800;color:var(--text)">Your Coverage Recommendations</h3>
+      <table id="cw-table" style="width:100%;border-collapse:collapse;font-size:14px">
+        <thead>
+          <tr style="background:var(--surface2)">
+            <th style="text-align:left;padding:10px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;border-bottom:1px solid var(--border)">Coverage</th>
+            <th style="text-align:right;padding:10px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;border-bottom:1px solid var(--border)">Recommended Amount</th>
+            <th style="text-align:left;padding:10px 14px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;border-bottom:1px solid var(--border)">Notes</th>
+          </tr>
+        </thead>
+        <tbody id="cw-tbody"></tbody>
+      </table>
+      <div id="cw-flood-alert" style="display:none;margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,#dc2626 10%,#fff);border:1px solid color-mix(in srgb,#dc2626 35%,transparent);font-size:.95rem">
+        <strong>Flood coverage required:</strong> Standard homeowners insurance does NOT cover flooding. You must purchase a separate policy through the National Flood Insurance Program (NFIP) — current average cost is <strong>$700–$900/year</strong>. Visit <a href="https://www.floodsmart.gov" target="_blank" rel="noopener" style="color:#dc2626">floodsmart.gov</a> to find a policy.
+      </div>
+      <div id="cw-quake-alert" style="display:none;margin-top:12px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,#f59e0b 10%,#fff);border:1px solid color-mix(in srgb,#f59e0b 35%,transparent);font-size:.95rem">
+        <strong>Earthquake coverage:</strong> Standard policies exclude earthquake damage. Purchase a separate earthquake policy through your insurer or the CEA (California Earthquake Authority).
+      </div>
+      <div style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem">
+        <strong>Annual review reminder:</strong> Review your coverage every year — replacement costs have risen 25–40% since 2019. What was adequate coverage three years ago may leave you underinsured today.
+      </div>
+      <div style="margin-top:16px;text-align:center">
+        <button onclick="cwReset()" style="background:var(--surface2);color:var(--text);border:1px solid var(--border-strong);border-radius:10px;padding:10px 22px;font-size:14px;font-weight:600;cursor:pointer">← Start Over</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function(){
+  var steps=['s1','s2','s3','s4'];
+  var titles=['Your Home','Your Belongings','Your Liability Risk','Your Risk Profile'];
+  function fmt(n){return '$'+Math.round(n).toLocaleString();}
+
+  window.cwNext=function(s){
+    if(s===1){
+      var rc=parseFloat(document.getElementById('cw-replace').value)||0;
+      if(!rc){document.getElementById('cw-err1').style.display='block';return;}
+      document.getElementById('cw-err1').style.display='none';
+    }
+    if(s===2){
+      var pv=parseFloat(document.getElementById('cw-prop').value)||0;
+      if(!pv){document.getElementById('cw-err2').style.display='block';return;}
+      document.getElementById('cw-err2').style.display='none';
+    }
+    document.getElementById('cw-s'+s).style.display='none';
+    var ns=s+1;
+    document.getElementById('cw-s'+ns).style.display='block';
+    document.getElementById('cw-step-label').textContent='Step '+ns+' of 4';
+    document.getElementById('cw-step-title').textContent=titles[ns-1];
+    document.getElementById('cw-prog').style.width=(ns*25)+'%';
+  };
+
+  window.cwBack=function(s){
+    document.getElementById('cw-s'+s).style.display='none';
+    var ps=s-1;
+    document.getElementById('cw-s'+ps).style.display='block';
+    document.getElementById('cw-step-label').textContent='Step '+ps+' of 4';
+    document.getElementById('cw-step-title').textContent=titles[ps-1];
+    document.getElementById('cw-prog').style.width=(ps*25)+'%';
+  };
+
+  window.cwToggleBiz=function(){
+    var v=document.getElementById('cw-biz').value;
+    var w=document.getElementById('cw-bizval-wrap');
+    w.style.display=v==='yes'?'flex':'none';
+  };
+
+  window.cwCalc=function(){
+    // Gather inputs
+    var rc=parseFloat(document.getElementById('cw-replace').value)||300000;
+    var prop=parseFloat(document.getElementById('cw-prop').value)||50000;
+    var highval=parseFloat(document.getElementById('cw-highval').value)||0;
+    var networth=parseFloat(document.getElementById('cw-networth').value)||300000;
+    var biteRisk=document.getElementById('cw-bite').value==='yes';
+    var bizGuests=document.getElementById('cw-biz-guests').value==='yes';
+    var flood=document.getElementById('cw-flood').checked;
+    var quake=document.getElementById('cw-quake').checked;
+
+    // Dwelling = replacement cost (not market value)
+    var dwelling=rc;
+
+    // Personal property: min(estimate, 50% dwelling); recommend 70% replacement
+    var propRec=Math.min(prop,dwelling*0.50);
+    var propNote='Based on your estimate. Consider replacement-value coverage (not actual cash value) for better protection.';
+    if(prop>dwelling*0.50){propNote='Capped at 50% of dwelling per standard policy limits. Consider a higher-value policy or separate floater.';}
+
+    // Liability: max(300k, networth rounded to nearest 100k)
+    var liabRec=Math.max(300000,Math.ceil(networth/100000)*100000);
+    var liabNote='';
+    if(biteRisk||bizGuests){
+      liabNote='Elevated risk detected (pool/trampoline/dog or business guests). ';
+      if(liabRec<500000){liabRec=500000;}
+    }
+    if(liabRec>=500000){liabNote+='Consider an umbrella policy ($1M+) for broader protection above your homeowners limit.';}
+    else{liabNote='Matches your net worth. Umbrella policy recommended if net worth grows above $500k.';}
+
+    // Loss of use: 20% of dwelling
+    var lossOfUse=dwelling*0.20;
+
+    // Med pay: $5,000 standard
+    var medPay=5000;
+
+    // High-value items
+    var hvNote='';
+    if(highval>3000){hvNote='Schedule separately as scheduled personal property riders or floaters. Standard policy limits are $1,500–$5,000 for these categories.';}
+    else if(highval>0){hvNote='May be within standard policy limits, but confirm with your insurer.';}
+    else{hvNote='No high-value items reported.';}
+
+    // Build table
+    var rows=[
+      ['Dwelling (Structure)','<strong>'+fmt(dwelling)+'</strong>','Use replacement cost, NOT market value. Rebuild costs often exceed sale price.'],
+      ['Personal Property',fmt(propRec),propNote],
+      ['Liability',fmt(liabRec),liabNote],
+      ['Loss of Use (ALE)',fmt(lossOfUse),'20% of dwelling — standard. Covers hotel/rental costs if your home is uninhabitable.'],
+      ['Medical Payments',fmt(medPay),'Covers minor injuries to guests regardless of fault. Standard $5,000.'],
+      ['High-Value Items ('+fmt(highval)+')',highval>3000?'Schedule separately':'Within limits',hvNote],
+    ];
+
+    var tbody=document.getElementById('cw-tbody');
+    tbody.innerHTML='';
+    rows.forEach(function(r,i){
+      var tr=document.createElement('tr');
+      tr.style.borderBottom='1px solid var(--border)';
+      if(i%2===1)tr.style.background='var(--surface2)';
+      tr.innerHTML='<td style="padding:10px 14px;font-weight:600;color:var(--text)">'+r[0]+'</td>'
+        +'<td style="padding:10px 14px;text-align:right;font-weight:800;color:var(--accent);white-space:nowrap">'+r[1]+'</td>'
+        +'<td style="padding:10px 14px;color:var(--muted);font-size:13px">'+r[2]+'</td>';
+      tbody.appendChild(tr);
+    });
+
+    // Alerts
+    document.getElementById('cw-flood-alert').style.display=flood?'block':'none';
+    document.getElementById('cw-quake-alert').style.display=quake?'block':'none';
+
+    // Show results
+    document.getElementById('cw-s4').style.display='none';
+    document.getElementById('cw-results').style.display='block';
+    document.getElementById('cw-step-label').textContent='Results';
+    document.getElementById('cw-step-title').textContent='Coverage Summary';
+    document.getElementById('cw-prog').style.width='100%';
+  };
+
+  window.cwReset=function(){
+    document.getElementById('cw-results').style.display='none';
+    document.getElementById('cw-s1').style.display='block';
+    document.getElementById('cw-step-label').textContent='Step 1 of 4';
+    document.getElementById('cw-step-title').textContent='Your Home';
+    document.getElementById('cw-prog').style.width='25%';
+    ['cw-replace','cw-mortgage','cw-prop','cw-highval','cw-bizval','cw-networth'].forEach(function(id){
+      var el=document.getElementById(id);if(el)el.value='';
+    });
+    document.getElementById('cw-flood').checked=false;
+    document.getElementById('cw-hurricane').checked=false;
+    document.getElementById('cw-wildfire').checked=false;
+    document.getElementById('cw-quake').checked=false;
+  };
+})();
+</script>
