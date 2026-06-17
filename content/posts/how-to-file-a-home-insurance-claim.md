@@ -38,7 +38,7 @@ What surprised me was how often adjusters flag claims for "insufficient document
 
 Write down a timeline while your memory is fresh. When did you notice the damage? What were the conditions? Did you hear anything? If it's a theft, was anything unusual in the days before? Adjusters are trained to find inconsistencies in timelines, and a solid written account you made the same day carries far more weight than one you reconstruct later.
 
-One tool that genuinely changes the claim experience is a home inventory. If you don't have one, [apps like Encircle or Sortly](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20) let you document your belongings room by room before any loss ever happens. After the fact, you're working backward, which is harder. Start one today regardless of whether you're dealing with a claim right now.
+One tool that genuinely changes the claim experience is a home inventory. If you don't have one, [apps like Encircle or Sortly](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) let you document your belongings room by room before any loss ever happens. After the fact, you're working backward, which is harder. Start one today regardless of whether you're dealing with a claim right now.
 
 ## Understanding What Your Policy Actually Covers
 
@@ -102,9 +102,9 @@ Accepting the first settlement offer too quickly. I've seen homeowners accept a 
 
 Missing your policy's reporting deadline. Most policies require you to notify the insurer "promptly" or within a specific timeframe. Delayed reporting can give the insurer grounds to deny or reduce your claim.
 
-Not protecting your documents. Keep your policy documents, your claim paperwork, and your photos in more than one place. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20) for physical copies and a cloud backup for digital files means a fire or flood doesn't also destroy the evidence you need to file a claim from that same fire or flood.
+Not protecting your documents. Keep your policy documents, your claim paperwork, and your photos in more than one place. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) for physical copies and a cloud backup for digital files means a fire or flood doesn't also destroy the evidence you need to file a claim from that same fire or flood.
 
-Water leak sensors are worth mentioning here too. A [good water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=yourtag-20) placed near water heaters, under sinks, and near appliances can catch slow leaks before they become major damage, and before gradual damage exclusions kick in. (This site may earn a commission on product links.)
+Water leak sensors are worth mentioning here too. A [good water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed near water heaters, under sinks, and near appliances can catch slow leaks before they become major damage, and before gradual damage exclusions kick in. (This site may earn a commission on product links.)
 
 ---
 

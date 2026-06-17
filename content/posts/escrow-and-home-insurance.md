@@ -82,7 +82,7 @@ Your contents coverage, liability limits, loss-of-use coverage, and any endorsem
 
 Flood insurance, if you're in a required flood zone, is sometimes escrowed but not always. Same with earthquake coverage. These are typically separate policies, and the rules vary by lender. If you're not sure whether your flood premium is being paid through escrow or by you directly, find out before flood season, not during.
 
-A practical habit: keep a [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=placeholder-20) updated annually *(disclosure: this site may earn a commission from qualifying purchases)*. Your escrow account won't save you if your contents claim gets denied because you can't document what you owned. A $30 [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=placeholder-20) is worth keeping your policy declarations page in, along with a copy of your most recent escrow analysis.
+A practical habit: keep a [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) updated annually *(disclosure: this site may earn a commission from qualifying purchases)*. Your escrow account won't save you if your contents claim gets denied because you can't document what you owned. A $30 [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is worth keeping your policy declarations page in, along with a copy of your most recent escrow analysis.
 
 ## What to Do When You Switch Insurers
 

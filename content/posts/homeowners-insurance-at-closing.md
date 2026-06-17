@@ -80,7 +80,7 @@ At closing, you've already paid the first full year out of pocket. The lender wi
 
 Also: if your escrow account pays your renewal premium and you decide to switch insurers after year one, you'll need to coordinate the cancellation and refund carefully. Your old insurer sends the refund to you; your lender's escrow account is short. It's manageable but it requires attention. Check with [your state's insurance department](https://www.naic.org/state_web_map.htm) if you run into a dispute about how refunds were handled.
 
-One practical thing before closing: do a home inventory now, while you're in move-in mode. Photograph everything, room by room. There are decent free apps for this (Encircle is one; the Insurance Information Institute's free tool is another). Store the inventory somewhere that isn't the house itself. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20) or a cloud backup both work. *(This site may earn a commission on purchases made through affiliate links.)*
+One practical thing before closing: do a home inventory now, while you're in move-in mode. Photograph everything, room by room. There are decent free apps for this (Encircle is one; the Insurance Information Institute's free tool is another). Store the inventory somewhere that isn't the house itself. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) or a cloud backup both work. *(This site may earn a commission on purchases made through affiliate links.)*
 
 ---
 

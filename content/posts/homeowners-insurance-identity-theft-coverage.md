@@ -72,7 +72,7 @@ If you don't have the rider yet, here's how to approach adding it without overpa
 
 **Step 4: Check the claim process.** Ask your insurer: do you have to do all the restoration work yourself and then submit receipts, or does the insurer connect you with a professional case manager who handles it? The latter is significantly less stressful and often more effective.
 
-**Step 5: Document and protect your identity assets now.** A home inventory app (like [Encircle or similar tools available on Amazon](https://www.amazon.com/s?k=home+inventory+app&tag=youraffiliatetag-20), *note: this site may earn a commission on qualifying purchases*) can help you store records of important documents. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=youraffiliatetag-20) keeps your Social Security card, passport, and financial records physically protected. These aren't flashy, but they matter.
+**Step 5: Document and protect your identity assets now.** A home inventory app (like [Encircle or similar tools available on Amazon](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20), *note: this site may earn a commission on qualifying purchases*) can help you store records of important documents. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) keeps your Social Security card, passport, and financial records physically protected. These aren't flashy, but they matter.
 
 ## How This Coverage Compares: A Quick Reference
 

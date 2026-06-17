@@ -67,7 +67,7 @@ Step three: verify your monitoring company's UL listing. You can do this directl
 
 Step four: ask your insurer specifically what they credit. Call them. Ask: "Do you have a discount schedule for security systems? What certification or documentation do I need to qualify for your highest tier?" Write down who you spoke to and when. This matters if there's a dispute at renewal.
 
-Step five: consider [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=hie-20) if you haven't already. Carriers are increasingly offering meaningful discounts for these because water damage is now the most frequent claim type in most markets. A $25 sensor near your water heater or washing machine hookup can move the needle on your premium and, more importantly, actually prevent a $15,000 claim. (The site may earn a commission on product purchases.)
+Step five: consider [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) if you haven't already. Carriers are increasingly offering meaningful discounts for these because water damage is now the most frequent claim type in most markets. A $25 sensor near your water heater or washing machine hookup can move the needle on your premium and, more importantly, actually prevent a $15,000 claim. (The site may earn a commission on product purchases.)
 
 ## The Monitoring Company Problem
 
@@ -85,14 +85,14 @@ Most homeowners focus entirely on burglary deterrence and ignore the ISO Protect
 
 Your local fire protection class is largely outside your control, but not entirely. Distance from a fire hydrant matters. Distance from a fire station matters. And the quality of your local fire department's equipment and staffing matters. If you live more than five miles from a fire station in a rural area, you're probably rated Class 8 or worse, and that's baked into your premium regardless of how many monitored smoke detectors you own.
 
-Where you do have control: [interconnected smoke alarms](https://www.amazon.com/s?k=interconnected+smoke+alarms&tag=hie-20) with a monitored central station can still earn a meaningful fire discount separately from the Protection Class hit. And in some states, your insurer is required to disclose your Protection Class rating if you ask. [Check your state's insurance department](https://www.naic.org/state_web_map.htm) to find out what disclosure requirements apply where you live.
+Where you do have control: [interconnected smoke alarms](https://www.amazon.com/s?k=interconnected+smoke+alarms&tag=contentportfo-20) with a monitored central station can still earn a meaningful fire discount separately from the Protection Class hit. And in some states, your insurer is required to disclose your Protection Class rating if you ask. [Check your state's insurance department](https://www.naic.org/state_web_map.htm) to find out what disclosure requirements apply where you live.
 
 ---
 
 
 ---
 
-The broader point is this: home security ratings aren't something your insurer is obligated to explain clearly, and most don't. The discount you get is largely a function of the questions you ask before you buy, not after. A [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=hie-20) and a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=hie-20) won't move your premium, but they'll make a claim dramatically less painful if something does go wrong. Both worth having. (The site may earn a commission on purchases.)
+The broader point is this: home security ratings aren't something your insurer is obligated to explain clearly, and most don't. The discount you get is largely a function of the questions you ask before you buy, not after. A [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) and a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) won't move your premium, but they'll make a claim dramatically less painful if something does go wrong. Both worth having. (The site may earn a commission on purchases.)
 
 Get the certificate. Confirm the UL listing. Tell your insurer in writing. That's the whole game.
 

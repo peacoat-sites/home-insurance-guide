@@ -133,7 +133,7 @@ Getting properly insured on a rental property isn't complicated once you know wh
 
 10. **Document property condition.** Before every tenancy, photograph and video every room. Store it in a cloud-based home inventory app. A well-organized record has direct value if you ever face a disputed claim or a tenant damage situation.
 
-For water leak detection specifically, placing [smart water sensors](https://www.amazon.com/s?k=smart+water+leak+sensor&tag=youraffiliatetag) near appliances, water heaters, and under sinks can catch leaks before they become five-figure claims. The site may earn a commission on purchases through that link. A $30 sensor has prevented thousands of dollars in losses for landlords I've spoken with.
+For water leak detection specifically, placing [smart water sensors](https://www.amazon.com/s?k=smart+water+leak+sensor&tag=contentportfo-20) near appliances, water heaters, and under sinks can catch leaks before they become five-figure claims. The site may earn a commission on purchases through that link. A $30 sensor has prevented thousands of dollars in losses for landlords I've spoken with.
 
 ---
 

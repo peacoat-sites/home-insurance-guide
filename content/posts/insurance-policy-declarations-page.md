@@ -74,7 +74,7 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 I've also seen homeowners assume their declarations page covered jewelry, art, or firearms at full replacement value. It usually doesn't, not without a separate rider or endorsement called a "scheduled personal property" addition. High-value items need to be listed and appraised separately.
 
-One practical move: build a home inventory before you need it. Apps like Encircle or the NAIC's free home inventory app let you document your belongings with photos and receipts. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yoursitetag-20) *(affiliate link; this site may earn a commission)* is also worth having for storing physical copies of your declarations page alongside your other important documents.
+One practical move: build a home inventory before you need it. Apps like Encircle or the NAIC's free home inventory app let you document your belongings with photos and receipts. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) *(affiliate link; this site may earn a commission)* is also worth having for storing physical copies of your declarations page alongside your other important documents.
 
 ---
 

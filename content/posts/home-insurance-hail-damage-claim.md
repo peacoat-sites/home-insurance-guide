@@ -58,7 +58,7 @@ Take video, not just photos. Walk the whole perimeter, narrate what you're seein
 
 Then check your gutters and downspouts for granule accumulation. A heavy granule deposit after a storm that matches your shingle color is corroborating evidence.
 
-I'd also strongly suggest picking up a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=yourtag-20) to place in your attic or near vulnerable ceiling areas if you suspect roof penetration. A timestamped alert showing active moisture intrusion strengthens a claim considerably. *(The site may earn a commission on this link.)*
+I'd also strongly suggest picking up a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) to place in your attic or near vulnerable ceiling areas if you suspect roof penetration. A timestamped alert showing active moisture intrusion strengthens a claim considerably. *(The site may earn a commission on this link.)*
 
 File your claim promptly, but don't feel pressured to sign anything quickly. Call the number on your declarations page, get a claim number, and ask for an estimated timeline for an adjuster visit.
 

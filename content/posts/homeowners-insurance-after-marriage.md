@@ -78,9 +78,9 @@ Discounts for newly married couples vary by insurer and state. Some companies of
 
 After the policy review, the most useful thing you can do is document what you own. If you file a claim, you'll be asked to itemize your losses. Without documentation, you'll reconstruct from memory while you're already stressed, and you'll forget things.
 
-A phone app like Encircle or the NAIC's free home inventory app makes this less painful than it sounds. Walk through each room, record video, note serial numbers on electronics, save receipts digitally. Store a copy somewhere off-site or in the cloud. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=homeinsedu-20) (affiliate link) handles the physical paperwork.
+A phone app like Encircle or the NAIC's free home inventory app makes this less painful than it sounds. Walk through each room, record video, note serial numbers on electronics, save receipts digitally. Store a copy somewhere off-site or in the cloud. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (affiliate link) handles the physical paperwork.
 
-While you're at it: [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=homeinsedu-20) (affiliate link) are one of the cheapest proactive measures you can take. Water damage is one of the most common homeowners claims, and catching a slow leak early saves both a claim and a potential rate increase. Some insurers even offer small discounts for smart home monitoring devices.
+While you're at it: [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) (affiliate link) are one of the cheapest proactive measures you can take. Water damage is one of the most common homeowners claims, and catching a slow leak early saves both a claim and a potential rate increase. Some insurers even offer small discounts for smart home monitoring devices.
 
 ---
 

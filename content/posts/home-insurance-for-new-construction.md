@@ -84,7 +84,7 @@ Not all homeowner policies are equal, and on a new construction home, the differ
 
 **Extended replacement cost endorsement.** Construction costs fluctuate. If your home is damaged a year after closing and lumber prices have spiked, your standard dwelling coverage limit might not be enough to rebuild. An extended replacement cost endorsement, typically 25% to 50% above your dwelling limit, provides a buffer. On a new home where you know the exact build cost, this is one of the smarter add-ons available.
 
-**Water backup coverage.** Sump pump failure and water backup from drains is not covered under standard homeowner policies. It requires a separate endorsement. New construction homes in areas with high water tables often have sump pumps installed. If yours does, add this coverage. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=youraffiliateid-20) placed near the sump pit or under appliances costs under $30 and can alert you before minor seepage becomes a major claim. (This site may earn a commission on qualifying purchases.)
+**Water backup coverage.** Sump pump failure and water backup from drains is not covered under standard homeowner policies. It requires a separate endorsement. New construction homes in areas with high water tables often have sump pumps installed. If yours does, add this coverage. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed near the sump pit or under appliances costs under $30 and can alert you before minor seepage becomes a major claim. (This site may earn a commission on qualifying purchases.)
 
 **Service line coverage.** The underground utility lines connecting your home to the street, water, sewer, gas, electric, are typically your responsibility once they cross onto your property. New construction means new lines, but even new lines fail. Service line endorsements are inexpensive and cover excavation and repair costs that would otherwise come straight out of pocket.
 
@@ -100,9 +100,9 @@ In my experience reviewing claims, new construction homes that go unoccupied for
 
 The Insurance Institute for Business and Home Safety (IBHS) publishes home fortification guides at [ibhs.org](https://ibhs.org/) that cover vulnerability points in new construction, including roof-to-wall connections and window performance. These aren't just for storm-prone areas. Reviewing those guides helps you ask your builder better questions before closing and helps you understand what your home's actual weak points are once you're in.
 
-Before you take possession, walk the home with your own inspector, separate from the builder's quality walk. Check roof penetrations, pipe penetrations through exterior walls, and HVAC connections. Document everything with photos. Create a home inventory that starts at day one, using an app like [Sortly](https://www.amazon.com/s?k=home+inventory+app&tag=youraffiliateid-20) or a comparable tool so you have a baseline if you ever need to file a claim. (Commission disclosure applies.)
+Before you take possession, walk the home with your own inspector, separate from the builder's quality walk. Check roof penetrations, pipe penetrations through exterior walls, and HVAC connections. Document everything with photos. Create a home inventory that starts at day one, using an app like [Sortly](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or a comparable tool so you have a baseline if you ever need to file a claim. (Commission disclosure applies.)
 
-Store your policy documents, warranty paperwork, and closing documents somewhere fireproof. A quality [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=youraffiliateid-20) rated for at least one hour at 1700°F protects what you can't replace digitally.
+Store your policy documents, warranty paperwork, and closing documents somewhere fireproof. A quality [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) rated for at least one hour at 1700°F protects what you can't replace digitally.
 
 ---
 

@@ -104,9 +104,9 @@ If you're dealing with this right now, here's how I'd approach it.
 
 **Step 4: Shop your policy.** Different insurers weight credit differently. Some are more aggressive about using it as a primary factor. Others place more weight on claims history or construction type. If your credit score has caused a significant surcharge with your current carrier, a competing carrier might rate you more favorably. Get at least three quotes with identical coverage terms.
 
-**Step 5: Build a home inventory and document your assets.** This doesn't affect your credit score, but it matters enormously if you file a claim. Use a dedicated home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20) *(affiliate link, site may earn a commission)* or simply record a walkthrough video stored offsite or in the cloud. Separate issue, but one I always recommend while people are thinking about their coverage.
+**Step 5: Build a home inventory and document your assets.** This doesn't affect your credit score, but it matters enormously if you file a claim. Use a dedicated home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) *(affiliate link, site may earn a commission)* or simply record a walkthrough video stored offsite or in the cloud. Separate issue, but one I always recommend while people are thinking about their coverage.
 
-**Step 6: Secure important documents.** A fireproof document safe *(affiliate link, site may earn a commission)* is useful for storing your policy documents, which you'll need quickly after a loss. [Options are available on Amazon](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20).
+**Step 6: Secure important documents.** A fireproof document safe *(affiliate link, site may earn a commission)* is useful for storing your policy documents, which you'll need quickly after a loss. [Options are available on Amazon](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20).
 
 ---
 

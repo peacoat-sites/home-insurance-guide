@@ -84,13 +84,13 @@ The IBHS (Insurance Institute for Business and Home Safety) [home fortification 
 
 A few practical habits that matter:
 
-Keep a [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=placeholder) current and take annual video walkthroughs of your home, including utility spaces and crawl areas. Date-stamped video showing a dry, clean crawl space is evidence that the mold discovered later was sudden, not chronic. *(This site may earn a commission from qualifying purchases.)*
+Keep a [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) current and take annual video walkthroughs of your home, including utility spaces and crawl areas. Date-stamped video showing a dry, clean crawl space is evidence that the mold discovered later was sudden, not chronic. *(This site may earn a commission from qualifying purchases.)*
 
-Consider [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=placeholder) near appliances, water heaters, and under sinks. These devices can alert you within minutes of a developing leak, which helps you document a sudden event rather than discovering a long-standing one. *(This site may earn a commission from qualifying purchases.)*
+Consider [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) near appliances, water heaters, and under sinks. These devices can alert you within minutes of a developing leak, which helps you document a sudden event rather than discovering a long-standing one. *(This site may earn a commission from qualifying purchases.)*
 
 Keep a simple maintenance log. Date and describe any plumbing work, roof inspections, or water-related repairs. When an adjuster asks "when did you first notice this," you want a real answer.
 
-Store copies of your policy documents, receipts for major repairs, and photos in a fireproof location or encrypted cloud storage. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=placeholder) is a modest investment that has saved a lot of people in the middle of a stressful claim. *(This site may earn a commission from qualifying purchases.)*
+Store copies of your policy documents, receipts for major repairs, and photos in a fireproof location or encrypted cloud storage. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is a modest investment that has saved a lot of people in the middle of a stressful claim. *(This site may earn a commission from qualifying purchases.)*
 
 ## If You Already Have a Mold Problem Right Now
 

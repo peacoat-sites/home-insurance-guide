@@ -94,7 +94,7 @@ Here's what they look at:
 4. **Your maintenance history**: Did you have the roof inspected? Was the HVAC system serviced? The absence of any maintenance documentation can work against you.
 5. **Building code and age**: In older homes, adjusters look for whether materials were already compromised by age or original defect.
 
-The practical implication: document everything before a loss happens. Keep receipts for repairs. Take photos of your roof, your appliances, your plumbing connections. A home inventory app (many are available; [here's an example worth checking out](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20)) can help you track the condition and age of major systems. *Disclosure: this site may earn a commission on qualifying purchases.*
+The practical implication: document everything before a loss happens. Keep receipts for repairs. Take photos of your roof, your appliances, your plumbing connections. A home inventory app (many are available; [here's an example worth checking out](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)) can help you track the condition and age of major systems. *Disclosure: this site may earn a commission on qualifying purchases.*
 
 If you do file a claim, photograph the damage extensively before any cleanup, get the plumber's or contractor's written assessment, and be careful about statements suggesting you were aware of a pre-existing condition. I don't mean be dishonest. I mean be precise, because loose language in a recorded statement can be used to reframe a sudden event as a gradual one.
 
@@ -107,7 +107,7 @@ The research on home water damage prevention is genuinely strong, and the IBHS h
 Here's what I'd recommend doing in order of impact:
 
 **Step 1: Add water leak sensors near high-risk appliances.**
-Place them under sinks, near the water heater, and behind the refrigerator. Smart sensors that alert your phone can catch slow leaks before they become major claims. [Leak sensors are inexpensive and widely available](https://www.amazon.com/s?k=water+leak+sensor&tag=yourtag-20). *Disclosure: this site may earn a commission on qualifying purchases.* Some insurers now offer premium discounts for homes with leak detection systems.
+Place them under sinks, near the water heater, and behind the refrigerator. Smart sensors that alert your phone can catch slow leaks before they become major claims. [Leak sensors are inexpensive and widely available](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20). *Disclosure: this site may earn a commission on qualifying purchases.* Some insurers now offer premium discounts for homes with leak detection systems.
 
 **Step 2: Review your policy's water damage endorsements.**
 Pull out your declarations page and look for sewer backup coverage, service line coverage, and whether you have an equipment breakdown endorsement. If you don't see them, call your agent and ask what each one costs to add. For most homeowners, sewer backup coverage costs between $50 and $150 per year. That's not a precise quote for your situation, but it gives you a sense of scale.
@@ -116,7 +116,7 @@ Pull out your declarations page and look for sewer backup coverage, service line
 Go to FEMA's flood map service and look up your address. If you're in a moderate or high-risk zone and don't have flood insurance, that's an urgent conversation to have. If you're in a low-risk zone, it still might be worth pricing the coverage.
 
 **Step 4: Document your home's condition annually.**
-Walk through with your phone, film the plumbing connections, the roof from outside, under every sink. Store that video somewhere durable. A document safe ([like these options](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20)) can protect physical records and flash drives. *Disclosure: this site may earn a commission on qualifying purchases.*
+Walk through with your phone, film the plumbing connections, the roof from outside, under every sink. Store that video somewhere durable. A document safe ([like these options](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)) can protect physical records and flash drives. *Disclosure: this site may earn a commission on qualifying purchases.*
 
 **Step 5: Check your state's insurance department resources.**
 The NAIC maintains a directory of state insurance departments at [naic.org/state_web_map.htm](https://www.naic.org/state_web_map.htm). Your state's department publishes complaint ratios, sample policy language, and consumer guides that explain what's required in your market. This is free, authoritative information most policyholders never use.

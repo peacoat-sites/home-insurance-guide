@@ -102,7 +102,7 @@ For renters especially, the cost argument is almost impossible to argue against.
 Whether you're buying a home or renting an apartment, the process for getting adequately covered follows the same general path. Rushing it is how gaps form.
 
 **Step 1: Take a home inventory before you buy a policy.**
-Walk through every room and document what you own. Open closets. Don't forget the garage. Use a home inventory app to photograph and record items along with estimated values. This documentation is what supports a claim later, and without it, you're guessing. Apps like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20) or basic video walkthroughs stored in the cloud work well. *(This site may earn a commission from qualifying purchases.)*
+Walk through every room and document what you own. Open closets. Don't forget the garage. Use a home inventory app to photograph and record items along with estimated values. This documentation is what supports a claim later, and without it, you're guessing. Apps like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or basic video walkthroughs stored in the cloud work well. *(This site may earn a commission from qualifying purchases.)*
 
 **Step 2: Decide between actual cash value and replacement cost.**
 For renters especially, replacement cost coverage is worth the extra few dollars a month. For homeowners, make sure your dwelling coverage limit reflects what it would actually cost to rebuild the structure at current construction costs, not what you paid for the house.
@@ -114,10 +114,10 @@ Standard policies often include $100,000 in liability coverage. If you have sign
 Flood, earthquake, and sewer backup are the most common exclusions. If you're in a flood-prone area, add flood insurance. If you're in California or the Pacific Northwest, consider earthquake coverage. Sewer backup riders are usually inexpensive and protect against a genuinely disgusting and common claim.
 
 **Step 5: Store your policy documents somewhere you can access them after a disaster.**
-A fireproof document safe is worth every penny. A waterproofed portable safe that holds your policy, your home inventory, and your important documents means you can start the claims process immediately, even if your home is a total loss. [Fireproof document safes](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20) are widely available and relatively affordable. *(This site may earn a commission from qualifying purchases.)*
+A fireproof document safe is worth every penny. A waterproofed portable safe that holds your policy, your home inventory, and your important documents means you can start the claims process immediately, even if your home is a total loss. [Fireproof document safes](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) are widely available and relatively affordable. *(This site may earn a commission from qualifying purchases.)*
 
 **Step 6: Add loss-prevention tools that insurers actually reward.**
-Smoke detectors and [carbon monoxide detectors](https://www.amazon.com/s?k=carbon+monoxide+detector&tag=yourtag-20) are baseline. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=yourtag-20) placed under sinks and near appliances can catch a slow leak before it becomes a $30,000 claim, and some insurers offer discounts for them. *(This site may earn a commission from qualifying purchases.)*
+Smoke detectors and [carbon monoxide detectors](https://www.amazon.com/s?k=carbon+monoxide+detector&tag=contentportfo-20) are baseline. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed under sinks and near appliances can catch a slow leak before it becomes a $30,000 claim, and some insurers offer discounts for them. *(This site may earn a commission from qualifying purchases.)*
 
 ---
 

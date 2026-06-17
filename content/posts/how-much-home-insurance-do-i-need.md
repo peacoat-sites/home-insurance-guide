@@ -78,7 +78,7 @@ Two things to know:
 
 **Special limits apply to high-value items.** Most standard policies cap jewelry theft coverage at $1,500 to $2,500. Firearms at $2,500. Collectibles, art, silverware, and electronics may have sub-limits too. These aren't buried in footnotes: they're in the "special limits" section of your policy, usually a single page. If you own items above those thresholds, you need a scheduled personal property endorsement (sometimes called a "floater") that lists those items specifically and insures them at their appraised value.
 
-**Do a home inventory now.** A simple video walkthrough narrated room by room, stored in the cloud, is enough to support a claim. There are also dedicated apps for this. [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20) and similar home inventory tools help you document and store everything systematically. The site may earn a commission from qualifying purchases. The documentation matters enormously when you're filing a claim under stress.
+**Do a home inventory now.** A simple video walkthrough narrated room by room, stored in the cloud, is enough to support a claim. There are also dedicated apps for this. [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) and similar home inventory tools help you document and store everything systematically. The site may earn a commission from qualifying purchases. The documentation matters enormously when you're filing a claim under stress.
 
 ---
 
@@ -100,7 +100,7 @@ Earthquakes require their own endorsement or policy in most states. If you're in
 
 Water damage is where things get complicated. Sudden, accidental water damage (a pipe bursts, an appliance hose fails) is typically covered. Gradual leaks and seepage are usually not. Sewer backup is usually excluded unless you add a specific endorsement. Given that sewer backup claims are among the most common and disruptive, that endorsement is worth the few extra dollars annually.
 
-[Water leak detectors](https://www.amazon.com/s?k=water+leak+detector&tag=yourtag-20) placed near appliances, water heaters, and under sinks don't lower your premium by themselves, but they can catch a leak before it becomes a claim, which keeps your rates down over time. The site may earn a commission.
+[Water leak detectors](https://www.amazon.com/s?k=water+leak+detector&tag=contentportfo-20) placed near appliances, water heaters, and under sinks don't lower your premium by themselves, but they can catch a leak before it becomes a claim, which keeps your rates down over time. The site may earn a commission.
 
 For structural and wind resilience guidance, the [Insurance Institute for Business and Home Safety (IBHS)](https://ibhs.org/) publishes detailed home fortification guides that explain which upgrades reduce risk most effectively. These are free, evidence-based, and legitimately useful.
 

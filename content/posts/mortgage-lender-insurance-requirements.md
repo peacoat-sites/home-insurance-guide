@@ -70,7 +70,7 @@ Your lender's requirements say nothing about your personal property. Nothing abo
 
 A policy that satisfies your mortgage company's checklist could still leave you personally exposed in significant ways. Liability limits of $100,000 are common in bare-bones policies. Most consumer advocates, and I'd count myself among them, suggest $300,000 as a more realistic minimum for a family. If someone slips on your steps and sues you, $100,000 disappears quickly.
 
-Keep a home inventory. Seriously. A photo or video walkthrough of every room, stored in the cloud or on a <a href="https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20">home inventory app</a>, can mean the difference between a $40,000 personal property claim and a $12,000 one, because you can document what you actually owned. (This site may earn a small commission on purchases made through links here.)
+Keep a home inventory. Seriously. A photo or video walkthrough of every room, stored in the cloud or on a <a href="https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20">home inventory app</a>, can mean the difference between a $40,000 personal property claim and a $12,000 one, because you can document what you actually owned. (This site may earn a small commission on purchases made through links here.)
 
 ## If Your Policy Gets Rejected at Closing
 

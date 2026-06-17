@@ -92,7 +92,7 @@ Don't wait for a claim to find out where your gaps are. Here's how to actually r
 
 **Step 5: Get umbrella quotes.** Contact two or three insurers and ask what a $1 million umbrella costs given your current home and auto policies. Most umbrellas require you to carry a minimum liability limit (often $300,000) on your underlying policies, so factor that in.
 
-**Step 6: Document your home.** This is more for property claims than liability, but a solid home inventory protects you across the board. Apps like Encircle or even a simple video walkthrough stored in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=placeholder) (the site may earn a commission) can make a real difference if you ever need to file a comprehensive claim.
+**Step 6: Document your home.** This is more for property claims than liability, but a solid home inventory protects you across the board. Apps like Encircle or even a simple video walkthrough stored in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (the site may earn a commission) can make a real difference if you ever need to file a comprehensive claim.
 
 ---
 

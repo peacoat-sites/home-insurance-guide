@@ -92,11 +92,11 @@ Insurers reward risk reduction, and certain home improvements carry more discoun
 
 **Central station monitored security systems** earn larger discounts than local alarms. The difference matters: a system that calls you when it goes off is different from one that dispatches a monitoring center to contact authorities. Tell your insurer which type you have.
 
-**Automatic water shutoff devices and leak sensors** are becoming increasingly important as water damage has overtaken fire as the most common homeowner claim in many regions. Some carriers offer discounts specifically for smart leak detection systems. Even if yours doesn't offer a formal discount, a sensor that catches a slow leak under your washing machine before it becomes a $40,000 subfloor replacement is an obvious win. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=yourtag-20) are inexpensive and widely available. (Note: this site may earn a commission on purchases made through links like this.)
+**Automatic water shutoff devices and leak sensors** are becoming increasingly important as water damage has overtaken fire as the most common homeowner claim in many regions. Some carriers offer discounts specifically for smart leak detection systems. Even if yours doesn't offer a formal discount, a sensor that catches a slow leak under your washing machine before it becomes a $40,000 subfloor replacement is an obvious win. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) are inexpensive and widely available. (Note: this site may earn a commission on purchases made through links like this.)
 
 **Whole-home surge protectors** are underrated. A panel-mounted surge protector costs a few hundred dollars installed and protects everything in your house from power spikes. Some insurers credit this directly; others factor it into overall risk assessment.
 
-**Fire extinguishers** on each floor, properly rated and mounted, can contribute to your overall risk profile and are worth having regardless of any discount. [A good multi-pack of rated fire extinguishers](https://www.amazon.com/s?k=home+fire+extinguisher&tag=yourtag-20) is one of those things that costs almost nothing and matters enormously in the wrong moment.
+**Fire extinguishers** on each floor, properly rated and mounted, can contribute to your overall risk profile and are worth having regardless of any discount. [A good multi-pack of rated fire extinguishers](https://www.amazon.com/s?k=home+fire+extinguisher&tag=contentportfo-20) is one of those things that costs almost nothing and matters enormously in the wrong moment.
 
 ---
 
@@ -114,7 +114,7 @@ When you shop, be careful about a few things:
 
 **Ask specifically about replacement cost versus actual cash value** for both your dwelling and your personal property. Actual cash value policies pay out less at claim time because they depreciate your belongings. Replacement cost coverage pays what it actually costs to replace them today. This distinction has a significant impact on what you collect after a loss, and it matters more than saving $50 a month on premiums.
 
-For anyone who's gone years without inventorying their possessions, a home inventory app (many are free) is the fastest way to document what you own and make sure your personal property coverage limit is actually adequate. [Several well-reviewed home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20) can walk you through room by room. Pair that documentation with a fireproof document safe for your policy papers, receipts, and any valuables appraisals. (Commission disclosure applies here too.)
+For anyone who's gone years without inventorying their possessions, a home inventory app (many are free) is the fastest way to document what you own and make sure your personal property coverage limit is actually adequate. [Several well-reviewed home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) can walk you through room by room. Pair that documentation with a fireproof document safe for your policy papers, receipts, and any valuables appraisals. (Commission disclosure applies here too.)
 
 ---
 

@@ -72,9 +72,9 @@ This is where it gets practical. There's a real difference between lowering your
 
 **Step 3: Ask about every discount the carrier offers.** Many people miss: new roof discounts, security system discounts, claims-free discounts, loyalty discounts, and discounts for newer construction. Some carriers offer a discount if you pay annually instead of monthly. Call and ask for the full discount list. Don't assume the online quote applied them all.
 
-**Step 4: Install monitored water leak sensors.** Some carriers offer premium reductions for leak detection devices, and even if yours doesn't, you're protecting yourself from the most common source of homeowner claims. [Water leak sensors like these](https://www.amazon.com/s?k=water+leak+sensor&tag=yourtag-20) cost under $30 and can alert you before a slow leak becomes a catastrophic one. *(This site may earn a commission from qualifying purchases.)*
+**Step 4: Install monitored water leak sensors.** Some carriers offer premium reductions for leak detection devices, and even if yours doesn't, you're protecting yourself from the most common source of homeowner claims. [Water leak sensors like these](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) cost under $30 and can alert you before a slow leak becomes a catastrophic one. *(This site may earn a commission from qualifying purchases.)*
 
-**Step 5: Improve your home's resistibility, not just its value.** Impact-resistant roofing, deadbolt locks, smoke detectors, and a whole-home fire extinguisher system can each affect your premium. A quality [fire extinguisher](https://www.amazon.com/s?k=home+fire+extinguisher&tag=yourtag-20) is also a practical safety tool regardless of discount availability. *(This site may earn a commission from qualifying purchases.)*
+**Step 5: Improve your home's resistibility, not just its value.** Impact-resistant roofing, deadbolt locks, smoke detectors, and a whole-home fire extinguisher system can each affect your premium. A quality [fire extinguisher](https://www.amazon.com/s?k=home+fire+extinguisher&tag=contentportfo-20) is also a practical safety tool regardless of discount availability. *(This site may earn a commission from qualifying purchases.)*
 
 **Step 6: Shop at renewal, not just once.** The insurance market reprices constantly. A carrier that was cheapest three years ago may not be cheapest today. Get at least three quotes every two to three years. The [National Association of Insurance Commissioners](https://www.naic.org/) maintains a consumer information tool on its website where you can compare complaint ratios by company in your state, which is useful for vetting unfamiliar carriers.
 
@@ -104,9 +104,9 @@ I've seen claims fall apart not because coverage was absent, but because the hom
 
 A home inventory is the most underused protection in insurance. If your home burns down, can you list every item in it? Can you prove what you paid? Most people can't. A detailed home inventory, photos or video, serial numbers, purchase receipts, turns a disputed contents claim into a straightforward one.
 
-There are good dedicated apps for this. [Home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=yourtag-20) that walk you through room by room are far better than a spreadsheet most people never finish. *(This site may earn a commission from qualifying purchases.)*
+There are good dedicated apps for this. [Home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) that walk you through room by room are far better than a spreadsheet most people never finish. *(This site may earn a commission from qualifying purchases.)*
 
-Once you have your policy documents and inventory together, keep copies somewhere outside your home. A house fire takes your paper files. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20) protects against most scenarios, but a copy in cloud storage or with a trusted person gives you backup if the safe itself is inaccessible. *(This site may earn a commission from qualifying purchases.)*
+Once you have your policy documents and inventory together, keep copies somewhere outside your home. A house fire takes your paper files. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) protects against most scenarios, but a copy in cloud storage or with a trusted person gives you backup if the safe itself is inaccessible. *(This site may earn a commission from qualifying purchases.)*
 
 ---
 

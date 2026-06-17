@@ -82,7 +82,7 @@ The days immediately after a fire are disorienting and exhausting. Knowing what 
 
 **Step 5: Get your own estimates.** Your insurer will assign an adjuster and likely a preferred contractor. You are allowed, and often well-advised, to get independent estimates as well. If the numbers differ significantly, that's the beginning of a negotiation, not a closed door.
 
-**Step 6: Create a detailed personal property inventory.** This is the most time-consuming part and the one most people underestimate. Go room by room. List every item, estimated purchase year, and estimated value. If you have receipts, photos, or serial numbers saved anywhere, find them. An app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=yoursitehere-20) *(this site may earn a commission from qualifying purchases)* or even a simple spreadsheet will help organize this.
+**Step 6: Create a detailed personal property inventory.** This is the most time-consuming part and the one most people underestimate. Go room by room. List every item, estimated purchase year, and estimated value. If you have receipts, photos, or serial numbers saved anywhere, find them. An app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) *(this site may earn a commission from qualifying purchases)* or even a simple spreadsheet will help organize this.
 
 **Step 7: Review the settlement offer carefully before accepting.** Once you sign a full and final release, your ability to reopen the claim is extremely limited. If you're not sure whether an offer is fair, a public adjuster or an attorney who handles insurance claims can review it before you sign.
 
@@ -102,7 +102,7 @@ The best time to find a coverage gap is before a claim, not during one.
 | Install smoke detectors on every floor | May qualify for a discount; required in most states |
 | Consider a water leak sensor near appliances | Water used to fight a fire can cause secondary damage |
 
-Two inexpensive steps that make a real difference: keeping a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yoursitehere-20) *(this site may earn a commission)* for your policy documents, deeds, and personal property receipts, and placing a [smoke detector](https://www.amazon.com/s?k=smoke+detector&tag=yoursitehere-20) *(this site may earn a commission)* with a 10-year sealed battery in every bedroom and hallway. A [fire extinguisher](https://www.amazon.com/s?k=home+fire+extinguisher&tag=yoursitehere-20) *(this site may earn a commission)* in the kitchen is basic and often overlooked.
+Two inexpensive steps that make a real difference: keeping a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) *(this site may earn a commission)* for your policy documents, deeds, and personal property receipts, and placing a [smoke detector](https://www.amazon.com/s?k=smoke+detector&tag=contentportfo-20) *(this site may earn a commission)* with a 10-year sealed battery in every bedroom and hallway. A [fire extinguisher](https://www.amazon.com/s?k=home+fire+extinguisher&tag=contentportfo-20) *(this site may earn a commission)* in the kitchen is basic and often overlooked.
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes a free home inventory checklist that's genuinely useful as a starting point.
 

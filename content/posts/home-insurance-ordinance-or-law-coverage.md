@@ -92,7 +92,7 @@ Pull out your declarations page. Look for "ordinance or law," "building ordinanc
 
 **Step 4: Get a local rebuild estimate.** Talk to a licensed general contractor in your area about what current code compliance typically adds to a full rebuild on a home like yours. Use that number to sanity-check your sublimit.
 
-**Step 5: Document what you have.** A home inventory, stored somewhere fireproof and accessible, supports every part of a claim. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=placeholder-20) rated for fire and water gives you a physical backup. Digital apps like Encircle or home inventory tools on your phone work too. (This site may earn a commission on qualifying Amazon purchases.)
+**Step 5: Document what you have.** A home inventory, stored somewhere fireproof and accessible, supports every part of a claim. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) rated for fire and water gives you a physical backup. Digital apps like Encircle or home inventory tools on your phone work too. (This site may earn a commission on qualifying Amazon purchases.)
 
 ---
 

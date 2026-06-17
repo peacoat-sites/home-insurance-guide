@@ -94,7 +94,7 @@ Most people shop homeowners insurance the same way they buy paper towels: grab t
 
 **Step 2: Pull your CLUE report.** You're entitled to one free report per year through LexisNexis. Review it for accuracy before you shop. Errors exist, and they inflate your quotes.
 
-**Step 3: Inventory your belongings.** A rough personal property value helps you set Coverage C accurately. A home inventory app (you can find well-reviewed options [on Amazon](https://www.amazon.com/s?k=home+inventory+app&tag=youraffiliatetag) that can sync photos and receipts) makes this faster than most people expect. *Disclosure: this site may earn a commission on qualifying purchases.*
+**Step 3: Inventory your belongings.** A rough personal property value helps you set Coverage C accurately. A home inventory app (you can find well-reviewed options [on Amazon](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) that can sync photos and receipts) makes this faster than most people expect. *Disclosure: this site may earn a commission on qualifying purchases.*
 
 **Step 4: Gather your home's details.** Year built, square footage, roof age and material, electrical and plumbing update history, security systems, and any recent renovations. Insurers ask, and the more accurately you answer, the cleaner your quote.
 
@@ -102,7 +102,7 @@ Most people shop homeowners insurance the same way they buy paper towels: grab t
 
 **Step 6: Ask about discounts specifically.** Bundling with auto insurance, new roof discounts, protective device discounts (smoke detectors, water leak sensors, alarm systems), loyalty discounts, and claims-free discounts often aren't applied automatically. You have to ask.
 
-A quality [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=youraffiliatetag) placed near your water heater or under sinks costs under $30 and can both prevent a claim and qualify you for a protective device discount. *Disclosure: this site may earn a commission on qualifying purchases.*
+A quality [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed near your water heater or under sinks costs under $30 and can both prevent a claim and qualify you for a protective device discount. *Disclosure: this site may earn a commission on qualifying purchases.*
 
 ---
 
@@ -124,7 +124,7 @@ In 14 years of reviewing claims, I saw both ends of this repeatedly. Some homeow
 - No ordinance or law coverage. If your home is destroyed and local building codes have changed since it was built, you may be required to bring everything up to current code during the rebuild. That extra cost is not covered without this endorsement.
 - Jewelry, guns, artwork, and musical instruments above standard sublimits. A $2,000 engagement ring may only have $1,500 in coverage under a base policy. Check your sublimits.
 
-Keeping key documents in a fireproof document safe (available [on Amazon](https://www.amazon.com/s?k=fireproof+document+safe&tag=youraffiliatetag)) and storing digital copies offsite means your inventory and policy documents survive whatever your home doesn't. *Disclosure: this site may earn a commission on qualifying purchases.*
+Keeping key documents in a fireproof document safe (available [on Amazon](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)) and storing digital copies offsite means your inventory and policy documents survive whatever your home doesn't. *Disclosure: this site may earn a commission on qualifying purchases.*
 
 ---
 

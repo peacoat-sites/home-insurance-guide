@@ -71,7 +71,7 @@ Here's what I tell people: insurers aren't trying to trick you, but they're also
 
 The practical takeaway: if you notice any roofing issue, no matter how small, document it immediately and address it promptly. A quick repair receipt from a licensed roofer is genuinely useful evidence that you've been maintaining the property. It also protects you in another way: if a covered storm later causes major damage, the adjuster can't claim the whole loss was pre-existing neglect.
 
-This is also where a home inventory and documentation habit pays off in ways people don't expect. Keeping photos of your roof condition every year or two gives you a timestamped baseline. A [waterproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20) is worth having for warranty records, receipts, and photos of major home systems. *(Disclosure: this site may earn a commission from qualifying purchases.)*
+This is also where a home inventory and documentation habit pays off in ways people don't expect. Keeping photos of your roof condition every year or two gives you a timestamped baseline. A [waterproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is worth having for warranty records, receipts, and photos of major home systems. *(Disclosure: this site may earn a commission from qualifying purchases.)*
 
 ---
 
@@ -113,7 +113,7 @@ Get this done alongside the insurer's adjuster visit, not after. You want your o
 **Step 6: Review the claim decision carefully.**
 If your claim is denied or underpaid, you have the right to request a detailed explanation in writing and to invoke the appraisal process outlined in your policy. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) maintains consumer resources on the claims dispute process by state, which is a genuinely useful starting point if you feel the decision was unfair.
 
-Consider investing in a [water leak detector](https://www.amazon.com/s?k=water+leak+sensor+smart+home&tag=yourtag-20) near vulnerable areas like the attic access or below skylights. Catching a leak early can be the difference between a manageable repair and a major structural claim. *(Disclosure: this site may earn a commission from qualifying purchases.)*
+Consider investing in a [water leak detector](https://www.amazon.com/s?k=water+leak+sensor+smart+home&tag=contentportfo-20) near vulnerable areas like the attic access or below skylights. Catching a leak early can be the difference between a manageable repair and a major structural claim. *(Disclosure: this site may earn a commission from qualifying purchases.)*
 
 ---
 

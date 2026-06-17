@@ -93,7 +93,7 @@ There's no universal right answer here, but there is a framework that makes the 
 
 **Step 5: Read the percentage deductible calculation method.** Some policies calculate the percentage based on the Coverage A (dwelling) limit. Others use the total policy limit including personal property. Know which one applies to you before assuming you understand your exposure.
 
-One practical tool that makes a real difference: a complete home inventory. If you ever do file a claim, knowing exactly what you own speeds up settlement and reduces disputes over personal property values. Apps like Encircle or HomeZada let you document rooms with video and store receipts. Keeping your documentation backed up in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourtag-20) *(affiliate link, site may earn a commission)* ensures your policy documents, photos, and receipts survive the same event you're trying to claim.
+One practical tool that makes a real difference: a complete home inventory. If you ever do file a claim, knowing exactly what you own speeds up settlement and reduces disputes over personal property values. Apps like Encircle or HomeZada let you document rooms with video and store receipts. Keeping your documentation backed up in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) *(affiliate link, site may earn a commission)* ensures your policy documents, photos, and receipts survive the same event you're trying to claim.
 
 ## What Insurers Won't Proactively Tell You
 
@@ -107,7 +107,7 @@ In my fourteen years reviewing claims, certain patterns came up constantly, and 
 
 **Ordinance or law coverage affects net recovery.** If local building codes require upgrades when you repair or rebuild, and you don't have ordinance and law coverage, those costs come out of your pocket on top of your deductible. The IBHS home fortification guides specifically address how code-compliant construction affects both resilience and insurability, and they're worth reading if you're in a storm-prone region.
 
-Adding a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home&tag=yourtag-20) *(affiliate link, site may earn a commission)* near water heaters, washing machines, and under sinks can catch damage before it becomes a claim. Preventing the loss entirely is always cheaper than paying a deductible.
+Adding a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) *(affiliate link, site may earn a commission)* near water heaters, washing machines, and under sinks can catch damage before it becomes a claim. Preventing the loss entirely is always cheaper than paying a deductible.
 
 ---
 
