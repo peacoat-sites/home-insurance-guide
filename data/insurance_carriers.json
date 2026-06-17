@@ -1,0 +1,126 @@
+{
+  "title": "Major Home Insurance Carriers Compared",
+  "note": "Ratings, features, and pricing vary by state. Always get personalized quotes. J.D. Power ratings are from the 2024 Home Insurance Study. AM Best financial strength ratings current as of 2024.",
+  "search": true,
+  "filters": [
+    {
+      "key": "best_for",
+      "label": "Best For"
+    },
+    {
+      "key": "am_best",
+      "label": "AM Best"
+    }
+  ],
+  "columns": [
+    {
+      "key": "company",
+      "label": "Company",
+      "primary": true
+    },
+    {
+      "key": "jdpower",
+      "label": "J.D. Power (of 1000)"
+    },
+    {
+      "key": "am_best",
+      "label": "AM Best"
+    },
+    {
+      "key": "avg_premium",
+      "label": "Avg Annual Premium"
+    },
+    {
+      "key": "best_for",
+      "label": "Best For",
+      "wide": true
+    },
+    {
+      "key": "notable",
+      "label": "Notable Feature",
+      "wide": true
+    }
+  ],
+  "rows": [
+    {
+      "company": "State Farm",
+      "jdpower": "829",
+      "am_best": "A++",
+      "avg_premium": "$1,900",
+      "best_for": "Overall value",
+      "notable": "Largest home insurer in the US; strong local agent network; generous bundling discounts"
+    },
+    {
+      "company": "Allstate",
+      "jdpower": "816",
+      "am_best": "A+",
+      "avg_premium": "$2,150",
+      "best_for": "Online tools",
+      "notable": "Digital Claims Tracker; Claim RateGuard prevents premium hike after first claim"
+    },
+    {
+      "company": "USAA",
+      "jdpower": "905",
+      "am_best": "A++",
+      "avg_premium": "$1,700",
+      "best_for": "Military families",
+      "notable": "Highest customer satisfaction scores; flood and earthquake add-ons; military gear coverage"
+    },
+    {
+      "company": "Amica Mutual",
+      "jdpower": "854",
+      "am_best": "A+",
+      "avg_premium": "$1,850",
+      "best_for": "Customer service",
+      "notable": "Dividend policies return up to 20% of premium; top-rated claims handling"
+    },
+    {
+      "company": "Erie Insurance",
+      "jdpower": "856",
+      "am_best": "A+",
+      "avg_premium": "$1,620",
+      "best_for": "Value in Mid-Atlantic/Midwest",
+      "notable": "Guaranteed replacement cost standard; not available in all states"
+    },
+    {
+      "company": "Nationwide",
+      "jdpower": "820",
+      "am_best": "A+",
+      "avg_premium": "$1,980",
+      "best_for": "Brand new homes",
+      "notable": "Better Roof Replacement covers full roof upgrade; home renovation coverage available"
+    },
+    {
+      "company": "Travelers",
+      "jdpower": "790",
+      "am_best": "A++",
+      "avg_premium": "$2,060",
+      "best_for": "High-value homes",
+      "notable": "Green Home discount; broad endorsement options; strong financial ratings"
+    },
+    {
+      "company": "Farmers Insurance",
+      "jdpower": "812",
+      "am_best": "A",
+      "avg_premium": "$2,230",
+      "best_for": "Customizable coverage",
+      "notable": "Eco-Rebuild coverage for eco-friendly materials; Declining Deductible reward"
+    },
+    {
+      "company": "Liberty Mutual",
+      "jdpower": "793",
+      "am_best": "A",
+      "avg_premium": "$2,100",
+      "best_for": "Online shoppers",
+      "notable": "Inflation Protection automatically adjusts dwelling limits; 24/7 claims"
+    },
+    {
+      "company": "Chubb",
+      "jdpower": "823",
+      "am_best": "A++",
+      "avg_premium": "$3,200",
+      "best_for": "Luxury & high-value homes",
+      "notable": "Extended replacement cost up to 150%; cash settlement option; risk consulting"
+    }
+  ]
+}

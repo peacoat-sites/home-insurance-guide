@@ -1,0 +1,104 @@
+<style>
+.rc-calc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.rc-calc-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.rc-calc-body{padding:20px}
+.rc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.rc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.rc-input,.rc-select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.rc-input:focus,.rc-select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.rc-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc-card{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rc-card .rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rc-card .rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.rc-card .rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.rc-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.rc-callout b{color:var(--accent,#c2410c)}
+.rc-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.rc-card .rv{font-size:1.4rem}}
+</style>
+<div class="rc-calc">
+  <div class="rc-calc-head">🏠 Home Replacement Cost Estimator</div>
+  <div class="rc-calc-body">
+    <div class="rc-grid">
+      <label class="rc-label">Home Size (sq ft)
+        <input class="rc-input" type="number" id="rc-sqft" value="1800" min="200" max="20000" oninput="rcCalc()">
+      </label>
+      <label class="rc-label">Construction Quality
+        <select class="rc-select" id="rc-quality" onchange="rcCalc()">
+          <option value="110">Basic</option>
+          <option value="145" selected>Standard</option>
+          <option value="195">Custom</option>
+          <option value="290">High-end</option>
+        </select>
+      </label>
+      <label class="rc-label">Year Built
+        <select class="rc-select" id="rc-age" onchange="rcCalc()">
+          <option value="1.10">Before 1980</option>
+          <option value="1.00" selected>1980–2000</option>
+          <option value="0.98">2001–2015</option>
+          <option value="0.95">2016–present</option>
+        </select>
+      </label>
+      <label class="rc-label">State / Region
+        <select class="rc-select" id="rc-region" onchange="rcCalc()">
+          <option value="1.15">Northeast</option>
+          <option value="0.95">Southeast</option>
+          <option value="0.95" selected>Midwest</option>
+          <option value="0.90">South Central</option>
+          <option value="1.10">Mountain West</option>
+          <option value="1.25">Pacific Coast</option>
+        </select>
+      </label>
+      <label class="rc-label">Garage
+        <select class="rc-select" id="rc-garage" onchange="rcCalc()">
+          <option value="0">None</option>
+          <option value="15000">Attached 1-car</option>
+          <option value="28000" selected>Attached 2-car</option>
+          <option value="20000">Detached</option>
+        </select>
+      </label>
+      <label class="rc-label">Finished Basement
+        <select class="rc-select" id="rc-basement" onchange="rcCalc()">
+          <option value="0" selected>None</option>
+          <option value="12000">Partial</option>
+          <option value="basement_full">Full</option>
+        </select>
+      </label>
+    </div>
+    <div class="rc-results" id="rc-results">
+      <div class="rc-card"><span class="rl">Replacement Cost</span><span class="rv" id="rc-r1">—</span><span class="rs">Estimated rebuild value</span></div>
+      <div class="rc-card"><span class="rl">Dwelling Coverage</span><span class="rv" id="rc-r2">—</span><span class="rs">+20% buffer (inflation &amp; code)</span></div>
+      <div class="rc-card"><span class="rl">Personal Property</span><span class="rv" id="rc-r3">—</span><span class="rs">50–70% of dwelling</span></div>
+      <div class="rc-card"><span class="rl">Est. Monthly Premium</span><span class="rv" id="rc-r4">—</span><span class="rs">Very rough estimate</span></div>
+    </div>
+    <div class="rc-callout">
+      <b>Important:</b> Your land is <b>NOT</b> insured — only the structure. Never insure for market value; insure for what it would cost to <em>rebuild</em> from the ground up.
+    </div>
+    <p class="rc-note">This is a rough estimate for insurance planning purposes. Get a professional appraisal or use your insurer's replacement cost estimator for an accurate dwelling coverage figure. Local labor costs, materials, and code requirements vary significantly.</p>
+  </div>
+</div>
+<script>
+function rcCalc(){
+  var sqft=parseFloat(document.getElementById('rc-sqft').value)||0;
+  var basePerSqft=parseFloat(document.getElementById('rc-quality').value)||145;
+  var ageMult=parseFloat(document.getElementById('rc-age').value)||1.0;
+  var regionMult=parseFloat(document.getElementById('rc-region').value)||1.0;
+  var garageAdd=parseFloat(document.getElementById('rc-garage').value)||0;
+  var basementSel=document.getElementById('rc-basement').value;
+  var basementAdd=basementSel==='basement_full'?sqft*40:parseFloat(basementSel)||0;
+
+  var structureCost=sqft*basePerSqft*ageMult*regionMult;
+  var replacementCost=structureCost+garageAdd+basementAdd;
+  var dwellingCoverage=replacementCost*1.20;
+  var propertyLow=dwellingCoverage*0.50;
+  var propertyHigh=dwellingCoverage*0.70;
+  var monthlyPremium=dwellingCoverage*0.00125/12;
+
+  function fmt(n){return '$'+Math.round(n).toLocaleString('en-US');}
+  document.getElementById('rc-r1').textContent=fmt(replacementCost);
+  document.getElementById('rc-r2').textContent=fmt(dwellingCoverage);
+  document.getElementById('rc-r3').textContent=fmt(propertyLow)+'–'+fmt(propertyHigh);
+  document.getElementById('rc-r4').textContent=fmt(monthlyPremium)+'/mo';
+}
+rcCalc();
+</script>
