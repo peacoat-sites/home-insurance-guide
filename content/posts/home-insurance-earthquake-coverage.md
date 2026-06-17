@@ -150,6 +150,11 @@ Earthquake coverage is one of those decisions you have to make before you need i
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Earthquake Insurance Overview](https://www.iii.org/article/earthquake-insurance-and-coverage) — confirms standard policies exclude earthquakes, coverage statistics
+- [USGS — Earthquake Hazards Program](https://www.usgs.gov/programs/earthquake-hazards) — supports seismic risk zone classifications and probability data
+- [CEA — California Earthquake Authority](https://www.earthquakeauthority.com/) — supports state-run earthquake insurance options and coverage details
 
 *Photo: [Doruk Aksel Anıl](https://www.pexels.com/@doruk-aksel-anil-477355556) via Pexels*
 

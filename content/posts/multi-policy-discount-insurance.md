@@ -99,6 +99,10 @@ The bundling discount is real. Just make sure it's actually working in your favo
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding Auto Insurance](https://content.naic.org/consumer/auto-insurance.htm) — State regulator explains auto policy pricing and discount types
+- [III — Bundling Insurance Policies](https://www.iii.org/article/bundling-your-home-and-auto-insurance) — Industry nonprofit explains multi-policy discount mechanics and savings
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

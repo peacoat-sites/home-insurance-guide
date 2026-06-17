@@ -137,6 +137,10 @@ Switching home insurance doesn't require a special occasion, a frustrating renew
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains coverage types and policy terms
+- [CFPB — Mortgage and Home Insurance](https://www.consumerfinance.gov/consumer-tools/mortgages/) — Federal consumer guidance on homeowner financial decisions
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

@@ -125,6 +125,10 @@ The honest truth is that homeowners insurance is a contract, and contracts rewar
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — What does homeowners insurance cover](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Explains standard HO-3 coverages, exclusions, and sub-limits
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide to dwelling, personal property, liability coverages
 
 *Photo: [Алесь Усцінаў](https://www.pexels.com/@alesustinau) via Pexels*
 

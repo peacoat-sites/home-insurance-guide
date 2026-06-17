@@ -127,6 +127,11 @@ Your dog is part of your family, and nobody buys a policy thinking they'll ever 
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Dog Bite Liability](https://www.iii.org/fact-statistic/facts-statistics-dog-bite-liability) — Supports dog bite claim statistics and annual costs cited
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Explains liability coverage structure in homeowners policies
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Details standard policy sections including liability coverage
 
 *Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
 

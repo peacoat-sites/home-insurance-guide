@@ -113,6 +113,11 @@ Loss of use coverage is the kind of protection that feels invisible until the mo
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Loss of Use Coverage](https://www.iii.org/article/what-covered-standard-homeowners-policy) — explains Coverage D and typical limits in homeowners policies
+- [NAIC — Home Insurance Consumer Guide](https://content.naic.org/consumer.htm) — official state regulator guidance on homeowners coverage types
+
 ---
 
 ## Recommended Resources

@@ -150,6 +150,11 @@ The first year in a new construction home is when the most unexpected claims hap
 
 ---
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains standard policy coverage, exclusions, and common gaps
+- [HUD — Buying a New Home](https://www.hud.gov/topics/buying_a_home) — Federal guidance on new home purchase considerations and protections
+
 ---
 
 ## Recommended Resources

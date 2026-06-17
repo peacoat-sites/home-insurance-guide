@@ -101,6 +101,10 @@ The paperwork and phone calls feel like a hassle right now. I get it. But I've s
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Umbrella liability insurance](https://www.iii.org/article/umbrella-liability-insurance) — Supports liability limit recommendations for homeowners
+- [Insurance Information Institute — Homeowners insurance basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Explains Coverage E (liability) and Coverage F (medical payments)
 
 *Photo: [Dominik Pajor](https://www.pexels.com/@dominik-pajor-2155116376) via Pexels*
 

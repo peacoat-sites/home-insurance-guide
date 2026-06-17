@@ -140,6 +140,11 @@ The honest truth is that insurance companies are in the business of managing ris
 
 ---
 
+## Sources & References
+
+- [LexisNexis — CLUE Personal Property Report](https://consumer.risk.lexisnexis.com/request) — explains CLUE database consumers can request their report
+- [Insurance Information Institute — Filing and Settling Claims](https://www.iii.org/article/settling-insurance-claims-after-a-disaster) — supports claim filing process and insurer practices
+
 ---
 
 ## Recommended Resources

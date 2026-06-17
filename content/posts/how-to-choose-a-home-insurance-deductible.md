@@ -123,6 +123,10 @@ The deductible isn't a throwaway line item. It's the floor of your financial exp
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Understanding Homeowners Insurance Deductibles](https://www.iii.org/article/understanding-your-homeowners-insurance-deductible) — Explains deductible types and how they affect premiums
+- [CFPB — Shopping for Homeowners Insurance](https://www.consumerfinance.gov/owning-a-home/) — Federal guidance on homeownership costs and insurance decisions
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

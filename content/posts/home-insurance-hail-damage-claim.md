@@ -109,6 +109,10 @@ And yes, you can file a complaint with your state's department of insurance. Car
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains HO-3 policy structure and dwelling coverage
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide on policy terms and claim rights
 
 *Photo: [Ezgi Bircan](https://www.pexels.com/@ezgibircan) via Pexels*
 

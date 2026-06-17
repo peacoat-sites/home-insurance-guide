@@ -130,6 +130,12 @@ Your credit score is quietly shaping what you pay for home insurance, probably w
 
 ---
 
+## Sources & References
+
+- [NAIC — Credit-Based Insurance Scores](https://content.naic.org/cipr-topics/credit-based-insurance-scores) — explains how insurers use credit scores and state regulations
+- [III — Credit Scoring](https://www.iii.org/article/background-on-credit-scoring) — industry background on credit-based insurance scoring practices
+- [CFPB — Credit Reports and Scores](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) — explains credit scores and consumer rights
+
 ---
 
 ## Recommended Resources

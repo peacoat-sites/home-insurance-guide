@@ -123,6 +123,11 @@ Shopping for homeowners insurance with only price and brand reputation in mind i
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Consumer Information](https://content.naic.org/consumer.htm) — complaint data and insurer lookup tools for consumers
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance) — coverage types, policy structure, and industry overview
+- [AM Best — Understanding Ratings](https://www.ambest.com/ratings/guide.html) — explains financial strength ratings for insurers
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

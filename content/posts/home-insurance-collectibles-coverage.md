@@ -95,6 +95,10 @@ The short version of everything above: if your collection matters to you and it 
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Insuring Your Valuables](https://www.iii.org/article/how-to-insure-your-valuables) — explains standard policy sublimits and scheduling options for collectibles
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — covers personal property limits and optional endorsements
 
 *Photo: [Lum3n](https://www.pexels.com/@lum3n-44775) via Pexels*
 

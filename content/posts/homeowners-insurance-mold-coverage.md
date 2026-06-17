@@ -119,6 +119,10 @@ The gap between what people assume is covered and what's actually in their polic
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance) — Explains standard policy coverages and common exclusions
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide on policy types and what's typically covered
 
 *Photo: [Roman Biernacki](https://www.pexels.com/@szafran) via Pexels*
 

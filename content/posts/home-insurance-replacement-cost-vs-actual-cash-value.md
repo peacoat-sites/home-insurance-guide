@@ -125,6 +125,10 @@ The decision between replacement cost and actual cash value isn't glamorous, but
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Actual Cash Value](https://www.iii.org/article/actual-cash-value) — Defines ACV and depreciation in homeowners claims
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Explains policy types and coverage valuation methods
 
 *Photo: [Vitaliy Haiduk](https://www.pexels.com/@vitaliy-haiduk-326720599) via Pexels*
 

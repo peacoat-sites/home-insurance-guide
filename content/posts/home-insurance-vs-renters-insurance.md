@@ -134,6 +134,10 @@ If there's one thing I'd want you to take away from this, it's that neither poli
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Renters Insurance](https://www.iii.org/article/renters-insurance) — Explains what renters insurance covers vs landlord policies
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Details HO-3 policy structure and dwelling coverage
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

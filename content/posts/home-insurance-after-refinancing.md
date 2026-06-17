@@ -103,6 +103,10 @@ One genuinely useful habit: keep a digital and physical copy of your current dec
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/) — Explains lender insurance requirements and escrow basics
+- [III — Homeowners insurance basics](https://www.iii.org/article/homeowners-insurance-basics) — Covers policy components and mortgagee clause requirements
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

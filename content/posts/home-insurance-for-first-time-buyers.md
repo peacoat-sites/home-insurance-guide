@@ -122,6 +122,10 @@ Buying your first home is genuinely exciting, and dealing with insurance paperwo
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains HO-3 policy structure, coverage types, and common exclusions
+- [CFPB — What is homeowner's insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/) — Explains basic coverage requirements and consumer protections
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

@@ -109,6 +109,10 @@ The escrow system works reasonably well when nothing changes. The moment you ref
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is an escrow account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/) — Explains escrow accounts, servicer responsibilities, and consumer rights
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains how homeowners insurance premiums and payments work
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

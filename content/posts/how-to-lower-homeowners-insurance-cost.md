@@ -139,6 +139,10 @@ The most important thing to take away from all of this is that your homeowners i
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NAIC — Understanding Property Insurance](https://content.naic.org/consumer.htm) — Explains insurance scoring, pricing factors, and consumer rights
+- [Insurance Information Institute — Home Insurance](https://www.iii.org/insurance-basics/homeowners-insurance) — Covers premium factors and discount opportunities
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

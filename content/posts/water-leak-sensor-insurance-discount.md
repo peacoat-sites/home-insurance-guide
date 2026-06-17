@@ -89,6 +89,10 @@ One thing worth doing before you buy any sensor: check whether your insurer requ
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Facts + Statistics: Homeowners and renters insurance](https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance) — Supports water damage claim frequency and loss statistics
+- [NAIC — Homeowners Insurance](https://content.naic.org/cipr-topics/homeowners-insurance) — Authoritative state-regulator data on homeowner claim trends
 
 *Photo: [aamir dukanwala](https://www.pexels.com/@aamir) via Pexels*
 

@@ -104,6 +104,10 @@ Get the certificate. Confirm the UL listing. Tell your insurer in writing. That'
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Services Office — Public Protection Classifications](https://www.isomitigation.com/ppc/) — Official source for ISO Protection Class rating system
+- [Insurance Information Institute — Home Security Discounts](https://www.iii.org/article/how-can-i-save-money-on-homeowners-insurance) — Overview of security-related homeowners insurance discounts
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

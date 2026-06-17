@@ -93,6 +93,11 @@ One practical thing before closing: do a home inventory now, while you're in mov
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/) — Explains lender insurance requirements at closing
+- [III — Homeowners insurance basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Covers dwelling coverage and policy components
+- [HUD — Buying a home checklist](https://www.hud.gov/topics/buying_a_home) — Official guidance on homebuying steps including insurance
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

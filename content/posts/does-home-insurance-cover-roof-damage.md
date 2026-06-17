@@ -136,6 +136,11 @@ Roof claims are where homeowners most often discover the gap between what they a
 
 ---
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains dwelling coverage, ACV vs RCV, and claim processes
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide covering policy types and coverage options
+
 ---
 
 ## Recommended Resources

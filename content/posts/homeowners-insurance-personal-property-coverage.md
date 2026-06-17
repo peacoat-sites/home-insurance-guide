@@ -153,6 +153,11 @@ Personal property coverage is quieter than the big-ticket items like your home's
 
 ---
 
+## Sources & References
+
+- [III — What is homeowners insurance?](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Explains Coverage C, named perils, and what standard policies cover
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide on policy components and coverage types
+
 ---
 
 ## Recommended Resources

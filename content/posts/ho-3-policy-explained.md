@@ -111,6 +111,11 @@ One more thing worth doing: put a [water leak sensor](https://www.amazon.com/s?k
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — explains HO-3 open perils vs named perils structure
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — consumer guide to standard homeowners policy types
+- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-1539/) — explains lender-required coverage basics
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 

@@ -124,6 +124,10 @@ The deductible is the single number on your policy that most directly determines
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Understanding homeowners insurance deductibles](https://www.iii.org/article/understanding-your-homeowners-insurance-deductible) — Explains deductible types and how they work
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide on policy basics and deductibles
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

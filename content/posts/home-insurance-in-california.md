@@ -123,6 +123,11 @@ You didn't sign up for a market in crisis when you bought your home. But you're 
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [California Department of Insurance — Wildfire & Insurance](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/wildfire.cfm) — Official state guidance on wildfire coverage and consumer protections
+- [Insurance Information Institute — Wildfire Facts](https://www.iii.org/fact-statistic/facts-statistics-wildfires) — Industry data on wildfire trends and insurance impacts
+- [NAIC — State of the Homeowners Market](https://content.naic.org/cipr-topics/homeowners-insurance) — Regulatory overview of homeowners insurance market conditions
 
 *Photo: [D Goug](https://www.pexels.com/@d-goug-211350543) via Pexels*
 

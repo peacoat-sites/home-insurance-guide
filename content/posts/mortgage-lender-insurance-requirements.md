@@ -91,6 +91,10 @@ Your state's department of insurance is also a resource if you feel like you're 
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is homeowner's insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-why-do-i-need-it-en-162/) — Explains lender insurance requirements for mortgage borrowers
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Covers replacement cost vs market value distinction
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

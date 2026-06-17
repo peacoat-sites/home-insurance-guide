@@ -155,6 +155,10 @@ The decision to buy an umbrella policy is really a decision about how much finan
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Umbrella Liability Insurance](https://www.iii.org/article/what-umbrella-liability) — explains umbrella coverage basics and how it supplements home/auto policies
+- [CFPB — Understanding Homeowners Insurance](https://www.consumerfinance.gov/owning-a-home/) — government resource on homeowner insurance fundamentals
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 

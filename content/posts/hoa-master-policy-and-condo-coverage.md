@@ -98,6 +98,10 @@ I'll also say this clearly: [IBHS home fortification research](https://ibhs.org/
 - **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Condominium Insurance](https://www.iii.org/article/what-you-need-know-about-condo-insurance) — explains master policy types and HO-6 coverage responsibilities
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — consumer guide covering condo and dwelling policy basics
 
 *Photo: [Oluwatobiloba Babalola](https://www.pexels.com/@tobilobababs) via Pexels*
 

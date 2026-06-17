@@ -99,6 +99,10 @@ The discount is a place to start, not a reason to stop asking questions. A 10% s
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Military and Veterans Insurance Resources](https://www.iii.org/article/insurance-for-military-families) — Overview of insurance considerations for military families
+- [CFPB — Housing and Insurance for Servicemembers](https://www.consumerfinance.gov/consumer-tools/military-financial-lifecycle/) — Federal resource on financial protections for military
 
 *Photo: [George Pak](https://www.pexels.com/@george-pak) via Pexels*
 

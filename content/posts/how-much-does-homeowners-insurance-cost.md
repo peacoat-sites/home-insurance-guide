@@ -141,6 +141,11 @@ Shopping for homeowners insurance shouldn't feel like guessing. The pricing logi
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Facts + Statistics: Homeowners and renters insurance](https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance) — Supports national average premium data and state-by-state cost variations
+- [NAIC — Homeowners Insurance](https://content.naic.org/cipr-topics/homeowners-insurance) — Supports industry data on pricing factors and state regulatory context
+- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-why-is-it-important-en-1539/) — Supports explanation of coverage basics and consumer protection context
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

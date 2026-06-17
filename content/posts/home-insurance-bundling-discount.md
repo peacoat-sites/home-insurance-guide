@@ -154,6 +154,10 @@ Don't let a percentage-off headline make a decision for you. Bundling is a legit
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Bundling Home and Auto Insurance](https://www.iii.org/article/bundling-home-and-auto-insurance) — covers bundling discounts, typical savings, considerations
+- [CFPB — Shopping for Insurance](https://www.consumerfinance.gov/consumer-tools/) — supports comparing quotes from multiple insurers
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

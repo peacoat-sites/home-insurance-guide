@@ -140,6 +140,11 @@ The reality of fire coverage is that most people won't need to use it, and that'
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Homeowners Insurance Basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Explains standard HO-3 policy coverage categories including fire
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide to dwelling, personal property, and other coverages
+
 ---
 
 ## Recommended Resources

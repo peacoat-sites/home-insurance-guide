@@ -113,6 +113,10 @@ Connecting with your [state's insurance department](https://www.naic.org/state_w
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Facts + Statistics: Homeowners Insurance](https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance) — supports Florida premium comparisons to national average
+- [NAIC — Homeowners Insurance](https://content.naic.org/cipr-topics/homeowners-insurance) — background on homeowners insurance market and regulation
 
 *Photo: [Eric Prouzet](https://www.pexels.com/@eric-prouzet-225470) via Pexels*
 

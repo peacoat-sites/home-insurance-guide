@@ -125,6 +125,10 @@ The frustrating truth about home insurance water damage coverage is that it's ge
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — explains standard HO-3 policy coverage and exclusions
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — consumer guide on what policies cover
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

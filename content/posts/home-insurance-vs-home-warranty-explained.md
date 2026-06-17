@@ -146,6 +146,11 @@ The best thing you can do right now is pull out both documents, if you have them
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains what homeowners insurance covers and how it works
+- [CFPB — Understand Loan Options for Home Repairs](https://www.consumerfinance.gov/owning-a-home/) — Provides federal consumer guidance on home protection products
+
 ---
 
 ## Recommended Resources

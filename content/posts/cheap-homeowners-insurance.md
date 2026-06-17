@@ -123,6 +123,11 @@ Shopping for cheap homeowners insurance isn't wrong. Paying less for the same pr
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Insurance Information Institute — Understanding Homeowners Insurance](https://www.iii.org/article/understanding-homeowners-insurance) — explains coverage types, limits, and common policy gaps
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — consumer guide on coverage adequacy and policy terms
+- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-1539/) — federal overview of homeowners coverage basics
 
 *Photo: [Get Lost Mike](https://www.pexels.com/@michaelgaultphotos) via Pexels*
 

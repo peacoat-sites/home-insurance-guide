@@ -155,6 +155,11 @@ Roof leaks sit in one of the most genuinely complicated corners of home insuranc
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — explains peril-based coverage and what standard policies cover
+- [III — How to File a Home Insurance Claim](https://www.iii.org/article/how-file-home-insurance-claim) — supports claims process and documentation guidance
+
 ---
 
 ## Recommended Resources

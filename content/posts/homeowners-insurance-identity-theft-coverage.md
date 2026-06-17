@@ -107,6 +107,12 @@ The honest truth is that identity theft coverage is one of those rare add-ons th
 
 ---
 
+## Sources & References
+
+- [FTC — Identity Theft Recovery Steps](https://www.identitytheft.gov/) — Official federal resource for identity theft reporting and recovery
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance) — Explains homeowners policy structure and optional endorsements
+- [CFPB — Electronic Fund Transfer Act (Regulation E)](https://www.consumerfinance.gov/rules-policy/regulations/1005/) — Supports claim about bank liability under Regulation E
+
 ---
 
 ## Recommended Resources

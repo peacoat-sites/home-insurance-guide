@@ -148,6 +148,11 @@ Tree damage claims are genuinely manageable if you know the rules going in. The 
 
 ---
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance) — Explains dwelling coverage and liability for tree damage claims
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide on what standard homeowner policies cover
+
 ---
 
 ## Recommended Resources

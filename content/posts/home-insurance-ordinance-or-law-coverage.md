@@ -130,6 +130,11 @@ The gap between what standard insurance covers and what modern building codes re
 
 ---
 
+## Sources & References
+
+- [Insurance Information Institute — Ordinance or Law Coverage](https://www.iii.org/article/ordinance-or-law-coverage) — Explains ordinance/law coverage components and why homeowners need it
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guidance on homeowner policy coverages and gaps
+
 ---
 
 ## Recommended Resources

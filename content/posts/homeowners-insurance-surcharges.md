@@ -141,6 +141,11 @@ Surcharges feel opaque because insurers have little incentive to explain them cl
 
 ---
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance) — covers what affects premiums and filing claims
+- [CFPB — Credit Reports and Scores](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) — explains how credit affects insurance pricing
+
 ---
 
 ## Recommended Resources

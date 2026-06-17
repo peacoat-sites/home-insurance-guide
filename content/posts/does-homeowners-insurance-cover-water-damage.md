@@ -160,6 +160,11 @@ Water damage is genuinely one of the most complicated coverage areas in personal
 
 ---
 
+## Sources & References
+
+- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance) — Explains standard HO-3 policy coverage and exclusions
+- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide on what homeowners policies typically cover
+
 ---
 
 ## Recommended Resources
