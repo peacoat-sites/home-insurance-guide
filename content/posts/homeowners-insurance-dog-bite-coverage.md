@@ -129,9 +129,9 @@ Your dog is part of your family, and nobody buys a policy thinking they'll ever 
 
 ## Sources & References
 
-- [Insurance Information Institute — Dog Bite Liability](https://www.iii.org/fact-statistic/facts-statistics-dog-bite-liability) — Supports dog bite claim statistics and annual costs cited
-- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Explains liability coverage structure in homeowners policies
-- [III — Homeowners Insurance Basics](https://www.iii.org/article/what-covered-standard-homeowners-policy) — Details standard policy sections including liability coverage
+- [Insurance Information Institute, Dog Bite Liability](https://www.iii.org/fact-statistic/facts-statistics-dog-bite-liability), Supports dog bite claim statistics and annual costs cited
+- [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), Explains liability coverage structure in homeowners policies
+- [III, Homeowners Insurance Basics](https://www.iii.org/article/what-covered-standard-homeowners-policy), Details standard policy sections including liability coverage
 
 *Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
 
@@ -147,8 +147,8 @@ Your dog is part of your family, and nobody buys a policy thinking they'll ever 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

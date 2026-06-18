@@ -38,7 +38,7 @@ I spent 14 years reviewing claims like hers. That experience made me pretty prot
   <div class="vm-body">
     <p class="vm-intro">This matrix shows how the same $3,000 TV loss would be handled under different damage scenarios and coverage types, revealing why coverage gaps catch homeowners off guard.</p>
     <table><thead><tr><th>Damage Scenario</th><th>Standard HO-3 (ACV)</th><th>Standard HO-3 (RCV)</th><th>With Scheduled Endorsement</th><th>Separate Flood Policy</th></tr></thead><tbody><tr><td>Lightning strike destroys TV</td><td>~$900 (depreciated value after 3 years)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Burglar steals TV</td><td>~$900 (depreciated)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Power surge from utility grid</td><td>$0 (excluded peril)</td><td>$0 (excluded peril)</td><td>Varies; some endorsements cover</td><td>Not applicable</td></tr><tr><td>Child knocks TV off mount</td><td>$0 (accidental damage excluded)</td><td>$0 (accidental damage excluded)</td><td>$3,000 if endorsement covers breakage</td><td>Not applicable</td></tr><tr><td>Basement floods from storm runoff</td><td>$0 (flood excluded)</td><td>$0 (flood excluded)</td><td>$0 (flood still excluded)</td><td>Up to policy limit, minus deductible</td></tr><tr><td>Burst pipe soaks entertainment center</td><td>~$900 (covered as sudden discharge)</td><td>$3,000 minus deductible</td><td>$3,000</td><td>Not applicable</td></tr><tr><td>TV fails after 3 years, no damage event</td><td>$0 (wear/breakdown excluded)</td><td>$0 (wear/breakdown excluded)</td><td>$0 unless equipment breakdown rider</td><td>Not applicable</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -110,8 +110,8 @@ A water leak sensor placed near your entertainment center or home office equipme
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

@@ -14,7 +14,7 @@ slug: "ho-3-policy-explained"
 affiliate_disclosure: true
 faqs:
   - q: "Is an HO-3 the same as 'full coverage' for my home?"
-    a: "Not exactly. The HO-3 is the most comprehensive standard policy type, but it still has significant exclusions — flood and earthquake being the biggest. 'Full coverage' isn't a defined insurance term, and assuming you have it without reading your exclusions is how people get hurt financially."
+    a: "Not exactly. The HO-3 is the most comprehensive standard policy type, but it still has significant exclusions, flood and earthquake being the biggest. 'Full coverage' isn't a defined insurance term, and assuming you have it without reading your exclusions is how people get hurt financially."
   - q: "Can I upgrade my HO-3 to cover more?"
     a: "Yes, through endorsements. Common upgrades include replacement cost on personal property, scheduled coverage for jewelry or art, water backup coverage (for sump pump failures or sewer backups), and equipment breakdown coverage. Each one adds to your premium, but they address real gaps in the base policy."
   - q: "What's the difference between an HO-3 and an HO-5?"
@@ -25,7 +25,7 @@ faqs:
     a: "Generally, no. Business equipment has a very low sub-limit under standard policies, and business liability isn't covered at all. If you run any kind of business from home, even part-time, ask specifically about a home business endorsement or a separate business owner's policy."
 ---
 
-Most homeowners have an HO-3 policy and couldn't tell you what that means. Not because they're careless — because no one ever explained it in plain language. Let me fix that.
+Most homeowners have an HO-3 policy and couldn't tell you what that means. Not because they're careless, because no one ever explained it in plain language. Let me fix that.
 
 The HO-3 is the standard homeowner policy sold across the United States. If you bought your home with a mortgage, there's a very good chance your lender required you to get one. It's the industry default, which sounds like a compliment. Sometimes it is. Sometimes it means you have exactly as much coverage as your insurer was required to offer, not a dollar more.
 
@@ -37,13 +37,13 @@ Here's what I tell people when they're sitting down with a new policy for the fi
   <div class="vm-body">
     <p class="vm-intro">This table shows how the same damage event can result in different coverage outcomes depending on whether it affects your dwelling (open perils) or your belongings (named perils).</p>
     <table><thead><tr><th>Damage Scenario</th><th>Dwelling Coverage (Open Perils)</th><th>Personal Property Coverage (Named Perils)</th><th>Why the Difference</th></tr></thead><tbody><tr><td>Tree falls on roof during storm</td><td>✓ Covered</td><td>✓ Covered (windstorm is named)</td><td>Windstorm appears on named perils list</td></tr><tr><td>Pipe bursts, floods basement</td><td>✓ Covered</td><td>✓ Covered (water damage from plumbing is named)</td><td>Sudden water discharge is a named peril</td></tr><tr><td>Freezer fails, food spoils</td><td>✓ Floor damage covered</td><td>✗ Food/appliance likely not covered</td><td>Mechanical breakdown and power failure aren't named perils</td></tr><tr><td>Mysterious water stain appears on ceiling</td><td>✓ Covered (unless excluded)</td><td>N/A</td><td>Open perils covers unknown causes; exclusions would need to apply</td></tr><tr><td>Theft of electronics</td><td>✓ Forced entry damage covered</td><td>✓ Covered</td><td>Theft is a named peril</td></tr><tr><td>Your dog destroys the couch</td><td>✓ Damaged flooring covered</td><td>✗ Couch not covered</td><td>Pet damage to belongings isn't a named peril</td></tr><tr><td>Earthquake cracks foundation and breaks dishes</td><td>✗ Not covered (standard exclusion)</td><td>✗ Not covered</td><td>Earthquake is excluded from dwelling coverage and not a named peril</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
 ## Open Perils vs. Named Perils: The Core Distinction
 
-Your home itself (the structure, the attached garage, the built-in cabinets) is covered on what's called an "open perils" or "all-risk" basis. That means the policy covers *any* cause of damage unless it's specifically excluded. Fire, wind, falling tree limbs, a car driving into your living room wall — covered, because nothing in the policy explicitly rules them out.
+Your home itself (the structure, the attached garage, the built-in cabinets) is covered on what's called an "open perils" or "all-risk" basis. That means the policy covers *any* cause of damage unless it's specifically excluded. Fire, wind, falling tree limbs, a car driving into your living room wall, covered, because nothing in the policy explicitly rules them out.
 
 Your personal property (furniture, clothing, electronics, appliances) is covered on a "named perils" basis. The policy lists exactly what it will cover: fire, theft, vandalism, windstorm, and about a dozen other events. If something damages your stuff and that cause isn't on the list, you don't have a claim. That's a meaningful gap, and a lot of policyholders only discover it after the fact.
 
@@ -113,9 +113,9 @@ One more thing worth doing: put a [water leak sensor](https://www.amazon.com/s?k
 
 ## Sources & References
 
-- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — explains HO-3 open perils vs named perils structure
-- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — consumer guide to standard homeowners policy types
-- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-1539/) — explains lender-required coverage basics
+- [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), explains HO-3 open perils vs named perils structure
+- [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), consumer guide to standard homeowners policy types
+- [CFPB, What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-1539/), explains lender-required coverage basics
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
@@ -129,6 +129,6 @@ One more thing worth doing: put a [water leak sensor](https://www.amazon.com/s?k
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 

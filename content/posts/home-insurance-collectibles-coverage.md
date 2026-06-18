@@ -36,9 +36,9 @@ Most homeowner's policies are built around the assumption that your personal pro
 <div class="value-module">
   <div class="vm-head">Coverage Gaps by Collectible Type</div>
   <div class="vm-body">
-    <p class="vm-intro">Standard homeowner's policies treat different collectible categories with varying sublimits and exclusions—here's how common collections typically fare under default coverage.</p>
+    <p class="vm-intro">Standard homeowner's policies treat different collectible categories with varying sublimits and exclusions-here's how common collections typically fare under default coverage.</p>
     <table><thead><tr><th>Collectible Category</th><th>Typical Standard Policy Sublimit</th><th>Common Exclusions or Gaps</th><th>Scheduled Coverage Usually Required?</th></tr></thead><tbody><tr><td>Jewelry &amp; Watches</td><td>$1,000–$2,500</td><td>Mysterious disappearance often excluded; stones may require separate appraisal</td><td>Yes, for items over $1,000</td></tr><tr><td>Coins &amp; Currency</td><td>$200–$500</td><td>Typically covers only theft, not damage; numismatic value rarely recognized</td><td>Yes, for any serious collection</td></tr><tr><td>Sports Cards &amp; Memorabilia</td><td>$1,500–$2,500 (often under general personal property)</td><td>Water damage may be covered, but grading degradation losses usually excluded</td><td>Yes, for graded cards or signed items</td></tr><tr><td>Fine Art &amp; Antiques</td><td>$2,500–$5,000</td><td>Breakage often excluded; restoration costs rarely covered</td><td>Yes, for pieces over $2,500</td></tr><tr><td>Comic Books</td><td>No specific sublimit (falls under personal property)</td><td>Condition-based value loss not recognized; CGC grading drops not covered</td><td>Yes, for CGC-graded books</td></tr><tr><td>Wine Collections</td><td>$500–$1,000</td><td>Spoilage from power outage often excluded; temperature damage limits vary</td><td>Yes, for collections over 50 bottles</td></tr><tr><td>Musical Instruments (Vintage)</td><td>$2,000–$5,000</td><td>Actual cash value payout ignores collector premium; wear exclusions common</td><td>Yes, for instruments over $3,000</td></tr><tr><td>Firearms</td><td>$2,500–$5,000</td><td>Must prove ownership; antique firearms may need separate rider</td><td>Yes, for collections or antiques</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -97,8 +97,8 @@ The short version of everything above: if your collection matters to you and it 
 
 ## Sources & References
 
-- [III — Insuring Your Valuables](https://www.iii.org/article/how-to-insure-your-valuables) — explains standard policy sublimits and scheduling options for collectibles
-- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — covers personal property limits and optional endorsements
+- [III, Insuring Your Valuables](https://www.iii.org/article/how-to-insure-your-valuables), explains standard policy sublimits and scheduling options for collectibles
+- [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), covers personal property limits and optional endorsements
 
 *Photo: [Lum3n](https://www.pexels.com/@lum3n-44775) via Pexels*
 
@@ -114,8 +114,8 @@ The short version of everything above: if your collection matters to you and it 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

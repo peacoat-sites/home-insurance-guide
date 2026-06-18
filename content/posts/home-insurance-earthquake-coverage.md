@@ -40,7 +40,7 @@ Let's fix that knowledge gap right now.
   <div class="vm-body">
     <p class="vm-intro">Use these specific thresholds to determine whether earthquake insurance makes financial sense for your situation.</p>
     <table><thead><tr><th>Decision Factor</th><th>Consider Coverage If...</th><th>May Skip If...</th></tr></thead><tbody><tr><td>USGS Seismic Risk Zone</td><td>Located in high or moderate risk area (peak ground acceleration >10% g)</td><td>Located in low-risk zone with <2% chance of damaging shake in 50 years</td></tr><tr><td>Home Construction Type</td><td>Unreinforced masonry, brick veneer, raised foundation, pre-1980 build</td><td>Single-story wood frame, post-1990 seismic code compliance, slab foundation</td></tr><tr><td>Mortgage Remaining</td><td>Owe more than 50% of home value; lender could demand full repayment after total loss</td><td>Home owned outright with funds to rebuild or relocate</td></tr><tr><td>Emergency Savings</td><td>Less than 6 months expenses; couldn't cover 10-20% deductible out of pocket</td><td>Liquid assets exceed typical deductible (often $15,000-$50,000)</td></tr><tr><td>Home Value vs. Land Value</td><td>Structure represents >60% of total property value</td><td>Land value dominates (e.g., $800K land, $200K structure)</td></tr><tr><td>Retrofit Status</td><td>No foundation bolting, no cripple wall bracing, original water heater strapping</td><td>Completed seismic retrofit with permit; may qualify for 5-15% premium discount</td></tr><tr><td>Annual Premium Cost</td><td>Premium is <0.5% of dwelling coverage annually</td><td>Premium exceeds 1% of coverage and deductible would consume most payout</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -152,9 +152,9 @@ Earthquake coverage is one of those decisions you have to make before you need i
 
 ## Sources & References
 
-- [III — Earthquake Insurance Overview](https://www.iii.org/article/earthquake-insurance-and-coverage) — confirms standard policies exclude earthquakes, coverage statistics
-- [USGS — Earthquake Hazards Program](https://www.usgs.gov/programs/earthquake-hazards) — supports seismic risk zone classifications and probability data
-- [CEA — California Earthquake Authority](https://www.earthquakeauthority.com/) — supports state-run earthquake insurance options and coverage details
+- [III, Earthquake Insurance Overview](https://www.iii.org/article/earthquake-insurance-and-coverage), confirms standard policies exclude earthquakes, coverage statistics
+- [USGS, Earthquake Hazards Program](https://www.usgs.gov/programs/earthquake-hazards), supports seismic risk zone classifications and probability data
+- [CEA, California Earthquake Authority](https://www.earthquakeauthority.com/), supports state-run earthquake insurance options and coverage details
 
 *Photo: [Doruk Aksel Anıl](https://www.pexels.com/@doruk-aksel-anil-477355556) via Pexels*
 
@@ -170,8 +170,8 @@ Earthquake coverage is one of those decisions you have to make before you need i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

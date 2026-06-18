@@ -36,7 +36,7 @@ I'll be honest: the relationship between an HOA master policy and your individua
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to identify which items fall under your responsibility based on your HOA's master policy type.</p>
     <table><thead><tr><th>Item Category</th><th>Bare Walls-In Policy</th><th>All-In Policy</th><th>Your HO-6 Policy</th></tr></thead><tbody><tr><td>Building structure (exterior walls, roof)</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Drywall, studs, insulation</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Original flooring (carpet, tile, hardwood)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original cabinets and countertops</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original appliances (built-in)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original plumbing fixtures</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Light fixtures, electrical outlets</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Upgrades you installed (new floors, kitchen remodel)</td><td>YOU pay</td><td>YOU pay</td><td>Must add to Dwelling/Coverage A</td></tr><tr><td>Personal property (furniture, electronics, clothing)</td><td>YOU pay</td><td>YOU pay</td><td>Coverage C required</td></tr><tr><td>Loss assessment (HOA deductible passed to owners)</td><td>YOU pay share</td><td>YOU pay share</td><td>Add Loss Assessment coverage ($10K–$50K typical)</td></tr><tr><td>Personal liability (guest injured in your unit)</td><td>Not covered by HOA</td><td>Not covered by HOA</td><td>Coverage E required ($100K minimum, $300K+ recommended)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -100,8 +100,8 @@ I'll also say this clearly: [IBHS home fortification research](https://ibhs.org/
 
 ## Sources & References
 
-- [III — Condominium Insurance](https://www.iii.org/article/what-you-need-know-about-condo-insurance) — explains master policy types and HO-6 coverage responsibilities
-- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — consumer guide covering condo and dwelling policy basics
+- [III, Condominium Insurance](https://www.iii.org/article/what-you-need-know-about-condo-insurance), explains master policy types and HO-6 coverage responsibilities
+- [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), consumer guide covering condo and dwelling policy basics
 
 *Photo: [Oluwatobiloba Babalola](https://www.pexels.com/@tobilobababs) via Pexels*
 
@@ -115,7 +115,7 @@ I'll also say this clearly: [IBHS home fortification research](https://ibhs.org/
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 

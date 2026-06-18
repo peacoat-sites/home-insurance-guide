@@ -36,7 +36,7 @@ Most people know a bad credit score raises their car loan interest rate. Far few
   <div class="vm-body">
     <p class="vm-intro">This table shows how credit-based insurance scores typically translate to annual premium differences for the same $300,000 home with identical coverage.</p>
     <table><thead><tr><th>Credit Tier</th><th>Typical Insurance Score Range</th><th>Estimated Annual Premium</th><th>Cost vs. Excellent Credit</th><th>Monthly Difference</th></tr></thead><tbody><tr><td>Excellent</td><td>776–997</td><td>$1,450</td><td>Baseline</td><td>$0</td></tr><tr><td>Good</td><td>626–775</td><td>$1,740</td><td>+$290 (+20%)</td><td>+$24</td></tr><tr><td>Fair</td><td>501–625</td><td>$2,175</td><td>+$725 (+50%)</td><td>+$60</td></tr><tr><td>Poor</td><td>300–500</td><td>$2,755</td><td>+$1,305 (+90%)</td><td>+$109</td></tr></tbody><tfoot><tr><td colspan="5"><em>Figures are illustrative national averages; actual premiums vary by insurer, state, and individual risk factors. States including California, Maryland, and Massachusetts restrict or prohibit credit-based insurance scoring.</em></td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -132,9 +132,9 @@ Your credit score is quietly shaping what you pay for home insurance, probably w
 
 ## Sources & References
 
-- [NAIC — Credit-Based Insurance Scores](https://content.naic.org/cipr-topics/credit-based-insurance-scores) — explains how insurers use credit scores and state regulations
-- [III — Credit Scoring](https://www.iii.org/article/background-on-credit-scoring) — industry background on credit-based insurance scoring practices
-- [CFPB — Credit Reports and Scores](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/) — explains credit scores and consumer rights
+- [NAIC, Credit-Based Insurance Scores](https://content.naic.org/cipr-topics/credit-based-insurance-scores), explains how insurers use credit scores and state regulations
+- [III, Credit Scoring](https://www.iii.org/article/background-on-credit-scoring), industry background on credit-based insurance scoring practices
+- [CFPB, Credit Reports and Scores](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/), explains credit scores and consumer rights
 
 ---
 
@@ -142,8 +142,8 @@ Your credit score is quietly shaping what you pay for home insurance, probably w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

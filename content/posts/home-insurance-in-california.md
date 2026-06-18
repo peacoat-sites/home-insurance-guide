@@ -125,9 +125,9 @@ You didn't sign up for a market in crisis when you bought your home. But you're 
 
 ## Sources & References
 
-- [California Department of Insurance — Wildfire & Insurance](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/wildfire.cfm) — Official state guidance on wildfire coverage and consumer protections
-- [Insurance Information Institute — Wildfire Facts](https://www.iii.org/fact-statistic/facts-statistics-wildfires) — Industry data on wildfire trends and insurance impacts
-- [NAIC — State of the Homeowners Market](https://content.naic.org/cipr-topics/homeowners-insurance) — Regulatory overview of homeowners insurance market conditions
+- [California Department of Insurance, Wildfire & Insurance](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/wildfire.cfm), Official state guidance on wildfire coverage and consumer protections
+- [Insurance Information Institute, Wildfire Facts](https://www.iii.org/fact-statistic/facts-statistics-wildfires), Industry data on wildfire trends and insurance impacts
+- [NAIC, State of the Homeowners Market](https://content.naic.org/cipr-topics/homeowners-insurance), Regulatory overview of homeowners insurance market conditions
 
 *Photo: [D Goug](https://www.pexels.com/@d-goug-211350543) via Pexels*
 
@@ -143,8 +143,8 @@ You didn't sign up for a market in crisis when you bought your home. But you're 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

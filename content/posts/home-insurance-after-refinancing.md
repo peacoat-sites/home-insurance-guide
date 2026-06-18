@@ -38,7 +38,7 @@ Refinancing touches your home insurance in ways nobody explains at the closing t
   <div class="vm-body">
     <p class="vm-intro">Use this timeline to avoid coverage gaps and force-placed insurance after refinancing.</p>
     <table><caption>Critical Insurance Tasks After Refinancing</caption><thead><tr><th>Task</th><th>Deadline</th><th>What You Need</th><th>Red Flag If Missed</th></tr></thead><tbody><tr><td>Update mortgagee clause with insurer</td><td>Within 3 business days of closing</td><td>New lender's exact legal name, mailing address, loan number (from closing docs)</td><td>Claim checks issued to wrong lender; payout delays of 30–90 days</td></tr><tr><td>Verify new lender received declarations page</td><td>Within 14 days of closing</td><td>Confirmation from agent showing transmission date</td><td>Lender may flag policy as unverified</td></tr><tr><td>Confirm escrow account insurance payment setup</td><td>Before first mortgage payment</td><td>Escrow disclosure statement; annual premium amount</td><td>Premium not funded; policy lapses at renewal</td></tr><tr><td>Review dwelling coverage against new loan amount</td><td>Within 30 days of closing</td><td>Loan payoff amount; current replacement cost estimate</td><td>Coverage below lender's 100% replacement cost requirement</td></tr><tr><td>Check mailbox for insurer or lender notices</td><td>Ongoing for 90 days post-closing</td><td>Watch for requests to verify coverage or increase limits</td><td>Force-placed insurance added at 2–3× normal premium</td></tr><tr><td>Confirm old lender removed from policy</td><td>Within 45 days of closing</td><td>Updated declarations page listing only new mortgagee</td><td>Duplicate mortgagee clauses complicate future claims</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -105,8 +105,8 @@ One genuinely useful habit: keep a digital and physical copy of your current dec
 
 ## Sources & References
 
-- [CFPB — What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/) — Explains lender insurance requirements and escrow basics
-- [III — Homeowners insurance basics](https://www.iii.org/article/homeowners-insurance-basics) — Covers policy components and mortgagee clause requirements
+- [CFPB, What is homeowners insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/), Explains lender insurance requirements and escrow basics
+- [III, Homeowners insurance basics](https://www.iii.org/article/homeowners-insurance-basics), Covers policy components and mortgagee clause requirements
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
@@ -120,8 +120,8 @@ One genuinely useful habit: keep a digital and physical copy of your current dec
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

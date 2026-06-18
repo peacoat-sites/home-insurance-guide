@@ -25,7 +25,7 @@ faqs:
     a: "The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof."
 ---
 
-Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild — and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
+Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild, and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
 
 I've seen that call happen dozens of times. The homeowner is stunned every single time.
 
@@ -33,9 +33,9 @@ This is the gap nobody warns you about before you buy a policy, and it costs peo
 
 ## How Your Policy Actually Treats a Detached Garage
 
-Standard homeowners policies (the HO-3 form, which is what most of you have) automatically cover detached structures under something called Coverage B, or "other structures." This includes your detached garage, a fence, a shed, a pergola, a guest house that doesn't generate rental income — anything that's separated from the main dwelling by a clear space or connected only by a fence or utility line.
+Standard homeowners policies (the HO-3 form, which is what most of you have) automatically cover detached structures under something called Coverage B, or "other structures." This includes your detached garage, a fence, a shed, a pergola, a guest house that doesn't generate rental income, anything that's separated from the main dwelling by a clear space or connected only by a fence or utility line.
 
-The default limit is 10% of your dwelling coverage (Coverage A). If your house is insured for $400,000, your other structures limit is $40,000. That's the total for everything. Your garage, your fence, your tool shed, your detached workshop — all of it competing for the same $40,000 bucket.
+The default limit is 10% of your dwelling coverage (Coverage A). If your house is insured for $400,000, your other structures limit is $40,000. That's the total for everything. Your garage, your fence, your tool shed, your detached workshop, all of it competing for the same $40,000 bucket.
 
 What most people don't realize is that the 10% figure was baked into policy forms decades ago, when detached garages were simple wooden structures with maybe a lawn mower inside. Today people have finished garages with climate control, EV charging infrastructure, built-in cabinetry, and $20,000 worth of tools. The default coverage hasn't kept pace with how these spaces are actually used and what they actually cost to rebuild.
 
@@ -49,19 +49,19 @@ The coverage that does apply is usually "open perils" on the structure itself (m
 
 The structure is one thing. Everything inside it is another.
 
-Your personal property coverage (Coverage C on a standard policy) covers your belongings — including items stored in your detached garage. But there are limits within limits here. Many policies cap certain categories of property whether they're in your house or your garage. Tools are often subject to a sublimit. Power equipment sometimes is too. Collectibles, electronics, sports gear — check your policy's "special limits of liability" section, which is usually a chart buried a few pages in.
+Your personal property coverage (Coverage C on a standard policy) covers your belongings, including items stored in your detached garage. But there are limits within limits here. Many policies cap certain categories of property whether they're in your house or your garage. Tools are often subject to a sublimit. Power equipment sometimes is too. Collectibles, electronics, sports gear, check your policy's "special limits of liability" section, which is usually a chart buried a few pages in.
 
 If you have a serious woodworking setup, an auto restoration project, or a home gym in that garage, your standard personal property coverage almost certainly doesn't fully cover what's in there. I've reviewed claims where a homeowner had $35,000 in tools and equipment in a detached garage and collected less than $12,000 because of sublimits they'd never read.
 
 There's also a real distinction between tools you use for personal projects and tools you use for business. If you're running any kind of side business out of that garage, standard homeowners coverage likely excludes business property and business liability. That's a different policy conversation entirely.
 
-One practical thing you can do right now: do a garage inventory. [The III recommends keeping a home inventory](https://www.iii.org/), and there are decent apps for it — Encircle and HomeZada are both solid options. Walk through with your phone, open every cabinet, and document what's there. Store the result somewhere other than your house (a cloud account or a document safe works). If you don't know what you have, you can't argue for fair compensation when something happens. (This site may earn a small commission on product links.)
+One practical thing you can do right now: do a garage inventory. [The III recommends keeping a home inventory](https://www.iii.org/), and there are decent apps for it, Encircle and HomeZada are both solid options. Walk through with your phone, open every cabinet, and document what's there. Store the result somewhere other than your house (a cloud account or a document safe works). If you don't know what you have, you can't argue for fair compensation when something happens. (This site may earn a small commission on product links.)
 
 ## Where Coverage Gets Complicated Fast
 
 A few situations come up constantly that throw people off.
 
-**Renting out the garage.** If you rent your detached garage to someone — for storage, as a workshop, for parking — Coverage B likely won't apply to that structure at all. Standard policy language excludes structures "rented to others." Some insurers will add an endorsement for this; some won't. You need to tell your agent before you collect a dime, not after something goes wrong.
+**Renting out the garage.** If you rent your detached garage to someone, for storage, as a workshop, for parking, Coverage B likely won't apply to that structure at all. Standard policy language excludes structures "rented to others." Some insurers will add an endorsement for this; some won't. You need to tell your agent before you collect a dime, not after something goes wrong.
 
 **Using it for a business.** Similar problem. If you're doing auto repairs for customers, running a small contracting operation, or even storing business inventory in there, you've probably voided or severely limited your coverage without knowing it. A business owner's policy (BOP) or commercial property rider is what you'd need.
 
@@ -71,7 +71,7 @@ A few situations come up constantly that throw people off.
 
 ## How to Actually Fix the Gap
 
-Ask your insurer to increase your Coverage B limit. Most companies will do this for a relatively modest premium increase. If your detached garage alone would cost $80,000 to rebuild at today's construction costs (and in many markets, that's not an exaggeration), you need your other structures limit to reflect that — not your insurer's decade-old formula.
+Ask your insurer to increase your Coverage B limit. Most companies will do this for a relatively modest premium increase. If your detached garage alone would cost $80,000 to rebuild at today's construction costs (and in many markets, that's not an exaggeration), you need your other structures limit to reflect that, not your insurer's decade-old formula.
 
 Get a rough rebuild cost estimate for the structure itself. A local contractor can give you a ballpark. Factor in: square footage, whether it's insulated and finished, the electrical setup, and any specialty features. If you have an EV charger installed, that alone adds cost that most people undercount.
 
@@ -107,8 +107,8 @@ One last thing. Don't wait for your renewal to look at this. Call your agent thi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

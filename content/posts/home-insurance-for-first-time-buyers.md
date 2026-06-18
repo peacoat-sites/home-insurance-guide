@@ -124,8 +124,8 @@ Buying your first home is genuinely exciting, and dealing with insurance paperwo
 
 ## Sources & References
 
-- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains HO-3 policy structure, coverage types, and common exclusions
-- [CFPB — What is homeowner's insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/) — Explains basic coverage requirements and consumer protections
+- [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), Explains HO-3 policy structure, coverage types, and common exclusions
+- [CFPB, What is homeowner's insurance](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-en-162/), Explains basic coverage requirements and consumer protections
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -141,8 +141,8 @@ Buying your first home is genuinely exciting, and dealing with insurance paperwo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25) — Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
 

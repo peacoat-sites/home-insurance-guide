@@ -32,9 +32,9 @@ You file a claim after a bad hailstorm tears up your roof. The adjuster comes ou
 <div class="value-module">
   <div class="vm-head">Roof Claim Payout: ACV vs RCV Example</div>
   <div class="vm-body">
-    <p class="vm-intro">The difference between Actual Cash Value and Replacement Cost Value policies dramatically affects your check—here's how the math works on a typical claim.</p>
-    <table><caption>Same $18,000 Roof Replacement, Two Policy Types</caption><thead><tr><th>Factor</th><th>ACV Policy</th><th>RCV Policy</th></tr></thead><tbody><tr><td>Roof replacement cost</td><td>$18,000</td><td>$18,000</td></tr><tr><td>Roof age</td><td>12 years</td><td>12 years</td></tr><tr><td>Expected lifespan</td><td>20 years</td><td>20 years</td></tr><tr><td>Depreciation applied</td><td>60% ($10,800)</td><td>$0 (after completion)</td></tr><tr><td>Deductible</td><td>$1,500</td><td>$1,500</td></tr><tr><td>Initial payout</td><td>$5,700</td><td>$16,500*</td></tr><tr><td>Your out-of-pocket</td><td>$12,300</td><td>$1,500</td></tr></tbody></table><ul><li><strong>ACV calculation:</strong> Replacement cost minus depreciation minus deductible ($18,000 − $10,800 − $1,500 = $5,700)</li><li><strong>RCV note:</strong> *Many RCV policies pay ACV initially, then reimburse depreciation after you complete repairs and submit receipts</li><li><strong>Depreciation method varies:</strong> Some insurers use age-based schedules; others assess actual condition—request your insurer's specific method in writing</li><li><strong>Policy check:</strong> Look for "Roof Surfacing" endorsements that may impose ACV on roofs over 10–15 years old even on RCV policies</li></ul>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-intro">The difference between Actual Cash Value and Replacement Cost Value policies dramatically affects your check-here's how the math works on a typical claim.</p>
+    <table><caption>Same $18,000 Roof Replacement, Two Policy Types</caption><thead><tr><th>Factor</th><th>ACV Policy</th><th>RCV Policy</th></tr></thead><tbody><tr><td>Roof replacement cost</td><td>$18,000</td><td>$18,000</td></tr><tr><td>Roof age</td><td>12 years</td><td>12 years</td></tr><tr><td>Expected lifespan</td><td>20 years</td><td>20 years</td></tr><tr><td>Depreciation applied</td><td>60% ($10,800)</td><td>$0 (after completion)</td></tr><tr><td>Deductible</td><td>$1,500</td><td>$1,500</td></tr><tr><td>Initial payout</td><td>$5,700</td><td>$16,500*</td></tr><tr><td>Your out-of-pocket</td><td>$12,300</td><td>$1,500</td></tr></tbody></table><ul><li><strong>ACV calculation:</strong> Replacement cost minus depreciation minus deductible ($18,000 − $10,800 − $1,500 = $5,700)</li><li><strong>RCV note:</strong> *Many RCV policies pay ACV initially, then reimburse depreciation after you complete repairs and submit receipts</li><li><strong>Depreciation method varies:</strong> Some insurers use age-based schedules; others assess actual condition-request your insurer's specific method in writing</li><li><strong>Policy check:</strong> Look for "Roof Surfacing" endorsements that may impose ACV on roofs over 10–15 years old even on RCV policies</li></ul>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -138,8 +138,8 @@ Roof claims are where homeowners most often discover the gap between what they a
 
 ## Sources & References
 
-- [III — Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics) — Explains dwelling coverage, ACV vs RCV, and claim processes
-- [NAIC — Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm) — Consumer guide covering policy types and coverage options
+- [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), Explains dwelling coverage, ACV vs RCV, and claim processes
+- [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), Consumer guide covering policy types and coverage options
 
 ---
 
@@ -147,8 +147,8 @@ Roof claims are where homeowners most often discover the gap between what they a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 
