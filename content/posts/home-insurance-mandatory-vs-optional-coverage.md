@@ -25,10 +25,9 @@ author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 
 ---
+Your mortgage lender requires home insurance. You buy it, pay the premium, and assume you're covered. Then a pipe bursts in the wall, ruins the hardwood floors, and you file a claim, only to learn your policy covers the pipe repair but not the floor replacement because water damage from "slow leaks" gets classified differently than sudden damage. The claim gets denied. This happens constantly, and it's not buried in fine print so much as hidden in plain sight, in the gap between what people assume coverage means and what it actually says.
 
-Your mortgage lender requires home insurance. You buy it, pay the premium, and assume you're covered. Then a pipe bursts in the wall, ruins the hardwood floors, and you file a claim, only to learn your policy covers the pipe repair but not the floor replacement because water damage from "slow leaks" is classified differently than sudden damage. The claim gets denied. This happens constantly, and it's not buried in fine print so much as hidden in plain sight, in the gap between what people assume coverage means and what it actually says.
-
-Understanding which parts of your home insurance policy are mandatory, which are optional, and which are neither but feel like both, is the fastest way to stop overpaying for gaps.
+Understanding which parts of your home insurance policy are mandatory, which are optional, and which are neither but feel like both is the fastest way to stop overpaying for gaps.
 
 ---
 
@@ -36,7 +35,7 @@ Understanding which parts of your home insurance policy are mandatory, which are
 
 A standard homeowner's policy, usually called an HO-3, covers your dwelling, other structures, personal property, liability, and loss of use. That sounds comprehensive. It isn't.
 
-The HO-3 is the industry baseline, but "standard" doesn't mean "complete." The Insurance Information Institute describes the HO-3 as open-peril coverage for the dwelling itself, meaning it covers damage from any cause *except* those specifically excluded. Personal property, however, is typically named-peril, meaning it only covers losses from causes the policy explicitly lists. That's a meaningful distinction most policyholders don't catch until they're filing a claim.
+The HO-3 is the industry baseline, but "standard" doesn't mean "complete." The Insurance Information Institute describes the HO-3 as open-peril coverage for the dwelling itself, meaning it covers damage from any cause except those specifically excluded. Personal property, however, is typically named-peril, meaning it only covers losses from causes the policy explicitly lists. That's a meaningful distinction most policyholders don't catch until they're filing a claim.
 
 What gets excluded? Floods. Earthquakes. Sewer backups. Mold from long-term moisture. Ordinance or law upgrades. Intentional acts. Wear and tear. The list is longer than most people expect, and each exclusion represents a real scenario where you'd write the check yourself.
 
@@ -45,10 +44,6 @@ So when someone asks, "Am I covered?" the honest answer is always: covered for w
 ---
 
 ## The Mandatory Layer: What Your Lender Actually Requires
-
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you have a mortgage, your lender mandates insurance. This isn't optional in any practical sense, but understanding what lenders actually require versus what they simply prefer helps you avoid buying more than you need in some areas while leaving yourself exposed in others.
 
@@ -72,7 +67,7 @@ The word "optional" implies these are nice-to-haves. Some are. Several aren't.
 
 **Earthquake insurance.** Also excluded from the standard HO-3. Relevant in more than just California. The New Madrid Seismic Zone runs through the central United States; Oklahoma has had increased seismic activity from injection wells; the Pacific Northwest sits on the Cascadia Subduction Zone. If you're in any of these regions, the add-on deserves a real look.
 
-**Sewer and water backup coverage.** This is underused and underpriced. A sewage backup is disgusting, expensive, and not covered by your standard policy. The endorsement usually costs between $50 and $150 per year. Considering that remediation for a backed-up sewer can run into five figures, the math is obvious. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) placed near floor drains, water heaters, and washing machines won't prevent a backup, but it can limit damage by alerting you early. *(This site may earn a commission from qualifying purchases.)*
+**Sewer and water backup coverage.** This is underused and underpriced. A sewage backup is disgusting, expensive, and not covered by your standard policy. The endorsement usually costs between $50 and $150 per year. Considering that remediation for a backed-up sewer can run into five figures, the math is obvious. A water leak sensor placed near floor drains, water heaters, and washing machines won't prevent a backup, but it can limit damage by alerting you early.
 
 **Extended replacement cost coverage.** If your home is destroyed, standard dwelling coverage pays up to your policy limit. If construction costs have risen since you bought the policy, that limit might not cover a full rebuild. Extended replacement cost adds a percentage buffer, typically 25% to 50% above your dwelling limit. After major regional disasters, when labor and materials spike suddenly, this endorsement has made a measurable difference for claimants.
 
@@ -84,15 +79,15 @@ The word "optional" implies these are nice-to-haves. Some are. Several aren't.
 
 ## A Practical Coverage Audit: Where to Start
 
-Don't wait for a claim to find your gaps. Work through this in order.
+Don't wait for a claim to find your gaps.
 
 **Step 1: Find your declarations page.** This single-page summary lists your coverage types, limits, and deductibles. If you can't find it, call your agent or log into your insurer's portal.
 
-**Step 2: Check your dwelling coverage limit against current replacement cost.** Your dwelling limit should reflect what it would cost to rebuild your home today, not what you paid for it and not its market value. Construction costs have risen sharply in recent years. If your policy hasn't been updated in three or more years, you may be underinsured. Ask your agent for a replacement cost estimate.
+**Step 2: Check your dwelling coverage limit against current replacement cost.** Your dwelling limit should reflect what it would cost to rebuild your home today, not what you paid for it and not its market value. Construction costs have risen sharply in recent years. If your policy hasn't been updated in three or more years, you're probably underinsured. Ask your agent for a replacement cost estimate.
 
 **Step 3: Look at your personal property sublimits.** Most policies cap jewelry at $1,500 to $2,500 and firearms at $2,500. If your actual possessions exceed those numbers, note what needs a rider.
 
-**Step 4: Build a home inventory.** Photograph or video every room, open every drawer and closet, and document what you own before you need to claim it. A [home inventory app](https://www.amazon.com/s?k=home+inventory+app+tablet&tag=contentportfo-20) can streamline this considerably. Store the inventory offsite or in cloud storage, not just on a local hard drive that a house fire could destroy. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) works well for paper documents, insurance certificates, and physical backups. *(This site may earn a commission from qualifying purchases.)*
+**Step 4: Build a home inventory.** Photograph or video every room, open every drawer and closet, and document what you own before you need to claim it. Store the inventory offsite or in cloud storage, not just on a local hard drive that a house fire could destroy. A fireproof document safe works well for paper documents, insurance certificates, and physical backups.
 
 **Step 5: Map your exposures to the optional coverages above.** Do you live in a floodplain? Near a fault line? Own an older home? Have high-value collectibles? Each yes points toward a specific add-on.
 
@@ -117,10 +112,7 @@ Read the "Typically Excluded" column as your list of questions to ask your agent
 
 ---
 
-
----
-
-The gap between what you assume your policy covers and what it actually covers is where real financial losses happen. Most people don't discover that gap by reading their policy. They discover it during the worst week of the year, standing in a ruined kitchen or a flooded basement. A one-hour audit with your declarations page and the questions raised here is genuinely worth your time, and considerably cheaper than the alternative.
+The gap between what you assume your policy covers and what it actually covers is where real financial losses happen. Most people don't discover that gap by reading their policy. They discover it during the worst week of the year, standing in a ruined kitchen or a flooded basement. A one-hour audit with your declarations page and the questions raised here is worth your time, and considerably cheaper than the alternative.
 
 ## Helpful Resources
 
@@ -130,7 +122,6 @@ The gap between what you assume your policy covers and what it actually covers i
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
-
 *Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
 
 ---
@@ -139,14 +130,11 @@ The gap between what you assume your policy covers and what it actually covers i
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

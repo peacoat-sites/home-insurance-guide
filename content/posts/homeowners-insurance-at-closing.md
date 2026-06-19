@@ -25,7 +25,6 @@ author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 
 ---
-
 Most first-time buyers don't realize their mortgage won't close without proof of homeowners insurance already in place. Not pending. Not "I have an agent looking into it." Bound and paid. That requirement catches people off guard three days before closing, and the scramble that follows almost always costs them money.
 
 Here's what actually happens at the closing table, and how to make sure you're not overpaying because you were rushed.
@@ -38,19 +37,15 @@ The standard demand is a policy with dwelling coverage equal to at least the loa
 
 What they don't require: coverage for your personal belongings, liability protection if someone gets hurt on your property, or anything close to the replacement cost of a house that's appreciated significantly since the loan was written. A lender who financed $280,000 on a home that would cost $420,000 to rebuild today doesn't have an opinion about that gap. You're the one who'd be living in the shortfall.
 
-This is where I saw claims go sideways constantly. A policy bought in a closing-week rush to satisfy minimum lender requirements is often underinsured by design. Take the dwelling coverage number seriously. If you're not sure what your home would cost to fully rebuild per square foot in your market (labor and materials, not market value), ask the insurer for their replacement cost estimate methodology. Most will walk you through it.
+I saw claims go sideways constantly over this exact issue. A policy bought in a closing-week rush to satisfy minimum lender requirements is often underinsured by design. Take the dwelling coverage number seriously. If you're not sure what your home would cost to fully rebuild per square foot in your market (labor and materials, not market value), ask the insurer for their replacement cost estimate methodology. Most will walk you through it.
 
 ## The Timeline That Actually Works
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Start shopping at least three to four weeks before closing. Not one week. Not the weekend before.
 
-Why the lead time? A few reasons. First, some insurers will inspect the property before binding coverage on older homes, or homes with certain roof ages, and that inspection takes time. Second, comparison shopping when you're not panicked produces better results. Third, if your home has anything unusual (a pool, a wood-burning stove, an older electrical panel, a trampoline, certain dog breeds), some standard carriers will decline to write the policy, and you need time to find one that will.
+Why that lead time? Several reasons. First, some insurers will inspect the property before binding coverage on older homes or homes with certain roof ages, and that inspection takes time. Second, comparison shopping when you're not panicked produces better results. Third, if your home has anything unusual (a pool, a wood-burning stove, an older electrical panel, a trampoline, certain dog breeds), some standard carriers will decline to write the policy, and you need time to find one that will.
 
-The sequence I'd recommend:
+Here's the sequence:
 
 1. Get the property address and estimated closing date from your agent.
 2. Pull quotes from at least three carriers, comparing identical coverage amounts and deductibles, not just premium totals.
@@ -58,13 +53,13 @@ The sequence I'd recommend:
 4. Get the declarations page and send it to your lender's closing team with the mortgagee clause exactly as they specify it (ask them for this ahead of time, they'll have a standard format).
 5. Confirm receipt. Do not assume it was received.
 
-The mortgagee clause is worth dwelling on for a second. It's the language that names your lender as a loss payee, meaning if the house burns down, the insurance check goes to them first, toward the loan balance, before it goes to you. Banks are particular about how this reads. A typo or outdated lender name can flag the policy during closing review. Get the exact wording from your lender, then verify what's on the declarations page matches it character for character.
+The mortgagee clause deserves a moment of attention. It's the language that names your lender as a loss payee, meaning if the house burns down, the insurance check goes to them first, toward the loan balance, before it goes to you. Banks are particular about how this reads. A typo or outdated lender name can flag the policy during closing review. Get the exact wording from your lender, then verify what's on the declarations page matches it character for character.
 
 ## What Gets Buried in a Closing-Week Policy
 
-When you're buying insurance under deadline pressure, you're comparing prices. That's understandable. But the differences between a $1,100 policy and a $1,600 policy are rarely random. Here's what commonly falls out of cheaper policies:
+When you're buying insurance under deadline pressure, you're comparing prices. That's understandable. But the differences between a $1,100 policy and a $1,600 policy are rarely random.
 
-**Replacement cost vs. actual cash value.** This one matters enormously. Actual cash value pays you what your belongings (or sometimes the structure itself) were worth at the time of the loss, after depreciation. A roof that's 15 years old might get you a fraction of replacement cost under an ACV policy. Replacement cost coverage pays what it actually costs to replace or rebuild at today's prices. Always confirm which one you're buying.
+**Replacement cost vs. actual cash value.** This matters enormously. Actual cash value pays you what your belongings (or sometimes the structure itself) were worth at the time of the loss, after depreciation. A roof that's 15 years old might get you a fraction of replacement cost under an ACV policy. Replacement cost coverage pays what it actually costs to replace or rebuild at today's prices. Always confirm which one you're buying.
 
 **Sewer and water backup.** Not covered under a standard HO-3 policy. This is almost always an add-on, and it's one of the most common claims I reviewed. A backed-up drain can do $20,000 or more in damage. The rider typically costs $50-150 a year.
 
@@ -74,16 +69,13 @@ When you're buying insurance under deadline pressure, you're comparing prices. T
 
 ## The Escrow Question
 
-Most lenders will roll your homeowners insurance premium into your monthly escrow payment going forward, collecting a portion each month so they can pay the next annual premium on your behalf. This is standard. But there's a wrinkle worth knowing.
+Most lenders will roll your homeowners insurance premium into your monthly escrow payment going forward, collecting a portion each month so they can pay the next annual premium on your behalf. This is standard, but there's a wrinkle worth knowing.
 
 At closing, you've already paid the first full year out of pocket. The lender will then start collecting escrow for year two immediately. That means in the first year of homeownership, you're effectively prepaying insurance twice in cash flow terms. Your closing disclosure should show this; it's not a scam, it's just the float the lender wants to hold. Still, it surprises a lot of buyers.
 
 Also: if your escrow account pays your renewal premium and you decide to switch insurers after year one, you'll need to coordinate the cancellation and refund carefully. Your old insurer sends the refund to you; your lender's escrow account is short. It's manageable but it requires attention. Check with [your state's insurance department](https://www.naic.org/state_web_map.htm) if you run into a dispute about how refunds were handled.
 
 One practical thing before closing: do a home inventory now, while you're in move-in mode. Photograph everything, room by room. There are decent free apps for this (Encircle is one; the Insurance Information Institute's free tool is another). Store the inventory somewhere that isn't the house itself. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) or a cloud backup both work. *(This site may earn a commission on purchases made through affiliate links.)*
-
----
-
 
 ## Helpful Resources
 
@@ -99,13 +91,7 @@ One practical thing before closing: do a home inventory now, while you're in mov
 - [III, Homeowners insurance basics](https://www.iii.org/article/what-covered-standard-homeowners-policy), Covers dwelling coverage and policy components
 - [HUD, Buying a home checklist](https://www.hud.gov/topics/buying_a_home), Official guidance on homebuying steps including insurance
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
----
-
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ## Recommended Resources
 
@@ -116,3 +102,4 @@ One practical thing before closing: do a home inventory now, while you're in mov
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

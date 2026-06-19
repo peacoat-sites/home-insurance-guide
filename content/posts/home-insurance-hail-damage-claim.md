@@ -25,8 +25,7 @@ author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 
 ---
-
-Most homeowners have no idea their hail claim has already been partially decided before they ever pick up the phone to call their insurer. The adjuster arriving at your house isn't coming in neutral. They're working from a damage threshold matrix, a regional hail history database, and years of training on how to distinguish "cosmetic" damage from "functional" damage. That distinction alone determines whether you get a check or a denial letter.
+Most homeowners have no idea their hail claim has already been partially decided before they even call their insurer. The adjuster arriving at your house isn't walking in neutral. They're working from a damage threshold matrix, a regional hail history database, and years of training on how to separate "cosmetic" damage from "functional" damage. That distinction alone determines whether you get a check or a denial letter.
 
 I spent 14 years on the other side of that equation. Here's what I actually saw.
 
@@ -34,11 +33,11 @@ I spent 14 years on the other side of that equation. Here's what I actually saw.
 
 ## What Your Policy Says vs. What It Pays
 
-Hail damage is covered under the dwelling portion of a standard HO-3 policy. That much is true and mostly consistent across carriers. But there's a line buried in most policies, sometimes just a sentence or two, about "cosmetic damage exclusions." Insurers started adding these around 2012-2014 in response to high claim volume in hail-prone states like Texas, Colorado, and Oklahoma. What surprised me, even after years of reviewing claims, was how broadly some carriers define "cosmetic."
+Hail damage is covered under the dwelling portion of a standard HO-3 policy. That's true and mostly consistent across carriers. But there's a line buried in most policies, sometimes just a sentence or two, about "cosmetic damage exclusions." Insurers started adding these around 2012-2014 in response to high claim volume in hail-prone states like Texas, Colorado, and Oklahoma. What surprised me, even after years of reviewing claims, was how broadly some carriers define "cosmetic."
 
-A dented metal roof that's lost its protective coating? Cosmetic, per some adjusters. A fiberglass shingle that's bruised and cracked below the surface granules? Could go either way. Gutters with impact marks but no functional loss? Almost always cosmetic. The problem is that cosmetic damage left untreated becomes functional damage in three to five years when moisture gets in. The policy won't care about that future claim's origin story.
+A dented metal roof that's lost its protective coating? Cosmetic, per some adjusters. A fiberglass shingle that's bruised and cracked below the surface granules? Could go either way. Gutters with impact marks but no functional loss? Almost always cosmetic. The thing is, cosmetic damage left untreated becomes functional damage in three to five years when moisture gets in. The policy won't care about that future claim's origin story.
 
-Pull out your actual declarations page right now if you're in a hail-prone area and look for "cosmetic damage exclusion" or "market value exclusion." If it's in there, you're playing a different game than you might think.
+Pull out your actual declarations page right now if you're in a hail-prone area and search for "cosmetic damage exclusion" or "market value exclusion." If it's in there, you're playing a different game than you might think.
 
 One more thing about policy language: your deductible. A lot of policies issued after 2008 have a separate wind/hail deductible expressed as a percentage of your dwelling coverage, not a flat dollar amount. One percent of a $400,000 home is $4,000. Two percent is $8,000. I've seen homeowners discover this mid-claim when they expected to pay $1,000 and found out the real number was triple that.
 
@@ -48,19 +47,17 @@ One more thing about policy language: your deductible. A lot of policies issued 
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Don't wait. This is one area where I'll give you an unambiguous answer: document everything before anything is touched, tarped, or repaired.
+Don't wait. This is the one area where I'll give you an unambiguous answer: document everything before anything is touched, tarped, or repaired.
 
 Walk the exterior of your house within 24 hours of the storm if it's safe. You're looking for spatter marks on painted wood, dents in aluminum fascia, impact points on downspouts, dimpling on AC condenser fins, and most importantly, bruising on your shingles. Bruising shows up as soft spots where granules have been knocked loose, leaving a darker circular indentation. Run your hand across the shingles if you can safely access a lower slope. A bruised shingle feels soft in a way an intact one doesn't.
 
-Take video, not just photos. Walk the whole perimeter, narrate what you're seeing, timestamp it. Upload it to cloud storage immediately. This matters because hail damage is time-sensitive in terms of documentation, not necessarily in terms of filing.
+Take video, not just photos. Walk the whole perimeter, narrate what you're seeing, timestamp it. Upload it to cloud storage immediately. This matters because hail damage documentation is time-sensitive, even if filing isn't.
 
 Then check your gutters and downspouts for granule accumulation. A heavy granule deposit after a storm that matches your shingle color is corroborating evidence.
 
 I'd also strongly suggest picking up a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) to place in your attic or near vulnerable ceiling areas if you suspect roof penetration. A timestamped alert showing active moisture intrusion strengthens a claim considerably. *(The site may earn a commission on this link.)*
 
-File your claim promptly, but don't feel pressured to sign anything quickly. Call the number on your declarations page, get a claim number, and ask for an estimated timeline for an adjuster visit.
+File your claim promptly. Don't sign anything quickly, though. Call the number on your declarations page, get a claim number, and ask for an estimated timeline for an adjuster visit.
 
 ---
 
@@ -100,7 +97,6 @@ And yes, you can file a complaint with your state's department of insurance. Car
 
 ---
 
-
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
@@ -122,8 +118,6 @@ And yes, you can file a complaint with your state's department of insurance. Car
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -132,4 +126,3 @@ And yes, you can file a complaint with your state's department of insurance. Car
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

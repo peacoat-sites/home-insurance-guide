@@ -25,7 +25,6 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 
 ---
-
 Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. I spent 14 years on the other side of that claim, and I can tell you: that one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.
 
 You might be wondering what exactly the declarations page even is, since insurers aren't always great at explaining it. Here's the short version: it's the summary sheet at the front of your policy that spells out who's covered, what's covered, how much, and what you'll pay out of pocket if something goes wrong. Think of it as the cover sheet that tells the story your 60-page policy document tells in legal language. The difference is that the declarations page is actually readable.
@@ -34,23 +33,19 @@ You might be wondering what exactly the declarations page even is, since insurer
 
 The top section seems obvious but contains a few traps. Your name and address should exactly match your mortgage documents. An error there, like a misspelling or an old address, can create headaches during a claim. Same goes for the policy period: check the start and end dates every single renewal. I reviewed claims where people assumed their policy had renewed automatically when it hadn't. They were uninsured.
 
-Below the basics, you'll find the coverage amounts broken out by category. This is where most people's eyes glaze over, and that's a problem, because these numbers set the ceiling on what you'll ever collect. The main ones to understand:
+Below the basics, you'll find the coverage amounts broken out by category. This is where most people's eyes glaze over, and that's a problem, because these numbers set the ceiling on what you'll ever collect.
 
 **Dwelling coverage (Coverage A)** is the dollar amount your insurer will pay to rebuild your home if it's destroyed. Not its market value. Rebuild cost. These are often very different numbers. In many metro areas right now, rebuild costs have risen faster than home values, partly because of construction labor and material inflation since 2020. If your Coverage A is based on an estimate from five years ago, you may be underinsured and not know it.
 
 **Other structures (Coverage B)** covers detached garages, fences, sheds. It's typically set at 10% of your dwelling coverage by default. If you have a large workshop or a guest cottage, that 10% might not be enough.
 
-**Personal property (Coverage C)** is your stuff: furniture, electronics, clothing, appliances. What the declarations page won't tell you, and what surprises people constantly, is whether that coverage is "actual cash value" or "replacement cost value." Actual cash value means they depreciate your belongings before paying. A five-year-old laptop might get you $200 even though replacing it costs $900. You have to read the full policy to find out which one you have. The declarations page might abbreviate it as "ACV" or "RCV," so look for those letters.
+**Personal property (Coverage C)** is your stuff: furniture, electronics, clothing, appliances. Here's where most people trip up: the declarations page won't tell you whether that coverage is "actual cash value" or "replacement cost value." Actual cash value means they depreciate your belongings before paying you. A five-year-old laptop might get you $200 even though replacing it costs $900. You have to read the full policy to find out which one you have. The declarations page might abbreviate it as "ACV" or "RCV," so look for those letters.
 
 **Loss of use (Coverage D)** pays for a hotel or rental if your home becomes uninhabitable. The amount matters more than people think. In high cost-of-living cities, hotel bills add up fast.
 
 **Liability (Coverage E)** and **medical payments (Coverage F)** round out most standard declarations pages. Liability coverage protects you if someone is injured on your property and sues. The default is usually $100,000, which feels like a lot until you think about what a personal injury lawsuit can cost. Most advisors suggest at least $300,000, and a separate umbrella policy on top of that if you have significant assets.
 
 ## The Deductible Section Deserves More Attention Than It Gets
-
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what I tell people who are comparing policies: don't just look at the premium. Look at every deductible listed on the declarations page, because there's often more than one.
 
@@ -74,12 +69,7 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 I've also seen homeowners assume their declarations page covered jewelry, art, or firearms at full replacement value. It usually doesn't, not without a separate rider or endorsement called a "scheduled personal property" addition. High-value items need to be listed and appraised separately.
 
-One practical move: build a home inventory before you need it. Apps like Encircle or the NAIC's free home inventory app let you document your belongings with photos and receipts. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) *(affiliate link; this site may earn a commission)* is also worth having for storing physical copies of your declarations page alongside your other important documents.
-
----
-
-
----
+One practical move: build a home inventory before you need it. Apps like Encircle or the NAIC's free home inventory app let you document your belongings with photos and receipts. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is also worth having for storing physical copies of your declarations page alongside your other important documents. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Pull your declarations page out right now if you haven't looked at it in a while. Check those coverage amounts against what it would actually cost to rebuild your home today. If the numbers feel off, call your agent this week. The worst time to discover a coverage gap is during a claim.
 
@@ -91,19 +81,13 @@ Pull your declarations page out right now if you haven't looked at it in a while
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 
-
----
-
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

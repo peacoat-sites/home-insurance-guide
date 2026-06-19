@@ -25,7 +25,6 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 
 ---
-
 You bought your homeowner's policy, paid your premiums faithfully, and assumed your dog was covered. Then someone gets bitten. Maybe it's the neighbor kid who reached through the fence. Maybe it's a delivery driver who got too close to the front door. Maybe it's a family friend who your dog has met a dozen times. Suddenly you're looking at a potential liability claim, and you're realizing you have no idea whether your policy actually covers this. You're not alone. According to the Insurance Information Institute (III), dog bites and dog-related injuries account for more than one-third of all homeowners liability claim dollars paid out in the U.S. each year, with total costs running into the hundreds of millions annually.
 
 Here's what I tell people in this situation: the coverage question is more complicated than most insurers let on, and the gaps are real.
@@ -46,19 +45,15 @@ The critical thing to understand is that your policy only covers you for inciden
 
 ## The Breed Exclusion Problem: This Is Where People Get Surprised
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's where I've seen real heartbreak. A family has a dog they've had for years, pays their premiums, and never thinks to ask whether their breed is even covered. Then the bite happens, and they find out after the fact that their insurer specifically excluded their dog.
 
 Breed exclusions and restrictions are common. Many insurers maintain lists of breeds they won't cover or will only cover with restrictions. Commonly excluded breeds include pit bulls and pit bull mixes, Rottweilers, German Shepherds, Doberman Pinschers, Chow Chows, Akitas, Siberian Huskies, and wolf hybrids. Some companies exclude based on weight, not breed. Others exclude any dog with a prior bite history, regardless of breed.
 
 The exclusion can be handled in a few different ways. Some policies simply exclude the dog entirely, meaning any claim involving that animal is denied. Others will cover the dog but require the owner to sign a separate exclusion rider. Some insurers won't write you a policy at all if you own certain breeds.
 
-This is not disclosed in big print on the policy cover page. You often have to read the exclusions section carefully, or ask directly.
+This isn't disclosed in big print on the policy cover page. You often have to read the exclusions section carefully, or ask directly.
 
-What should you do? Before you buy or renew a policy, ask your agent two specific questions: Does this policy cover my dog's breed, and does it cover a dog with a prior bite on record? Get the answer in writing. If your dog has ever bitten before, that history follows you. Insurers ask about bite history on applications, and failing to disclose it can result in a denied claim.
+Before you buy or renew a policy, ask your agent two specific questions: Does this policy cover my dog's breed, and does it cover a dog with a prior bite on record? Get the answer in writing. If your dog has ever bitten before, that history follows you. Insurers ask about bite history on applications, and failing to disclose it can result in a denied claim.
 
 ---
 
@@ -80,7 +75,7 @@ Even when a dog isn't on an exclusion list, claims get denied. These are the sce
 
 ## How to Actually Protect Yourself: A Step-by-Step Approach
 
-You don't have to wait for a claim to happen to figure out where you stand. Here's a practical sequence.
+You don't have to wait for a claim to happen to figure out where you stand. Here's what to do.
 
 **Step 1: Pull out your current policy and find the liability section.** Look specifically for the exclusions list. Search for the word "animal" and your dog's breed name. If you see your breed excluded, you need to address that now, not after a bite.
 
@@ -92,7 +87,7 @@ You don't have to wait for a claim to happen to figure out where you stand. Here
 
 **Step 5: Reduce your actual risk.** No policy is a substitute for prevention. Post visible warning signs, use secure leashing in public, consider a muzzle for high-stimulation environments, and invest in behavior training. Insurers sometimes ask about training history when evaluating claims.
 
-A few practical tools that can help at home: a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor) won't help with dogs, but a [document safe](https://www.amazon.com/s?k=document+safe) will protect your insurance paperwork and policy documents if something goes wrong (the site may earn a commission on linked products). When a claim is filed, having your documentation organized matters.
+A [document safe](https://www.amazon.com/s?k=document+safe) will protect your insurance paperwork and policy documents if something goes wrong (the site may earn a commission on linked products). When a claim is filed, having your documentation organized matters.
 
 ---
 
@@ -111,9 +106,6 @@ Some options to explore:
 | State FAIR Plan | State-backed coverage of last resort | Owners who can't get coverage anywhere else |
 
 A canine liability policy, in particular, is worth understanding. These are niche products, but they're legitimate, and in my experience, owners of excluded breeds who do their homework usually find at least one option available to them.
-
----
-
 
 ---
 
@@ -145,10 +137,9 @@ Your dog is part of your family, and nobody buys a policy thinking they'll ever 
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

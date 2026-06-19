@@ -25,24 +25,19 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 
 ---
-
 Most homeowners renew their insurance policy every year without reading it. They get the bill, they pay it, they move on. I did this myself for the first few years I owned my house, and I was working in claims at the time. That's how easy it is to ignore.
 
 Here's the problem: your home's risk profile changes dramatically across the seasons, and your policy almost certainly doesn't adjust with it. The coverage that felt adequate in May can leave you genuinely exposed by December. Understanding that gap, and knowing how to close it before something goes wrong, is what this article is actually about.
 
 ## Why seasons matter more than most agents will tell you
 
-A standard homeowner's policy is written as if your house exists in a kind of permanent, weather-neutral present. It's not. Winter brings frozen pipes and ice dams. Spring brings flooding and wind events. Summer means wildfire risk in many regions, plus the liability exposure of pools and guests. Fall is when you should be reviewing everything, but almost nobody does.
+A standard homeowner's policy reads like your house exists in some kind of permanent, weather-neutral bubble. It doesn't. Winter brings frozen pipes and ice dams. Spring brings flooding and wind events. Summer means wildfire risk in many regions, plus the liability exposure of pools and guests. Fall is when you should be reviewing everything, but almost nobody does.
 
 I spent 14 years reviewing claims at a national insurer. The seasonal patterns were so consistent I could almost predict our caseload by the calendar. January and February: frozen pipes and roof collapses from snow load. Late spring: water intrusion claims, usually from people who didn't know sump pump failure typically isn't covered under a standard policy. August and September in coastal states: hurricane season, with homeowners discovering their windstorm coverage had a separate deductible they'd never noticed.
 
 The National Association of Insurance Commissioners (NAIC) has published consumer guidance noting that homeowners consistently underestimate how much their coverage needs change year to year. They're right. Your insurer counts on you not noticing.
 
 ## The coverage gaps that hide in plain sight
-
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me be direct about a few things that catch people badly.
 
@@ -56,7 +51,7 @@ Seasonal vacancy is another big one people miss. If you leave for a warmer clima
 
 ## What a seasonal review should actually look like
 
-Doing a real seasonal review isn't complicated, but it does require some intentionality. Here's how I'd approach it, twice a year: once in early fall before the policy renewal season, and once in late spring.
+Doing a real seasonal review isn't complicated. It just requires some intentionality. I'd approach it twice a year: once in early fall before the policy renewal season, and once in late spring.
 
 Pull out your declarations page first. That's the one-page summary at the front of your policy that lists your coverage limits, deductibles, and any endorsements you're carrying. Most people have never read it carefully.
 
@@ -66,11 +61,9 @@ Look at your liability coverage. If you have a pool, trampoline, or if you're ho
 
 Ask specifically whether your policy includes ordinance or law coverage. This covers the additional cost of bringing your home up to current building codes during a rebuild. It's often excluded by default and matters enormously after major damage.
 
-One genuinely useful habit: keep a home inventory. A video walkthrough of your possessions, stored somewhere other than your house (cloud storage works fine), makes a claim dramatically easier and faster to resolve. There are dedicated apps for this. [Encircle](https://encircle.com/) and similar tools make it reasonably painless. If technology isn't your thing, a fire-resistant document safe like [this one from Amazon](https://www.amazon.com/s?k=fireproof+document+safe) can at least protect physical records and important documents.
+One genuinely useful habit: keep a home inventory. A video walkthrough of your possessions, stored somewhere other than your house (cloud storage works fine), makes a claim dramatically easier and faster to resolve. There are dedicated apps for this. [Encircle](https://encircle.com/) and similar tools make it reasonably painless. If technology isn't your thing, a fire-resistant document safe can at least protect physical records and important documents.
 
-While you're at it, [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor) placed near your water heater, washing machine, and under sinks can catch a slow leak before it becomes a four-figure claim. Some insurers will actually discount your premium if you have smart home leak detection installed. Ask yours.
-
-*(As a disclosure: some links in this article may earn the site a small commission.)*
+While you're at it, water leak sensors placed near your water heater, washing machine, and under sinks can catch a slow leak before it becomes a four-figure claim. Some insurers will actually discount your premium if you have smart home leak detection installed. Ask yours.
 
 ## The question most people forget to ask
 
@@ -80,29 +73,7 @@ Also worth asking: what is my deductible for wind and hail versus my standard de
 
 ---
 
-
----
-
 If reading this made you realize you haven't actually looked at your declarations page in a few years, that's the right place to start. Not with a phone call to your agent, not with a quote comparison tool. Just read what you're actually paying for right now. You might be surprised by what's there, and what's missing.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-
-
-*Photo: [Serhii Bondarchuk](https://www.pexels.com/@serhii-bondarchuk-216200266) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
-
----
 
 ## Recommended Resources
 
@@ -113,3 +84,8 @@ If reading this made you realize you haven't actually looked at your declaration
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 
+---
+
+*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
+
+*Photo: [Serhii Bondarchuk](https://www.pexels.com/@serhii-bondarchuk-216200266) via Pexels*

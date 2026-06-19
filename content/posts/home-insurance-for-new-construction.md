@@ -25,13 +25,11 @@ author_title: "Disaster Coverage Writer"
 author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
 
 ---
-
 You closed on your brand-new home last Thursday. The builder handed over the keys, you signed a stack of papers, and your lender confirmed your homeowner's policy was in place. Everything feels buttoned up. Then a pipe fitting fails behind the drywall during week two, and you discover your policy has a construction defect exclusion that your agent never mentioned. Welcome to new construction insurance, where the gaps are real and the marketing language is designed to make you feel covered when you're not.
 
 New builds come with a specific set of risks that standard homeowner policies handle poorly. Most policies were written with older homes in mind, homes with established settlement patterns, documented repair histories, and no active trades working on-site. A new construction home is a different animal entirely, and if you're buying one right now, you need to understand exactly where the protection stops.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">New vs Existing Home Risk Comparison</div>
@@ -44,27 +42,23 @@ New builds come with a specific set of risks that standard homeowner policies ha
 
 ## Why New Construction Insurance Is Not the Same as Standard Homeowner Coverage
 
-The comparison agents won't make for you: a 1985 ranch house and a brand-new custom build face completely different risks in year one.
+Compare a 1985 ranch to a brand-new custom build, and they're not in the same risk category at all.
 
 Older homes have known failure points. New construction homes have unknown ones. Every trade that touched your house, from the framers to the HVAC subcontractor to the tile guys, left behind work that hasn't been stress-tested yet. Some of it will fail. Insurance companies know this, and they've written their exclusions accordingly.
 
-The three exclusions that catch new homeowners most off guard:
+Three exclusions catch new homeowners most off guard:
 
 **Construction defect exclusions.** Most standard homeowner policies exclude damage caused by faulty workmanship or materials. If a plumber installed a fitting incorrectly and water damages your subfloor six months later, your insurer may deny the claim entirely on the grounds that the loss originated from a defect, not a covered peril. The builder's liability insurance is supposed to cover this, but collecting on it requires you to prove fault, which takes time and sometimes an attorney.
 
-**Earth movement and settlement.** New construction homes settle. Footings cure, soil compresses, and framing adjusts. If that settling causes a crack that lets water in, most policies won't cover the resulting damage because settlement is a standard exclusion. This isn't fraud; it's in the policy language. Read section after section on exclusions before you sign.
+**Earth movement and settlement.** New construction homes settle. Footings cure, soil compresses, and framing adjusts. If that settling causes a crack that lets water in, most policies won't cover the resulting damage because settlement is a standard exclusion. This isn't fraud. It's in the policy language. Read section after section on exclusions before you sign.
 
-**Vacancy provisions.** If you close on a new build but don't move in for 30 to 60 days, some policies reduce coverage or void certain protections entirely because the home is considered vacant. Check your policy's vacancy clause before you take occupancy delays for granted.
+**Vacancy provisions.** If you close on a new build but don't move in for 30 to 60 days, some policies reduce coverage or void certain protections entirely because the home is considered vacant. Check your policy's vacancy clause before you assume occupancy delays are fine.
 
 ---
 
 ## Builder's Risk Insurance vs. Homeowner's Insurance: Know Which One Applies
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Here's where new construction gets genuinely confusing. During the construction phase, the builder typically carries builder's risk insurance, also called course of construction insurance. That policy covers the structure while it's being built, including materials on-site. Once the certificate of occupancy is issued, that coverage ends. Your homeowner's policy takes over.
+During the construction phase, the builder typically carries builder's risk insurance, also called course of construction insurance. That policy covers the structure while it's being built, including materials on-site. Once the certificate of occupancy is issued, that coverage ends. Your homeowner's policy takes over.
 
 The problem is that the handoff isn't always clean.
 
@@ -72,19 +66,19 @@ If you're doing a custom build with construction delays, there may be a gap peri
 
 Ask your builder directly: when does their builder's risk policy expire? Get the date in writing. Then make sure your own policy is active no later than that date, with no gaps. If work is still ongoing after you take possession, ask your insurer specifically whether in-progress construction is covered under your policy.
 
-Some insurers offer a hybrid called owner's interest coverage, which sits alongside the builder's risk policy and protects your financial interest during construction. If you're financing a custom build before occupancy, this is worth asking about.
+Some insurers offer a hybrid called owner's interest coverage, which sits alongside the builder's risk policy and protects your financial interest during construction. For custom builds before occupancy, this is worth asking about.
 
 ---
 
 ## What Your Policy Should Actually Cover on a New Build
 
-Not all homeowner policies are equal, and on a new construction home, the differences matter more than usual. Here's a practical breakdown of what to confirm before you finalize coverage.
+Not all homeowner policies are equal, and on a new construction home, the differences matter more than usual.
 
 **Replacement cost vs. actual cash value.** On a new home, this distinction is almost moot for the structure itself, because there's no depreciation yet. But it matters enormously for your personal property and detached structures. Make sure you're on replacement cost coverage, not actual cash value, across all categories.
 
 **Extended replacement cost endorsement.** Construction costs fluctuate. If your home is damaged a year after closing and lumber prices have spiked, your standard dwelling coverage limit might not be enough to rebuild. An extended replacement cost endorsement, typically 25% to 50% above your dwelling limit, provides a buffer. On a new home where you know the exact build cost, this is one of the smarter add-ons available.
 
-**Water backup coverage.** Sump pump failure and water backup from drains is not covered under standard homeowner policies. It requires a separate endorsement. New construction homes in areas with high water tables often have sump pumps installed. If yours does, add this coverage. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed near the sump pit or under appliances costs under $30 and can alert you before minor seepage becomes a major claim. (This site may earn a commission on qualifying purchases.)
+**Water backup coverage.** Sump pump failure and water backup from drains is not covered under standard homeowner policies. It requires a separate endorsement. New construction homes in areas with high water tables often have sump pumps installed. If yours does, add this coverage. A water leak sensor placed near the sump pit or under appliances costs under $30 and can alert you before minor seepage becomes a major claim.
 
 **Service line coverage.** The underground utility lines connecting your home to the street, water, sewer, gas, electric, are typically your responsibility once they cross onto your property. New construction means new lines, but even new lines fail. Service line endorsements are inexpensive and cover excavation and repair costs that would otherwise come straight out of pocket.
 
@@ -98,11 +92,9 @@ Municipal inspections during construction confirm that code minimums were met at
 
 In my experience reviewing claims, new construction homes that go unoccupied for any period right after closing face a particular risk: small problems go undetected and compound. A slow roof leak that would be spotted by someone living there day-to-day goes unnoticed for weeks. By the time it's discovered, what might have been a $1,500 repair is a $22,000 mold and structural claim, and the insurer wants to know why the homeowner didn't mitigate promptly.
 
-The Insurance Institute for Business and Home Safety (IBHS) publishes home fortification guides at [ibhs.org](https://ibhs.org/) that cover vulnerability points in new construction, including roof-to-wall connections and window performance. These aren't just for storm-prone areas. Reviewing those guides helps you ask your builder better questions before closing and helps you understand what your home's actual weak points are once you're in.
+The Insurance Institute for Business and Home Safety publishes home fortification guides at [ibhs.org](https://ibhs.org/) that cover vulnerability points in new construction, including roof-to-wall connections and window performance. These aren't just for storm-prone areas. Reviewing those guides helps you ask your builder better questions before closing and helps you understand what your home's actual weak points are once you're in.
 
-Before you take possession, walk the home with your own inspector, separate from the builder's quality walk. Check roof penetrations, pipe penetrations through exterior walls, and HVAC connections. Document everything with photos. Create a home inventory that starts at day one, using an app like [Sortly](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or a comparable tool so you have a baseline if you ever need to file a claim. (Commission disclosure applies.)
-
-Store your policy documents, warranty paperwork, and closing documents somewhere fireproof. A quality [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) rated for at least one hour at 1700°F protects what you can't replace digitally.
+Before you take possession, walk the home with your own inspector, separate from the builder's quality walk. Check roof penetrations, pipe penetrations through exterior walls, and HVAC connections. Document everything with photos. Create a home inventory that starts at day one so you have a baseline if you ever need to file a claim. Store your policy documents, warranty paperwork, and closing documents somewhere fireproof. A quality document safe rated for at least one hour at 1700°F protects what you can't replace digitally.
 
 ---
 
@@ -130,10 +122,7 @@ New homes are often larger purchases, which means larger liability exposure. An 
 
 ---
 
-
----
-
-The first year in a new construction home is when the most unexpected claims happen, not because new homes are inferior, but because no one has lived in them yet and every system is being tested for the first time. Your job before you move in is to understand exactly what your policy covers, where it stops, and who is responsible for what's in between. Ask the uncomfortable questions before closing, not after the pipe fitting fails.
+The first year in a new construction home is when the most unexpected claims happen. Not because new homes are inferior, but because no one has lived in them yet and every system is being tested for the first time. Your job before you move in is to understand exactly what your policy covers, where it stops, and who is responsible for what's in between. Ask the uncomfortable questions before closing, not after the pipe fitting fails.
 
 ## Helpful Resources
 
@@ -142,7 +131,6 @@ The first year in a new construction home is when the most unexpected claims hap
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 - **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-
 
 ---
 
@@ -165,4 +153,3 @@ The first year in a new construction home is when the most unexpected claims hap
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

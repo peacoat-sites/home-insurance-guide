@@ -25,12 +25,9 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 
 ---
-
 Your house burns down. The fire department clears the scene, your adjuster walks the lot, and you're ready to rebuild. Then the city steps in. Your home was built in 1978, and current building codes require upgraded electrical panels, additional fire blocking in the walls, and a sprinkler system the original structure never had. The cost to bring the new build up to code adds $40,000 to your reconstruction bill. Your standard homeowner's policy covers what was there before. Not what the law now requires. That $40,000 is yours to absorb, unless you have ordinance or law coverage.
 
-This is one of the most consequential gaps in residential insurance, and most homeowners have no idea it exists until they're staring at a contractor's estimate that doesn't match their settlement check.
-
----
+This is one of the most consequential gaps in residential insurance. Most homeowners have no idea it exists until they're staring at a contractor's estimate that doesn't match their settlement check.
 
 ## What Ordinance or Law Coverage Actually Does
 
@@ -44,19 +41,15 @@ Ordinance or law coverage fills that gap. It pays for the additional costs requi
 
 **Coverage C: Increased cost of construction.** This is the big one. It pays the difference between what it costs to rebuild to old standards versus current code requirements. Upgraded wiring, modern HVAC systems, energy efficiency mandates, ADA-compliant features if applicable, foundation reinforcements. All of it.
 
-Some insurers bundle these components; others let you select limits independently. Ask specifically which components your policy includes.
-
----
+Some insurers bundle these components; others let you select limits independently. Ask your agent specifically which components your policy includes.
 
 ## Who Actually Needs This (Hint: Most Homeowners)
 
 > **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+Anyone whose home is more than 15 years old. But that's only the easy answer.
 
-
-The easy answer: anyone whose home is more than 15 years old. But that undersells the real risk.
-
-Building codes are updated constantly. The International Building Code sees major revisions every three years. Local jurisdictions adopt those changes on their own schedules, which means a home built in 2005 could already be two or three code cycles behind. I've seen claims on homes less than 20 years old where code upgrades added 20% to reconstruction costs.
+Building codes get updated constantly. The International Building Code sees major revisions every three years. Local jurisdictions adopt those changes on their own schedules, which means a home built in 2005 could already be two or three code cycles behind. I've seen claims on homes less than 20 years old where code upgrades added 20% to reconstruction costs.
 
 Older homes carry even more exposure. Knob-and-tube wiring, cast-iron plumbing, single-pane windows, inadequate insulation, missing anchor bolts on foundations, no arc-fault circuit interrupters. Each of those deficiencies is a potential code upgrade trigger when you file a major claim.
 
@@ -64,25 +57,19 @@ The risk compounds in areas with active building code enforcement, coastal zones
 
 If your home is old, in a high-risk zone, or in a municipality known for strict enforcement, ordinance or law coverage isn't optional. It's a baseline.
 
----
-
 ## The Limits Problem: Why "Some Coverage" Isn't Enough
 
 Many policies include a small amount of ordinance or law coverage by default, often 10% of your dwelling coverage limit. On a $400,000 dwelling policy, that's $40,000. Sounds reasonable until you price out a full foundation upgrade, new electrical service, and modern fire suppression in a major metro area.
 
-The coverage amount needs to be calibrated to your actual exposure, not a round percentage. A few things to consider:
+The coverage amount needs to be calibrated to your actual exposure, not a round percentage.
 
-Your home's age and construction type matter most. A 1940s craftsman with original systems carries far more code-upgrade risk than a 2008 colonial.
-
-Your local jurisdiction's enforcement history matters too. Some municipalities are aggressive about requiring full code compliance on rebuilds; others focus only on the damaged systems. Your [state's insurance department](https://www.naic.org/state_web_map.htm) can sometimes point you toward resources on local ordinance enforcement patterns, though the most reliable source is a licensed local contractor who's navigated recent rebuilds in your area.
+Your home's age and construction type matter most. A 1940s craftsman with original systems carries far more code-upgrade risk than a 2008 colonial. Your local jurisdiction's enforcement history matters too. Some municipalities are aggressive about requiring full code compliance on rebuilds; others focus only on the damaged systems. Your [state's insurance department](https://www.naic.org/state_web_map.htm) can sometimes point you toward resources on local ordinance enforcement patterns, though the most reliable source is a licensed local contractor who's navigated recent rebuilds in your area.
 
 A reasonable starting point for older homes in active-code jurisdictions: 25% to 50% of your dwelling limit. For a $400,000 policy, that's $100,000 to $200,000 in ordinance or law coverage. It typically adds very little to your annual premium, which makes underinsuring here a poor trade.
 
----
-
 ## How to Evaluate Your Current Policy
 
-Pull out your declarations page. Look for "ordinance or law," "building ordinance," or sometimes "increased cost of construction." If you don't see it, it may not be there. If you do see it, check three things:
+Pull out your declarations page. Look for "ordinance or law," "building ordinance," or sometimes "increased cost of construction." If you don't see it, it may not be there.
 
 **Step 1: Identify which components are included.** Coverage A, B, and C, as described above. Some policies only include C. That's a problem if your jurisdiction has a 50% demolition rule.
 
@@ -94,11 +81,9 @@ Pull out your declarations page. Look for "ordinance or law," "building ordinanc
 
 **Step 5: Document what you have.** A home inventory, stored somewhere fireproof and accessible, supports every part of a claim. A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) rated for fire and water gives you a physical backup. Digital apps like Encircle or home inventory tools on your phone work too. (This site may earn a commission on qualifying Amazon purchases.)
 
----
-
 ## What Ordinance or Law Coverage Does Not Cover
 
-Worth being clear on the boundaries. This coverage applies when a covered peril, fire, windstorm, hail, and others listed in your policy, triggers a claim that then exposes code-upgrade requirements. It does not apply when:
+This coverage applies when a covered peril, fire, windstorm, hail, and others listed in your policy, triggers a claim that then exposes code-upgrade requirements. It does not apply when:
 
 You're doing voluntary renovations. If you decide to remodel your kitchen, you're responsible for bringing that work up to code at your own expense. No claim, no coverage.
 
@@ -110,10 +95,7 @@ Pre-existing violations. If your home already had unpermitted work or existing c
 
 ---
 
-
----
-
-The gap between what standard insurance covers and what modern building codes require is real, growing, and expensive. Codes tighten after every major disaster cycle. Homes age. The math only goes one direction. Spending 20 minutes with your policy documents and one conversation with a knowledgeable local agent now is a far better use of your time than negotiating with an adjuster over a $40,000 shortfall after your worst day as a homeowner. Ask the questions before you need the answers.
+The gap between what standard insurance covers and what modern building codes require is real, growing, and expensive. Codes tighten after every major disaster cycle. Homes age. The math only goes one direction. Spend 20 minutes with your policy documents and one conversation with a knowledgeable local agent now. It's far better than negotiating with an adjuster over a $40,000 shortfall after your worst day as a homeowner.
 
 ## Helpful Resources
 
@@ -122,7 +104,6 @@ The gap between what standard insurance covers and what modern building codes re
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-
 
 ---
 
@@ -145,4 +126,3 @@ The gap between what standard insurance covers and what modern building codes re
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

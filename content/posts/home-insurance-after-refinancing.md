@@ -25,10 +25,9 @@ author_title: "Disaster Coverage Writer"
 author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
 
 ---
-
 Most homeowners who just refinanced their mortgage have no idea they may have accidentally broken their insurance policy.
 
-I'll be honest: I didn't fully appreciate how often this happened until I started seeing it from the claims side. A homeowner would refinance, sometimes get a lower rate, feel great about the whole thing, and then file a claim six months later only to find out their insurer had mailed an important notice they'd never opened, or worse, that their coverage limits no longer matched their loan requirements. In a handful of cases, the loan servicer had obtained "force-placed" insurance on the property, quietly, at triple the normal premium, because they couldn't verify the homeowner's existing policy was still valid.
+I didn't fully understand how often this happened until I saw it from the claims side. A homeowner would refinance, sometimes score a lower rate, feel great about the whole thing, and then file a claim six months later only to discover their insurer had mailed an important notice they'd never opened. Or worse: their coverage limits no longer matched their loan requirements. In a handful of cases, the loan servicer had obtained "force-placed" insurance on the property, quietly, at triple the normal premium, because they couldn't verify the homeowner's existing policy was still valid.
 
 Refinancing touches your home insurance in ways nobody explains at the closing table.
 
@@ -44,41 +43,37 @@ Refinancing touches your home insurance in ways nobody explains at the closing t
 
 ## Your Lender Has Changed. Your Policy Doesn't Know That.
 
-Here's the most common and most avoidable problem: when you refinance, your old lender is paid off and a new one takes over. Your home insurance policy, however, still lists the old lender as the "mortgagee" on record.
+Here's the most common and most avoidable problem: when you refinance, your old lender gets paid off and a new one takes over. Your home insurance policy, however, still lists the old lender as the "mortgagee" on record.
 
-This matters more than it sounds. The mortgagee clause is what ties your insurer to your lender. If your house burns down, the insurance company is legally obligated to include the old lender on the claim check. That's a mess. It can delay your claim payout significantly while everyone sorts out who's actually owed what.
+This matters more than it sounds. The mortgagee clause ties your insurer to your lender. If your house burns down, the insurance company is legally obligated to include the old lender on the claim check. That's a real mess. It delays your payout significantly while everyone figures out who's actually owed what.
 
-What you need to do, within a few days of closing, is call your insurance agent and update the mortgagee information. You'll need your new lender's name, their address, and their loan number. Some servicers go by a slightly different legal name than the brand you recognize, so use exactly what's on your loan documents. I've seen claims delayed because someone listed "Wells Fargo Home Mortgage" when the policy needed "Wells Fargo Bank, N.A." as the mortgagee. Picky? Yes. That's insurance.
+What you need to do, within a few days of closing: call your insurance agent and update the mortgagee information. You'll need your new lender's name, their address, and their loan number. Some servicers go by a slightly different legal name than the brand you recognize, so use exactly what's on your loan documents. I've seen claims delayed because someone listed "Wells Fargo Home Mortgage" when the policy needed "Wells Fargo Bank, N.A." as the mortgagee. Picky? Yes. That's insurance.
 
-Your agent should be able to process this update same-day and send a new declarations page to your new lender. Don't wait for someone to remind you. They won't.
+Your agent should process this same-day and send a new declarations page to your new lender. Don't wait for someone to remind you.
 
 ## The Coverage Limit Question Nobody Asks at Closing
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Refinancing is also a natural moment to ask a harder question: does your current dwelling coverage actually reflect what it would cost to rebuild your house today?
 
-Construction costs have shifted dramatically in the past few years. Lumber prices spiked in 2021, labor costs have climbed, and supply chain disruptions pushed material prices up across the board. A house that would have cost $280,000 to rebuild in 2019 might cost $380,000 or more in 2024. If your policy's dwelling coverage limit hasn't been updated to reflect that, you could face a serious shortfall in the event of a total loss.
+Construction costs have shifted dramatically in recent years. Lumber prices spiked in 2021, labor costs have climbed, and supply chain disruptions pushed material prices up across the board. A house that would have cost $280,000 to rebuild in 2019 might cost $380,000 or more in 2024. If your policy's dwelling coverage limit hasn't been updated to reflect that, you're looking at a serious shortfall in the event of a total loss.
 
-The Insurance Information Institute points out that underinsurance is one of the most common problems homeowners discover only after a catastrophic event. And it's not a pleasant discovery to make while you're standing next to a pile of rubble.
+The Insurance Information Institute points out that underinsurance is one of the most common problems homeowners discover only after a catastrophic event. It's not a pleasant discovery to make while you're standing next to a pile of rubble.
 
 What surprised me during my adjuster years was how rarely people questioned their coverage limit at renewal, let alone at refinancing. They'd just let it auto-renew. Some policies include an "inflation guard" endorsement that automatically adjusts the dwelling limit each year, but those adjustments are often modest, maybe 2-4%, and may not have kept pace with actual local construction costs.
 
-While you're updating your mortgagee clause anyway, ask your agent to run a current replacement cost estimate on your home. Most insurers use a calculator based on your home's square footage, construction type, and local labor costs. It takes about ten minutes and might reveal a gap that genuinely needs addressing.
+While you're updating your mortgagee clause anyway, ask your agent to run a current replacement cost estimate on your home. Most insurers use a calculator based on your home's square footage, construction type, and local labor costs. It takes about ten minutes and might reveal a gap that needs addressing.
 
-One more thing worth checking: your liability coverage. A refinance often signals that your financial situation has changed or your home's value has grown. If you're now sitting on significantly more equity, the standard $100,000 in liability coverage most base policies carry may not be adequate protection. Umbrella policies are cheap relative to the coverage they provide, typically a few hundred dollars a year for $1 million in additional liability.
+One more thing: check your liability coverage. A refinance often signals that your financial situation has changed or your home's value has grown. If you're now sitting on significantly more equity, the standard $100,000 in liability coverage most base policies carry may not be adequate. Umbrella policies are cheap relative to the coverage they provide, typically a few hundred dollars a year for $1 million in additional liability.
 
 ## Escrow, Premiums, and the Paperwork Black Hole
 
 If your new mortgage has an escrow account for insurance premiums (most do), there's a real risk of a billing tangle in the months right after closing.
 
-Here's how it tends to go wrong. Your old servicer collected escrow funds for insurance. Your new servicer sets up a new escrow account. Your insurer still has the old lender on file. Your renewal premium comes due. The new servicer doesn't pay it because the policy wasn't properly transferred to their escrow system. The insurer sends a nonpayment notice to the old address on file. Your policy lapses. Nobody tells you until you try to file a claim or until your new servicer discovers the lapse and force-places a policy.
+Here's how it tends to go wrong: Your old servicer collected escrow funds for insurance. Your new servicer sets up a new escrow account. Your insurer still has the old lender on file. Your renewal premium comes due. The new servicer doesn't pay it because the policy wasn't properly transferred to their escrow system. The insurer sends a nonpayment notice to the old address on file. Your policy lapses. Nobody tells you until you try to file a claim or until your new servicer discovers the lapse and force-places a policy.
 
 Force-placed insurance (also called lender-placed insurance) protects the lender's interest in your property. It does not protect your personal belongings. It typically provides no liability coverage. And it can cost two to three times what a normal policy costs, with that premium added to your mortgage payment, sometimes retroactively.
 
-To avoid this entirely: after you close, confirm in writing that your new servicer has received a copy of your current declarations page and that your premium is being paid from the new escrow account. Then check your insurance company's online portal or call them directly about 30 days before your next renewal to make sure the premium payment came through. Your state's insurance department can also help you understand your rights if you believe you've been improperly force-placed. The NAIC has a [state-by-state insurance department directory](https://www.naic.org/state_web_map.htm) if you're not sure where to start.
+To avoid this: after you close, confirm in writing that your new servicer has received a copy of your current declarations page and that your premium is being paid from the new escrow account. Then check your insurance company's online portal or call them directly about 30 days before your next renewal to make sure the premium payment came through. Your state's insurance department can also help if you believe you've been improperly force-placed. The NAIC has a [state-by-state insurance department directory](https://www.naic.org/state_web_map.htm) if you're not sure where to start.
 
 ## If You Did a Cash-Out Refinance
 
@@ -90,12 +85,7 @@ Tell your agent what you're planning before the work starts. Some insurers offer
 
 ---
 
-
----
-
-One genuinely useful habit: keep a digital and physical copy of your current declarations page somewhere accessible. A fireproof document safe (you can find well-reviewed options on Amazon, and this site may earn a commission on purchases) gives you a place for your policy documents, your closing paperwork, and anything else you'd need quickly after a loss. It sounds overly cautious until the moment it isn't.
-
-## Helpful Resources
+One genuinely useful habit: keep a digital and physical copy of your current declarations page somewhere accessible. A fireproof document safe gives you a place for your policy documents, your closing paperwork, and anything else you'd need quickly after a loss. It sounds overly cautious until the moment it isn't.
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
@@ -124,4 +114,3 @@ One genuinely useful habit: keep a digital and physical copy of your current dec
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

@@ -25,16 +25,15 @@ author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 
 ---
+Your mortgage approval came through, and now there's a five-page insurance requirements document sitting in your email. Nobody explained this part. You're staring at terms like "dwelling coverage equal to replacement cost" and "loss payee endorsement" and wondering if your current homeowner's policy even qualifies, or whether you need to buy something entirely different before closing.
 
-Your mortgage approval came through, and now there's a five-page insurance requirements document sitting in your email. Nobody explained this part. You're staring at terms like "dwelling coverage equal to replacement cost" and "loss payee endorsement" and wondering if your current homeowner's policy even qualifies, or whether you need to go buy something entirely different before closing.
+You probably don't. But let's make sure.
 
-You don't. Probably. But let's make sure.
-
-Here's what I tell people who are new to this: lenders don't require insurance to protect you. They require it to protect their investment in your property. That distinction matters, because it explains why their requirements are written the way they are, and why meeting the minimum doesn't always mean you're adequately covered yourself.
+Here's what I tell people new to this: lenders don't require insurance to protect you. They require it to protect their investment in your property. That distinction matters, because it explains why their requirements are written the way they are, and why meeting the minimum doesn't always mean you're adequately covered yourself.
 
 ## What Lenders Actually Require
 
-Every mortgage lender will require you to carry homeowners insurance as a condition of the loan. That's table stakes. But the specific requirements vary more than most people realize, and they can catch you off guard if you're comparing policies before closing.
+Every mortgage lender will require you to carry homeowners insurance as a condition of the loan. That's table stakes. The specific requirements vary more than most people realize, and they can catch you off guard if you're comparing policies before closing.
 
 The big ones:
 
@@ -42,23 +41,19 @@ The big ones:
 
 **Named as loss payee.** Your lender will require that they be listed on the policy as a "loss payee" or "mortgagee." This means if your house burns down and you file a claim, the insurance check gets made out to both you and the lender. They have a legal interest in that money being used to rebuild the collateral, not pay off your credit cards.
 
-**Continuous coverage with no gaps.** Lenders require proof of insurance at closing and continued proof every year after. Let your policy lapse, and your servicer has the right to purchase what's called "force-placed insurance" on your behalf. This is worth understanding, because force-placed policies are dramatically more expensive than market-rate coverage, often two to three times the cost, and they cover only the structure (not your belongings, not your liability). The Insurance Information Institute has documented this gap clearly. Force-placed insurance protects the lender. Full stop.
+**Continuous coverage with no gaps.** Lenders require proof of insurance at closing and continued proof every year after. Let your policy lapse, and your servicer has the right to purchase what's called "force-placed insurance" on your behalf. This is worth understanding, because force-placed policies are dramatically more expensive than market-rate coverage, often two to three times the cost, and they cover only the structure (not your belongings, not your liability). The Insurance Information Institute has documented this clearly. Force-placed insurance protects the lender. Full stop.
 
 **Minimum deductible limits.** Some lenders cap how high your deductible can be, typically somewhere around $1,000 to $5,000, though this varies. They want to know you can actually afford to file a claim and start repairs without the property sitting damaged.
 
-**Additional requirements in high-risk areas.** If you're buying in a FEMA-designated flood zone, your lender will require a separate flood insurance policy through the National Flood Insurance Program or a private carrier. In hurricane-prone coastal states, they may require a separate windstorm policy. In earthquake country, some lenders require earthquake coverage, though this is less universal than flood.
+**Additional requirements in high-risk areas.** If you're buying in a FEMA-designated flood zone, your lender will require a separate flood insurance policy through the National Flood Insurance Program or a private carrier. In hurricane-prone coastal states, they may require a separate windstorm policy. Earthquake coverage is less universal but still required by some lenders in seismic zones.
 
 ## The Replacement Cost Calculation Is Where Things Get Sticky
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I want to spend a minute here, because this is where I watched homeowners get surprised after a total loss more times than I'd like to count.
 
-Replacement cost is not a number you pick. Or rather, you shouldn't pick it arbitrarily. It's a calculation based on your home's square footage, construction type, local labor costs, finishes, and current material prices. When you buy a policy, the insurer typically runs this calculation using a tool like CoreLogic or Verisk's 360Value system. The number they arrive at might feel high. It might feel like they're inflating it to charge you more premium. Sometimes that skepticism is warranted, but mostly it's not.
+Replacement cost isn't a number you pick. Or rather, you shouldn't pick it arbitrarily. It's a calculation based on your home's square footage, construction type, local labor costs, finishes, and current material prices. When you buy a policy, the insurer typically runs this calculation using a tool like CoreLogic or Verisk's 360Value system. The number they arrive at might feel high. It might feel like they're inflating it to charge you more premium. Sometimes that skepticism is warranted.
 
-The problem is that construction costs have moved fast. Between 2020 and 2023, residential construction costs rose somewhere between 30 and 40 percent in many U.S. markets, driven by lumber volatility, labor shortages, and supply chain chaos. Policies with static coverage limits got badly outdated in a short window. If you bought your policy in 2018 and haven't adjusted coverage since, you might be significantly underinsured even if you technically meet the lender's minimum.
+Construction costs have moved fast. Between 2020 and 2023, residential construction costs rose somewhere between 30 and 40 percent in many U.S. markets, driven by lumber volatility, labor shortages, and supply chain chaos. Policies with static coverage limits got badly outdated in a short window. If you bought your policy in 2018 and haven't adjusted coverage since, you might be significantly underinsured even if you technically meet the lender's minimum.
 
 Your lender cares that you're insured to their threshold. Your insurer cares that you're insured to their calculated replacement cost. Your job is to make sure those two numbers actually match, and that neither one has drifted below reality.
 
@@ -68,20 +63,17 @@ One practical step: ask your insurer specifically whether your policy includes a
 
 Your lender's requirements say nothing about your personal property. Nothing about liability coverage. Nothing about loss of use, which pays your hotel and living expenses if your home becomes uninhabitable.
 
-A policy that satisfies your mortgage company's checklist could still leave you personally exposed in significant ways. Liability limits of $100,000 are common in bare-bones policies. Most consumer advocates, and I'd count myself among them, suggest $300,000 as a more realistic minimum for a family. If someone slips on your steps and sues you, $100,000 disappears quickly.
+A policy that satisfies your mortgage company's checklist could still leave you personally exposed. Liability limits of $100,000 are common in bare-bones policies. Most consumer advocates suggest $300,000 as a more realistic minimum for a family. If someone slips on your steps and sues you, $100,000 disappears quickly.
 
-Keep a home inventory. Seriously. A photo or video walkthrough of every room, stored in the cloud or on a <a href="https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20">home inventory app</a>, can mean the difference between a $40,000 personal property claim and a $12,000 one, because you can document what you actually owned. (This site may earn a small commission on purchases made through links here.)
+Keep a home inventory. Seriously. A photo or video walkthrough of every room, stored in the cloud or on a home inventory app, can mean the difference between a $40,000 personal property claim and a $12,000 one, because you can document what you actually owned.
 
 ## If Your Policy Gets Rejected at Closing
 
-This happens more than it should. You show up to closing, your lender reviews the insurance binder your agent sent over, and something doesn't meet their requirements. Common reasons: the coverage limit is too low, the lender isn't listed correctly as loss payee, or the policy has a hurricane or wind exclusion in a zone where the lender requires that coverage.
+This happens more than it should. You show up to closing, your lender reviews the insurance binder your agent sent over, and something doesn't meet their requirements. The coverage limit is too low, the lender isn't listed correctly as loss payee, or the policy has a hurricane or wind exclusion in a zone where the lender requires that coverage.
 
 Don't panic. Contact your insurance agent immediately and be specific about what the lender flagged. Most issues can be corrected with an endorsement or a revised declaration page within 24 to 48 hours. The closing can sometimes be pushed a day or two for this. It's inconvenient but rarely fatal to the transaction.
 
 Your state's department of insurance is also a resource if you feel like you're getting conflicting information from your lender or insurer. The National Association of Insurance Commissioners maintains a [state-by-state directory](https://www.naic.org/state_web_map.htm) at naic.org where you can find your state's regulator and file a complaint if needed.
-
----
-
 
 ## Helpful Resources
 
@@ -112,4 +104,3 @@ Your state's department of insurance is also a resource if you feel like you're 
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

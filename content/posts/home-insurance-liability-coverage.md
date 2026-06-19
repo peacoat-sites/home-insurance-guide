@@ -25,12 +25,9 @@ author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 
 ---
-
 Your neighbor slips on your icy front steps, breaks her wrist, and ends up with $18,000 in medical bills and six weeks of lost wages. You're a good person. You feel terrible. You also have a homeowner's policy. Now here's the question that will keep you up at night until you actually read that policy: does your liability coverage actually protect you from what comes next?
 
 Most people have no idea what their liability coverage does, what it won't touch, and how thin their limits really are. I spent 14 years reviewing claims from the inside, and the liability section is where I saw people get blindsided more than anywhere else in the policy. Not because insurers are being sneaky, exactly, but because the marketing materials lead people to believe they're covered for "accidents," full stop. The reality is far more specific than that.
-
----
 
 ## What Liability Coverage Actually Is (and What It's Not)
 
@@ -38,27 +35,19 @@ Personal liability coverage in a homeowner's policy protects you when you're fou
 
 But the word "legally responsible" carries a lot of weight. Liability coverage isn't a medical bill payment system. It's protection against claims that you were negligent. The coverage responds to allegations of fault, not just misfortune. Your insurer will investigate, evaluate the claim, and decide whether to defend you, settle, or deny based on whether your negligence was actually involved.
 
-There's a companion coverage called Medical Payments to Others (sometimes called MedPay or Coverage F) that sits alongside liability in most policies. This one is different. It pays for a guest's minor medical bills regardless of fault, typically between $1,000 and $5,000, and it's designed to head off small claims before they become lawsuits. Think of it as a goodwill payment mechanism. It's not enough to cover serious injuries, but it can smooth things over when someone scrapes their knee on your patio.
+There's a companion coverage called Medical Payments to Others (sometimes called MedPay or Coverage F) that sits alongside liability in most policies. This one works differently. It pays for a guest's minor medical bills regardless of fault, typically between $1,000 and $5,000, and it's designed to head off small claims before they become lawsuits. Think of it as a goodwill payment mechanism. It's not enough to cover serious injuries, but it can smooth things over when someone scrapes their knee on your patio.
 
 Don't confuse the two. Your neighbor with the broken wrist is not a MedPay situation.
 
----
-
 ## Standard Limits and Why They're Often Too Low
-
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The default liability limit on most homeowner policies is $100,000. Some policies start at $300,000. Sounds like a lot until you price out what a personal injury lawsuit actually costs.
 
-A broken wrist with surgery, physical therapy, and six weeks of lost income from a professional job can approach or exceed $100,000 on its own. A serious injury, a dog bite that causes permanent scarring, a contractor who falls off your roof, or a swimming pool accident can generate claims in the hundreds of thousands or even millions. The [Insurance Information Institute (III)](https://www.iii.org/) consistently points out that liability claims can exceed standard policy limits far faster than most homeowners expect, particularly when lost wages, pain and suffering, and legal fees stack up.
+A broken wrist with surgery, physical therapy, and six weeks of lost income from a professional job can approach or exceed $100,000 on its own. A serious injury, a dog bite that causes permanent scarring, a contractor who falls off your roof, a swimming pool accident. These generate claims in the hundreds of thousands or even millions. The [Insurance Information Institute (III)](https://www.iii.org/) consistently points out that liability claims can exceed standard policy limits far faster than most homeowners expect, particularly when lost wages, pain and suffering, and legal fees stack up.
 
 Here's what your insurer doesn't advertise: once the judgment exceeds your policy limit, you're personally responsible for the rest. Your savings, your car, sometimes your wages. The insurer pays its limit and walks away. You're still in the room with a plaintiff's attorney.
 
 The fix is usually one of two things. You can increase your base liability limit to $300,000 or $500,000, which typically costs very little in additional premium. Or you can buy an umbrella policy, which sits on top of your home and auto policies and provides an additional $1 million or more in liability protection. For most homeowners, adding a $1 million umbrella runs between $150 and $300 per year. That's not a guarantee, but it's the general range you'll encounter when shopping. Check with your state's insurance department (find yours at [NAIC's state web map](https://www.naic.org/state_web_map.htm)) if you want to understand exactly what coverage options insurers are required to offer in your state.
-
----
 
 ## What Liability Coverage Excludes (The Part Nobody Reads)
 
@@ -76,11 +65,9 @@ Here's where I've seen the most genuine shock from homeowners. The exclusions in
 
 **Communicable disease.** Post-pandemic, some policies have added communicable disease exclusions. If someone claims you knowingly exposed them to illness, you may not be covered.
 
----
-
 ## A Step-by-Step Audit of Your Own Coverage
 
-Don't wait for a claim to find out where your gaps are. Here's how to actually review your liability coverage in an afternoon.
+Don't wait for a claim to find out where your gaps are.
 
 **Step 1: Pull your declarations page.** This is the summary document at the front of your policy packet. Find the line that says "Coverage E" or "Personal Liability" and note the limit. Then find "Coverage F" or "Medical Payments to Others" and note that limit separately.
 
@@ -90,22 +77,17 @@ Don't wait for a claim to find out where your gaps are. Here's how to actually r
 
 **Step 4: Inventory your exposure.** Think about what on your property creates risk. A pool or hot tub is the most significant liability exposure most homeowners have. Trampolines, zip lines, swing sets, and even large shade trees over a neighbor's property are worth considering. Some insurers exclude trampolines entirely or require a safety net.
 
-**Step 5: Get umbrella quotes.** Contact two or three insurers and ask what a $1 million umbrella costs given your current home and auto policies. Most umbrellas require you to carry a minimum liability limit (often $300,000) on your underlying policies, so factor that in.
+**Step 5: Get umbrella quotes.** Contact two or three insurers and ask what a $1 million umbrella costs given your current home and auto policies. Most umbrellas require you to carry a minimum liability limit, often $300,000, on your underlying policies. Factor that in.
 
-**Step 6: Document your home.** This is more for property claims than liability, but a solid home inventory protects you across the board. Apps like Encircle or even a simple video walkthrough stored in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (the site may earn a commission) can make a real difference if you ever need to file a comprehensive claim.
-
----
+**Step 6: Document your home.** This is more for property claims than liability, but a solid home inventory protects you across the board. Apps like Encircle or even a simple video walkthrough stored in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) can make a real difference if you ever need to file a comprehensive claim.
 
 ## Liability and Your Rental or Shared Property Situations
 
-This section applies to a growing number of homeowners. If you rent out a room, list your home on a short-term rental platform, have a pool that neighborhood kids use, or allow events on your property, your standard liability coverage may not apply to incidents arising from those activities.
+If you rent out a room, list your home on a short-term rental platform, have a pool that neighborhood kids use, or allow events on your property, your standard liability coverage may not apply to incidents arising from those activities.
 
 Short-term rental platforms have their own host protection programs, but those have significant gaps and conditions. If you're renting your home even occasionally, ask your insurer whether your policy covers bodily injury claims from paying guests. Many standard policies don't. You may need a landlord policy, a short-term rental endorsement, or a standalone vacation rental policy.
 
 In my experience, the homeowners most likely to be underinsured for liability are the ones who added income-generating activity to their property without updating their coverage. The policy they bought five years ago was right for how they were using their home then. It may not be right now.
-
----
-
 
 ---
 
@@ -119,14 +101,11 @@ Your liability coverage is the part of your policy that protects your financial 
 - **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
 - **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
 
-
 *Photo: [Darya Sannikova](https://www.pexels.com/@myatezhny39) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ---
 
@@ -138,4 +117,3 @@ Your liability coverage is the part of your policy that protects your financial 
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299), Complete home security kit with video doorbell, documents visitors and can lower home insurance premiums by up to 20%.
-

@@ -25,12 +25,9 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 
 ---
-
 You filed a claim last spring after a burst pipe soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.
 
 That's the part nobody explains when you're signing your policy.
-
----
 
 ## What Actually Happens to Your Policy After a Claim
 
@@ -38,25 +35,17 @@ The moment you file a claim, your insurer does more than just process a payment.
 
 At renewal time, underwriters review your file. They're not just looking at whether your claim was legitimate. They're evaluating what your claim says about risk going forward. A water damage claim, for example, often signals to underwriters that there may be ongoing moisture issues in the home. A liability claim might suggest a pattern they want to price accordingly.
 
-What can happen next falls into three categories. Your premium goes up. Your policy gets modified, sometimes with a new exclusion attached to the type of loss you just had. Or, in some cases, your insurer decides not to renew the policy at all. None of these outcomes are guaranteed after a single claim, but all of them are real possibilities you should plan for.
-
----
+What happens next falls into three categories: your premium goes up, your policy gets modified with a new exclusion attached to that type of loss, or your insurer decides not to renew you at all. None of these outcomes are guaranteed after a single claim, but all are real possibilities.
 
 ## Premium Increases: How Much, and Why
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+There's no universal formula here. I want to be straight with you about that. Premium increases after a claim vary significantly based on your insurer, your state's regulations, the type and size of the claim, and your prior claims history. What I can tell you from years of working with these systems is that the increase is almost never zero.
 
+The type of claim matters enormously. Weather-related claims, like wind damage from a named storm, are often treated differently from what insurers call "attritional" losses: plumbing failures or accidental fires. A hurricane isn't your fault, but a pipe that burst because it wasn't insulated might indicate a maintenance issue.
 
-
-There's no universal formula here, and I want to be honest about that. Premium increases after a claim vary significantly based on your insurer, your state's regulations, the type and size of the claim, and your prior claims history. What I can tell you from 14 years of sitting on the other side of this is that the increase is almost never zero.
-
-The type of claim matters enormously. Weather-related claims, like wind damage from a named storm, are often treated differently from what insurers call "attritional" losses, things like plumbing failures or accidental fires. The logic is that a hurricane isn't your fault, but a pipe that burst because it wasn't insulated might indicate a maintenance issue.
-
-Frequency matters even more than size. One significant claim often has less impact than two small ones. I've seen cases where a homeowner filed two claims in three years, each under $3,000, and ended up non-renewed. The insurer's position was that the claim frequency indicated elevated ongoing risk. It feels unfair. But it's how the math works on their end.
+Frequency matters even more than size. One significant claim often has less impact than two small ones in three years. I've seen cases where a homeowner filed two claims, each under $3,000, and ended up non-renewed. The insurer's position was that claim frequency indicated elevated ongoing risk. It feels unfair. But it's how the math works on their end.
 
 If you want to understand exactly how increases are calculated and what thresholds to watch, our [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) breaks down the underwriting logic in a way that's genuinely useful for planning.
-
----
 
 ## Non-Renewal vs. Cancellation: Know the Difference
 
@@ -70,15 +59,13 @@ Non-renewal after a claim is more common and harder to fight. Your insurer has b
 
 One thing to absolutely avoid: letting your coverage lapse, even for a single day. A gap in coverage can trigger higher rates with the next insurer and, if you have a mortgage, your lender will likely force-place insurance on your home at a much higher cost to you.
 
----
-
 ## How to Shop for Coverage After a Claim
 
-Shopping for new insurance after a claim isn't the same as shopping from a clean slate. You need to be strategic.
+Shopping for new insurance after a claim isn't the same as shopping from scratch. You need strategy.
 
 **Step 1: Pull your CLUE report first.** You're entitled to one free report per year from LexisNexis. Review it before any insurer does. Make sure the claims listed are accurate, because errors happen and they can unfairly inflate your risk profile.
 
-**Step 2: Know your current policy details cold.** Have your declarations page in hand. Know your current dwelling coverage amount, your deductibles, your liability limits, and any endorsements. You need this to make apples-to-apples comparisons.
+**Step 2: Know your current policy details cold.** Have your declarations page in hand. Know your dwelling coverage amount, your deductibles, your liability limits, and any endorsements. You need this to compare apples to apples.
 
 **Step 3: Be upfront with insurers.** Don't try to obscure your claims history. They'll find it in your CLUE report anyway, and misrepresentation on an application can give them grounds to void your policy later.
 
@@ -90,21 +77,17 @@ Shopping for new insurance after a claim isn't the same as shopping from a clean
 
 If your claim history is making it difficult to find standard market coverage, ask about your state's FAIR plan. These are insurer-of-last-resort programs that exist in most states. Coverage is often more limited and more expensive, but it keeps your home protected while you work on improving your profile.
 
----
-
 ## What to Think About Before Filing Your Next Claim
 
 This is the part I wish more people understood before they pick up the phone. Filing a claim is not always the right move, even when you have a legitimate loss.
 
-Consider your deductible. If your deductible is $2,500 and the repair costs $3,100, you're collecting $600 from your insurer. That might trigger a surcharge worth far more than $600 over the next three to five years. In that scenario, paying out of pocket is almost certainly the smarter financial decision.
+Consider your deductible. If your deductible is $2,500 and the repair costs $3,100, you're collecting $600 from your insurer. That might trigger a surcharge worth far more than $600 over the next three to five years. In that scenario, paying out of pocket is almost certainly smarter.
 
 Consider your claims history. If you filed a claim 18 months ago, a second claim now puts you at serious non-renewal risk with many carriers. The calculus changes dramatically.
 
 Consider the type of damage. Some losses are worth reporting even if you're paying out of pocket, because they create a documented record. If a tree falls on your garage and you pay for the repairs yourself, reporting the incident (without filing a financial claim) can protect you in case related structural issues appear later. Talk to your agent about how this works, because it varies by insurer.
 
 The Insurance Information Institute has useful guidance on evaluating whether to file, and it's one of those decisions where thinking it through carefully before you call can save you significant money. Our article on [understanding your homeowners insurance deductible](/homeowners-insurance-deductible-explained/) walks through exactly this kind of cost-benefit thinking.
-
----
 
 ## Reducing Your Risk Profile Going Forward
 
@@ -116,14 +99,9 @@ Installing a water leak sensor in your basement or near your water heater is a c
 
 Bundling your home and auto insurance with the same carrier is another lever. You can learn more about how [home insurance bundling discounts](/home-insurance-bundling-discount/) work and whether they apply even after a claim, which they often do.
 
-And keep a detailed home inventory. If you ever do file another claim, a documented inventory speeds up settlement and reduces disputes. Apps like Encircle or Sortly make this easy. A [fireproof document safe on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) is also worth having for your policy documents and receipts (commission disclosure applies).
+And keep a detailed home inventory. If you ever file another claim, a documented inventory speeds up settlement and reduces disputes. Apps like Encircle or Sortly make this easy. A [fireproof document safe on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) is also worth having for your policy documents and receipts (commission disclosure applies).
 
----
-
-
----
-
-The honest truth is that insurance companies are in the business of managing risk, not absorbing it. Filing a claim is your right, and a good policy should pay when you need it. But understanding what happens after you file gives you real leverage. You can make smarter decisions about when to claim, how to shop when your record isn't clean, and how to position yourself as a lower-risk homeowner over time. That knowledge is worth more than any single check.
+The honest truth is that insurance companies are in the business of managing risk, not absorbing it. Filing a claim is your right, and a good policy should pay when you need it. But understanding what happens after you file gives you real leverage. You can make smarter decisions about when to claim, how to shop when your record isn't clean, and how to position yourself as a lower-risk homeowner over time.
 
 ## Helpful Resources
 
@@ -133,19 +111,14 @@ The honest truth is that insurance companies are in the business of managing ris
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ## Sources & References
 
 - [LexisNexis, CLUE Personal Property Report](https://consumer.risk.lexisnexis.com/request), explains CLUE database consumers can request their report
 - [Insurance Information Institute, Filing and Settling Claims](https://www.iii.org/article/settling-insurance-claims-after-a-disaster), supports claim filing process and insurer practices
-
----
 
 ## Recommended Resources
 
@@ -155,4 +128,3 @@ The honest truth is that insurance companies are in the business of managing ris
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

@@ -25,10 +25,7 @@ author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 
 ---
-
 You wake up to a water stain spreading across your bedroom ceiling. Maybe you heard dripping in the night, or maybe you just spotted it on a Sunday morning with coffee in hand, stomach dropping as you realize what you're looking at. Your first thought is almost certainly: *does my homeowner's insurance cover this?* The honest answer is: it depends on what caused the leak, and that distinction matters more than most people realize until they're standing in the middle of a claim denial.
-
----
 
 ## What Home Insurance Actually Covers (and Why "Roof Leak" Isn't a Complete Answer)
 
@@ -36,14 +33,14 @@ Here's the thing about homeowner's insurance that the brochures don't say plainl
 
 Standard homeowner's policies (the HO-3 form is the most common in the U.S.) cover your home against sudden and accidental losses from named or open perils, depending on the form. A tree branch punching through your roof during a storm? Covered. Water that slowly seeped in for two years because a flashing seal deteriorated? Almost certainly not covered.
 
-The [Insurance Information Institute](https://www.iii.org/) makes this distinction clearly: insurance is designed to protect against unexpected events, not gradual deterioration. Insurers lean hard on this language when reviewing claims, and I can tell you from years of sitting on that side of the desk, they document it thoroughly.
+The [Insurance Information Institute](https://www.iii.org/) makes this distinction clearly: insurance is designed to protect against unexpected events, not gradual deterioration. Insurers lean hard on this language when reviewing claims. From years of sitting on that side of the desk, I can tell you they document it thoroughly.
 
 So before you file, the real question is: *why* is your roof leaking?
 
 **Typically covered causes:**
 - Wind and hail damage (the most common roof claim in the U.S.)
 - A falling tree or other object
-- Ice dams that form suddenly during a severe storm event (this one is disputed more often than you'd think)
+- Ice dams that form suddenly during a severe storm event
 - Fire or lightning striking the roof structure
 - Vandalism
 
@@ -57,13 +54,7 @@ So before you file, the real question is: *why* is your roof leaking?
 
 The word "sudden" does a lot of heavy lifting in insurance policy language. If a claims adjuster can point to evidence that the damage was ongoing, your claim is vulnerable, no matter how sympathetic your situation is.
 
----
-
 ## The Maintenance Problem: The Gap That Catches Most Homeowners Off Guard
-
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering why maintenance exclusions seem so broad. I've seen this confusion come up constantly with clients who genuinely believed they were covered for something any reasonable person would consider a surprise.
 
@@ -71,9 +62,7 @@ Here's what I tell people: insurers aren't trying to trick you, but they're also
 
 The practical takeaway: if you notice any roofing issue, no matter how small, document it immediately and address it promptly. A quick repair receipt from a licensed roofer is genuinely useful evidence that you've been maintaining the property. It also protects you in another way: if a covered storm later causes major damage, the adjuster can't claim the whole loss was pre-existing neglect.
 
-This is also where a home inventory and documentation habit pays off in ways people don't expect. Keeping photos of your roof condition every year or two gives you a timestamped baseline. A [waterproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is worth having for warranty records, receipts, and photos of major home systems. *(Disclosure: this site may earn a commission from qualifying purchases.)*
-
----
+This is where a home inventory and documentation habit pays off in ways people don't expect. Keeping photos of your roof condition every year or two gives you a timestamped baseline. A waterproof document safe is worth having for warranty records, receipts, and photos of major home systems. *(Disclosure: this site may earn a commission from qualifying purchases.)*
 
 ## What Happens to the Damage Inside Your Home
 
@@ -87,22 +76,20 @@ Here's how the typical claim breaks down:
 
 **Additional living expenses (Coverage D)** may kick in if the damage makes your home temporarily uninhabitable. This covers hotel stays and meals above your normal food costs while repairs happen.
 
-One critical point people often miss: even if the roof leak itself is covered, any mold that results from a *slow, long-standing leak* is frequently excluded or subject to a separate, much lower sublimit. Check your declarations page carefully for mold coverage caps. This is one of the more painful surprises I've seen people encounter after the fact.
-
----
+One critical point people often miss: even if the roof leak itself is covered, any mold that results from a slow, long-standing leak is frequently excluded or subject to a separate, much lower sublimit. Check your declarations page carefully for mold coverage caps. This is one of the more painful surprises I've seen people encounter after the fact.
 
 ## A Practical Guide: What to Do the Moment You Discover a Roof Leak
 
-How you respond in the first few hours matters for your claim outcome. Here's a straightforward process.
+How you respond in the first few hours matters for your claim outcome.
 
 **Step 1: Stop the active damage immediately.**
-You have a legal duty to mitigate loss under your policy. Put buckets down, move furniture, cover belongings with plastic. If it's safe to do so, place a tarp over the damaged area. Save receipts for anything you buy to protect your property.
+You have a legal duty to mitigate loss under your policy. Put buckets down, move furniture, cover belongings with plastic. If it's safe, place a tarp over the damaged area. Save receipts for anything you buy to protect your property.
 
 **Step 2: Document everything before you clean up.**
 Photos and video from multiple angles, timestamped. Capture water staining, damaged materials, standing water levels, and any visible roof damage from the ground. Don't go on the roof yourself unless you're trained to do so safely.
 
 **Step 3: Identify the cause as specifically as you can.**
-Was there a storm in the last 24-48 hours? Wind? Hail? A falling branch? Check local weather records (weather apps and services like Weather Underground archive historical data by ZIP code). Insurers will ask for the date of loss, and tying your claim to a specific weather event strengthens your position.
+Was there a storm in the last 24-48 hours? Wind? Hail? A falling branch? Check local weather records. Weather apps and services like Weather Underground archive historical data by ZIP code. Insurers will ask for the date of loss, and tying your claim to a specific weather event strengthens your position.
 
 **Step 4: Contact your insurer and open a claim.**
 Don't wait. Most policies have prompt reporting requirements, and delayed reporting can complicate your claim or reduce your payout.
@@ -113,9 +100,7 @@ Get this done alongside the insurer's adjuster visit, not after. You want your o
 **Step 6: Review the claim decision carefully.**
 If your claim is denied or underpaid, you have the right to request a detailed explanation in writing and to invoke the appraisal process outlined in your policy. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) maintains consumer resources on the claims dispute process by state, which is a genuinely useful starting point if you feel the decision was unfair.
 
-Consider investing in a [water leak detector](https://www.amazon.com/s?k=water+leak+sensor+smart+home&tag=contentportfo-20) near vulnerable areas like the attic access or below skylights. Catching a leak early can be the difference between a manageable repair and a major structural claim. *(Disclosure: this site may earn a commission from qualifying purchases.)*
-
----
+A water leak detector near vulnerable areas like the attic access or below skylights can catch a leak early. That difference can be substantial: you're looking at a manageable repair versus a major structural claim. *(Disclosure: this site may earn a commission from qualifying purchases.)*
 
 ## Actual Cash Value vs. Replacement Cost: The Roof Payout Gap
 
@@ -133,11 +118,6 @@ Some insurers have also moved toward "functional replacement cost" for roofs, wh
 | Actual Cash Value (ACV) | Depreciated value of what was damaged | Lower premium, potentially significant out-of-pocket gap |
 | Functional Replacement Cost | Cost of a basic functional equivalent | May not match original quality or aesthetics |
 
----
-
-
----
-
 Roof leaks sit in one of the most genuinely complicated corners of home insurance, where the line between "covered storm damage" and "uncovered wear and tear" can be frustratingly blurry. The clearest thing I can tell you is this: document your home's condition proactively, understand what caused the damage before you file, and don't accept a denial without reading the specific exclusion they're citing. A consultation with a licensed public adjuster or your state's insurance commissioner can be invaluable when a claim feels wrong. You don't have to accept the first answer you get, but you do need to understand the rules of the conversation.
 
 ## Helpful Resources
@@ -148,19 +128,12 @@ Roof leaks sit in one of the most genuinely complicated corners of home insuranc
 - **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 
-
----
-
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ## Sources & References
 
 - [Insurance Information Institute, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), explains peril-based coverage and what standard policies cover
 - [III, How to File a Home Insurance Claim](https://www.iii.org/article/how-file-home-insurance-claim), supports claims process and documentation guidance
-
----
 
 ## Recommended Resources
 
@@ -170,4 +143,3 @@ Roof leaks sit in one of the most genuinely complicated corners of home insuranc
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

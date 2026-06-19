@@ -25,28 +25,23 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 
 ---
+A neighbor's kid drowned in a backyard pool outside Columbus, Ohio in 2017. The family who owned the pool thought they had solid homeowner's insurance. They didn't. Their liability limit was $100,000. The lawsuit exceeded $400,000. Their policy had a specific exclusion because they hadn't told their insurer about the pool when it was installed. They lost their home.
 
-A neighbor's kid drowned in a backyard pool in a suburb of Columbus, Ohio in 2017. The family who owned the pool had what they thought was solid homeowner's insurance. What they didn't know was that their liability limit was $100,000, the lawsuit that followed exceeded $400,000, and their policy had a specific exclusion because they hadn't disclosed the pool to their insurer when it was installed. That family lost their home.
-
-I spent 14 years reviewing claims before I switched sides, and I can tell you that story is not an outlier. Pools are the single most liability-heavy feature you can add to a residential property, and most homeowners have no idea what their actual coverage looks like until something goes wrong.
+I spent 14 years reviewing claims before I switched sides, and I can tell you that story isn't unusual. Pools are the single most liability-heavy feature you can add to a residential property, and most homeowners have no idea what their actual coverage looks like until something goes wrong.
 
 Let's fix that.
 
 ## What Your Standard Policy Actually Covers (and What It Doesn't)
 
-A standard homeowner's policy includes two relevant pieces: personal liability coverage and medical payments coverage. Personal liability (typically listed as Coverage E) pays if someone is injured on your property and sues you. Medical payments coverage (Coverage F) handles smaller claims without a lawsuit, usually capped around $1,000 to $5,000. Both matter with a pool, but neither is as generous as you might think.
+Your homeowner's policy includes two relevant pieces: personal liability coverage and medical payments coverage. Personal liability (typically listed as Coverage E) pays if someone is injured on your property and sues you. Medical payments coverage (Coverage F) handles smaller claims without a lawsuit, usually capped around $1,000 to $5,000. Both matter with a pool, but neither is as generous as you might think.
 
-Here's what most people don't realize: the liability limit printed on your declarations page is almost certainly too low for a serious pool injury. The default on many policies is $100,000. A single drowning or near-drowning incident involving a child can generate lawsuits well above $500,000. If your limit is $100,000 and a judgment comes in at $350,000, you're paying the difference out of pocket. That means savings, retirement accounts, home equity. Everything.
+Here's what most people don't realize: the liability limit printed on your declarations page is almost certainly too low for a serious pool injury. The default on many policies is $100,000. A single drowning or near-drowning incident involving a child can generate lawsuits well above $500,000. If your limit is $100,000 and a judgment comes in at $350,000, you're paying the difference out of pocket. That's your savings account. Your retirement. Your home equity. Everything.
 
 The Insurance Information Institute consistently recommends that homeowners with pools carry at least $300,000 to $500,000 in personal liability coverage, and many insurance professionals I know push higher than that. Bumping your limit from $100,000 to $300,000 often costs less than $30 extra per year. It's the cheapest upgrade most pool owners never make.
 
 What standard policies typically will not cover: intentional acts, business use of the pool (think swim lessons for pay), and, in some cases, injuries to household members. That last one surprises people. If your own child is injured, your homeowner's policy generally won't help. That falls under health insurance.
 
 ## The Disclosure Problem (This One Gets People)
-
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I've seen more claims denied for non-disclosure than almost any other reason. You install an above-ground pool in July. You don't call your insurer because it seems minor, it cost $800 at Walmart, it's not a big deal. Except it is. Depending on your insurer's underwriting guidelines, failing to disclose a pool, whether in-ground or above-ground, can give them grounds to deny a claim or, in serious cases, rescind your policy entirely.
 
@@ -62,13 +57,7 @@ Most states have pool fencing laws, and your insurer almost certainly has their 
 
 Here's the part most homeowners skip: document your safety features and keep that documentation. Take dated photos. Keep receipts for the fence installation, the gate alarm, the pool alarm. If a claim ever hits, you want to be able to show that you took reasonable precautions. I've seen claims go better, and go worse, entirely because of whether the homeowner had that paper trail.
 
-A few inexpensive things worth considering if you have a pool:
-
-- A door alarm for any home entrance that leads directly to the pool area (under $30 on Amazon for models like the Poolguard DAPT-2, and yes, [this site may earn a small commission on purchases made through links here](https://www.amazon.com))
-- A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor) near pool equipment to catch slow failures before they damage surrounding structures
-- A [home inventory app](https://www.amazon.com/s?k=home+inventory+app) like Encircle (free) to document what you own and what safety equipment you've installed
-
-None of these are substitutes for a real fence and a real conversation with your insurer. But they help.
+A few inexpensive things worth considering if you have a pool. A door alarm for any home entrance that leads directly to the pool area runs under $30 on Amazon for models like the Poolguard DAPT-2. A water leak sensor near pool equipment catches slow failures before they damage surrounding structures. A home inventory app like Encircle (free) documents what you own and what safety equipment you've installed. None of these are substitutes for a real fence and a real conversation with your insurer. But they help.
 
 ## Umbrella Policies: The Part Most Pool Owners Skip
 
@@ -85,9 +74,6 @@ Some insurers will insure a pool without batting an eye and then decline to rene
 If you're buying a home with a pool that has a diving board, ask directly: is the diving board covered? Get it in writing. Don't assume.
 
 Above-ground pools, inflatable pools above a certain size (often anything over 24 inches deep), pool trampolines, and even hot tubs can all trigger separate disclosure requirements and affect your rates or eligibility. The basic rule is: when in doubt, disclose.
-
----
-
 
 ---
 
@@ -114,14 +100,11 @@ The paperwork and phone calls feel like a hassle right now. I get it. But I've s
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299), Complete home security kit with video doorbell, documents visitors and can lower home insurance premiums by up to 20%.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

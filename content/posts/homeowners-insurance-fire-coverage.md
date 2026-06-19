@@ -25,7 +25,6 @@ author_title: "Disaster Coverage Writer"
 author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
 
 ---
-
 You just watched the news coverage of a house fire three blocks away, or maybe you smelled smoke last night and it got you thinking. Or perhaps you're sitting down to renew your policy and you're staring at a declarations page that might as well be written in a foreign language. Whatever brought you here, you're asking the right question at the right time: does my homeowners insurance actually cover fire damage, and what does that really mean in practice? The answer is mostly yes, but the word "mostly" is doing a lot of heavy lifting in that sentence, and that's exactly what we need to unpack.
 
 ---
@@ -38,21 +37,19 @@ A standard HO-3 policy, which is what most American homeowners carry, covers fir
 
 **Dwelling coverage (Coverage A)** pays to repair or rebuild your home's physical structure, including walls, roof, flooring, built-in appliances, and attached structures like a garage. If your kitchen catches fire and the damage spreads through the ceiling into the upstairs bathroom, all of it falls under Coverage A.
 
-**Other structures (Coverage B)** covers detached structures on your property, a detached garage, a fence, a shed, a gazebo. This coverage is typically set at 10% of your dwelling limit automatically, which sounds fine until you realize your detached two-car garage alone might cost $40,000 to rebuild.
+**Other structures (Coverage B)** covers detached structures on your property: a detached garage, a fence, a shed, a gazebo. This coverage is typically set at 10% of your dwelling limit automatically, which sounds fine until you realize your detached two-car garage alone might cost $40,000 to rebuild.
 
 **Personal property (Coverage C)** covers your belongings inside the home: furniture, clothing, electronics, appliances you own, artwork. The critical thing here is whether your policy covers personal property at actual cash value or replacement cost value. Actual cash value deducts depreciation, so that five-year-old couch that cost $1,200 might net you $300. Replacement cost value pays you what it actually costs to buy a comparable couch today. That difference matters enormously when you've lost everything.
 
 **Additional living expenses (Coverage D)**, also called loss of use, pays for your temporary housing, meals above your normal food costs, laundry, and other expenses while your home is being repaired or rebuilt. If you're displaced for eight months, Coverage D is what keeps you from choosing between your mortgage and a hotel room.
 
-You might be wondering if smoke damage is treated the same as fire damage. It is. Smoke damage from a fire in your home, even if the fire itself was contained to one room, is covered as part of the fire loss. The adjuster will assess both together.
+You might be wondering if smoke damage gets treated the same as fire damage. It does. Smoke damage from a fire in your home, even if the fire itself was contained to one room, is covered as part of the fire loss. The adjuster will assess both together.
 
 ---
 
 ## The Coverage Gaps That Catch People Off Guard
 
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 In my 14 years reviewing claims, the post-fire conversations I dreaded most were the ones where I had to explain why a portion of someone's claim wasn't covered. Not because coverage was being denied unfairly, but because no one had ever explained the policy clearly before the loss.
 
@@ -62,7 +59,7 @@ In my 14 years reviewing claims, the post-fire conversations I dreaded most were
 
 **Certain secondary structures.** A fence, retaining wall, or swimming pool may be excluded or subject to separate sublimits depending on your policy language.
 
-**High-value personal property sublimits.** Most policies cap coverage for specific categories of belongings, jewelry is often limited to $1,500 for theft and fire combined, fine art, collectibles, musical instruments, and firearms all have common sublimits. If you have items in these categories worth more than those caps, you need a scheduled personal property endorsement.
+**High-value personal property sublimits.** Most policies cap coverage for specific categories of belongings. Jewelry is often limited to $1,500 for theft and fire combined. Fine art, collectibles, musical instruments, and firearms all have common sublimits. If you have items in these categories worth more than those caps, you need a scheduled personal property endorsement.
 
 **The coverage limit itself.** If it costs $480,000 to rebuild your home and your dwelling coverage limit is $350,000, you're underinsured by $130,000. This is the most common and most painful gap I've seen. Policies don't automatically update to reflect construction cost inflation. An extended replacement cost endorsement, which pays a percentage above your policy limit if costs exceed it, is something every homeowner should at least ask about.
 
@@ -74,15 +71,15 @@ The days immediately after a fire are disorienting and exhausting. Knowing what 
 
 **Step 1: Notify your insurer immediately.** Call the claims line as soon as it's safe to do so, ideally within 24 hours. Late notification can complicate your claim even if coverage applies. Get a claim number in writing.
 
-**Step 2: Document everything before any cleanup.** Photograph and video every room, every item, every area of visible damage. If a contractor or cleanup crew starts work before documentation is complete, you may lose evidence that supports your claim. I've seen legitimate claims reduced simply because there was no proof of the pre-loss condition.
+**Step 2: Document everything before any cleanup.** Photograph and video every room, every item, every area of visible damage. If a contractor or cleanup crew starts work before documentation is complete, you lose evidence that supports your claim. I've seen legitimate claims reduced simply because there was no proof of the pre-loss condition.
 
 **Step 3: Secure the property.** Your policy requires you to prevent further damage. Board up openings, tarp a damaged roof, take reasonable steps. Save every receipt. These mitigation costs are generally reimbursable.
 
-**Step 4: Request advance payment for additional living expenses.** You don't have to wait for the full claim to settle before you can get help with housing costs. Ask explicitly for an ALE advance payment.
+**Step 4: Request advance payment for additional living expenses.** You don't have to wait for the full claim to settle before getting help with housing costs. Ask explicitly for an ALE advance payment.
 
-**Step 5: Get your own estimates.** Your insurer will assign an adjuster and likely a preferred contractor. You are allowed, and often well-advised, to get independent estimates as well. If the numbers differ significantly, that's the beginning of a negotiation, not a closed door.
+**Step 5: Get your own estimates.** Your insurer will assign an adjuster and likely a preferred contractor. You're allowed, and often well-advised, to get independent estimates as well. If the numbers differ significantly, that's the beginning of a negotiation, not a closed door.
 
-**Step 6: Create a detailed personal property inventory.** This is the most time-consuming part and the one most people underestimate. Go room by room. List every item, estimated purchase year, and estimated value. If you have receipts, photos, or serial numbers saved anywhere, find them. An app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) *(this site may earn a commission from qualifying purchases)* or even a simple spreadsheet will help organize this.
+**Step 6: Create a detailed personal property inventory.** Go room by room. List every item, estimated purchase year, and estimated value. If you have receipts, photos, or serial numbers saved anywhere, find them. An app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) *(this site may earn a commission from qualifying purchases)* or even a simple spreadsheet will help organize this. Most people underestimate how much time this takes and how much it matters.
 
 **Step 7: Review the settlement offer carefully before accepting.** Once you sign a full and final release, your ability to reopen the claim is extremely limited. If you're not sure whether an offer is fair, a public adjuster or an attorney who handles insurance claims can review it before you sign.
 
@@ -112,7 +109,7 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 If you live in California, Colorado, Oregon, Texas, or any other state where wildfires are a growing risk, you need to understand that this is an area where the insurance market has shifted dramatically. Several major insurers have stopped writing new policies or pulled out of high-risk zip codes entirely in recent years. This isn't a minor inconvenience. It changes the options available to you.
 
-If you're in a designated high-risk zone, your standard HO-3 may still cover wildfire, but your renewal premium may have spiked, or you may have received a non-renewal notice. In that situation, your state's FAIR Plan (Fair Access to Insurance Requirements) may be your backup option. FAIR Plans are not great policies. They tend to provide narrower coverage at higher cost, often without the liability and personal property breadth of a standard policy. But they're real coverage when private market options evaporate.
+If you're in a designated high-risk zone, your standard HO-3 may still cover wildfire, but your renewal premium may have spiked, or you may have received a non-renewal notice. In that situation, your state's FAIR Plan (Fair Access to Insurance Requirements) may be your backup option. FAIR Plans aren't great policies. They tend to provide narrower coverage at higher cost, often without the liability and personal property breadth of a standard policy. But they're real coverage when private market options evaporate.
 
 If you've received a non-renewal, contact your state's insurance department before your policy lapses. There are timelines and consumer protections you need to be aware of, and acting fast gives you more options.
 
@@ -120,10 +117,7 @@ Defensible space, fire-resistant roofing, and ember-resistant vents can all affe
 
 ---
 
-
----
-
-The reality of fire coverage is that most people won't need to use it, and that's genuinely good news. But the people who do need it, really need it to work. Taking an hour now to review your limits, check for gaps, document your belongings, and ask your agent a few direct questions is the kind of unsexy, quiet preparation that makes an enormous difference on the worst day of your life. Don't wait until after the smoke clears.
+The reality of fire coverage is that most people won't need to use it, and that's genuinely good news. But the people who do need it really need it to work. Taking an hour now to review your limits, check for gaps, document your belongings, and ask your agent a few direct questions is the kind of unsexy, quiet preparation that makes an enormous difference on the worst day of your life. Don't wait until after the smoke clears.
 
 ## Helpful Resources
 
@@ -132,7 +126,6 @@ The reality of fire coverage is that most people won't need to use it, and that'
 - **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
 - **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
 - **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-
 
 ---
 
@@ -155,4 +148,3 @@ The reality of fire coverage is that most people won't need to use it, and that'
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
-

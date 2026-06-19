@@ -24,7 +24,6 @@ faqs:
   - q: "Is my car covered inside the detached garage?"
     a: "The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof."
 ---
-
 Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild, and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
 
 I've seen that call happen dozens of times. The homeowner is stunned every single time.
@@ -43,10 +42,6 @@ The coverage that does apply is usually "open perils" on the structure itself (m
 
 ## What's Inside the Garage Is a Separate Issue
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The structure is one thing. Everything inside it is another.
 
 Your personal property coverage (Coverage C on a standard policy) covers your belongings, including items stored in your detached garage. But there are limits within limits here. Many policies cap certain categories of property whether they're in your house or your garage. Tools are often subject to a sublimit. Power equipment sometimes is too. Collectibles, electronics, sports gear, check your policy's "special limits of liability" section, which is usually a chart buried a few pages in.
@@ -55,7 +50,9 @@ If you have a serious woodworking setup, an auto restoration project, or a home 
 
 There's also a real distinction between tools you use for personal projects and tools you use for business. If you're running any kind of side business out of that garage, standard homeowners coverage likely excludes business property and business liability. That's a different policy conversation entirely.
 
-One practical thing you can do right now: do a garage inventory. [The III recommends keeping a home inventory](https://www.iii.org/), and there are decent apps for it, Encircle and HomeZada are both solid options. Walk through with your phone, open every cabinet, and document what's there. Store the result somewhere other than your house (a cloud account or a document safe works). If you don't know what you have, you can't argue for fair compensation when something happens. (This site may earn a small commission on product links.)
+Do a garage inventory right now. [The III recommends keeping a home inventory](https://www.iii.org/), and there are decent apps for it (Encircle and HomeZada are both solid options). Walk through with your phone, open every cabinet, and document what's there. Store the result somewhere other than your house (a cloud account or a document safe works). If you don't know what you have, you can't argue for fair compensation when something happens.
+
+> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## Where Coverage Gets Complicated Fast
 
@@ -73,42 +70,25 @@ A few situations come up constantly that throw people off.
 
 Ask your insurer to increase your Coverage B limit. Most companies will do this for a relatively modest premium increase. If your detached garage alone would cost $80,000 to rebuild at today's construction costs (and in many markets, that's not an exaggeration), you need your other structures limit to reflect that, not your insurer's decade-old formula.
 
-Get a rough rebuild cost estimate for the structure itself. A local contractor can give you a ballpark. Factor in: square footage, whether it's insulated and finished, the electrical setup, and any specialty features. If you have an EV charger installed, that alone adds cost that most people undercount.
+Get a rough rebuild cost estimate for the structure itself. A local contractor can give you a ballpark. Factor in square footage, whether it's insulated and finished, the electrical setup, and any specialty features. If you have an EV charger installed, that alone adds cost that most people undercount.
 
 Then look at your personal property coverage and special limits. If you have high-value items in the garage, a scheduled personal property endorsement (sometimes called an "inland marine" rider) can cover specific items for their actual appraised value, without sublimits eating you alive.
 
-Add a water leak sensor near any plumbing in the garage. Small investment, potentially catches a slow leak before it becomes a major claim. (Amazon carries several solid options; this site may earn a small commission.)
+Add a water leak sensor near any plumbing in the garage. Small investment, potentially catches a slow leak before it becomes a major claim.
 
----
-
-
----
-
-One last thing. Don't wait for your renewal to look at this. Call your agent this week, ask specifically what your Coverage B limit is, and ask what it would cost to increase it. That conversation takes ten minutes and could save you from the phone call I described at the top of this article.
+Don't wait for your renewal to look at this. Call your agent this week, ask specifically what your Coverage B limit is, and ask what it would cost to increase it. That conversation takes ten minutes and could save you from the phone call I described at the top of this article.
 
 ## Helpful Resources
 
-*As an Amazon Associate this site earns from qualifying purchases.*
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-
-
-*Photo: [Jason  Dsouza](https://www.pexels.com/@jason-dsouza-55234749) via Pexels*
+- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)** (~$45), A durable safe for protecting important documents and valuable items stored in your garage.
+- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)** (~$16), Sends phone notifications if water's detected near your garage plumbing or foundation.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, often qualifies you for insurance discounts.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no replacement needed for a decade.
 
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-
+*Photo: [Jason Dsouza](https://www.pexels.com/@jason-dsouza-55234749) via Pexels*

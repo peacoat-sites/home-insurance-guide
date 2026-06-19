@@ -25,7 +25,6 @@ author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 
 ---
-
 Your neighbor's house is identical to yours. Same square footage, same roof age, same ZIP code. His homeowners premium is $400 less per year than yours. No, he didn't get a special deal. You're probably just paying the price of not knowing what's actually inside your policy or what levers you can pull to change it.
 
 That gap is real, and it's common. Homeowners insurance premiums are calculated using a formula most insurers won't hand you on a laminated card, and the marketing language on your declarations page is designed to reassure, not inform. After 14 years reviewing claims, I can tell you the surprises come later, when the bill is already due or the claim is already denied. Let's get ahead of both.
@@ -36,9 +35,9 @@ That gap is real, and it's common. Homeowners insurance premiums are calculated 
 
 Your premium buys you a specific set of promises, not a blanket guarantee that your insurer will cover whatever goes wrong.
 
-A standard HO-3 policy, which is what most homeowners carry, covers your dwelling, other structures on the property, personal property, loss of use, personal liability, and medical payments to others. Each of those buckets has its own limit, and every limit is a ceiling you can hit faster than you'd expect.
+A standard HO-3 policy, which is what most homeowners carry, covers your dwelling, other structures on the property, personal property, loss of use, personal liability, and medical payments to others. Each bucket has its own limit, and every limit is a ceiling you can hit faster than you'd expect.
 
-The dwelling coverage limit, often called Coverage A, is the single biggest driver of your premium. This number should reflect what it would cost to rebuild your home from scratch at current labor and materials prices, not its market value. These two figures are rarely the same. In fact, after the supply chain chaos of recent years drove construction costs sharply upward, millions of homeowners discovered they were significantly underinsured when they filed claims. The Insurance Information Institute consistently flags this as one of the most common and costly coverage mistakes homeowners make.
+The dwelling coverage limit, often called Coverage A, is the single biggest driver of your premium. This number should reflect what it would cost to rebuild your home from scratch at current labor and materials prices, not its market value. These two figures are rarely the same. After the supply chain chaos of recent years drove construction costs sharply upward, millions of homeowners discovered they were significantly underinsured when they filed claims. The Insurance Information Institute consistently flags this as one of the most common and costly coverage mistakes homeowners make.
 
 Liability coverage is the part most people ignore until they need it. Standard policies typically include $100,000 in liability, but that number evaporates quickly in a serious injury lawsuit. Many advisors recommend at least $300,000, and if you have meaningful assets, a personal umbrella policy deserves a serious look.
 
@@ -47,10 +46,6 @@ What your premium is not paying for: flood damage, earthquake damage, sewer back
 ---
 
 ## The Rating Factors Insurers Use to Set Your Price
-
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Insurance pricing is part actuarial science, part local data, and part business strategy. Here are the factors that actually move your number.
 
@@ -64,7 +59,7 @@ Insurance pricing is part actuarial science, part local data, and part business 
 
 **Deductible level.** Choosing a higher deductible shifts more risk to you and lowers your premium. This is one of the most direct levers you control.
 
-**Coverage limits and endorsements.** The more coverage you buy, the more you pay. Simple math, but the catch is that people often under-buy on the things that matter (dwelling replacement cost, liability) and over-buy or duplicate coverage they already have elsewhere.
+**Coverage limits and endorsements.** The more coverage you buy, the more you pay. The catch is that people often under-buy on the things that matter (dwelling replacement cost, liability) and over-buy or duplicate coverage they already have elsewhere.
 
 ---
 
@@ -94,11 +89,11 @@ These aren't vague suggestions. These are things that demonstrably move numbers.
 
 **Step 4: Make your home harder to damage.** The IBHS home fortification guides outline specific hardening measures, from hurricane straps to impact-resistant roofing, that can qualify you for reduced premiums in high-risk areas. Installing a monitored alarm system, deadbolts, and smoke detectors usually generates discounts as well.
 
-**Step 5: Add leak detection.** Water damage is among the most frequent homeowners claims. Smart water sensors placed near appliances, water heaters, and under sinks catch problems before they become catastrophic. [Water leak sensors are inexpensive and widely available](https://www.amazon.com/s?k=water+leak+detector+home&tag=contentportfo-20) (note: this site may earn a commission on purchases). Some insurers offer discounts for them.
+**Step 5: Add leak detection.** Water damage is among the most frequent homeowners claims. Smart water sensors placed near appliances, water heaters, and under sinks catch problems before they become catastrophic. Water leak sensors are inexpensive and widely available (note: this site may earn a commission on purchases). Some insurers offer discounts for them.
 
 **Step 6: Review your personal property coverage.** Standard policies cover personal property at actual cash value unless you upgrade to replacement cost. That difference matters enormously when you file a claim. Also review any scheduled endorsements for jewelry, art, or electronics, items often undervalued on standard policies.
 
-**Step 7: Create a home inventory.** This costs nothing except time. A documented, photographed record of your belongings dramatically accelerates claims and prevents disputes over what you owned. A dedicated home inventory app makes the process easier. [Several solid options exist on the App Store and Google Play](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20), some free. Keep a copy off-site or in the cloud, and consider storing key documents in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (note: affiliate link).
+**Step 7: Create a home inventory.** This costs nothing except time. A documented, photographed record of your belongings dramatically accelerates claims and prevents disputes over what you owned. A dedicated home inventory app makes the process easier. Several solid options exist on the App Store and Google Play, some free. Keep a copy off-site or in the cloud, and consider storing key documents in a fireproof document safe.
 
 **Step 8: Shop the market every two to three years.** Loyalty discounts exist, but so does price creep. Insurers also change their appetite for risk in specific regions, which means a company that priced you competitively three years ago may no longer be your best option. Get at least two or three comparative quotes at renewal.
 
@@ -119,19 +114,16 @@ For most homeowners, the relevant comparison is HO-3 versus HO-5. The HO-5 costs
 
 ---
 
-
----
-
 Getting your homeowners premium right isn't about finding the cheapest policy. It's about understanding what you're actually buying, knowing where the gaps hide, and using the levers you have available before a loss forces the conversation. Consult with a licensed insurance professional when making coverage decisions, especially for complex properties or high-value assets. The questions you ask before you buy are the ones that protect you after something goes wrong.
 
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 
 *Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
 
@@ -141,14 +133,4 @@ Getting your homeowners premium right isn't about finding the cheapest policy. I
 
 ---
 
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*

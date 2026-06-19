@@ -25,7 +25,6 @@ author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 
 ---
-
 Most condo owners are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.
 
 Here's what makes condos different from single-family homes: you don't own the building. You own a unit inside it. Your homeowners association owns the structure, the roof, the exterior walls, the hallways. They carry a master policy for all of that. You're responsible for everything else, which turns out to be more than most people think.
@@ -36,17 +35,13 @@ The HOA master policy comes in two flavors, and which one your association carri
 
 **Bare walls-in** (sometimes called "studs-in") covers the structure only: framing, exterior walls, roof, common areas. The moment you cross the paint layer on your interior walls, you're on your own. Your kitchen cabinets, your hardwood floors, your bathroom tile, your built-in shelving? None of it.
 
-**All-in** (also called "single entity") goes further, covering original fixtures and installations inside the unit, like factory-spec flooring and standard kitchen appliances. This sounds reassuring until you realize it only covers what was original to the unit when built. That $12,000 kitchen renovation you did in 2021 probably isn't included.
+**All-in** (also called "single entity") goes further. It covers original fixtures and installations inside the unit, like factory-spec flooring and standard kitchen appliances. But here's the catch: it only covers what was original to the unit when built. That $12,000 kitchen renovation you did in 2021 probably isn't included.
 
 Before you buy a single day of HO-6 coverage (that's the specific policy type for condo owners), get a copy of the HOA's master policy declaration page. Read it. If your association won't hand it over, that's a red flag worth noting before you close on a unit.
 
-The Insurance Information Institute has a solid breakdown of how master policies interact with individual HO-6 coverage, and it's worth reading before your next renewal.
+The [Insurance Information Institute](https://www.iii.org/) has a solid breakdown of how master policies interact with individual HO-6 coverage, and it's worth reading before your next renewal.
 
 ## HO-6: What You're Actually Buying
-
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 An HO-6 policy is built specifically for condo owners. It covers your personal property, liability, and the interior of your unit. But the details inside that broad description matter enormously.
 
@@ -70,13 +65,13 @@ The same logic applies to your dwelling coverage. Make sure your policy pays rep
 
 ## The Water Damage Problem
 
-Water damage is the single most common and most disputed claim type I saw in 14 years of reviewing claims. And condos have a specific water damage issue that single-family homes don't: neighbor liability.
+Water damage is the single most common and most disputed claim type I saw in 14 years of reviewing claims. Condos have a specific water damage issue that single-family homes don't: neighbor liability.
 
 If the unit above you has a plumbing failure and water comes through your ceiling, your insurance pays for your damage. Your upstairs neighbor's insurance handles their liability (if they have it). If they don't, or if their limits are too low, you're looking at a coverage fight that can take months.
 
-A simple water leak sensor placed near your washing machine, dishwasher, or under-sink plumbing can catch a slow leak before it becomes a catastrophic one. (The site may earn a commission on product links.) That's a $25 to $50 device that can prevent a $15,000 claim and a premium spike at renewal.
+A simple water leak sensor placed near your washing machine, dishwasher, or under-sink plumbing can catch a slow leak before it becomes catastrophic. That's a $25 to $50 device that can prevent a $15,000 claim and a premium spike at renewal.
 
-Also: flooding is not covered by standard HO-6 policies. Not from rain, not from storm surge, not from an overflowing river. If you're in a flood zone, or even a moderate-risk area, a separate flood policy through the National Flood Insurance Program is worth pricing out.
+Also: flooding is not covered by standard HO-6 policies. Not from rain, not from storm surge, not from an overflowing river. If you're in a flood zone, or even a moderate-risk area, a separate flood policy through the [National Flood Insurance Program](https://www.floodsmart.gov/) is worth pricing out.
 
 ## Before You Renew, Do These Things
 
@@ -87,12 +82,9 @@ Pull out your HOA master policy and your current HO-6 declarations page. Put the
 3. Is my personal property coverage on a replacement cost basis?
 4. Have I documented what I own?
 
-That last one matters more than people realize. A home inventory, done before a loss, is the difference between a smooth claim and a months-long dispute about what you owned. There are dedicated apps that make this manageable. (The site may earn a commission on product links.) Store any documentation somewhere fireproof or in the cloud. A document safe is a reasonable precaution for paper records and hard drives. (Again, the site may earn a commission.)
+That last one matters more than people realize. A home inventory, done before a loss, is the difference between a smooth claim and a months-long dispute about what you owned. There are dedicated apps that make this manageable. Store any documentation somewhere fireproof or in the cloud. A document safe is a reasonable precaution for paper records and hard drives.
 
 Your state's insurance department can help you understand what's required and what's optional in your state, and most have consumer complaint data on insurers if you want to research how a company handles claims before you commit.
-
----
-
 
 ## Helpful Resources
 
@@ -102,12 +94,9 @@ Your state's insurance department can help you understand what's required and wh
 - **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
 - **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ## Recommended Resources
 
@@ -117,4 +106,3 @@ Your state's insurance department can help you understand what's required and wh
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

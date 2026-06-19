@@ -25,10 +25,7 @@ author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 
 ---
-
 Most homeowners spend more time choosing a new refrigerator than they do shopping for a policy that could determine whether they recover financially after a disaster. I've seen it play out in real life: a family loses their roof in a hailstorm, calls their agent, and discovers their policy pays actual cash value instead of replacement cost, leaving them thousands short of what they need to rebuild. That single misunderstood line in a declarations page can cost more than a decade of premium savings. Shopping for homeowners insurance isn't just about finding the lowest monthly number. It's about understanding exactly what you're buying before you need it.
-
----
 
 ## Know What You're Actually Comparing Before You Get a Single Quote
 
@@ -40,13 +37,7 @@ Next, understand replacement cost versus actual cash value. Replacement cost cov
 
 You'll also want to align the dwelling coverage limit, personal property limit, liability limit, and loss of use coverage across every quote. Comparing a policy with $300,000 in dwelling coverage to one with $250,000 isn't an apples-to-apples comparison. Our [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) breaks down how to think through each of these numbers in detail.
 
----
-
 ## How to Calculate How Much Coverage You Actually Need
-
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 One of the most common mistakes I saw during my years reviewing claims was homeowners who were insured for their home's market value rather than its replacement cost. Those are two different numbers, and confusing them leaves you dangerously underinsured.
 
@@ -54,15 +45,13 @@ Your home's market value includes land, neighborhood desirability, school distri
 
 Ask any insurer you're considering for their replacement cost estimate methodology. Most use software tools like CoreLogic or Marshall & Swift. The estimate isn't perfect, but you should understand the assumptions baked into it. How many square feet did they use? What quality of materials? Does it account for your custom kitchen cabinets or your finished basement?
 
-For personal property, take an actual inventory before you shop. A $50,000 personal property limit sounds like a lot until you catalog your furniture, electronics, clothing, tools, and appliances room by room. Many households find they're sitting on $80,000 to $100,000 in personal property, sometimes more. A dedicated home inventory app (you can find several well-reviewed options on Amazon, and the site may earn a commission) makes this process far less painful and gives you documentation you'll need if you ever file a claim.
+For personal property, take an actual inventory before you shop. A $50,000 personal property limit sounds like a lot until you catalog your furniture, electronics, clothing, tools, and appliances room by room. Many households find they're sitting on $80,000 to $100,000 in personal property, sometimes more. A dedicated home inventory app makes this process far less painful and gives you documentation you'll need if you ever file a claim. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Don't guess at liability coverage, either. The standard $100,000 limit is genuinely low for the lawsuit environment we live in. Many financial advisors recommend at least $300,000 to $500,000, and if your net worth justifies it, an umbrella policy on top of that. You can read more about what that coverage does and doesn't protect in this breakdown of [home insurance liability coverage](/home-insurance-liability-coverage/).
 
----
-
 ## What to Look for Beyond the Premium
 
-A cheaper premium can absolutely be the right choice. But "cheap" and "good value" aren't always the same thing. Here's what deserves equal weight alongside the price.
+A cheaper premium can absolutely be the right choice. But "cheap" and "good value" aren't always the same thing.
 
 **Claims handling reputation.** The policy is a promise. How well insurers keep that promise varies dramatically. Look at complaint ratios from the [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/), which publishes a complaint index for every licensed insurer in the country. A complaint index above 1.0 means the company receives more complaints than expected for its size. That number is freely available and worth thirty seconds of your time.
 
@@ -71,8 +60,6 @@ A cheaper premium can absolutely be the right choice. But "cheap" and "good valu
 **Policy exclusions.** Every policy has them. Read the exclusions section. Common ones that surprise homeowners: earth movement (earthquakes), flooding, sewer backup, mold (in many policies), ordinance or law (the cost of bringing your home up to current building codes after a loss). Flood coverage in particular requires a separate policy entirely and is frequently overlooked. If you're in or near a flood zone, our guide on [home insurance flood coverage](/home-insurance-flood-coverage/) explains what you need to know before assuming your standard policy covers it.
 
 **Service and accessibility.** Can you file a claim online at 11 p.m. on a Sunday? Can you actually reach a human when something goes wrong? These seem like minor considerations until your basement is flooding.
-
----
 
 ## A Step-by-Step Shopping Process That Actually Works
 
@@ -90,9 +77,7 @@ Here's the process I'd walk any friend through, stripped of the fluff.
 
 **Step 6: Read the exclusions page of your top choice.** If you don't understand something, call the agent and ask them to explain it in plain English before you bind the policy.
 
-**Step 7: Ask about discounts.** Bundling with auto insurance, having a monitored security system, installing water leak sensors (available on Amazon, the site may earn a commission), being claims-free for multiple years, having a new roof, being over 55. Discounts vary by insurer, but you have to ask.
-
----
+**Step 7: Ask about discounts.** Bundling with auto insurance, having a monitored security system, installing water leak sensors, being claims-free for multiple years, having a new roof, being over 55. Discounts vary by insurer, but you have to ask.
 
 ## Common Shopping Mistakes That Cost Real Money
 
@@ -108,29 +93,11 @@ I've watched homeowners make the same errors repeatedly. Knowing them in advance
 
 **Ignoring local risk factors.** Hail corridors in the Midwest, wildfire zones in the West, hurricane exposure on the coasts, and sinkhole risk in Florida all affect what coverage you genuinely need and what exclusions you should read most carefully.
 
----
-
-
----
-
 The policy you buy now is the one you'll be living with when something actually goes wrong. Spend a few extra hours on the front end: compare carefully, read what you're buying, and ask hard questions before you sign. If you're starting from scratch and feeling overwhelmed, our guide to [homeowners insurance for first-time buyers](/home-insurance-for-first-time-buyers/) is a practical starting point. This is one area where doing the homework yourself, and consulting a licensed professional for your specific situation, is always worth the time.
 
 ## Helpful Resources
 
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-
-
----
-
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
-
----
 
 ## Recommended Resources
 
@@ -140,4 +107,3 @@ The policy you buy now is the one you'll be living with when something actually 
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-
