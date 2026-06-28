@@ -29,6 +29,9 @@ The average American pays somewhere around $1,400 to $2,000 a year for homeowner
 
 ## What the Average Cost Actually Looks Like (and Why Averages Mislead)
 
+**"Homeowners insurance covers all disasters"**: Most homeowners assume their standard policy protects them from every type of damage—fires, storms, theft, you name it. But that's dangerously wrong. According to the National Association of Insurance Commissioners, standard homeowners policies explicitly exclude floods, earthquakes, and ground subsidence. In fact, the Insurance Information Institute reports that flood alone costs homeowners an average of $29,234 per claim, yet only 4% of homeowners have flood coverage. Even "named peril" policies cover just 15-17 specific events. The lesson: your $1,200/year premium buys far less protection than you think—separate riders and policies are required for most catastrophic events.
+
+
 National averages get thrown around constantly, and they're nearly useless on their own. The [Insurance Information Institute](https://www.iii.org/) tracks average homeowners insurance expenditures annually, and while their figures give you a general ballpark, the range across states is enormous. Florida homeowners routinely pay three to four times what someone in Ohio pays for a similar home. Louisiana, Texas, and Colorado also sit well above the national midpoint, largely because of weather catastrophe exposure.
 
 Here's what actually drives the spread:
