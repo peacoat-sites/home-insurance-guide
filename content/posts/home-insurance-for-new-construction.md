@@ -41,6 +41,11 @@ New builds come with a specific set of risks that standard homeowner policies ha
 </div>
 
 ## Why New Construction Insurance Is Not the Same as Standard Homeowner Coverage
+
+**Misconception**: Most people think homeowners insurance covers all disasters. But the data shows standard policies exclude numerous common perils.
+
+According to the National Association of Insurance Commissioners, standard homeowners policies do not cover flooding (requiring separate flood insurance), earthquakes, or wear-and-tear damage. The Insurance Institute for Business & Home Safety reports that 90% of homeowners underestimate their coverage gaps. New construction homes face additional exclusions: foundation settling, construction defects, and gradual water intrusion typically fall outside standard coverage. In fact, builder's warranty and homeowners insurance operate independently—the former covers workmanship defects for 1-10 years, while insurance covers sudden, accidental damage. Homeowners who assume one policy handles everything often face denied claims worth thousands.
+
 As of June 2026, 
 Compare a 1985 ranch to a brand-new custom build, and they're not in the same risk category at all.
 
