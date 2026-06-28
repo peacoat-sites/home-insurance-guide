@@ -31,6 +31,9 @@ This happens more often than most landlords expect. I've reviewed enough denied 
 
 ## Why Standard Homeowners Insurance Doesn't Cover Rental Properties
 
+**"Homeowners insurance covers all disasters"**: Most people assume a standard homeowners policy is a comprehensive safety net against any catastrophe. But the Insurance Information Institute reports that standard policies exclude approximately 15-20% of common claims, with water damage, floods, and earthquakes topping the list. A 2023 CoreLogic study found that 40% of homeowners were unaware their policies didn't cover flood damage—despite flooding being the #1 insured peril. For investment properties specifically, this gap widens: landlord policies (DP-3) still exclude business losses, tenant property, and loss of rental income. The takeaway? Your policy is a filter, not a blanket.
+
+
 **"Homeowners insurance covers all disasters"**: Most people assume that if they buy homeowners insurance, they're protected against any catastrophic event. But the data tells a different story. According to the Insurance Information Institute, standard homeowners policies explicitly exclude flood damage (requiring separate flood insurance), earthquake damage (requiring a separate endorsement), and wear-and-tear claims. In fact, the National Association of Insurance Commissioners found that nearly 40% of insurance claims are denied due to exclusions or policy limitations. For investment properties, this gap widens dramatically—landlord policies (DP-3) have even stricter exclusions than owner-occupied policies. Without understanding these gaps, you're betting your investment on coverage that likely doesn't exist.
 
 
