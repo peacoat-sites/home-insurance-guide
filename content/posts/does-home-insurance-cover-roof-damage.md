@@ -39,6 +39,9 @@ You file a claim after a bad hailstorm tears up your roof. The adjuster comes ou
 
 ## What Home Insurance Actually Covers When It Comes to Your Roof
 
+**"Insurance covers all roof damage"**: Most homeowners assume their policy is a catch-all for any roof problem. But claims data tells a different story. According to the Insurance Information Institute, wear-and-tear claims are the #1 reason insurers deny roof damage claims—accounting for over 40% of denials. Age matters too: if your roof is over 20 years old, many insurers won't cover it at all, regardless of the damage cause. The reality? Your policy covers *sudden, accidental damage* (storms, falling trees, hail). It explicitly excludes gradual deterioration, poor maintenance, and pre-existing conditions. That distinction is the difference between a covered claim and an out-of-pocket bill.
+
+
 It depends entirely on what caused the damage. Home insurance works through named perils or open perils, and the cause is the first thing any adjuster looks at.
 
 Standard HO-3 policies, the most common form in the country, typically cover roof damage from sudden and accidental events. Hail, wind, fire, lightning, falling tree limbs, the weight of snow or ice, vandalism, these usually qualify. When a covered peril causes the damage, the insurer generally pays to repair or replace the damaged portion of your roof, minus your deductible.
