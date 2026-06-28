@@ -28,7 +28,7 @@ author_bio: "Kevin Park spent his early career as a home inspector before moving
 You find a homeowners policy for $67 a month and feel like you just beat the system. Then a pipe bursts inside your wall, soaks three rooms, and you file a claim, only to learn that "sudden and accidental" discharge is covered but the slow leak that caused the real damage isn't. Your $67 policy pays out almost nothing. I watched this exact scenario play out dozens of times in my claims career, and it still happens every day. The price on the declarations page is not the story. The story is what the policy actually does when something goes wrong.
 
 ## What "Cheap" Actually Means in a Homeowners Policy
-
+As of June 2026, 
 Insurers keep premiums low in a few specific ways: they raise deductibles, lower dwelling coverage limits, strip out optional endorsements, or quietly exclude whole categories of risk. Sometimes they do all four at once.
 
 A low premium isn't inherently bad. Plenty of homeowners are genuinely overinsured, paying for replacement cost coverage on a home that would cost half the price to rebuild. But cheap can also mean dangerously underinsured. The difference lives inside the policy language, not on the quote comparison screen.

@@ -22,7 +22,7 @@ Whatever score you land on, you're walking away with something useful: a real pi
 ---
 
 ## Recommended Resources
-
+As of June 2026, 
 ## Sources
 
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)

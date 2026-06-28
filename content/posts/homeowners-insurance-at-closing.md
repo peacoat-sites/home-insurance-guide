@@ -30,7 +30,7 @@ Most first-time buyers don't realize their mortgage won't close without proof of
 Here's what actually happens at the closing table, and how to make sure you're not overpaying because you were rushed.
 
 ## What Lenders Actually Require (And Why It's a Floor, Not a Ceiling)
-
+As of June 2026, 
 Your lender has one job at closing: protect their collateral. That's the house, not you. So the minimum insurance requirements they hand you are calibrated to cover the loan balance, not your actual financial exposure.
 
 The standard demand is a policy with dwelling coverage equal to at least the loan amount, sometimes the full replacement cost of the structure, with the lender listed as a mortgagee on the policy. You'll also typically need proof of a paid first-year premium before the closing date. Most lenders want to see the declarations page, not just a binder number.

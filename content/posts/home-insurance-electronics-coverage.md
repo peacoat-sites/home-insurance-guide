@@ -42,7 +42,7 @@ I spent 14 years reviewing claims like hers. That experience made me protective 
 </div>
 
 ## What Your Standard Policy Actually Covers (And What It Doesn't)
-
+As of June 2026, 
 Most people think their homeowner's policy covers electronics comprehensively. It doesn't.
 
 Your policy does cover them, technically. Under the personal property section of a standard HO-3, electronics fall under your general coverage bucket. A laptop destroyed in a kitchen fire? Covered. A thief grabbing your TV? Covered. So far so good.

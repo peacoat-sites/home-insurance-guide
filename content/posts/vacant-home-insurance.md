@@ -32,7 +32,7 @@ That's the thing nobody tells you when you're dealing with everything else that 
 I spent 14 years reviewing claims, and vacant home situations were some of the most heartbreaking denials I had to process. Not because the damage wasn't real, but because the homeowner genuinely didn't know the gap existed.
 
 ## Why Your Regular Policy Stops Working
-
+As of June 2026, 
 Standard homeowner's insurance assumes someone's actually living in the house. Occupied homes get noticed. A pipe bursts and someone's there to catch it within hours. A window breaks and someone calls a glass company by morning. Insurers price their policies around that constant human presence, and when it disappears, so does most of your coverage.
 
 Most policies define "vacancy" somewhere between 30 and 60 consecutive days with nobody there. After that threshold, your insurer can legally deny claims for vandalism, glass breakage, water damage from frozen pipes, and sometimes fire. Check Section 6 or the "Conditions" section of your declarations page for language like "vacancy clause" or "unoccupied premises." It's there. Usually in small print.

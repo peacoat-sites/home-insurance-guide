@@ -30,7 +30,7 @@ Your roof is the first place an insurer looks when they're deciding whether to c
 Here's what the marketing materials don't say: many insurers today won't write a new policy on a home with a roof older than 20 years. Some draw the line at 15. A few have pushed it down to 10 in high-hail or high-wind markets like Texas, Colorado, and parts of Florida. You won't see this in the brochure. You'll see it in the inspection report that comes back two weeks after you've moved in.
 
 ## How Roof Age Restrictions Actually Work
-
+As of June 2026, 
 Insurers use a few different approaches, and confusing them is expensive.
 
 The first is a hard eligibility cutoff. Your roof hits a certain age, they won't write the policy. Full stop. This is most common with asphalt shingle roofs, which are everywhere and degrade in predictable ways. If you're shopping for coverage on a home with a 22-year-old three-tab shingle roof, a meaningful portion of the standard market is already closed to you before you make a single call.

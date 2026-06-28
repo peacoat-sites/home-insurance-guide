@@ -30,7 +30,7 @@ Most condo owners are underinsured and don't know it until they're standing in t
 Condo insurance is genuinely different from homeowners insurance, in ways that matter enormously when something goes wrong. Let's get into what it actually covers, where it falls short, and what you should do before you renew.
 
 ## What Your HOA's Master Policy Is (and Isn't) Doing for You
-
+As of June 2026, 
 Your HOA carries a master insurance policy. Most condo owners assume this protects them. It protects the building. Sometimes. Depending on the type of master policy, it may cover the building structure, common areas, and shared systems. It rarely covers what's inside your unit.
 
 There are two main master policy types. "Bare walls in" covers the building structure only: drywall, framing, roof. "All in" (sometimes called "all inclusive") goes further and covers fixtures, flooring, and built-in appliances as originally installed. The difference matters enormously if your kitchen floods.

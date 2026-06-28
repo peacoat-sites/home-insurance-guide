@@ -31,7 +31,7 @@ I've seen that call happen dozens of times. The homeowner is stunned every singl
 This is the gap nobody warns you about before you buy a policy, and it costs people real money. So let's get into the actual mechanics of how detached garage coverage works, where it routinely falls short, and what to do about it before you need to file a claim.
 
 ## How Your Policy Actually Treats a Detached Garage
-
+As of June 2026, 
 Standard homeowners policies (the HO-3 form, which is what most of you have) automatically cover detached structures under something called Coverage B, or "other structures." This includes your detached garage, a fence, a shed, a pergola, a guest house that doesn't generate rental income, anything that's separated from the main dwelling by a clear space or connected only by a fence or utility line.
 
 The default limit is 10% of your dwelling coverage (Coverage A). If your house is insured for $400,000, your other structures limit is $40,000. That's the total for everything. Your garage, your fence, your tool shed, your detached workshop, all of it competing for the same $40,000 bucket.

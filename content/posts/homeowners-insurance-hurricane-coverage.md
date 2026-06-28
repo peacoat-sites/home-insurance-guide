@@ -32,7 +32,7 @@ I'll be honest: even after 14 years adjusting claims, the first time I sat acros
 Let me walk you through what actually happens.
 
 ## What Standard Homeowners Insurance Actually Covers
-
+As of June 2026, 
 Your standard HO-3 policy covers wind damage. That part is real. If a hurricane knocks a tree through your roof, that wind-driven damage is typically covered under the dwelling portion of your policy. Same with damaged siding, broken windows, and most structural damage you can trace back to wind.
 
 What it doesn't cover is water. And hurricanes are mostly water.

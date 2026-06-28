@@ -30,7 +30,7 @@ Getting married changes your insurance situation faster than most newlyweds real
 Here's the thing: most people treat homeowners insurance like a utility. You get it when you buy the house, pay it automatically, and don't think about it again until something breaks. Marriage breaks that pattern in ways your insurer won't call to explain.
 
 ## What Actually Changes When You Merge Households
-
+As of June 2026, 
 The most immediate issue is property. When two people combine households, personal property coverage suddenly has to stretch over twice the stuff, sometimes more. Most standard HO-3 policies cover personal belongings at somewhere between 50% and 70% of your dwelling coverage limit. That sounds generous until you actually inventory what two adults own: electronics, furniture, clothing, jewelry, tools, sporting equipment.
 
 If one spouse moves into the other's home, their belongings aren't automatically covered just because they're now physically present. Coverage follows the named insured on the policy. A spouse who isn't listed may have some protection under certain policy language, but "some protection" isn't a number you want to rely on after a fire. Contact your insurer, add your spouse as a named insured, and request a coverage review at the same time.

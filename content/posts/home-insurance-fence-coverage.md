@@ -40,7 +40,7 @@ So let's fix that.
 </div>
 
 ## What "Other Structures" Actually Means for Your Fence
-
+As of June 2026, 
 Standard homeowner policies (HO-3 is the most common form in the U.S.) cover fences under Coverage B, which is the "other structures" portion of your policy. The default limit for this coverage is 10% of your dwelling coverage amount. If your home is insured for $350,000, you've got $35,000 in other structures coverage on paper.
 
 Sounds fine, right? That $35,000 isn't just for your fence. It has to cover your detached garage, your shed, your pool enclosure, any retaining walls, your pergola, and anything else on your property that isn't the main house. If a tornado decides to remodel your backyard all at once, $35,000 can disappear fast.

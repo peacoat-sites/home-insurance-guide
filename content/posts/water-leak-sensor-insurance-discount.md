@@ -32,7 +32,7 @@ The claim was for a finished basement in suburban Ohio. Burst washing machine su
 So let's talk about what's actually going on with water leak sensors, insurance discounts, and whether the math makes sense for you.
 
 ## Why Insurers Care About Water Sensors More Than You'd Expect
-
+As of June 2026, 
 Water damage is the second most common homeowner claim in the United States, behind only wind and hail. The Insurance Information Institute consistently reports that water damage and freezing accounts for roughly 24% of all homeowner insurance losses paid out each year. That's not a rounding error. That's a massive slice of what insurers are paying, which is exactly why some of them will actually reward you for reducing that risk.
 
 The logic from an insurer's side is straightforward: earlier detection means smaller claims. A sensor that triggers an alert when water hits the floor around your water heater might catch a slow drip before it turns into a subfloor replacement. Smaller claims equal less money out the door. If they can shift some of that risk reduction onto you with a modest premium discount, everyone theoretically wins.

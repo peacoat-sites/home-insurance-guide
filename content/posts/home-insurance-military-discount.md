@@ -30,7 +30,7 @@ If you're active-duty, a veteran, or a military spouse renewing your homeowner's
 Here's what I tell people who come to me confused: the discount itself is rarely the most important part of the conversation.
 
 ## What Military Discounts on Home Insurance Actually Look Like
-
+As of June 2026, 
 There's no standard. That's where I have to start.
 
 Unlike auto insurance, where certain discounts follow fairly consistent patterns (good driver, multi-policy, that sort of thing), home insurance military discounts vary wildly. By state. By insurer. Sometimes even by which agent you reach on the phone.

@@ -32,7 +32,7 @@ You're not alone in being confused about this. Garage door claims were some of t
 Here's what I tell people who are sorting this out: start with the cause, not the object.
 
 ## What Your Policy Actually Covers (and Why the Cause Is Everything)
-
+As of June 2026, 
 Your homeowner's insurance covers your garage door as part of your home's structure, typically under what's called "Coverage A" or "dwelling coverage." The door, the tracks, the opener, the hardware, all of it is considered part of the physical structure of the house. So the coverage exists. The question is whether the *cause* of the damage is a covered peril.
 
 Standard homeowner's policies list covered perils, and most modern policies are "open peril" or "all-risk" on the dwelling, which sounds comprehensive but has significant exceptions. The perils that almost always cover garage door damage include fire, windstorm, hail, lightning, vandalism, and the weight of ice or snow. If a tornado took your door clean off the hinges, you're covered. If a hailstorm left the panels pockmarked, you're covered. If someone deliberately smashed it, vandalism coverage applies.

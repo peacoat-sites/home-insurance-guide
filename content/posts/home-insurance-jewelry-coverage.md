@@ -32,7 +32,7 @@ Here's why: standard homeowner policies include what's called "personal property
 What surprised me was how few policyholders ever see this language until they're sitting across from an adjuster like I used to be, claim form in hand, and I'm the one explaining it to them for the first time.
 
 ## What Your Base Policy Actually Covers
-
+As of June 2026, 
 Your standard HO-3 policy (the most common homeowner form in the U.S.) treats jewelry as personal property subject to a sublimit. The Insurance Services Office, which drafts the model policy language most carriers adapt, sets that theft sublimit at $1,500. Your carrier might be higher or lower. The point is: there's a cap, it applies per occurrence, and it almost certainly won't cover the full value of anything more than a modest piece.
 
 Beyond the sublimit, there's the question of which perils are covered. HO-3 policies cover personal property on a "named perils" basis, meaning only the specific causes listed in the policy trigger a payout. Fire, lightning, theft, vandalism, yes. But "I set it on the bathroom counter and now it's gone"? That's mysterious disappearance, and it's typically excluded entirely on a base policy.

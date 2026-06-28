@@ -31,7 +31,7 @@ After 14 years of adjusting claims, I've seen this scenario play out hundreds of
 Let me fix that.
 
 ## The Baseline Rule (That Surprises Almost Everyone)
-
+As of June 2026, 
 Most people assume that if your property damages your neighbor's, you automatically owe them. That feels logical. It's also mostly not how insurance works.
 
 Here's the standard position: each party's own insurance covers their own property. Your neighbor's tree falls on your fence? Your homeowner's policy pays for your fence repair (minus your deductible). Their policy isn't involved unless they were clearly negligent, which means they knew the tree was dead or diseased and did nothing about it.

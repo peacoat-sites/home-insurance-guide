@@ -29,7 +29,7 @@ Most homeowners think a security system automatically brings down their insuranc
 Here's what I saw repeatedly during my years reviewing claims: one homeowner paid $50 a month for a monitored alarm, notified their insurer, and got 2% off. Their neighbor, same insurer, same system, same neighborhood, got 15% off. The difference wasn't the equipment. It was how their systems were rated, certified, and reported.
 
 ## How Insurers Actually Evaluate Your Security Setup
-
+As of June 2026, 
 Insurance companies don't use a simple "alarm = discount" formula. They grade your setup, and those grades matter enormously.
 
 The industry standard most major insurers reference is Underwriters Laboratories (UL) certification. A UL-listed central station (the monitoring company receiving your alarm signal) undergoes rigorous annual audits covering backup power, response times, staffing, and redundancy. If your monitoring company lacks UL listing, you're leaving significant discount money on the table. Full stop.

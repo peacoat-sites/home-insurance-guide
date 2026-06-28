@@ -34,7 +34,7 @@ Let's walk through this properly.
 ---
 
 ## The Number That Actually Matters: Dwelling Coverage
-
+As of June 2026, 
 Your home's market value and its replacement cost are completely different numbers. Tens of thousands of dollars different, sometimes. Confusing them is the single most expensive mistake in home insurance.
 
 Market value includes land. The neighborhood's schools. Proximity to retail. None of that burns down. Replacement cost covers labor, materials, permits, debris removal, and everything required before the first nail gets driven. In cities where labor costs run high or after a major disaster hits, contractors get booked for months and lumber prices spike. Replacement cost easily outpaces market value.

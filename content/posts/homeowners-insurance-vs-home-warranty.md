@@ -30,7 +30,7 @@ Most people buy both without fully understanding either. That's not a knock on y
 Let me walk you through what these two products actually do, where they overlap (less than you think), and the specific gaps where most homeowners get blindsided.
 
 ## What Each One Is Actually Protecting
-
+As of June 2026, 
 Homeowners insurance was designed for sudden, catastrophic events. Your roof gets torn off by a windstorm. Someone slips on your steps and sues you. A kitchen fire guts your first floor. The whole premise is that something unexpected and severe happened, and the financial loss would be too large to absorb on your own. Insurers price the policy around probability and severity of loss, not around the age of your appliances or the wear on your HVAC system.
 
 A home warranty is a service contract, not insurance. The distinction matters legally, and it matters practically. You pay an annual fee (commonly somewhere in the $400-$700 range, though pricing varies widely) and in exchange, the warranty company agrees to repair or replace specific systems and appliances when they break down from normal use. The refrigerator compressor dies. The furnace stops heating. Those are home warranty scenarios, not insurance scenarios.

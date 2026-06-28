@@ -30,7 +30,7 @@ A neighbor of mine filed a roof claim after a hailstorm a few years back. She ha
 That's the deductible conversation most agents skip.
 
 ## What a Deductible Actually Is (And What It Isn't)
-
+As of June 2026, 
 Your deductible is simple in theory: it's the portion of a covered loss you pay before your insurance company pays anything. Kitchen floods from a burst pipe, repair bill $9,000, deductible $2,500? Your insurer pays $6,500.
 
 But most people get tripped up here. The deductible isn't just a way to lower your premium by accepting more risk. It's self-insurance. You're choosing to cover a larger slice of every claim yourself. That matters because most homeowners go years, sometimes decades, without filing anything. If you raise your deductible from $1,000 to $2,500 to save $120 a year, the math needs to be honest. It takes over twelve years of premium savings just to break even if you file one claim.

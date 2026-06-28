@@ -28,7 +28,7 @@ author_bio: "Carl Brooks is a meticulous researcher who has spent years comparin
 You wake up to a water stain spreading across your bedroom ceiling. Maybe you heard dripping in the night, or maybe you just spotted it on a Sunday morning with coffee in hand, stomach dropping as you realize what you're looking at. Your first thought is almost certainly: *does my homeowner's insurance cover this?* The honest answer is: it depends on what caused the leak, and that distinction matters more than most people realize until they're standing in the middle of a claim denial.
 
 ## What Home Insurance Actually Covers (and Why "Roof Leak" Isn't a Complete Answer)
-
+As of June 2026, 
 Here's the thing about homeowner's insurance that the brochures don't say plainly: policies don't cover *damage types*. They cover *causes*. This is called a "peril," and it's the single most important concept to understand when a roof leak is involved.
 
 Standard homeowner's policies (the HO-3 form is the most common in the U.S.) cover your home against sudden and accidental losses from named or open perils, depending on the form. A tree branch punching through your roof during a storm? Covered. Water that slowly seeped in for two years because a flashing seal deteriorated? Almost certainly not covered.

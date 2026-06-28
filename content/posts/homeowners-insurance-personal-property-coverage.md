@@ -32,7 +32,7 @@ I saw this play out in claims more times than I wanted to. And it was always a s
 Personal property coverage is one of the most misunderstood parts of a homeowners insurance policy. People assume it works like a shopping reimbursement. It doesn't. The difference between understanding how it actually functions and getting blindsided by a payout comes down to knowing where the limits live and what questions to ask before you file a claim.
 
 ## What Personal Property Coverage Actually Is
-
+As of June 2026, 
 Personal property coverage is Coverage C in a standard homeowners policy. It protects the stuff inside your home: furniture, clothing, electronics, appliances, jewelry, tools, and everything else you've accumulated over years. If those items are damaged or destroyed by a covered peril, your insurer pays to repair or replace them.
 
 The keyword there is "covered peril." Most standard policies are named-peril policies for personal property, which means they only cover losses caused by specific events listed in the contract. Fire, theft, windstorm, vandalism, and burst pipes are typically on the list. Flooding, earthquakes, and general wear and tear are not. If a flood destroys your belongings, your homeowners policy won't help. You'd need separate flood insurance, which our guide to [home insurance flood coverage](/home-insurance-flood-coverage/) covers in detail.

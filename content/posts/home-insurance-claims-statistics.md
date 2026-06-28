@@ -30,7 +30,7 @@ Every year, millions of American homeowners file a claim expecting the process t
 So let's talk about what the numbers actually say, what they mean for your wallet, and where most people leave money on the table or get blindsided.
 
 ## What the Numbers Look Like at Scale
-
+As of June 2026, 
 Roughly one in twenty insured homes has a claim in any given year. That's the figure the Insurance Information Institute (III) has tracked consistently, and it sounds reassuring until you do the math: with around 90 million insured homes in the U.S., that's somewhere in the neighborhood of 4 to 5 million claims annually. A lot of broken pipes. A lot of hail-dented roofs. A lot of people sitting in a damaged kitchen trying to remember their policy number.
 
 Wind and hail damage is the single largest category, accounting for roughly 40% of all homeowner claims. Water damage from interior sources, things like burst pipes or a failed water heater, runs a close second. What most people don't realize is that flooding is almost never covered under a standard homeowner policy. It's a completely separate product, typically through the National Flood Insurance Program. I've watched homeowners argue this point at the counter. They lose every time.

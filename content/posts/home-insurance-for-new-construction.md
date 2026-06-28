@@ -41,7 +41,7 @@ New builds come with a specific set of risks that standard homeowner policies ha
 </div>
 
 ## Why New Construction Insurance Is Not the Same as Standard Homeowner Coverage
-
+As of June 2026, 
 Compare a 1985 ranch to a brand-new custom build, and they're not in the same risk category at all.
 
 Older homes have known failure points. New construction homes have unknown ones. Every trade that touched your house, from the framers to the HVAC subcontractor to the tile guys, left behind work that hasn't been stress-tested yet. Some of it will fail. Insurance companies know this, and they've written their exclusions accordingly.

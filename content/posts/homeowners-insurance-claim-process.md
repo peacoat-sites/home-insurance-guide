@@ -30,7 +30,7 @@ Most homeowners never read their policy until the moment they need it. A pipe bu
 ---
 
 ## What Happens Right After a Loss: The First 48 Hours Matter
-
+As of June 2026, 
 The clock starts the moment something goes wrong. Most policies require you to report a claim "promptly" or within a "reasonable time," and while that language sounds flexible, it isn't. Delayed reporting is one of the most common reasons insurers reduce or deny claims. Some policies have specific windows, particularly for certain perils. Don't assume you have weeks.
 
 Your first call isn't to your insurer. It's to stop any ongoing damage. Policies include a "duties after loss" clause that requires you to take reasonable steps to prevent further damage. If a window breaks in a storm, board it up or cover it with plastic before water gets in. If a pipe bursts, shut off the water. Failing to do this can give the insurer grounds to deny the portion of damage that occurred after the initial event. Keep every receipt from emergency mitigation work, that cost is typically reimbursable.
