@@ -17,16 +17,16 @@
       <div class="benchmark-card">
         <h4>Most Expensive State</h4>
         <p class="benchmark-value">Florida</p>
-        <p class="benchmark-detail">${{ lang.NumFmt 0 (index $data.state_rankings 0).annual_premium }}/year</p>
+        <p class="benchmark-detail">${{ (index $data.state_rankings 0).annual_premium }}/year</p>
       </div>
       <div class="benchmark-card">
         <h4>Least Expensive State</h4>
         <p class="benchmark-value">Hawaii</p>
-        <p class="benchmark-detail">${{ lang.NumFmt 0 (index $data.cheapest_states 0).annual_premium }}/year</p>
+        <p class="benchmark-detail">${{ (index $data.cheapest_states 0).annual_premium }}/year</p>
       </div>
       <div class="benchmark-card">
         <h4>Price Range</h4>
-        <p class="benchmark-value">${{ $data.national_benchmarks.range_min | sub $data.national_benchmarks.range_max | abs }}</p>
+        <p class="benchmark-value">${{ $data.national_benchmarks.range_min | sub $data.national_benchmarks.range_max }}</p>
         <p class="benchmark-detail">Difference between highest & lowest</p>
       </div>
     </div>
@@ -52,7 +52,7 @@
         <tr>
           <td>{{ .rank }}</td>
           <td><strong>{{ .state }}</strong></td>
-          <td>${{ lang.NumFmt 0 .annual_premium }}</td>
+          <td>${{ .annual_premium }}</td>
           <td>${{ .monthly }}</td>
           <td><span class="negative">+{{ .percent_above_national }}%</span></td>
           <td>{{ delimit .primary_drivers ", " }}</td>
@@ -83,7 +83,7 @@
           <td>{{ .rank }}</td>
           <td><strong>{{ .state }}</strong></td>
           <td>${{ .annual_premium }}</td>
-          <td>${{ div .annual_premium 12 | round 0 }}</td>
+          <td>${{ .monthly }}</td>
           <td><span class="positive">{{ .percent_below_national }}%</span></td>
           <td>{{ .reason }}</td>
         </tr>
@@ -104,7 +104,7 @@
         {{- if gt $details.annual_increase_vs_good 0 }}
         <p class="factor-detail">{{ $details.annual_increase_vs_good }} more than good credit</p>
         {{- else if lt $details.annual_increase_vs_good 0 }}
-        <p class="factor-detail">{{ abs $details.annual_increase_vs_good }} less than good credit</p>
+        <p class="factor-detail">{{ math.Abs $details.annual_increase_vs_good }} less than good credit</p>
         {{- else }}
         <p class="factor-detail">Baseline rate</p>
         {{- end }}
@@ -173,14 +173,14 @@
     <div class="quote-scenario">
       <h4>{{ .name }}</h4>
       <div class="scenario-details">
-        <p><strong>Home Value:</strong> ${{ lang.NumFmt 0 .home_value }} | <strong>Location:</strong> {{ .location }} | <strong>Age:</strong> {{ .home_age }} years | <strong>Roof Age:</strong> {{ .roof_age }} years</p>
+        <p><strong>Home Value:</strong> ${{ .home_value }} | <strong>Location:</strong> {{ .location }} | <strong>Age:</strong> {{ .home_age }} years | <strong>Roof Age:</strong> {{ .roof_age }} years</p>
         <p><strong>Credit Score:</strong> {{ .credit_score }} | <strong>Claims History:</strong> {{ .claims_history }}</p>
       </div>
       <div class="quotes-list">
         {{- range .quotes }}
         <div class="quote-item">
           <span class="carrier"><strong>{{ .carrier }}</strong></span>
-          <span class="premium">${{ .annual_premium }}/year (${{{ div .annual_premium 12 | round 0 }}/mo)</span>
+          <span class="premium">${{ .annual_premium }}/year (${{ .monthly }}/mo)</span>
           {{- if .availability }}
           <span class="availability">{{ .availability }}</span>
           {{- end }}
