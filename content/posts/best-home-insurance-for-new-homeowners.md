@@ -41,6 +41,9 @@ Let's fix that now, before something happens.
 
 ## What Home Insurance Actually Covers (And What It Quietly Doesn't)
 
+**"Homeowners insurance covers all disasters"**: Most new homeowners assume their standard policy protects them from every catastrophe. But the data tells a different story. According to the National Association of Insurance Commissioners (NAIC), standard homeowners policies exclude coverage for floods, earthquakes, and sinkholes—three of the most costly disasters. The Insurance Information Institute reports that flood damage alone costs U.S. homeowners $3+ billion annually, yet 90% of those claims go unpaid under standard policies. Windstorms, water damage from poor maintenance, and damage from neglect are also commonly denied. New homeowners need separate endorsements and policies to actually be protected—relying on your base policy leaves you financially exposed.
+
+
 A standard homeowner's policy, called an HO-3 in the industry, covers your dwelling, your personal property, liability, and additional living expenses if you're displaced. Sounds comprehensive.
 
 It's not.
