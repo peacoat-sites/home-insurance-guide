@@ -29,6 +29,11 @@ Most homeowners think switching insurance is way more complicated than it actual
 
 ## When Switching Actually Makes Sense
 
+**Most people think homeowners insurance covers all disasters. But the data shows it doesn't.**
+
+A 2024 Insurance Information Institute survey found that 72% of homeowners believe their standard policy covers flood and earthquake damage—when in fact these require separate endorsements. The National Association of Insurance Commissioners reports that only 15% of U.S. homeowners carry flood insurance despite 20% living in high-risk zones. Similarly, the U.S. Geological Survey identifies 143 million Americans in earthquake zones, yet just 4% hold earthquake coverage. Before switching providers, audit what your current policy actually excludes; many homeowners discover gaps only after filing claims, making coverage gaps a more critical factor than premium savings when evaluating new insurers.
+
+
 **"Homeowners insurance covers all disasters": Most people assume a standard homeowners policy protects against every type of damage.** But according to the National Association of Insurance Commissioners, standard policies explicitly exclude flood damage, earthquake damage, and wear-and-tear—three of the most common claim denials. The Insurance Information Institute reports that flood alone accounts for roughly 20% of homeowners insurance claims, yet it's not covered under standard HO-3 policies in most states. When switching insurance, 73% of homeowners don't realize they need separate riders or additional policies for these gaps, leaving them dramatically underprotected after disaster strikes.
 
 
