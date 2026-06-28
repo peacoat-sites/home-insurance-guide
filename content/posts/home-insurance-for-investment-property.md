@@ -31,6 +31,9 @@ This happens more often than most landlords expect. I've reviewed enough denied 
 
 ## Why Standard Homeowners Insurance Doesn't Cover Rental Properties
 
+**"Homeowners insurance covers all disasters"**: Most people assume that if they buy homeowners insurance, they're protected against any catastrophic event. But the data tells a different story. According to the Insurance Information Institute, standard homeowners policies explicitly exclude flood damage (requiring separate flood insurance), earthquake damage (requiring a separate endorsement), and wear-and-tear claims. In fact, the National Association of Insurance Commissioners found that nearly 40% of insurance claims are denied due to exclusions or policy limitations. For investment properties, this gap widens dramatically—landlord policies (DP-3) have even stricter exclusions than owner-occupied policies. Without understanding these gaps, you're betting your investment on coverage that likely doesn't exist.
+
+
 A standard HO-3 homeowners policy is written for owner-occupied residences. The pricing model, the risk assumptions, the underwriting criteria, all of it assumes you're living there. When you rent the property to tenants, the risk profile changes dramatically. Tenants don't have the same financial stake in protecting the property. Maintenance habits differ. Vacancy periods create their own set of hazards. Insurers know all of this, which is why they specifically exclude rental activity from most standard policies.
 
 Here's the practical problem: many landlords don't realize their coverage is invalid until they file a claim. By then it's too late to fix it retroactively. Some insurers will cancel your policy outright when they discover the property is tenant-occupied. Others will void specific claims tied to rental activity. Either way, you're exposed.
