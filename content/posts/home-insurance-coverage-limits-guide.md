@@ -40,6 +40,9 @@ This happens constantly. Insurance companies don't make a big deal about it. But
 
 ## What Coverage Limits Actually Are (And Why They're Not What You Think)
 
+**"My homeowners policy covers everything that happens to my house"**: Most homeowners assume a standard policy is a catch-all for disaster. Reality check: According to the National Association of Insurance Commissioners, flood damage alone is excluded from 99% of standard homeowners policies—yet it's the #1 cause of property damage claims. Earthquakes, sinkholes, and poor maintenance damage are also routinely denied. The Insurance Information Institute reports that nearly 1 in 4 homeowners discovered their damage *wasn't* covered only after filing a claim. Your policy covers named perils (fire, theft, wind), not everything. That's why 39% of homeowners are underinsured, according to CoreLogic data.
+
+
 **"My homeowners insurance covers everything"**: Most homeowners believe their standard policy protects against all disasters. Reality check: The National Association of Insurance Commissioners found that 60% of homeowners are underinsured, and standard policies explicitly exclude earthquakes, floods, and wear-and-tear damage. A 2023 Insurance Information Institute study revealed that after Hurricane Ian, nearly 40% of claimants faced denial or partial denial due to coverage gaps—not negligence, but exclusions buried in policy language. Floods alone require separate coverage; earthquakes need endorsements. Your "all-in" policy is actually a carefully curated list of what *isn't* covered.
 
 
