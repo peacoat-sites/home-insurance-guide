@@ -29,6 +29,9 @@ Your basement fills with two feet of water after a heavy rainstorm. You call you
 
 ## Why Standard Homeowners Insurance Doesn't Cover Floods
 
+**"My homeowners policy covers flood damage"**: Most homeowners assume their standard insurance policy protects against all water-related disasters. In reality, 90% of homeowners insurance policies explicitly exclude flood coverage. According to the National Flood Insurance Program (NFIP), only 1 in 25 homeowners carry separate flood insurance—despite the fact that floods are the most common and costly natural disaster in the U.S., causing an average of $3 billion in annual damages. This coverage gap exists because standard policies are designed for sudden, accidental events, not gradual water accumulation from rising water tables or heavy precipitation. If you live in a flood zone (even moderate risk areas), your standard homeowners policy leaves you financially exposed.
+
+
 **"My homeowners insurance covers all water damage"**: Most homeowners assume standard homeowners policies protect against flooding. In reality, the National Association of Insurance Commissioners reports that 90% of homeowners insurance policies explicitly exclude flood damage. The Insurance Information Institute found that only 4% of uninsured flood losses are covered by standard homeowners policies. Even more telling: after Hurricane Katrina, insurers paid out $16 billion in claims, but flood damage accounted for roughly $35 billion in losses—the gap highlights how frequently flood damage falls outside standard coverage. This isn't a loophole; it's by design. Floods are categorized as separate, uninsurable risks under standard homeowners policies, requiring a dedicated flood insurance policy through the National Flood Insurance Program (NFIP) or private insurers.
 
 
