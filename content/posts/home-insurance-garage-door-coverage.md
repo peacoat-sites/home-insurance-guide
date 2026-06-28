@@ -105,6 +105,15 @@ The most important thing to take away from all of this is that coverage is real,
 
 ## Recommended Resources
 
+## Sources
+
+- [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
+- [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20)
+- [IBHS home fortification guides](https://ibhs.org/)
+- [NAIC](https://www.naic.org/)
+- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.

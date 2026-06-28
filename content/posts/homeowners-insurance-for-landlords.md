@@ -103,6 +103,15 @@ Renting out a property isn't a passive income situation. It's a business with re
 
 ## Recommended Resources
 
+## Sources
+
+- [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
+- [your state's insurance department](https://www.naic.org/state_web_map.htm)
+- [IBHS home fortification guides](https://ibhs.org/)
+- [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20)
+- [AmazonBasics fireproof safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.

@@ -105,6 +105,15 @@ Because there's a real market for it. Older homes represent a large share of exi
 
 ## Recommended Resources
 
+## Sources
+
+- [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
+- [Insurance Institute for Business and Home Safety (IBHS)](https://ibhs.org/)
+- [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/)
+- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=homed09-20)
+- [IBHS has specific guidance on electrical upgrades and fire risk reduction for older homes](https://ibhs.org/)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.

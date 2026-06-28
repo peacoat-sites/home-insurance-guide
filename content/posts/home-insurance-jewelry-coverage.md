@@ -114,4 +114,13 @@ Scheduled coverage is an endorsement added to your homeowner policy. You manage 
 
 ### What counts as "mysterious disappearance" in jewelry claims?
 
+## Sources
+
+- [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
+- [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)
+- [your state's insurance department](https://www.naic.org/state_web_map.htm)
+- [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
+- [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
+
+
 Mysterious disappearance means the piece went missing with no known cause: a ring slipped off at the beach, an earring fell down a drain, a necklace clasp broke and the chain vanished. Your base policy doesn't cover this unless you've added scheduled coverage or a mysterious disappearance endorsement.

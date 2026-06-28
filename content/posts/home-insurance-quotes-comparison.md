@@ -120,6 +120,15 @@ The real point of comparing quotes isn't winning a negotiation with an insurance
 
 ## Recommended Resources
 
+## Sources
+
+- [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
+- [document safe](https://www.amazon.com/s?k=document+safe+fireproof)
+- [(III)](https://www.iii.org/)
+- [(naic.org)](https://www.naic.org/)
+- [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

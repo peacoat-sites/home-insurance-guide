@@ -103,6 +103,15 @@ The most direct fix, and sometimes the most economical one when you factor in ev
 
 ## Recommended Resources
 
+## Sources
+
+- [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)
+- [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
+- [home fortification guides](https://ibhs.org/)
+- [NAIC's state map](https://www.naic.org/state_web_map.htm)
+- [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.

@@ -93,6 +93,15 @@ Keeping a home inventory is also something most homeowners skip until it's too l
 
 ## Recommended Resources
 
+## Sources
+
+- [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
+- [Insurance Information Institute](https://www.iii.org/)
+- [NAIC's state map](https://www.naic.org/state_web_map.htm)
+- [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
+- [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.

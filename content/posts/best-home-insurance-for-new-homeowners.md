@@ -166,4 +166,13 @@ An HO-3 covers your dwelling on open perils (almost everything) but your belongi
 
 ### Should I Bundle Home and Auto Insurance?
 
+## Sources
+
+- [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
+- [NAIC's state directory](https://www.naic.org/state_web_map.htm)
+- [IBHS home fortification guides](https://ibhs.org/)
+- [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
+- [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)
+
+
 Usually yes, unless a specialty insurer offers significantly better coverage or claims service for home specifically. Bundling typically saves 10% to 25%, and that discount compounds. Just make sure you're not sacrificing coverage quality for a cheaper rate.

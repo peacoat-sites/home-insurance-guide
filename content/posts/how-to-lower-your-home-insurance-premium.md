@@ -123,6 +123,15 @@ The core of all this is that your insurer knows a lot more about what affects yo
 
 ## Recommended Resources
 
+## Sources
+
+- [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
+- [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20)
+- [A good multi-pack of rated fire extinguishers](https://www.amazon.com/s?k=home+fire+extinguisher&tag=contentportfo-20)
+- [Several well-reviewed home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
+- [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

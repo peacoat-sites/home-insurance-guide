@@ -84,6 +84,15 @@ One practical step that actually reduces your risk: get your lateral sewer line 
 
 ## Recommended Resources
 
+## Sources
+
+- [Insurance Information Institute](https://www.iii.org/)
+- [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)
+- [NAIC's state map](https://www.naic.org/state_web_map.htm)
+- [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
+- [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

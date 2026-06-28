@@ -123,6 +123,15 @@ The claims process rewards preparation more than most people expect. Adjusters s
 
 ## Recommended Resources
 
+## Sources
+
+- [apps like Encircle or Sortly](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
+- [NAIC's state resource map](https://www.naic.org/state_web_map.htm)
+- [IBHS home fortification guides](https://ibhs.org/)
+- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
+- [good water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

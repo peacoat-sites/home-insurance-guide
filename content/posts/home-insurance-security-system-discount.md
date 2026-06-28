@@ -134,6 +134,15 @@ Here's the actual takeaway: a security system discount can be meaningful, but on
 
 ## Recommended Resources
 
+## Sources
+
+- [fire extinguisher](https://www.amazon.com/s?k=home+fire+extinguisher&tag=contentportfo-20)
+- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
+- [Insurance Institute for Business & Home Safety (IBHS)](https://ibhs.org/)
+- [state's department of insurance](https://www.naic.org/state_web_map.htm)
+- [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

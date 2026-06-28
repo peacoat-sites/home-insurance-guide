@@ -94,6 +94,15 @@ Read this part carefully. Ask specifically: "Are there any percentage-based dedu
 
 ## Recommended Resources
 
+## Sources
+
+- [and this site may earn a commission from qualifying purchases](https://www.amazon.com/s?k=fireproof+document+safe)
+- [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
+- [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
+- [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no replacement needed for a decade.

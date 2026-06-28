@@ -143,6 +143,15 @@ Your home insurance policy is a contract. Every word either protects you or it d
 
 ## Recommended Resources
 
+## Sources
+
+- [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)
+- [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
+- [Water leak detectors](https://www.amazon.com/s?k=water+leak+detector&tag=contentportfo-20)
+- [Insurance Institute for Business and Home Safety (IBHS)](https://ibhs.org/)
+- [Your state's insurance department](https://www.naic.org/state_web_map.htm)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

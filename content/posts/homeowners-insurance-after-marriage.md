@@ -98,6 +98,15 @@ While you're at it: [water leak sensors](https://www.amazon.com/s?k=water+leak+s
 
 ## Recommended Resources
 
+## Sources
+
+- [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)
+- [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
+- [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20)
+- [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
+- [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

@@ -97,6 +97,15 @@ If you're in a coastal state and you haven't actually read your policy declarati
 
 ## Recommended Resources
 
+## Sources
+
+- [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)
+- [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)
+- [state insurance department](https://www.naic.org/state_web_map.htm)
+- [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
+- [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
