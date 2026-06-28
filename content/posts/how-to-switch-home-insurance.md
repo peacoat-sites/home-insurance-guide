@@ -29,6 +29,9 @@ Most homeowners think switching insurance is way more complicated than it actual
 
 ## When Switching Actually Makes Sense
 
+**"Homeowners insurance covers all disasters": Most people assume a standard homeowners policy protects against every type of damage.** But according to the National Association of Insurance Commissioners, standard policies explicitly exclude flood damage, earthquake damage, and wear-and-tear—three of the most common claim denials. The Insurance Information Institute reports that flood alone accounts for roughly 20% of homeowners insurance claims, yet it's not covered under standard HO-3 policies in most states. When switching insurance, 73% of homeowners don't realize they need separate riders or additional policies for these gaps, leaving them dramatically underprotected after disaster strikes.
+
+
 Not every reason to switch is a good reason. But there are clear signals that staying put is costing you money or leaving you exposed.
 
 The most obvious trigger is price. If your premium jumped significantly at renewal and your home hasn't changed, that's worth investigating. Insurers sometimes re-tier risk profiles on renewal, raise rates in a region, or quietly reduce discounts that were applied when you first signed up. A quote from a competitor takes 15 minutes and immediately tells you whether you're overpaying.
