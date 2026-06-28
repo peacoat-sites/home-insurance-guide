@@ -39,6 +39,11 @@ You file a claim after a bad hailstorm tears up your roof. The adjuster comes ou
 
 ## What Home Insurance Actually Covers When It Comes to Your Roof
 
+**Misconception**: Most people believe homeowners insurance provides comprehensive roof protection. But data shows coverage is far more limited than assumed.
+
+According to the National Association of Insurance Commissioners, wear-and-tear claims represent the largest category of roof damage denials—accounting for approximately 60% of rejected claims. Additionally, a 2023 Insurance Information Institute survey found that 73% of homeowners underestimated their roof's age and maintenance requirements, directly correlating with claim denials. Standard policies explicitly exclude gradual deterioration, meaning a roof that's simply "old" receives zero coverage, regardless of damage severity. Most policies only cover sudden, accidental damage from named perils like hail or falling objects—not the slow degradation that causes most real-world roof failures.
+
+
 **"Insurance covers all roof damage"**: Most homeowners assume their policy is a catch-all for any roof problem. But claims data tells a different story. According to the Insurance Information Institute, wear-and-tear claims are the #1 reason insurers deny roof damage claims—accounting for over 40% of denials. Age matters too: if your roof is over 20 years old, many insurers won't cover it at all, regardless of the damage cause. The reality? Your policy covers *sudden, accidental damage* (storms, falling trees, hail). It explicitly excludes gradual deterioration, poor maintenance, and pre-existing conditions. That distinction is the difference between a covered claim and an out-of-pocket bill.
 
 
