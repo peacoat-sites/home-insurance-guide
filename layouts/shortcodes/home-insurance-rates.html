@@ -17,12 +17,12 @@
       <div class="benchmark-card">
         <h4>Most Expensive State</h4>
         <p class="benchmark-value">Florida</p>
-        <p class="benchmark-detail">${{ $data.state_rankings | first | .annual_premium }}/year</p>
+        <p class="benchmark-detail">${{ lang.NumFmt 0 (index $data.state_rankings 0).annual_premium }}/year</p>
       </div>
       <div class="benchmark-card">
         <h4>Least Expensive State</h4>
         <p class="benchmark-value">Hawaii</p>
-        <p class="benchmark-detail">${{ index $data.cheapest_states 0 | .annual_premium }}/year</p>
+        <p class="benchmark-detail">${{ lang.NumFmt 0 (index $data.cheapest_states 0).annual_premium }}/year</p>
       </div>
       <div class="benchmark-card">
         <h4>Price Range</h4>
@@ -52,7 +52,7 @@
         <tr>
           <td>{{ .rank }}</td>
           <td><strong>{{ .state }}</strong></td>
-          <td>${{ .annual_premium | commafy }}</td>
+          <td>${{ lang.NumFmt 0 .annual_premium }}</td>
           <td>${{ .monthly }}</td>
           <td><span class="negative">+{{ .percent_above_national }}%</span></td>
           <td>{{ delimit .primary_drivers ", " }}</td>
@@ -173,7 +173,7 @@
     <div class="quote-scenario">
       <h4>{{ .name }}</h4>
       <div class="scenario-details">
-        <p><strong>Home Value:</strong> ${{ .home_value | commafy }} | <strong>Location:</strong> {{ .location }} | <strong>Age:</strong> {{ .home_age }} years | <strong>Roof Age:</strong> {{ .roof_age }} years</p>
+        <p><strong>Home Value:</strong> ${{ lang.NumFmt 0 .home_value }} | <strong>Location:</strong> {{ .location }} | <strong>Age:</strong> {{ .home_age }} years | <strong>Roof Age:</strong> {{ .roof_age }} years</p>
         <p><strong>Credit Score:</strong> {{ .credit_score }} | <strong>Claims History:</strong> {{ .claims_history }}</p>
       </div>
       <div class="quotes-list">
