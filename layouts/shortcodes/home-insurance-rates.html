@@ -1,0 +1,675 @@
+{{- $data := site.Data.home_insurance_rates -}}
+
+<div class="insurance-rates-moat">
+  <div class="rates-disclaimer">
+    <p><strong>⚠️ Disclaimer:</strong> {{ $data.disclaimer }}</p>
+  </div>
+
+  <!-- National Benchmarks -->
+  <div class="benchmarks-section">
+    <h3>National Homeowners Insurance Benchmarks (2026)</h3>
+    <div class="benchmark-grid">
+      <div class="benchmark-card">
+        <h4>Average Annual Premium</h4>
+        <p class="benchmark-value">${{ $data.national_benchmarks.average_annual }}</p>
+        <p class="benchmark-detail">HO-3, $400k dwelling, $1k deductible</p>
+      </div>
+      <div class="benchmark-card">
+        <h4>Most Expensive State</h4>
+        <p class="benchmark-value">Florida</p>
+        <p class="benchmark-detail">${{ $data.state_rankings | first | .annual_premium }}/year</p>
+      </div>
+      <div class="benchmark-card">
+        <h4>Least Expensive State</h4>
+        <p class="benchmark-value">Hawaii</p>
+        <p class="benchmark-detail">${{ index $data.cheapest_states 0 | .annual_premium }}/year</p>
+      </div>
+      <div class="benchmark-card">
+        <h4>Price Range</h4>
+        <p class="benchmark-value">${{ $data.national_benchmarks.range_min | sub $data.national_benchmarks.range_max | abs }}</p>
+        <p class="benchmark-detail">Difference between highest & lowest</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Most Expensive States -->
+  <div class="rankings-section">
+    <h3>Top 10 Most Expensive States</h3>
+    <table class="rates-table">
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>State</th>
+          <th>Annual Premium</th>
+          <th>Monthly</th>
+          <th>vs. National</th>
+          <th>Primary Drivers</th>
+          <th>Trend</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range $data.state_rankings }}
+        <tr>
+          <td>{{ .rank }}</td>
+          <td><strong>{{ .state }}</strong></td>
+          <td>${{ .annual_premium | commafy }}</td>
+          <td>${{ .monthly }}</td>
+          <td><span class="negative">+{{ .percent_above_national }}%</span></td>
+          <td>{{ delimit .primary_drivers ", " }}</td>
+          <td class="trend">{{ .trend_2025_2026 }}</td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Cheapest States -->
+  <div class="rankings-section">
+    <h3>Top 10 Cheapest States</h3>
+    <table class="rates-table">
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>State</th>
+          <th>Annual Premium</th>
+          <th>Monthly</th>
+          <th>vs. National</th>
+          <th>Why Affordable</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range $data.cheapest_states }}
+        <tr>
+          <td>{{ .rank }}</td>
+          <td><strong>{{ .state }}</strong></td>
+          <td>${{ .annual_premium }}</td>
+          <td>${{ div .annual_premium 12 | round 0 }}</td>
+          <td><span class="positive">{{ .percent_below_national }}%</span></td>
+          <td>{{ .reason }}</td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Rate Factors: Credit Score Impact -->
+  <div class="factors-section">
+    <h3>How Credit Score Impacts Your Rate</h3>
+    <div class="factor-cards">
+      {{- $creditScores := (dict "poor" $data.rate_factors.credit_score.poor "fair" $data.rate_factors.credit_score.fair "good" $data.rate_factors.credit_score.good "very_good" $data.rate_factors.credit_score.very_good "excellent" $data.rate_factors.credit_score.excellent) }}
+      {{- range $score, $details := $creditScores }}
+      <div class="factor-card">
+        <h4>{{ $score | title }} Credit ({{ $details.score_range }})</h4>
+        <p class="factor-value">${{ $details.example_quote }}/year</p>
+        {{- if gt $details.annual_increase_vs_good 0 }}
+        <p class="factor-detail">{{ $details.annual_increase_vs_good }} more than good credit</p>
+        {{- else if lt $details.annual_increase_vs_good 0 }}
+        <p class="factor-detail">{{ abs $details.annual_increase_vs_good }} less than good credit</p>
+        {{- else }}
+        <p class="factor-detail">Baseline rate</p>
+        {{- end }}
+      </div>
+      {{- end }}
+    </div>
+  </div>
+
+  <!-- Roof Age Impact -->
+  <div class="factors-section">
+    <h3>Roof Age: The #1 Rate Factor in 2026</h3>
+    <p>Roof claims hit $32 billion in 2024. Insurers now prioritize roof age above almost everything else.</p>
+    <div class="roof-impact">
+      <div class="roof-tier">
+        <h4>New to 15 Years</h4>
+        <p class="roof-cost">~$2,200/year</p>
+        <p>No inspection required. Full replacement cost coverage available.</p>
+      </div>
+      <div class="roof-tier">
+        <h4>15-20 Years</h4>
+        <p class="roof-cost">~$2,800/year</p>
+        <p><strong>Inspection required.</strong> Coverage may shift to ACV (actual cash value).</p>
+      </div>
+      <div class="roof-tier">
+        <h4>20-25 Years</h4>
+        <p class="roof-cost">~$3,800/year</p>
+        <p><strong>Limited coverage.</strong> Many carriers restrict to ACV reimbursement only.</p>
+      </div>
+      <div class="roof-tier">
+        <h4>25+ Years</h4>
+        <p class="roof-cost">~$4,500/year</p>
+        <p><strong>High risk.</strong> Coverage denial unless exceptional condition. May be non-renewable.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Available Discounts -->
+  <div class="discounts-section">
+    <h3>Major Discounts & Savings Opportunities</h3>
+    <table class="discounts-table">
+      <thead>
+        <tr>
+          <th>Discount Type</th>
+          <th>Average Savings</th>
+          <th>Annual Dollar Savings</th>
+          <th>Typical Availability</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range $data.discounts_available }}
+        <tr>
+          <td><strong>{{ .discount }}</strong></td>
+          <td>{{ .average_savings_percent }}%</td>
+          <td>${{ .average_savings_dollars }}</td>
+          <td>{{ .popularity }}</td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Sample Quotes by Scenario -->
+  <div class="quotes-section">
+    <h3>Sample Quotes: Real-World Scenarios (2026)</h3>
+    {{- range $data.sample_quotes }}
+    <div class="quote-scenario">
+      <h4>{{ .name }}</h4>
+      <div class="scenario-details">
+        <p><strong>Home Value:</strong> ${{ .home_value | commafy }} | <strong>Location:</strong> {{ .location }} | <strong>Age:</strong> {{ .home_age }} years | <strong>Roof Age:</strong> {{ .roof_age }} years</p>
+        <p><strong>Credit Score:</strong> {{ .credit_score }} | <strong>Claims History:</strong> {{ .claims_history }}</p>
+      </div>
+      <div class="quotes-list">
+        {{- range .quotes }}
+        <div class="quote-item">
+          <span class="carrier"><strong>{{ .carrier }}</strong></span>
+          <span class="premium">${{ .annual_premium }}/year (${{{ div .annual_premium 12 | round 0 }}/mo)</span>
+          {{- if .availability }}
+          <span class="availability">{{ .availability }}</span>
+          {{- end }}
+        </div>
+        {{- end }}
+      </div>
+      <p class="typical-range"><strong>Typical Range:</strong> {{ .typical_range }}</p>
+      {{- if .best_bundle_savings }}
+      <p class="bundle-note">💰 {{ .best_bundle_savings }}</p>
+      {{- end }}
+      {{- if .note }}
+      <p class="scenario-note"><em>{{ .note }}</em></p>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+
+  <!-- Additional Coverage -->
+  <div class="coverage-section">
+    <h3>Additional Coverage Options (Beyond Standard HO-3)</h3>
+
+    <div class="coverage-card">
+      <h4>Flood Insurance</h4>
+      <p><strong>✓ Separate policy required</strong> (NOT included in homeowners insurance)</p>
+      <p><strong>High-risk zones (FEMA AE/VE):</strong> $1,000–$3,000/year</p>
+      <p><strong>Moderate-risk zones:</strong> $400–$800/year</p>
+      <p>Provided by: National Flood Insurance Program (NFIP)</p>
+    </div>
+
+    <div class="coverage-card">
+      <h4>Earthquake Insurance</h4>
+      <p><strong>✓ Separate policy required</strong> (NOT included in homeowners insurance)</p>
+      <p><strong>Deductible:</strong> 10–20% of dwelling replacement cost (not dollar amount)</p>
+      <p><strong>California:</strong> $700–$2,000/year | <strong>Other Western states:</strong> $800–$1,500/year</p>
+    </div>
+
+    <div class="coverage-card">
+      <h4>Umbrella Liability Policy</h4>
+      <p><strong>Coverage:</strong> $1M–$2M protection beyond homeowners limits</p>
+      <p><strong>Typical cost:</strong> $380/year for $1M | ~$75 per additional $1M</p>
+      <p><strong>Requirements:</strong> Minimum $300k homeowners liability + standard auto limits</p>
+    </div>
+  </div>
+
+  <!-- 2026 Trends -->
+  <div class="trends-section">
+    <h3>2025→2026 Rate Trends & Forecasts</h3>
+    <div class="trend-cards">
+      <div class="trend-card">
+        <h4>National Average Increase</h4>
+        <p class="trend-value">+4%</p>
+        <p>Down from +12% in 2025. First major deceleration in 5 years.</p>
+      </div>
+      <div class="trend-card">
+        <h4>Consumer Relief</h4>
+        <p class="trend-value">32% Saw No Increase</p>
+        <p>Up from 20% in 2025. Market finally stabilizing.</p>
+      </div>
+      <div class="trend-card">
+        <h4>High-Risk States</h4>
+        <p class="trend-value">+15–30% Still Rising</p>
+        <p>FL/LA/OK structural issues persist. No relief yet.</p>
+      </div>
+      <div class="trend-card">
+        <h4>Emerging Peril</h4>
+        <p class="trend-value">Severe Convective Storms</p>
+        <p>Midwest hail/tornadoes now #1 claim driver (surpassed hurricanes).</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sources -->
+  <div class="rates-sources">
+    <h4>Authoritative Sources</h4>
+    <ul>
+      <li><a href="{{ $data.source_links.naic_homeowners }}" target="_blank">NAIC Homeowners Insurance Topic</a></li>
+      <li><a href="{{ $data.source_links.iii_facts_statistics }}" target="_blank">Insurance Information Institute (III) Facts & Statistics</a></li>
+      <li><a href="{{ $data.source_links.nerdwallet_rates }}" target="_blank">NerdWallet Average Homeowners Insurance Costs</a></li>
+      <li><a href="{{ $data.source_links.bankrate_by_state }}" target="_blank">Bankrate Homeowners Insurance by State</a></li>
+      <li><a href="{{ $data.source_links.moneygeek_rankings }}" target="_blank">MoneyGeek State Rankings</a></li>
+      <li><a href="{{ $data.source_links.fema_flood_insurance }}" target="_blank">FEMA Flood Insurance Program</a></li>
+    </ul>
+    <p class="data-updated">Data updated: June 28, 2026. Rates change quarterly; check current rates at each carrier for personalized quotes.</p>
+  </div>
+</div>
+
+<style>
+.insurance-rates-moat {
+  max-width: 1000px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.rates-disclaimer {
+  background: #fffaf0;
+  border-left: 4px solid #ff9800;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.benchmarks-section {
+  margin-bottom: 32px;
+}
+
+.benchmark-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.benchmark-card {
+  background: #f0f7ff;
+  border: 1px solid #b3d9ff;
+  border-radius: 6px;
+  padding: 16px;
+  text-align: center;
+}
+
+.benchmark-card h4 {
+  margin-top: 0;
+  font-size: 0.95em;
+  color: #0066cc;
+}
+
+.benchmark-value {
+  font-size: 1.8em;
+  font-weight: 700;
+  color: #003d99;
+  margin: 8px 0;
+}
+
+.benchmark-detail {
+  font-size: 0.85em;
+  color: #666;
+  margin: 0;
+}
+
+.rankings-section {
+  margin-bottom: 32px;
+}
+
+.rates-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+  font-size: 0.9em;
+}
+
+.rates-table thead {
+  background: #f5f5f5;
+}
+
+.rates-table th,
+.rates-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.rates-table th {
+  font-weight: 600;
+  color: #333;
+}
+
+.rates-table tbody tr:hover {
+  background: #f9f9f9;
+}
+
+.negative {
+  color: #d32f2f;
+  font-weight: 600;
+}
+
+.positive {
+  color: #388e3c;
+  font-weight: 600;
+}
+
+.trend {
+  color: #d32f2f;
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+.factors-section {
+  margin-bottom: 32px;
+}
+
+.factor-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.factor-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 14px;
+}
+
+.factor-card h4 {
+  margin-top: 0;
+  font-size: 0.9em;
+  color: #333;
+}
+
+.factor-value {
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #0066cc;
+  margin: 8px 0;
+}
+
+.factor-detail {
+  font-size: 0.85em;
+  color: #666;
+  margin: 0;
+}
+
+.roof-impact {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.roof-tier {
+  background: #f9f9f9;
+  border-left: 4px solid #ff6b6b;
+  padding: 14px;
+  border-radius: 4px;
+}
+
+.roof-tier h4 {
+  margin-top: 0;
+  font-size: 0.95em;
+}
+
+.roof-cost {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #d32f2f;
+  margin: 8px 0;
+}
+
+.roof-tier p:last-child {
+  margin-bottom: 0;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.discounts-section {
+  margin-bottom: 32px;
+}
+
+.discounts-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+  font-size: 0.9em;
+}
+
+.discounts-table thead {
+  background: #e8f5e9;
+}
+
+.discounts-table th,
+.discounts-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.discounts-table th {
+  font-weight: 600;
+  color: #1b5e20;
+}
+
+.quotes-section {
+  margin-bottom: 32px;
+}
+
+.quote-scenario {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.quote-scenario h4 {
+  margin-top: 0;
+  color: #0066cc;
+}
+
+.scenario-details {
+  background: #f5f5f5;
+  padding: 12px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  margin-bottom: 12px;
+}
+
+.scenario-details p {
+  margin: 6px 0;
+}
+
+.quotes-list {
+  margin-bottom: 12px;
+}
+
+.quote-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.9em;
+}
+
+.quote-item:last-child {
+  border-bottom: none;
+}
+
+.carrier {
+  flex: 1;
+}
+
+.premium {
+  flex: 1;
+  text-align: center;
+  color: #d32f2f;
+  font-weight: 600;
+}
+
+.availability {
+  flex: 1;
+  text-align: right;
+  font-size: 0.85em;
+  color: #f57c00;
+}
+
+.typical-range {
+  font-size: 0.9em;
+  color: #555;
+  margin: 12px 0 0 0;
+}
+
+.bundle-note {
+  color: #388e3c;
+  font-weight: 500;
+  font-size: 0.9em;
+  margin-top: 8px;
+}
+
+.scenario-note {
+  color: #666;
+  font-size: 0.85em;
+  margin-top: 8px;
+}
+
+.coverage-section {
+  margin-bottom: 32px;
+}
+
+.coverage-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+.coverage-card h4 {
+  margin-top: 0;
+  color: #0066cc;
+}
+
+.coverage-card p {
+  margin: 8px 0;
+  font-size: 0.95em;
+}
+
+.trends-section {
+  margin-bottom: 32px;
+}
+
+.trend-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.trend-card {
+  background: #eceff1;
+  border: 1px solid #b0bec5;
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.trend-card h4 {
+  margin-top: 0;
+  font-size: 0.9em;
+}
+
+.trend-value {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #0066cc;
+  margin: 8px 0;
+}
+
+.trend-card p:last-child {
+  margin-bottom: 0;
+  font-size: 0.85em;
+  color: #555;
+}
+
+.rates-sources {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 16px;
+  margin-top: 32px;
+}
+
+.rates-sources h4 {
+  margin-top: 0;
+}
+
+.rates-sources ul {
+  margin: 12px 0;
+  padding-left: 24px;
+}
+
+.rates-sources li {
+  margin-bottom: 8px;
+}
+
+.rates-sources a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.rates-sources a:hover {
+  text-decoration: underline;
+}
+
+.data-updated {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 16px;
+  border-top: 1px solid #ddd;
+  padding-top: 12px;
+}
+
+h3 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.3em;
+}
+
+@media (max-width: 600px) {
+  .benchmark-grid,
+  .factor-cards,
+  .roof-impact,
+  .trend-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .rates-table,
+  .discounts-table {
+    font-size: 0.8em;
+  }
+
+  .quote-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .premium,
+  .availability {
+    text-align: left;
+    flex: 1 100%;
+  }
+}
+</style>

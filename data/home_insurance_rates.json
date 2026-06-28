@@ -1,0 +1,505 @@
+{
+  "moat_name": "Home Insurance Rate Comparison by State",
+  "last_updated": "2026-06-28",
+  "source": "NAIC, Insurance Information Institute (III), Insurify, Bankrate, NerdWallet, State Insurance Commissioners",
+  "disclaimer": "Rates vary significantly based on home age, roof condition, credit score, claims history, and location within state. This data shows averages; get personalized quotes for your specific home. Rates updated June 2026.",
+  "national_benchmarks": {
+    "average_annual": 2490,
+    "range_min": 601,
+    "range_max": 10240,
+    "currency": "USD",
+    "policy_type": "HO-3 Standard Homeowners",
+    "coverage_basis": {
+      "dwelling": 400000,
+      "liability": 300000,
+      "deductible": 1000,
+      "other_structures": 40000,
+      "personal_property": 200000,
+      "loss_of_use": 80000
+    },
+    "date": "2026-06-28"
+  },
+  "state_rankings": [
+    {
+      "rank": 1,
+      "state": "Florida",
+      "annual_premium": 10240,
+      "monthly": 853,
+      "percent_above_national": 189,
+      "primary_drivers": ["Hurricane risk", "High litigation", "Limited carrier competition", "Roof age requirements"],
+      "trend_2025_2026": "+15-30%"
+    },
+    {
+      "rank": 2,
+      "state": "Louisiana",
+      "annual_premium": 8497,
+      "monthly": 708,
+      "percent_above_national": 140,
+      "primary_drivers": ["Hurricane risk", "Water intrusion claims", "Aggressive legal environment", "Storm frequency"],
+      "trend_2025_2026": "+18%"
+    },
+    {
+      "rank": 3,
+      "state": "Oklahoma",
+      "annual_premium": 7683,
+      "monthly": 640,
+      "percent_above_national": 117,
+      "primary_drivers": ["Hail storms", "Severe convective storms", "Tornado risk", "Roof replacement costs"],
+      "trend_2025_2026": "+24%"
+    },
+    {
+      "rank": 4,
+      "state": "Nebraska",
+      "annual_premium": 6015,
+      "monthly": 501,
+      "percent_above_national": 105,
+      "primary_drivers": ["Severe convective storms", "Hail", "Roof damage claims"],
+      "trend_2025_2026": "+25%"
+    },
+    {
+      "rank": 5,
+      "state": "Kansas",
+      "annual_premium": 5455,
+      "monthly": 455,
+      "percent_above_national": 94,
+      "primary_drivers": ["Hail storms", "Tornado corridor", "Weather volatility"],
+      "trend_2025_2026": "+22%"
+    },
+    {
+      "rank": 6,
+      "state": "Arkansas",
+      "annual_premium": 4955,
+      "monthly": 413,
+      "percent_above_national": 88,
+      "primary_drivers": ["Severe storms", "Water damage", "Tornado risk"],
+      "trend_2025_2026": "+20%"
+    },
+    {
+      "rank": 7,
+      "state": "Texas",
+      "annual_premium": 4915,
+      "monthly": 410,
+      "percent_above_national": 86,
+      "primary_drivers": ["Hail", "Hurricane threat (coastal)", "Wildfire (west TX)"],
+      "trend_2025_2026": "+18%"
+    },
+    {
+      "rank": 8,
+      "state": "Colorado",
+      "annual_premium": 4963,
+      "monthly": 413,
+      "percent_above_national": 88,
+      "primary_drivers": ["Hail", "Wildfire", "Severe convective storms"],
+      "trend_2025_2026": "+33%"
+    },
+    {
+      "rank": 9,
+      "state": "Mississippi",
+      "annual_premium": 5200,
+      "monthly": 433,
+      "percent_above_national": 95,
+      "primary_drivers": ["Hurricane risk", "Wind damage", "Water intrusion"],
+      "trend_2025_2026": "+19%"
+    },
+    {
+      "rank": 10,
+      "state": "South Carolina",
+      "annual_premium": 4800,
+      "monthly": 400,
+      "percent_above_national": 80,
+      "primary_drivers": ["Hurricane corridor", "Coastal wind", "Storm surge"],
+      "trend_2025_2026": "+20%"
+    }
+  ],
+  "cheapest_states": [
+    {
+      "rank": 1,
+      "state": "Hawaii",
+      "annual_premium": 750,
+      "monthly": 63,
+      "percent_below_national": -83,
+      "reason": "Low disaster risk, minimal severe weather"
+    },
+    {
+      "rank": 2,
+      "state": "Vermont",
+      "annual_premium": 1110,
+      "monthly": 93,
+      "percent_below_national": -70,
+      "reason": "Low peril frequency, stable market"
+    },
+    {
+      "rank": 3,
+      "state": "Delaware",
+      "annual_premium": 1170,
+      "monthly": 98,
+      "percent_below_national": -72,
+      "reason": "Moderate weather, coastal buffer"
+    },
+    {
+      "rank": 4,
+      "state": "New Hampshire",
+      "annual_premium": 1300,
+      "monthly": 108,
+      "percent_below_national": -48,
+      "reason": "Low tornado/hurricane risk"
+    },
+    {
+      "rank": 5,
+      "state": "Maine",
+      "annual_premium": 1335,
+      "monthly": 111,
+      "percent_below_national": -46,
+      "reason": "Northeast stability, lower claim frequency"
+    },
+    {
+      "rank": 6,
+      "state": "Alaska",
+      "annual_premium": 1385,
+      "monthly": 115,
+      "percent_below_national": -44,
+      "reason": "Remote, low population density, rare claims"
+    },
+    {
+      "rank": 7,
+      "state": "New Jersey",
+      "annual_premium": 1480,
+      "monthly": 123,
+      "percent_below_national": -41,
+      "reason": "Despite coastal location, urban efficiency"
+    },
+    {
+      "rank": 8,
+      "state": "Pennsylvania",
+      "annual_premium": 1500,
+      "monthly": 125,
+      "percent_below_national": -40,
+      "reason": "Low disaster risk, stable carrier market"
+    },
+    {
+      "rank": 9,
+      "state": "Ohio",
+      "annual_premium": 1600,
+      "monthly": 133,
+      "percent_below_national": -36,
+      "reason": "Midwest resilience, moderate peril"
+    },
+    {
+      "rank": 10,
+      "state": "Wisconsin",
+      "annual_premium": 1650,
+      "monthly": 138,
+      "percent_below_national": -34,
+      "reason": "Low wind peril, stable weather"
+    }
+  ],
+  "rate_factors": {
+    "credit_score": {
+      "poor": {
+        "score_range": "Below 580",
+        "premium_multiplier": 1.72,
+        "annual_increase_vs_good": 1800,
+        "example_quote": 4290
+      },
+      "fair": {
+        "score_range": "580-669",
+        "premium_multiplier": 1.35,
+        "annual_increase_vs_good": 868,
+        "example_quote": 3358
+      },
+      "good": {
+        "score_range": "670-739",
+        "premium_multiplier": 1.0,
+        "annual_increase_vs_good": 0,
+        "example_quote": 2490
+      },
+      "very_good": {
+        "score_range": "740-799",
+        "premium_multiplier": 0.88,
+        "annual_increase_vs_good": -298,
+        "example_quote": 2192
+      },
+      "excellent": {
+        "score_range": "800+",
+        "premium_multiplier": 0.82,
+        "premium_decrease": 18,
+        "example_quote": 2041
+      }
+    },
+    "home_age": {
+      "new_0_5_years": {
+        "annual_premium": 2100,
+        "relative_rating": "Lowest"
+      },
+      "middle_15_30_years": {
+        "annual_premium": 2490,
+        "relative_rating": "Standard/Average"
+      },
+      "older_30_plus_years": {
+        "annual_premium": 3990,
+        "premium_increase_vs_middle": 1500,
+        "relative_rating": "Highest (if insurable)"
+      }
+    },
+    "roof_age": {
+      "critical_factor": "Roof age is #1 underwriting factor in 2026 (32 billion roof claims in 2024)",
+      "under_15_years": {
+        "annual_premium": 2200,
+        "inspection_required": false
+      },
+      "15_20_years": {
+        "annual_premium": 2800,
+        "inspection_required": true,
+        "note": "Inspection/certification often required"
+      },
+      "20_25_years": {
+        "annual_premium": 3800,
+        "coverage_type": "Actual Cash Value (ACV) reimbursement",
+        "note": "Many carriers limit to ACV; replacement cost unavailable"
+      },
+      "25_plus_years": {
+        "annual_premium": 4500,
+        "coverage_type": "Limited or non-renewing",
+        "note": "Coverage denial unless exceptional condition"
+      },
+      "typical_annual_cost_increase_per_year_age": 150
+    },
+    "location": {
+      "urban": {
+        "description": "In city, close to fire dept/hydrants",
+        "premium_impact": "Lowest (best emergency services)"
+      },
+      "suburban": {
+        "description": "20-30 min from fire dept",
+        "premium_impact": "Standard/moderate"
+      },
+      "rural": {
+        "description": "30+ min from fire dept",
+        "premium_impact": "Highest (elevated burn risk, slower response)"
+      },
+      "high_crime_neighborhood": {
+        "premium_increase_percent": 15,
+        "reason": "Theft and liability risk"
+      },
+      "disaster_prone_zone": {
+        "premium_increase_percent": 30,
+        "example_zones": ["Tornado corridor", "Hurricane alley", "Wildfire zones"]
+      }
+    },
+    "water_proximity": {
+      "inland_safe": {
+        "note": "Standard HO-3 coverage applies"
+      },
+      "near_river": {
+        "annual_premium_increase": 200,
+        "requires_separate_flood": "Maybe (depends on FEMA zone)"
+      },
+      "coastal_high_hazard": {
+        "annual_premium_increase": 2000,
+        "requires_separate_flood": "Yes (FEMA zones AE/VE)",
+        "additional_wind_coverage": "May require windstorm exclusion waiver"
+      }
+    },
+    "claims_history": {
+      "clean_3_5_years": {
+        "discount_percent": 15,
+        "annual_savings": 373
+      },
+      "one_claim_prior": {
+        "premium_increase": 5,
+        "annual_cost_increase": 125
+      },
+      "multiple_claims": {
+        "premium_increase": 25,
+        "annual_cost_increase": 623,
+        "risk": "Non-renewal possible"
+      }
+    }
+  },
+  "discounts_available": [
+    {
+      "discount": "Bundling (home + auto)",
+      "average_savings_percent": 18,
+      "average_savings_dollars": 448,
+      "popularity": "Most common"
+    },
+    {
+      "discount": "New roof (upgrade)",
+      "average_savings_percent": 22,
+      "average_savings_dollars": 548,
+      "popularity": "Growing (roof factor emphasis)"
+    },
+    {
+      "discount": "Safety features (fire sprinklers)",
+      "average_savings_percent": 22,
+      "average_savings_dollars": 548,
+      "popularity": "Moderate"
+    },
+    {
+      "discount": "Home security system",
+      "average_savings_percent": 20,
+      "average_savings_dollars": 498,
+      "popularity": "Common"
+    },
+    {
+      "discount": "Claims-free (3-5 years)",
+      "average_savings_percent": 15,
+      "average_savings_dollars": 373,
+      "popularity": "Conditional"
+    },
+    {
+      "discount": "Fire alarm/smoke detector",
+      "average_savings_percent": 5,
+      "average_savings_dollars": 125,
+      "popularity": "Standard"
+    },
+    {
+      "discount": "Good grades (student)",
+      "average_savings_percent": 5,
+      "average_savings_dollars": 125,
+      "popularity": "Limited to students"
+    },
+    {
+      "discount": "Paid-in-full annually",
+      "average_savings_percent": 3,
+      "average_savings_dollars": 75,
+      "popularity": "Limited"
+    }
+  ],
+  "sample_quotes": [
+    {
+      "scenario_id": 1,
+      "name": "Average Suburban Home - Ohio",
+      "home_value": 350000,
+      "location": "Suburban Columbus, Ohio",
+      "home_age": 25,
+      "roof_age": 15,
+      "credit_score": 700,
+      "claims_history": "Clean (5 years)",
+      "quotes": [
+        {
+          "carrier": "State Farm",
+          "annual_premium": 1450,
+          "monthly": 121,
+          "rank": 1
+        },
+        {
+          "carrier": "Allstate",
+          "annual_premium": 1680,
+          "monthly": 140,
+          "rank": 2
+        },
+        {
+          "carrier": "Farmers",
+          "annual_premium": 1550,
+          "monthly": 129,
+          "rank": 2
+        }
+      ],
+      "typical_range": "1350-1850",
+      "best_bundle_savings": "18% (bundles with auto)"
+    },
+    {
+      "scenario_id": 2,
+      "name": "High-Risk Home - Florida",
+      "home_value": 400000,
+      "location": "Orlando, Florida",
+      "home_age": 20,
+      "roof_age": 8,
+      "credit_score": 710,
+      "claims_history": "One roof claim 4 years ago",
+      "quotes": [
+        {
+          "carrier": "Heritage",
+          "annual_premium": 7400,
+          "monthly": 617,
+          "availability": "Limited (state pool)"
+        },
+        {
+          "carrier": "Universal",
+          "annual_premium": 6800,
+          "monthly": 567,
+          "availability": "Alternative carrier"
+        }
+      ],
+      "typical_range": "5000-9000",
+      "note": "State Farm and Allstate not accepting new business in FL"
+    },
+    {
+      "scenario_id": 3,
+      "name": "Affordable Home - Vermont",
+      "home_value": 280000,
+      "location": "Rural Burlington, Vermont",
+      "home_age": 60,
+      "roof_age": 10,
+      "credit_score": 720,
+      "claims_history": "Clean",
+      "quotes": [
+        {
+          "carrier": "AAFMUT (Local)",
+          "annual_premium": 950,
+          "monthly": 79,
+          "rank": 1
+        },
+        {
+          "carrier": "State Farm",
+          "annual_premium": 1100,
+          "monthly": 92,
+          "rank": 2
+        },
+        {
+          "carrier": "Allstate",
+          "annual_premium": 1200,
+          "monthly": 100,
+          "rank": 3
+        }
+      ],
+      "typical_range": "900-1350"
+    }
+  ],
+  "additional_coverage": {
+    "flood_insurance": {
+      "coverage_type": "Separate policy (NOT included in HO-3)",
+      "mandatory_when": "FEMA high-risk zones with government-backed mortgage",
+      "provider": "NFIP (National Flood Insurance Program)",
+      "costs_by_risk_zone": {
+        "high_risk_ae_ve": "1000-3000 per year",
+        "moderate_risk_x_shaded": "400-800 per year"
+      }
+    },
+    "earthquake_insurance": {
+      "coverage_type": "Separate policy (NOT included in HO-3)",
+      "deductible_structure": "10-20% of dwelling replacement cost",
+      "costs_by_state": {
+        "california": "700-2000 per year",
+        "other_western": "800-1500 per year"
+      },
+      "required_in": "California, Alaska, Hawaii (common); optional elsewhere"
+    },
+    "umbrella_liability": {
+      "coverage_range": "1M-2M typical",
+      "annual_cost": 380,
+      "additional_million": 75,
+      "example_2m": "155-230 per year",
+      "requirements": "Minimum $300k homeowners liability + minimum auto limits"
+    }
+  },
+  "trends_2025_2026": {
+    "national_average_2025": 2948,
+    "national_average_2026": 3057,
+    "yoy_increase": 4,
+    "deceleration_note": "First major slowdown after 4 years of double-digit increases",
+    "consumer_relief": "32% of homeowners saw no rate increase in 2026 (vs 20% in 2025)",
+    "high_risk_states_trend": "FL/LA/OK/NE still rising 15-30% (structural issues)",
+    "midwest_trend": "Severe convective storms emerging as #1 peril; 20-34% increases in CO/MN/IA",
+    "northeast_trend": "Stabilizing; <5% increases"
+  },
+  "source_links": {
+    "naic_homeowners": "https://content.naic.org/insurance-topics/homeowners-insurance",
+    "iii_facts_statistics": "https://www.iii.org/fact-statistic/facts-statistics-homeowners-and-renters-insurance",
+    "nerdwallet_rates": "https://www.nerdwallet.com/insurance/homeowners/learn/average-homeowners-insurance-cost",
+    "bankrate_by_state": "https://www.bankrate.com/insurance/homeowners-insurance/states/",
+    "moneygeek_rankings": "https://www.moneygeek.com/insurance/homeowners/states-with-the-highest-and-lowest-home-insurance-rates/",
+    "fema_flood_insurance": "https://www.fema.gov/flood-insurance"
+  }
+}
