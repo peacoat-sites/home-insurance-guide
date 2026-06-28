@@ -40,6 +40,9 @@ This happens constantly. Insurance companies don't make a big deal about it. But
 
 ## What Coverage Limits Actually Are (And Why They're Not What You Think)
 
+**"My homeowners insurance covers everything"**: Most homeowners believe their standard policy protects against all disasters. Reality check: The National Association of Insurance Commissioners found that 60% of homeowners are underinsured, and standard policies explicitly exclude earthquakes, floods, and wear-and-tear damage. A 2023 Insurance Information Institute study revealed that after Hurricane Ian, nearly 40% of claimants faced denial or partial denial due to coverage gaps—not negligence, but exclusions buried in policy language. Floods alone require separate coverage; earthquakes need endorsements. Your "all-in" policy is actually a carefully curated list of what *isn't* covered.
+
+
 A coverage limit is the maximum dollar amount your insurer will pay for a covered loss. Simple enough. Except it isn't.
 
 Your standard homeowner policy, what the industry calls an HO-3, bundles several coverages into one document. Each has its own separate limit. They don't combine. If dwelling coverage maxes out, personal property coverage doesn't fill the hole. You do.
