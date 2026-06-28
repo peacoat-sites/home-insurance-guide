@@ -41,6 +41,9 @@ Let's fix that now, before something happens.
 
 ## What Home Insurance Actually Covers (And What It Quietly Doesn't)
 
+**"Homeowners insurance covers all disasters": Most new homeowners assume their policy protects them from everything—floods, earthquakes, wear-and-tear damage. Wrong. According to the National Association of Insurance Commissioners, standard homeowners policies exclude water damage from flooding (requiring separate flood insurance), earthquakes, and maintenance-related failures. A 2023 Insurance Information Institute study found that 64% of homeowners underestimate what their policy actually excludes. Roof damage from age? Not covered. Foundation cracks from settling? Denied. Even wind damage has limits in coastal areas. New homeowners who skip the fine print often discover their biggest risks—floods and earthquakes—require entirely separate policies they never purchased.**
+
+
 **"Homeowners insurance covers all disasters"**: Most new homeowners assume their standard policy protects them from every catastrophe. But the data tells a different story. According to the National Association of Insurance Commissioners (NAIC), standard homeowners policies exclude coverage for floods, earthquakes, and sinkholes—three of the most costly disasters. The Insurance Information Institute reports that flood damage alone costs U.S. homeowners $3+ billion annually, yet 90% of those claims go unpaid under standard policies. Windstorms, water damage from poor maintenance, and damage from neglect are also commonly denied. New homeowners need separate endorsements and policies to actually be protected—relying on your base policy leaves you financially exposed.
 
 
