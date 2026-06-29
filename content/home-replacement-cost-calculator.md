@@ -5,6 +5,7 @@ slug: "home-replacement-cost-calculator"
 author: "Dana Holloway"
 categories: ["Home Insurance Basics"]
 description: "Use our free home replacement cost calculator to estimate how much dwelling coverage your homeowners insurance policy should carry."
+image: "https://images.pexels.com/photos/7680696/pexels-photo-7680696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 One of the most common — and costly — mistakes homeowners make is insuring their home for its **market value** instead of its **replacement cost**. These two numbers can differ by tens of thousands of dollars, and choosing the wrong figure as your coverage limit can leave you dangerously underinsured after a total loss.

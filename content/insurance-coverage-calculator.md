@@ -15,6 +15,7 @@ faqs:
     answer: "Most financial advisors recommend matching your liability coverage to your net worth. Standard policies start at $100,000, but $300,000–$500,000 is more common for homeowners with moderate assets. If you have a pool, trampoline, dog, or business visitors, or if your net worth exceeds $500,000, consider an umbrella policy for an additional $1 million or more in coverage."
   - question: "Does standard homeowners insurance cover flooding?"
     answer: "No. Standard homeowners insurance explicitly excludes flood damage from rising water, storm surge, and overflowing waterways. If you are in a flood zone — or even in a moderate-risk area — you need a separate flood insurance policy through the National Flood Insurance Program (NFIP) or a private flood insurer. Average NFIP premiums run $700–$900 per year."
+image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Understanding how much home insurance you need is one of the most important financial decisions homeowners make — and one of the most commonly mishandled. Too little coverage leaves you exposed to catastrophic out-of-pocket costs after a claim. Too much means you are paying for protection that will never pay out.
