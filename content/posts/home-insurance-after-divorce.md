@@ -13,16 +13,16 @@ author_bio: "Carl Brooks is a meticulous researcher who has spent years comparin
 slug: "home-insurance-after-divorce"
 affiliate_disclosure: true
 faqs:
-  - q: "Does my ex-spouse still have coverage under my home insurance after we separate?"
-    a: "If your ex-spouse is still listed as a named insured on the policy and you haven't updated it, yes, they technically retain rights under the policy even after moving out. Contact your insurer immediately after separation to clarify named insured status and make any needed changes."
-  - q: "Do I need new home insurance after a divorce, or can I just keep the existing policy?"
-    a: "You may be able to update the existing policy, but whether you need a new one depends on whose name it's in and what your insurer allows. If the policy is solely in your ex's name and they're leaving, you'll almost certainly need a new policy. Call your insurer as soon as living arrangements are decided."
-  - q: "My ex moved out but their belongings are still in the house. Are those items covered?"
-    a: "Probably not, or not reliably. Personal property coverage under a homeowner's policy generally protects the named insured's belongings. If your ex is no longer a named insured and no longer occupies the home, their property sitting in your house is in a gray zone. Document what's there and clarify the situation with your insurer in writing."
-  - q: "What happens to home insurance during a divorce if neither of us has moved out yet?"
-    a: "Coverage continues while both parties are still living in the home under the original policy. But this is exactly when you should be documenting personal property, reviewing your dwelling coverage limits, and planning the transition. Don't wait until someone moves out to start those conversations."
-  - q: "Will my home insurance premium change after my divorce is finalized?"
-    a: "Possibly. Some insurers factor in marital status as part of their rating models, to the extent permitted by state law. You might also see changes if you're removing a named insured, updating your coverage amounts, or switching to a new policy entirely. Ask your agent directly what changes to expect and get quotes from at least two other carriers before renewing."
+ - q: "Does my ex-spouse still have coverage under my home insurance after we separate?"
+ a: "If your ex-spouse is still listed as a named insured on the policy and you haven't updated it, yes, they technically retain rights under the policy even after moving out. Contact your insurer immediately after separation to clarify named insured status and make any needed changes."
+ - q: "Do I need new home insurance after a divorce, or can I just keep the existing policy?"
+ a: "You may be able to update the existing policy, but whether you need a new one depends on whose name it's in and what your insurer allows. If the policy is solely in your ex's name and they're leaving, you'll almost certainly need a new policy. Call your insurer as soon as living arrangements are decided."
+ - q: "My ex moved out but their belongings are still in the house. Are those items covered?"
+ a: "Probably not, or not reliably. Personal property coverage under a homeowner's policy generally protects the named insured's belongings. If your ex is no longer a named insured and no longer occupies the home, their property sitting in your house is in a gray zone. Document what's there and clarify the situation with your insurer in writing."
+ - q: "What happens to home insurance during a divorce if neither of us has moved out yet?"
+ a: "Coverage continues while both parties are still living in the home under the original policy. But this is exactly when you should be documenting personal property, reviewing your dwelling coverage limits, and planning the transition. Don't wait until someone moves out to start those conversations."
+ - q: "Will my home insurance premium change after my divorce is finalized?"
+ a: "Possibly. Some insurers factor in marital status as part of their rating models, to the extent permitted by state law. You might also see changes if you're removing a named insured, updating your coverage amounts, or switching to a new policy entirely. Ask your agent directly what changes to expect and get quotes from at least two other carriers before renewing."
 ---
 
 Most people going through divorce are focused on the house itself. Who keeps it. Who buys out who. What the mortgage looks like going forward. What almost nobody thinks about until something goes wrong: the homeowner's insurance policy quietly sitting in the background, still written the way it was when two people lived there together.
@@ -112,8 +112,8 @@ Also worth asking your insurer: does your marital status change your rating? In 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

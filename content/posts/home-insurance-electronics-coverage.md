@@ -9,16 +9,16 @@ tags: ["home", "insurance", "electronics", "coverage"]
 slug: "home-insurance-electronics-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Does homeowner's insurance cover a power surge that damages my TV?"
-    a: "It depends on the cause. If lightning strikes your home and causes the surge, most standard policies will cover the resulting damage. If the surge originates from your utility's grid without a direct lightning strike, coverage is spottier and often excluded. An equipment breakdown endorsement can cover that gap."
-  - q: "Is my laptop covered if I accidentally spill coffee on it?"
-    a: "Almost certainly not under a standard policy. Accidental damage from liquid spills is excluded from most HO-3 policies. A scheduled personal property endorsement or a product like AppleCare+ (for Apple devices) would typically cover this scenario."
-  - q: "What happens if my electronics are stolen from my car?"
-    a: "Your auto insurance doesn't cover personal property inside the vehicle. Your homeowner's or renters policy does, but it may apply a 10% off-premises sub-limit, meaning only 10% of your total personal property coverage applies to items stolen away from your home. Check your policy for the exact language."
-  - q: "Does renters insurance cover my electronics the same way homeowner's insurance does?"
-    a: "Largely yes, with the same gaps. Personal property coverage in a renters policy works on the same named-perils or open-perils logic, with the same ACV versus replacement cost distinction, and the same sub-limits on computers and electronics. If you're renting, the coverage questions here apply to you in equal measure."
-  - q: "Can I insure a home recording studio or video production setup under my homeowner's policy?"
-    a: "Probably not fully, and this is a real trap. Equipment used for business purposes is often excluded or severely sub-limited under personal property coverage. A home business endorsement or a separate inland marine policy designed for professional equipment is usually the right answer here. Talk to a licensed independent agent about what fits your setup."
+ - q: "Does homeowner's insurance cover a power surge that damages my TV?"
+ a: "It depends on the cause. If lightning strikes your home and causes the surge, most standard policies will cover the resulting damage. If the surge originates from your utility's grid without a direct lightning strike, coverage is spottier and often excluded. An equipment breakdown endorsement can cover that gap."
+ - q: "Is my laptop covered if I accidentally spill coffee on it?"
+ a: "Almost certainly not under a standard policy. Accidental damage from liquid spills is excluded from most HO-3 policies. A scheduled personal property endorsement or a product like AppleCare+ (for Apple devices) would typically cover this scenario."
+ - q: "What happens if my electronics are stolen from my car?"
+ a: "Your auto insurance doesn't cover personal property inside the vehicle. Your homeowner's or renters policy does, but it may apply a 10% off-premises sub-limit, meaning only 10% of your total personal property coverage applies to items stolen away from your home. Check your policy for the exact language."
+ - q: "Does renters insurance cover my electronics the same way homeowner's insurance does?"
+ a: "Largely yes, with the same gaps. Personal property coverage in a renters policy works on the same named-perils or open-perils logic, with the same ACV versus replacement cost distinction, and the same sub-limits on computers and electronics. If you're renting, the coverage questions here apply to you in equal measure."
+ - q: "Can I insure a home recording studio or video production setup under my homeowner's policy?"
+ a: "Probably not fully, and this is a real trap. Equipment used for business purposes is often excluded or severely sub-limited under personal property coverage. A home business endorsement or a separate inland marine policy designed for professional equipment is usually the right answer here. Talk to a licensed independent agent about what fits your setup."
 author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
@@ -33,12 +33,12 @@ I spent 14 years reviewing claims like hers. That experience made me protective 
 
 
 <div class="value-module">
-  <div class="vm-head">Electronics Claim Scenarios: What Pays Out</div>
-  <div class="vm-body">
-    <p class="vm-intro">This matrix shows how the same $3,000 TV loss would be handled under different damage scenarios and coverage types, revealing why coverage gaps catch homeowners off guard.</p>
-    <table><thead><tr><th>Damage Scenario</th><th>Standard HO-3 (ACV)</th><th>Standard HO-3 (RCV)</th><th>With Scheduled Endorsement</th><th>Separate Flood Policy</th></tr></thead><tbody><tr><td>Lightning strike destroys TV</td><td>~$900 (depreciated value after 3 years)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Burglar steals TV</td><td>~$900 (depreciated)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Power surge from utility grid</td><td>$0 (excluded peril)</td><td>$0 (excluded peril)</td><td>Varies; some endorsements cover</td><td>Not applicable</td></tr><tr><td>Child knocks TV off mount</td><td>$0 (accidental damage excluded)</td><td>$0 (accidental damage excluded)</td><td>$3,000 if endorsement covers breakage</td><td>Not applicable</td></tr><tr><td>Basement floods from storm runoff</td><td>$0 (flood excluded)</td><td>$0 (flood excluded)</td><td>$0 (flood still excluded)</td><td>Up to policy limit, minus deductible</td></tr><tr><td>Burst pipe soaks entertainment center</td><td>~$900 (covered as sudden discharge)</td><td>$3,000 minus deductible</td><td>$3,000</td><td>Not applicable</td></tr><tr><td>TV fails after 3 years, no damage event</td><td>$0 (wear/breakdown excluded)</td><td>$0 (wear/breakdown excluded)</td><td>$0 unless equipment breakdown rider</td><td>Not applicable</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Electronics Claim Scenarios: What Pays Out</div>
+ <div class="vm-body">
+ <p class="vm-intro">This matrix shows how the same $3,000 TV loss would be handled under different damage scenarios and coverage types, revealing why coverage gaps catch homeowners off guard.</p>
+ <table><thead><tr><th>Damage Scenario</th><th>Standard HO-3 (ACV)</th><th>Standard HO-3 (RCV)</th><th>With Scheduled Endorsement</th><th>Separate Flood Policy</th></tr></thead><tbody><tr><td>Lightning strike destroys TV</td><td>~$900 (depreciated value after 3 years)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Burglar steals TV</td><td>~$900 (depreciated)</td><td>$3,000 minus deductible</td><td>$3,000, often $0 deductible</td><td>Not applicable</td></tr><tr><td>Power surge from utility grid</td><td>$0 (excluded peril)</td><td>$0 (excluded peril)</td><td>Varies; some endorsements cover</td><td>Not applicable</td></tr><tr><td>Child knocks TV off mount</td><td>$0 (accidental damage excluded)</td><td>$0 (accidental damage excluded)</td><td>$3,000 if endorsement covers breakage</td><td>Not applicable</td></tr><tr><td>Basement floods from storm runoff</td><td>$0 (flood excluded)</td><td>$0 (flood excluded)</td><td>$0 (flood still excluded)</td><td>Up to policy limit, minus deductible</td></tr><tr><td>Burst pipe soaks entertainment center</td><td>~$900 (covered as sudden discharge)</td><td>$3,000 minus deductible</td><td>$3,000</td><td>Not applicable</td></tr><tr><td>TV fails after 3 years, no damage event</td><td>$0 (wear/breakdown excluded)</td><td>$0 (wear/breakdown excluded)</td><td>$0 unless equipment breakdown rider</td><td>Not applicable</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Your Standard Policy Actually Covers (And What It Doesn't)

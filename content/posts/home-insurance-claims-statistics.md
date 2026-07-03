@@ -13,16 +13,16 @@ author_bio: "Mark Thompson spent 15 years as a licensed property and casualty in
 slug: "home-insurance-claims-statistics"
 affiliate_disclosure: true
 faqs:
-  - q: "What is the most common type of homeowner insurance claim?"
-    a: "Wind and hail damage consistently tops the list, making up roughly 40% of all homeowner claims nationwide. Water damage from internal sources like burst pipes or appliance failures is a close second."
-  - q: "Does filing a claim raise my insurance rates?"
-    a: "It often does, yes. Even a single claim can result in a premium increase at renewal, and some insurers will non-renew a policy after multiple claims within a few years. It's worth calculating whether a small claim is worth filing versus paying out of pocket, especially if the damage is close to your deductible anyway."
-  - q: "How long does a homeowner insurance claim take to settle?"
-    a: "Simple claims can close in a week or two. Complex ones involving significant structural damage, disputes over coverage, or contractor estimates can take months. If your claim is stalled, you have the right to request a written explanation and to file a complaint with your state's insurance department."
-  - q: "What percentage of homeowner claims get denied?"
-    a: "There's no single universal denial rate, and it varies significantly by insurer, region, and claim type. Maintenance exclusions and documentation gaps are the most common reasons for denial. If your claim is denied, you have the right to appeal and, in many states, to request an independent appraisal."
-  - q: "Is it worth having a public adjuster help with my claim?"
-    a: "For large, complicated claims, often yes. Public adjusters work for you rather than the insurer, and they typically charge 10% to 15% of the final settlement. On a $100,000 claim, that fee can be worth it if they negotiate a significantly higher payout. For a $4,000 roof repair, it usually isn't."
+ - q: "What is the most common type of homeowner insurance claim?"
+ a: "Wind and hail damage consistently tops the list, making up roughly 40% of all homeowner claims nationwide. Water damage from internal sources like burst pipes or appliance failures is a close second."
+ - q: "Does filing a claim raise my insurance rates?"
+ a: "It often does, yes. Even a single claim can result in a premium increase at renewal, and some insurers will non-renew a policy after multiple claims within a few years. It's worth calculating whether a small claim is worth filing versus paying out of pocket, especially if the damage is close to your deductible anyway."
+ - q: "How long does a homeowner insurance claim take to settle?"
+ a: "Simple claims can close in a week or two. Complex ones involving significant structural damage, disputes over coverage, or contractor estimates can take months. If your claim is stalled, you have the right to request a written explanation and to file a complaint with your state's insurance department."
+ - q: "What percentage of homeowner claims get denied?"
+ a: "There's no single universal denial rate, and it varies significantly by insurer, region, and claim type. Maintenance exclusions and documentation gaps are the most common reasons for denial. If your claim is denied, you have the right to appeal and, in many states, to request an independent appraisal."
+ - q: "Is it worth having a public adjuster help with my claim?"
+ a: "For large, complicated claims, often yes. Public adjusters work for you rather than the insurer, and they typically charge 10% to 15% of the final settlement. On a $100,000 claim, that fee can be worth it if they negotiate a significantly higher payout. For a $4,000 roof repair, it usually isn't."
 ---
 
 Every year, millions of American homeowners file a claim expecting the process to be straightforward, and millions of them are surprised. I've sat across the desk from enough policyholders to tell you: the surprise is almost never good.
@@ -110,8 +110,8 @@ A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=content
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

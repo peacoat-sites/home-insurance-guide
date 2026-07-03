@@ -9,16 +9,16 @@ tags: ["home", "insurance", "collectibles", "coverage"]
 slug: "home-insurance-collectibles-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Does homeowner's insurance cover sports cards?"
-    a: "Standard policies either don't cover sports cards specifically or lump them under a collectibles sublimit that may be as low as a few hundred dollars. If your collection has any significant value, you need to schedule individual high-value cards or get a separate collectibles floater to be properly protected."
-  - q: "How do I get my collectibles appraised for insurance purposes?"
-    a: "For sports cards, professional grading from PSA, BGS, or SGC is typically accepted. For coins, PCGS or NGC certification. For other collectibles like vintage toys, art, or instruments, look for appraisers who are members of the American Society of Appraisers or the Appraisers Association of America. Some insurers accept recent comparable auction sales for items with active markets."
-  - q: "Will my insurance cover a collectible if it breaks accidentally?"
-    a: "Not under a standard homeowner's policy, which generally doesn't cover accidental breakage. A scheduled personal articles floater or specialty collectibles policy typically does include accidental breakage, which is one of the main reasons collectors should schedule valuable items individually."
-  - q: "What happens if my collectible's value has gone up since I insured it?"
-    a: "You'll only be paid what it was insured for at the time of the claim. If a card was scheduled at $3,000 and it's now worth $15,000, you're receiving $3,000. Review and update scheduled values regularly, especially for items in categories with volatile markets like sports cards, coins, or vintage electronics."
-  - q: "Is theft of collectibles covered by a standard homeowner's policy?"
-    a: "Theft is generally a covered peril, but two things can undercut your claim: sublimits that cap the payout well below actual value, and exclusions for mysterious disappearance if you can't demonstrate a theft actually occurred. Scheduled coverage removes both problems for items you've listed individually."
+ - q: "Does homeowner's insurance cover sports cards?"
+ a: "Standard policies either don't cover sports cards specifically or lump them under a collectibles sublimit that may be as low as a few hundred dollars. If your collection has any significant value, you need to schedule individual high-value cards or get a separate collectibles floater to be properly protected."
+ - q: "How do I get my collectibles appraised for insurance purposes?"
+ a: "For sports cards, professional grading from PSA, BGS, or SGC is typically accepted. For coins, PCGS or NGC certification. For other collectibles like vintage toys, art, or instruments, look for appraisers who are members of the American Society of Appraisers or the Appraisers Association of America. Some insurers accept recent comparable auction sales for items with active markets."
+ - q: "Will my insurance cover a collectible if it breaks accidentally?"
+ a: "Not under a standard homeowner's policy, which generally doesn't cover accidental breakage. A scheduled personal articles floater or specialty collectibles policy typically does include accidental breakage, which is one of the main reasons collectors should schedule valuable items individually."
+ - q: "What happens if my collectible's value has gone up since I insured it?"
+ a: "You'll only be paid what it was insured for at the time of the claim. If a card was scheduled at $3,000 and it's now worth $15,000, you're receiving $3,000. Review and update scheduled values regularly, especially for items in categories with volatile markets like sports cards, coins, or vintage electronics."
+ - q: "Is theft of collectibles covered by a standard homeowner's policy?"
+ a: "Theft is generally a covered peril, but two things can undercut your claim: sublimits that cap the payout well below actual value, and exclusions for mysterious disappearance if you can't demonstrate a theft actually occurred. Scheduled coverage removes both problems for items you've listed individually."
 author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
@@ -33,12 +33,12 @@ Most homeowner's policies are built around the assumption that your personal pro
 
 
 <div class="value-module">
-  <div class="vm-head">Coverage Gaps by Collectible Type</div>
-  <div class="vm-body">
-    <p class="vm-intro">Standard homeowner's policies treat different collectible categories with varying sublimits and exclusions-here's how common collections typically fare under default coverage.</p>
-    <table><thead><tr><th>Collectible Category</th><th>Typical Standard Policy Sublimit</th><th>Common Exclusions or Gaps</th><th>Scheduled Coverage Usually Required?</th></tr></thead><tbody><tr><td>Jewelry &amp; Watches</td><td>$1,000–$2,500</td><td>Mysterious disappearance often excluded; stones may require separate appraisal</td><td>Yes, for items over $1,000</td></tr><tr><td>Coins &amp; Currency</td><td>$200–$500</td><td>Typically covers only theft, not damage; numismatic value rarely recognized</td><td>Yes, for any serious collection</td></tr><tr><td>Sports Cards &amp; Memorabilia</td><td>$1,500–$2,500 (often under general personal property)</td><td>Water damage may be covered, but grading degradation losses usually excluded</td><td>Yes, for graded cards or signed items</td></tr><tr><td>Fine Art &amp; Antiques</td><td>$2,500–$5,000</td><td>Breakage often excluded; restoration costs rarely covered</td><td>Yes, for pieces over $2,500</td></tr><tr><td>Comic Books</td><td>No specific sublimit (falls under personal property)</td><td>Condition-based value loss not recognized; CGC grading drops not covered</td><td>Yes, for CGC-graded books</td></tr><tr><td>Wine Collections</td><td>$500–$1,000</td><td>Spoilage from power outage often excluded; temperature damage limits vary</td><td>Yes, for collections over 50 bottles</td></tr><tr><td>Musical Instruments (Vintage)</td><td>$2,000–$5,000</td><td>Actual cash value payout ignores collector premium; wear exclusions common</td><td>Yes, for instruments over $3,000</td></tr><tr><td>Firearms</td><td>$2,500–$5,000</td><td>Must prove ownership; antique firearms may need separate rider</td><td>Yes, for collections or antiques</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Coverage Gaps by Collectible Type</div>
+ <div class="vm-body">
+ <p class="vm-intro">Standard homeowner's policies treat different collectible categories with varying sublimits and exclusions-here's how common collections typically fare under default coverage.</p>
+ <table><thead><tr><th>Collectible Category</th><th>Typical Standard Policy Sublimit</th><th>Common Exclusions or Gaps</th><th>Scheduled Coverage Usually Required?</th></tr></thead><tbody><tr><td>Jewelry &amp; Watches</td><td>$1,000–$2,500</td><td>Mysterious disappearance often excluded; stones may require separate appraisal</td><td>Yes, for items over $1,000</td></tr><tr><td>Coins &amp; Currency</td><td>$200–$500</td><td>Typically covers only theft, not damage; numismatic value rarely recognized</td><td>Yes, for any serious collection</td></tr><tr><td>Sports Cards &amp; Memorabilia</td><td>$1,500–$2,500 (often under general personal property)</td><td>Water damage may be covered, but grading degradation losses usually excluded</td><td>Yes, for graded cards or signed items</td></tr><tr><td>Fine Art &amp; Antiques</td><td>$2,500–$5,000</td><td>Breakage often excluded; restoration costs rarely covered</td><td>Yes, for pieces over $2,500</td></tr><tr><td>Comic Books</td><td>No specific sublimit (falls under personal property)</td><td>Condition-based value loss not recognized; CGC grading drops not covered</td><td>Yes, for CGC-graded books</td></tr><tr><td>Wine Collections</td><td>$500–$1,000</td><td>Spoilage from power outage often excluded; temperature damage limits vary</td><td>Yes, for collections over 50 bottles</td></tr><tr><td>Musical Instruments (Vintage)</td><td>$2,000–$5,000</td><td>Actual cash value payout ignores collector premium; wear exclusions common</td><td>Yes, for instruments over $3,000</td></tr><tr><td>Firearms</td><td>$2,500–$5,000</td><td>Must prove ownership; antique firearms may need separate rider</td><td>Yes, for collections or antiques</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Your Standard Policy Actually Says About Collectibles

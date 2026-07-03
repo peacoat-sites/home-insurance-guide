@@ -9,16 +9,16 @@ tags: ["does", "home", "insurance", "cover", "roof"]
 slug: "does-home-insurance-cover-roof-damage"
 affiliate_disclosure: true
 faqs:
-  - q: "Does home insurance cover a roof that just wears out over time?"
-    a: "No. Normal wear and tear, age-related deterioration, and gradual weathering are not covered by any standard homeowner policy. Insurance is designed to cover sudden and accidental losses, not maintenance costs. If your shingles are curling, granules are washing away, or your roof is simply old, those repairs come out of pocket. This is a core distinction: insurance is not a home warranty."
-  - q: "What if the storm only damaged part of my roof?"
-    a: "Insurers generally pay to repair or replace the damaged sections, not automatically the entire roof. If half your roof takes a hail hit and the other half is fine, the claim will typically address the damaged portion. This can create a practical problem: new shingles often don't match aged ones visually. Some policies include matching provisions; many don't. This is a detail worth asking about before you buy a policy."
-  - q: "Is there a separate deductible for wind and hail claims?"
-    a: "In many states, yes. Wind and hail deductibles are common in storm-prone regions and are often calculated as a percentage of your home's insured value rather than a flat dollar amount. Review your declarations page to confirm whether you have a standard deductible, a named-storm deductible, or a separate wind/hail deductible. They work very differently."
-  - q: "Can I get dropped for filing a roof claim?"
-    a: "It's possible. While a single claim typically won't result in non-renewal, it does go into your claims history via the CLUE (Comprehensive Loss Underwriting Exchange) database. Multiple claims in a short period, or a claim on a roof that your insurer already considered aged, can lead to policy changes or non-renewal at the end of your term. This doesn't mean you shouldn't file legitimate claims, but it's a real factor to weigh."
-  - q: "What can I do to make sure my roof is actually covered before a storm hits?"
-    a: "Start by reviewing your declarations page and policy endorsements specifically for roof-related language. Look for ACV vs. RCV valuation, any cosmetic damage exclusions, and your deductible structure. Ask your agent directly: 'If a hailstorm damaged my roof today, how would that claim be valued?' Consider a professional roof inspection, which gives you documentation of your roof's current condition. Some insurers offer discounts or better terms for impact-resistant roofing materials, so it's worth exploring that conversation if you're planning a replacement soon."
+ - q: "Does home insurance cover a roof that just wears out over time?"
+ a: "No. Normal wear and tear, age-related deterioration, and gradual weathering are not covered by any standard homeowner policy. Insurance is designed to cover sudden and accidental losses, not maintenance costs. If your shingles are curling, granules are washing away, or your roof is simply old, those repairs come out of pocket. This is a core distinction: insurance is not a home warranty."
+ - q: "What if the storm only damaged part of my roof?"
+ a: "Insurers generally pay to repair or replace the damaged sections, not automatically the entire roof. If half your roof takes a hail hit and the other half is fine, the claim will typically address the damaged portion. This can create a practical problem: new shingles often don't match aged ones visually. Some policies include matching provisions; many don't. This is a detail worth asking about before you buy a policy."
+ - q: "Is there a separate deductible for wind and hail claims?"
+ a: "In many states, yes. Wind and hail deductibles are common in storm-prone regions and are often calculated as a percentage of your home's insured value rather than a flat dollar amount. Review your declarations page to confirm whether you have a standard deductible, a named-storm deductible, or a separate wind/hail deductible. They work very differently."
+ - q: "Can I get dropped for filing a roof claim?"
+ a: "It's possible. While a single claim typically won't result in non-renewal, it does go into your claims history via the CLUE (Comprehensive Loss Underwriting Exchange) database. Multiple claims in a short period, or a claim on a roof that your insurer already considered aged, can lead to policy changes or non-renewal at the end of your term. This doesn't mean you shouldn't file legitimate claims, but it's a real factor to weigh."
+ - q: "What can I do to make sure my roof is actually covered before a storm hits?"
+ a: "Start by reviewing your declarations page and policy endorsements specifically for roof-related language. Look for ACV vs. RCV valuation, any cosmetic damage exclusions, and your deductible structure. Ask your agent directly: 'If a hailstorm damaged my roof today, how would that claim be valued?' Consider a professional roof inspection, which gives you documentation of your roof's current condition. Some insurers offer discounts or better terms for impact-resistant roofing materials, so it's worth exploring that conversation if you're planning a replacement soon."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
@@ -29,12 +29,12 @@ You file a claim after a bad hailstorm tears up your roof. The adjuster comes ou
 
 
 <div class="value-module">
-  <div class="vm-head">Roof Claim Payout: ACV vs RCV Example</div>
-  <div class="vm-body">
-    <p class="vm-intro">The difference between Actual Cash Value and Replacement Cost Value policies dramatically affects your check, here's how the math works on a typical claim.</p>
-    <table><caption>Same $18,000 Roof Replacement, Two Policy Types</caption><thead><tr><th>Factor</th><th>ACV Policy</th><th>RCV Policy</th></tr></thead><tbody><tr><td>Roof replacement cost</td><td>$18,000</td><td>$18,000</td></tr><tr><td>Roof age</td><td>12 years</td><td>12 years</td></tr><tr><td>Expected lifespan</td><td>20 years</td><td>20 years</td></tr><tr><td>Depreciation applied</td><td>60% ($10,800)</td><td>$0 (after completion)</td></tr><tr><td>Deductible</td><td>$1,500</td><td>$1,500</td></tr><tr><td>Initial payout</td><td>$5,700</td><td>$16,500*</td></tr><tr><td>Your out-of-pocket</td><td>$12,300</td><td>$1,500</td></tr></tbody></table><ul><li><strong>ACV calculation:</strong> Replacement cost minus depreciation minus deductible ($18,000 − $10,800 − $1,500 = $5,700)</li><li><strong>RCV note:</strong> *Many RCV policies pay ACV initially, then reimburse depreciation after you complete repairs and submit receipts</li><li><strong>Depreciation method varies:</strong> Some insurers use age-based schedules; others assess actual condition, request your insurer's specific method in writing</li><li><strong>Policy check:</strong> Look for "Roof Surfacing" endorsements that may impose ACV on roofs over 10–15 years old even on RCV policies</li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Roof Claim Payout: ACV vs RCV Example</div>
+ <div class="vm-body">
+ <p class="vm-intro">The difference between Actual Cash Value and Replacement Cost Value policies dramatically affects your check, here's how the math works on a typical claim.</p>
+ <table><caption>Same $18,000 Roof Replacement, Two Policy Types</caption><thead><tr><th>Factor</th><th>ACV Policy</th><th>RCV Policy</th></tr></thead><tbody><tr><td>Roof replacement cost</td><td>$18,000</td><td>$18,000</td></tr><tr><td>Roof age</td><td>12 years</td><td>12 years</td></tr><tr><td>Expected lifespan</td><td>20 years</td><td>20 years</td></tr><tr><td>Depreciation applied</td><td>60% ($10,800)</td><td>$0 (after completion)</td></tr><tr><td>Deductible</td><td>$1,500</td><td>$1,500</td></tr><tr><td>Initial payout</td><td>$5,700</td><td>$16,500*</td></tr><tr><td>Your out-of-pocket</td><td>$12,300</td><td>$1,500</td></tr></tbody></table><ul><li><strong>ACV calculation:</strong> Replacement cost minus depreciation minus deductible ($18,000 − $10,800 − $1,500 = $5,700)</li><li><strong>RCV note:</strong> *Many RCV policies pay ACV initially, then reimburse depreciation after you complete repairs and submit receipts</li><li><strong>Depreciation method varies:</strong> Some insurers use age-based schedules; others assess actual condition, request your insurer's specific method in writing</li><li><strong>Policy check:</strong> Look for "Roof Surfacing" endorsements that may impose ACV on roofs over 10–15 years old even on RCV policies</li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Home Insurance Actually Covers When It Comes to Your Roof

@@ -13,16 +13,16 @@ author_bio: "Carl Brooks is a meticulous researcher who has spent years comparin
 slug: "does-home-insurance-cover-mold-removal"
 affiliate_disclosure: true
 faqs:
-  - q: "Does homeowner's insurance cover mold from a leaky roof?"
-    a: "It depends on what caused the roof to leak. If a storm tore off shingles and rain got in, that's typically a covered peril and any resulting mold should be covered. If the roof was simply old and deteriorating, that's a maintenance issue and the mold won't be covered."
-  - q: "Is black mold treated differently by insurers than other mold types?"
-    a: "Not formally, no. Policies don't typically distinguish by mold species. What matters is the cause and timeline of the water damage that led to it, not whether the mold is black, green, or white. 'Black mold' is more of a public fear framing than an insurance category."
-  - q: "Can I be denied a mold claim because I waited too long to report it?"
-    a: "Yes, absolutely. Most policies require you to report damage promptly and to take reasonable steps to prevent further damage (like drying out a water-damaged area). Waiting weeks to call your insurer, or failing to stop an active leak, can give the insurer grounds to reduce or deny the claim."
-  - q: "What if my home inspector missed mold before I bought the house?"
-    a: "This is a separate issue from your homeowner's policy, which generally won't cover pre-existing mold. You might have a claim against the home inspector for professional negligence, or against the seller if there's evidence they knew and concealed it. Talk to an attorney, not your insurer, on this one."
-  - q: "Will making a mold claim raise my premiums?"
-    a: "Potentially, yes. Water and mold claims are among the claim types that can flag a property as higher risk. Some insurers will raise your rate or, in states that permit it, non-renew a policy after a significant water damage claim. It's worth doing the math on remediation cost versus your deductible and potential premium impact before you file, especially for smaller claims."
+ - q: "Does homeowner's insurance cover mold from a leaky roof?"
+ a: "It depends on what caused the roof to leak. If a storm tore off shingles and rain got in, that's typically a covered peril and any resulting mold should be covered. If the roof was simply old and deteriorating, that's a maintenance issue and the mold won't be covered."
+ - q: "Is black mold treated differently by insurers than other mold types?"
+ a: "Not formally, no. Policies don't typically distinguish by mold species. What matters is the cause and timeline of the water damage that led to it, not whether the mold is black, green, or white. 'Black mold' is more of a public fear framing than an insurance category."
+ - q: "Can I be denied a mold claim because I waited too long to report it?"
+ a: "Yes, absolutely. Most policies require you to report damage promptly and to take reasonable steps to prevent further damage (like drying out a water-damaged area). Waiting weeks to call your insurer, or failing to stop an active leak, can give the insurer grounds to reduce or deny the claim."
+ - q: "What if my home inspector missed mold before I bought the house?"
+ a: "This is a separate issue from your homeowner's policy, which generally won't cover pre-existing mold. You might have a claim against the home inspector for professional negligence, or against the seller if there's evidence they knew and concealed it. Talk to an attorney, not your insurer, on this one."
+ - q: "Will making a mold claim raise my premiums?"
+ a: "Potentially, yes. Water and mold claims are among the claim types that can flag a property as higher risk. Some insurers will raise your rate or, in states that permit it, non-renew a policy after a significant water damage claim. It's worth doing the math on remediation cost versus your deductible and potential premium impact before you file, especially for smaller claims."
 ---
 
 Your neighbor calls in a panic. They found black mold behind their washing machine, called their insurer, and got told the damage wasn't covered. Now they're staring at a $4,000 remediation quote with no help on the way. I've seen this exact situation play out hundreds of times, and the frustration is completely legitimate, because the rules around mold coverage are genuinely confusing, written in policy language that seems designed to obscure rather than inform.

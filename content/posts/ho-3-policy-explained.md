@@ -13,16 +13,16 @@ author_bio: "Mark Thompson spent 15 years as a licensed property and casualty in
 slug: "ho-3-policy-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Is an HO-3 the same as 'full coverage' for my home?"
-    a: "Not exactly. The HO-3 is the most comprehensive standard policy type, but it still has significant exclusions, flood and earthquake being the biggest. 'Full coverage' isn't a defined insurance term, and assuming you have it without reading your exclusions is how people get hurt financially."
-  - q: "Can I upgrade my HO-3 to cover more?"
-    a: "Yes, through endorsements. Common upgrades include replacement cost on personal property, scheduled coverage for jewelry or art, water backup coverage (for sump pump failures or sewer backups), and equipment breakdown coverage. Each one adds to your premium, but they address real gaps in the base policy."
-  - q: "What's the difference between an HO-3 and an HO-5?"
-    a: "The HO-5 covers personal property on an open perils basis, the same way the HO-3 covers your dwelling. So your belongings get broader protection. HO-5 policies are typically more expensive and aren't available in every market, but they're worth asking about if you have a lot of high-value contents."
-  - q: "My insurer offered me a much lower dwelling coverage limit. Should I take it?"
-    a: "Be cautious. Insurers sometimes suggest limits that satisfy mortgage requirements without actually covering a full rebuild. Get an independent replacement cost estimate or ask your agent to run a replacement cost calculator. Being underinsured on Coverage A is one of the most painful things I watched happen to people after major losses."
-  - q: "Does the HO-3 cover my home-based business?"
-    a: "Generally, no. Business equipment has a very low sub-limit under standard policies, and business liability isn't covered at all. If you run any kind of business from home, even part-time, ask specifically about a home business endorsement or a separate business owner's policy."
+ - q: "Is an HO-3 the same as 'full coverage' for my home?"
+ a: "Not exactly. The HO-3 is the most comprehensive standard policy type, but it still has significant exclusions, flood and earthquake being the biggest. 'Full coverage' isn't a defined insurance term, and assuming you have it without reading your exclusions is how people get hurt financially."
+ - q: "Can I upgrade my HO-3 to cover more?"
+ a: "Yes, through endorsements. Common upgrades include replacement cost on personal property, scheduled coverage for jewelry or art, water backup coverage (for sump pump failures or sewer backups), and equipment breakdown coverage. Each one adds to your premium, but they address real gaps in the base policy."
+ - q: "What's the difference between an HO-3 and an HO-5?"
+ a: "The HO-5 covers personal property on an open perils basis, the same way the HO-3 covers your dwelling. So your belongings get broader protection. HO-5 policies are typically more expensive and aren't available in every market, but they're worth asking about if you have a lot of high-value contents."
+ - q: "My insurer offered me a much lower dwelling coverage limit. Should I take it?"
+ a: "Be cautious. Insurers sometimes suggest limits that satisfy mortgage requirements without actually covering a full rebuild. Get an independent replacement cost estimate or ask your agent to run a replacement cost calculator. Being underinsured on Coverage A is one of the most painful things I watched happen to people after major losses."
+ - q: "Does the HO-3 cover my home-based business?"
+ a: "Generally, no. Business equipment has a very low sub-limit under standard policies, and business liability isn't covered at all. If you run any kind of business from home, even part-time, ask specifically about a home business endorsement or a separate business owner's policy."
 ---
 Most homeowners have an HO-3 policy and couldn't tell you what that means. Not because they're careless, but because no one ever explained it clearly. I'll fix that.
 
@@ -31,12 +31,12 @@ The HO-3 is the standard homeowner policy sold across the United States. If you 
 When I talk to people signing their first policy, I always tell them this: ignore the number on the front page. What matters is *how* the policy covers your home versus your belongings, because the HO-3 treats them completely differently. That gap has real consequences when something actually breaks.
 
 <div class="value-module">
-  <div class="vm-head">HO-3 Coverage: Structure vs. Personal Property</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows how the same damage event can result in different coverage outcomes depending on whether it affects your dwelling (open perils) or your belongings (named perils).</p>
-    <table><thead><tr><th>Damage Scenario</th><th>Dwelling Coverage (Open Perils)</th><th>Personal Property Coverage (Named Perils)</th><th>Why the Difference</th></tr></thead><tbody><tr><td>Tree falls on roof during storm</td><td>✓ Covered</td><td>✓ Covered (windstorm is named)</td><td>Windstorm appears on named perils list</td></tr><tr><td>Pipe bursts, floods basement</td><td>✓ Covered</td><td>✓ Covered (water damage from plumbing is named)</td><td>Sudden water discharge is a named peril</td></tr><tr><td>Freezer fails, food spoils</td><td>✓ Floor damage covered</td><td>✗ Food/appliance likely not covered</td><td>Mechanical breakdown and power failure aren't named perils</td></tr><tr><td>Mysterious water stain appears on ceiling</td><td>✓ Covered (unless excluded)</td><td>N/A</td><td>Open perils covers unknown causes; exclusions would need to apply</td></tr><tr><td>Theft of electronics</td><td>✓ Forced entry damage covered</td><td>✓ Covered</td><td>Theft is a named peril</td></tr><tr><td>Your dog destroys the couch</td><td>✓ Damaged flooring covered</td><td>✗ Couch not covered</td><td>Pet damage to belongings isn't a named peril</td></tr><tr><td>Earthquake cracks foundation and breaks dishes</td><td>✗ Not covered (standard exclusion)</td><td>✗ Not covered</td><td>Earthquake is excluded from dwelling coverage and not a named peril</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">HO-3 Coverage: Structure vs. Personal Property</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows how the same damage event can result in different coverage outcomes depending on whether it affects your dwelling (open perils) or your belongings (named perils).</p>
+ <table><thead><tr><th>Damage Scenario</th><th>Dwelling Coverage (Open Perils)</th><th>Personal Property Coverage (Named Perils)</th><th>Why the Difference</th></tr></thead><tbody><tr><td>Tree falls on roof during storm</td><td>✓ Covered</td><td>✓ Covered (windstorm is named)</td><td>Windstorm appears on named perils list</td></tr><tr><td>Pipe bursts, floods basement</td><td>✓ Covered</td><td>✓ Covered (water damage from plumbing is named)</td><td>Sudden water discharge is a named peril</td></tr><tr><td>Freezer fails, food spoils</td><td>✓ Floor damage covered</td><td>✗ Food/appliance likely not covered</td><td>Mechanical breakdown and power failure aren't named perils</td></tr><tr><td>Mysterious water stain appears on ceiling</td><td>✓ Covered (unless excluded)</td><td>N/A</td><td>Open perils covers unknown causes; exclusions would need to apply</td></tr><tr><td>Theft of electronics</td><td>✓ Forced entry damage covered</td><td>✓ Covered</td><td>Theft is a named peril</td></tr><tr><td>Your dog destroys the couch</td><td>✓ Damaged flooring covered</td><td>✗ Couch not covered</td><td>Pet damage to belongings isn't a named peril</td></tr><tr><td>Earthquake cracks foundation and breaks dishes</td><td>✗ Not covered (standard exclusion)</td><td>✗ Not covered</td><td>Earthquake is excluded from dwelling coverage and not a named peril</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Open Perils vs. Named Perils: The Core Distinction

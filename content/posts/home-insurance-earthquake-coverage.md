@@ -9,16 +9,16 @@ tags: ["home", "insurance", "earthquake", "coverage"]
 slug: "home-insurance-earthquake-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Does renters insurance cover earthquake damage?"
-    a: "Standard renters insurance excludes earthquake damage for exactly the same reasons homeowners insurance does. The earth movement exclusion applies to personal property coverage under a renters policy. If you rent in a seismic zone, you can typically add an earthquake endorsement to your renters policy, just as homeowners can. The coverage structure is similar: a percentage deductible, dwelling-structure coverage doesn't apply (since you don't own the building), but personal property and loss of use can be covered."
-  - q: "Is earthquake coverage worth it in low-risk states?"
-    a: "It depends on your specific location within that state and your financial situation. The New Madrid Seismic Zone affects areas many people consider 'low-risk' because they don't think of the Midwest as earthquake country. If you're near that zone, or near any active fault, the 'low-risk state' label can be misleading. Check USGS hazard maps, not just your state's general reputation."
-  - q: "Can I add earthquake coverage at any time, or are there waiting periods?"
-    a: "Most insurers impose a waiting period of 10 to 30 days after you purchase earthquake coverage before it takes effect. The practical implication: you can't buy coverage after an earthquake is announced or after seismic activity in your area has already begun. Some insurers will suspend new earthquake policy sales entirely during a heightened seismic alert period. Buy it when things are calm."
-  - q: "Will my mortgage lender require earthquake insurance?"
-    a: "Unlike flood insurance, which federally backed lenders require for properties in designated flood zones, there is no federal mandate requiring earthquake insurance. Your mortgage lender can't typically force you to buy it. That said, if you own a home in a very high-risk zone, some lenders do require it as a loan condition, so check your loan documents."
-  - q: "What does 'loss assessment coverage' mean in the context of condos and earthquakes?"
-    a: "If you own a condo in a seismic area, your homeowners association's master policy may not fully cover the building for earthquake damage. When repair costs exceed the master policy coverage, the HOA can assess individual unit owners for their share of the gap. Loss assessment coverage on your individual condo policy pays for those assessments, up to your policy limit. This is a real and often overlooked exposure for condo owners in high-risk zones."
+ - q: "Does renters insurance cover earthquake damage?"
+ a: "Standard renters insurance excludes earthquake damage for exactly the same reasons homeowners insurance does. The earth movement exclusion applies to personal property coverage under a renters policy. If you rent in a seismic zone, you can typically add an earthquake endorsement to your renters policy, just as homeowners can. The coverage structure is similar: a percentage deductible, dwelling-structure coverage doesn't apply (since you don't own the building), but personal property and loss of use can be covered."
+ - q: "Is earthquake coverage worth it in low-risk states?"
+ a: "It depends on your specific location within that state and your financial situation. The New Madrid Seismic Zone affects areas many people consider 'low-risk' because they don't think of the Midwest as earthquake country. If you're near that zone, or near any active fault, the 'low-risk state' label can be misleading. Check USGS hazard maps, not just your state's general reputation."
+ - q: "Can I add earthquake coverage at any time, or are there waiting periods?"
+ a: "Most insurers impose a waiting period of 10 to 30 days after you purchase earthquake coverage before it takes effect. The practical implication: you can't buy coverage after an earthquake is announced or after seismic activity in your area has already begun. Some insurers will suspend new earthquake policy sales entirely during a heightened seismic alert period. Buy it when things are calm."
+ - q: "Will my mortgage lender require earthquake insurance?"
+ a: "Unlike flood insurance, which federally backed lenders require for properties in designated flood zones, there is no federal mandate requiring earthquake insurance. Your mortgage lender can't typically force you to buy it. That said, if you own a home in a very high-risk zone, some lenders do require it as a loan condition, so check your loan documents."
+ - q: "What does 'loss assessment coverage' mean in the context of condos and earthquakes?"
+ a: "If you own a condo in a seismic area, your homeowners association's master policy may not fully cover the building for earthquake damage. When repair costs exceed the master policy coverage, the HOA can assess individual unit owners for their share of the gap. Loss assessment coverage on your individual condo policy pays for those assessments, up to your policy limit. This is a real and often overlooked exposure for condo owners in high-risk zones."
 author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
@@ -34,12 +34,12 @@ Let's fix that knowledge gap right now.
 ---
 
 <div class="value-module">
-  <div class="vm-head">Earthquake Coverage Decision Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these specific thresholds to determine whether earthquake insurance makes financial sense for your situation.</p>
-    <table><thead><tr><th>Decision Factor</th><th>Consider Coverage If...</th><th>May Skip If...</th></tr></thead><tbody><tr><td>USGS Seismic Risk Zone</td><td>Located in high or moderate risk area (peak ground acceleration >10% g)</td><td>Located in low-risk zone with <2% chance of damaging shake in 50 years</td></tr><tr><td>Home Construction Type</td><td>Unreinforced masonry, brick veneer, raised foundation, pre-1980 build</td><td>Single-story wood frame, post-1990 seismic code compliance, slab foundation</td></tr><tr><td>Mortgage Remaining</td><td>Owe more than 50% of home value; lender could demand full repayment after total loss</td><td>Home owned outright with funds to rebuild or relocate</td></tr><tr><td>Emergency Savings</td><td>Less than 6 months expenses; couldn't cover 10-20% deductible out of pocket</td><td>Liquid assets exceed typical deductible (often $15,000-$50,000)</td></tr><tr><td>Home Value vs. Land Value</td><td>Structure represents >60% of total property value</td><td>Land value dominates (e.g., $800K land, $200K structure)</td></tr><tr><td>Retrofit Status</td><td>No foundation bolting, no cripple wall bracing, original water heater strapping</td><td>Completed seismic retrofit with permit; may qualify for 5-15% premium discount</td></tr><tr><td>Annual Premium Cost</td><td>Premium is <0.5% of dwelling coverage annually</td><td>Premium exceeds 1% of coverage and deductible would consume most payout</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Earthquake Coverage Decision Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these specific thresholds to determine whether earthquake insurance makes financial sense for your situation.</p>
+ <table><thead><tr><th>Decision Factor</th><th>Consider Coverage If...</th><th>May Skip If...</th></tr></thead><tbody><tr><td>USGS Seismic Risk Zone</td><td>Located in high or moderate risk area (peak ground acceleration >10% g)</td><td>Located in low-risk zone with <2% chance of damaging shake in 50 years</td></tr><tr><td>Home Construction Type</td><td>Unreinforced masonry, brick veneer, raised foundation, pre-1980 build</td><td>Single-story wood frame, post-1990 seismic code compliance, slab foundation</td></tr><tr><td>Mortgage Remaining</td><td>Owe more than 50% of home value; lender could demand full repayment after total loss</td><td>Home owned outright with funds to rebuild or relocate</td></tr><tr><td>Emergency Savings</td><td>Less than 6 months expenses; couldn't cover 10-20% deductible out of pocket</td><td>Liquid assets exceed typical deductible (often $15,000-$50,000)</td></tr><tr><td>Home Value vs. Land Value</td><td>Structure represents >60% of total property value</td><td>Land value dominates (e.g., $800K land, $200K structure)</td></tr><tr><td>Retrofit Status</td><td>No foundation bolting, no cripple wall bracing, original water heater strapping</td><td>Completed seismic retrofit with permit; may qualify for 5-15% premium discount</td></tr><tr><td>Annual Premium Cost</td><td>Premium is <0.5% of dwelling coverage annually</td><td>Premium exceeds 1% of coverage and deductible would consume most payout</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Your Standard Policy Won't Help You After an Earthquake

@@ -13,16 +13,16 @@ author_bio: "Mark Thompson spent 15 years as a licensed property and casualty in
 slug: "fair-plan-insurance-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I choose a FAIR plan voluntarily, or is it only for people rejected by private insurers?"
-    a: "Technically, most FAIR plans are available to any homeowner who can't obtain coverage in the private market, but they're specifically designed as a last resort. In practice, you'll need to demonstrate that you've been rejected or couldn't find coverage at a reasonable price before the FAIR plan will accept you. Don't use it as a budget shortcut."
-  - q: "Does a FAIR plan cover water damage and theft?"
-    a: "Usually not by default, and this is one of the most common coverage surprises. Most FAIR plans cover fire and a narrow list of named perils. Theft, water damage from plumbing, and liability typically require a Difference in Conditions policy purchased separately. Check your specific state's program for the exact covered perils list."
-  - q: "Will having a FAIR plan hurt me when I try to sell my home?"
-    a: "It can complicate a sale because buyers seeking a mortgage will need to obtain insurance, and if you're currently FAIR plan-eligible, a new buyer may face the same private market rejections you did. It's not a deal-killer, but it's worth disclosing and discussing with your real estate agent before listing."
-  - q: "If my FAIR plan insurer becomes insolvent, am I protected?"
-    a: "Most states have guarantee funds that provide some protection, but the limits and mechanisms vary significantly. Florida's Citizens situation has put this question front and center. Ask your agent specifically what protections apply in your state before assuming you're covered against insurer insolvency."
-  - q: "Can I be dropped from a FAIR plan?"
-    a: "Yes, though it's less common than private market non-renewals. FAIR plans can decline to renew if a property is found to be in poor condition, if claims patterns suggest fraud, or if the property no longer qualifies under the program's guidelines. Maintaining your home and being honest in your application are both important."
+ - q: "Can I choose a FAIR plan voluntarily, or is it only for people rejected by private insurers?"
+ a: "Technically, most FAIR plans are available to any homeowner who can't obtain coverage in the private market, but they're specifically designed as a last resort. In practice, you'll need to demonstrate that you've been rejected or couldn't find coverage at a reasonable price before the FAIR plan will accept you. Don't use it as a budget shortcut."
+ - q: "Does a FAIR plan cover water damage and theft?"
+ a: "Usually not by default, and this is one of the most common coverage surprises. Most FAIR plans cover fire and a narrow list of named perils. Theft, water damage from plumbing, and liability typically require a Difference in Conditions policy purchased separately. Check your specific state's program for the exact covered perils list."
+ - q: "Will having a FAIR plan hurt me when I try to sell my home?"
+ a: "It can complicate a sale because buyers seeking a mortgage will need to obtain insurance, and if you're currently FAIR plan-eligible, a new buyer may face the same private market rejections you did. It's not a deal-killer, but it's worth disclosing and discussing with your real estate agent before listing."
+ - q: "If my FAIR plan insurer becomes insolvent, am I protected?"
+ a: "Most states have guarantee funds that provide some protection, but the limits and mechanisms vary significantly. Florida's Citizens situation has put this question front and center. Ask your agent specifically what protections apply in your state before assuming you're covered against insurer insolvency."
+ - q: "Can I be dropped from a FAIR plan?"
+ a: "Yes, though it's less common than private market non-renewals. FAIR plans can decline to renew if a property is found to be in poor condition, if claims patterns suggest fraud, or if the property no longer qualifies under the program's guidelines. Maintaining your home and being honest in your application are both important."
 ---
 
 Most homeowners have never heard of a FAIR plan until the moment they desperately need one. By then, it's usually too late to understand what they're actually getting.
@@ -119,8 +119,8 @@ I don't have great data on exactly how many homeowners are going uninsured in hi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

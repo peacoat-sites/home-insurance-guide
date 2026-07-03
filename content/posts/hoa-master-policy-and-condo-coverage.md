@@ -9,16 +9,16 @@ tags: ["master", "policy", "condo", "coverage"]
 slug: "hoa-master-policy-and-condo-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Does the HOA master policy cover my personal belongings?"
-    a: "No. Master policies are written to protect the building structure and common areas, not the contents of individual units. Your furniture, electronics, clothing, and other personal property require separate coverage under your own HO-6 policy."
-  - q: "What is loss assessment coverage and do I really need it?"
-    a: "Loss assessment coverage protects you if your HOA charges unit owners to cover a loss that exceeds the master policy's deductible or limits. Given that master policy deductibles are frequently $25,000 or higher now, this coverage is genuinely worth carrying. It's usually inexpensive to add."
-  - q: "How do I know if my HOA has a bare walls-in or all-in policy?"
-    a: "Request a copy of the master policy declarations from your HOA board or management company. The policy will identify the coverage basis, and your insurance agent can help you interpret it. This distinction directly determines how much dwelling coverage you need on your HO-6."
-  - q: "Am I covered if a guest is injured inside my condo?"
-    a: "The HOA master policy covers liability in common areas, not inside your unit. Incidents that happen within your unit fall under your personal liability coverage, which is part of your HO-6 policy. Without it, you'd be personally responsible for any resulting claims."
-  - q: "What happens if a pipe in my unit leaks and damages my neighbor's unit?"
-    a: "This is where things get genuinely complicated and fact-specific. Your HO-6 liability coverage may respond if the damage was caused by your negligence. Your CC&Rs may also allocate responsibility between owners. Some situations involve both policies. This is exactly the scenario where having your own policy with solid liability limits matters most, and where consulting your agent before anything happens is worth the time."
+ - q: "Does the HOA master policy cover my personal belongings?"
+ a: "No. Master policies are written to protect the building structure and common areas, not the contents of individual units. Your furniture, electronics, clothing, and other personal property require separate coverage under your own HO-6 policy."
+ - q: "What is loss assessment coverage and do I really need it?"
+ a: "Loss assessment coverage protects you if your HOA charges unit owners to cover a loss that exceeds the master policy's deductible or limits. Given that master policy deductibles are frequently $25,000 or higher now, this coverage is genuinely worth carrying. It's usually inexpensive to add."
+ - q: "How do I know if my HOA has a bare walls-in or all-in policy?"
+ a: "Request a copy of the master policy declarations from your HOA board or management company. The policy will identify the coverage basis, and your insurance agent can help you interpret it. This distinction directly determines how much dwelling coverage you need on your HO-6."
+ - q: "Am I covered if a guest is injured inside my condo?"
+ a: "The HOA master policy covers liability in common areas, not inside your unit. Incidents that happen within your unit fall under your personal liability coverage, which is part of your HO-6 policy. Without it, you'd be personally responsible for any resulting claims."
+ - q: "What happens if a pipe in my unit leaks and damages my neighbor's unit?"
+ a: "This is where things get genuinely complicated and fact-specific. Your HO-6 liability coverage may respond if the damage was caused by your negligence. Your CC&Rs may also allocate responsibility between owners. Some situations involve both policies. This is exactly the scenario where having your own policy with solid liability limits matters most, and where consulting your agent before anything happens is worth the time."
 author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
@@ -31,12 +31,12 @@ I'll be honest: the relationship between an HOA master policy and your individua
 
 
 <div class="value-module">
-  <div class="vm-head">Coverage Gap Checklist by Policy Type</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to identify which items fall under your responsibility based on your HOA's master policy type.</p>
-    <table><thead><tr><th>Item Category</th><th>Bare Walls-In Policy</th><th>All-In Policy</th><th>Your HO-6 Policy</th></tr></thead><tbody><tr><td>Building structure (exterior walls, roof)</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Drywall, studs, insulation</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Original flooring (carpet, tile, hardwood)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original cabinets and countertops</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original appliances (built-in)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original plumbing fixtures</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Light fixtures, electrical outlets</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Upgrades you installed (new floors, kitchen remodel)</td><td>YOU pay</td><td>YOU pay</td><td>Must add to Dwelling/Coverage A</td></tr><tr><td>Personal property (furniture, electronics, clothing)</td><td>YOU pay</td><td>YOU pay</td><td>Coverage C required</td></tr><tr><td>Loss assessment (HOA deductible passed to owners)</td><td>YOU pay share</td><td>YOU pay share</td><td>Add Loss Assessment coverage ($10K–$50K typical)</td></tr><tr><td>Personal liability (guest injured in your unit)</td><td>Not covered by HOA</td><td>Not covered by HOA</td><td>Coverage E required ($100K minimum, $300K+ recommended)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Coverage Gap Checklist by Policy Type</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to identify which items fall under your responsibility based on your HOA's master policy type.</p>
+ <table><thead><tr><th>Item Category</th><th>Bare Walls-In Policy</th><th>All-In Policy</th><th>Your HO-6 Policy</th></tr></thead><tbody><tr><td>Building structure (exterior walls, roof)</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Drywall, studs, insulation</td><td>HOA covers</td><td>HOA covers</td><td>Not needed</td></tr><tr><td>Original flooring (carpet, tile, hardwood)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original cabinets and countertops</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original appliances (built-in)</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Original plumbing fixtures</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Light fixtures, electrical outlets</td><td>YOU pay</td><td>HOA covers</td><td>Include in Dwelling/Coverage A</td></tr><tr><td>Upgrades you installed (new floors, kitchen remodel)</td><td>YOU pay</td><td>YOU pay</td><td>Must add to Dwelling/Coverage A</td></tr><tr><td>Personal property (furniture, electronics, clothing)</td><td>YOU pay</td><td>YOU pay</td><td>Coverage C required</td></tr><tr><td>Loss assessment (HOA deductible passed to owners)</td><td>YOU pay share</td><td>YOU pay share</td><td>Add Loss Assessment coverage ($10K–$50K typical)</td></tr><tr><td>Personal liability (guest injured in your unit)</td><td>Not covered by HOA</td><td>Not covered by HOA</td><td>Coverage E required ($100K minimum, $300K+ recommended)</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Master Policy Is Not Your Policy

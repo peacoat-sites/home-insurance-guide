@@ -13,16 +13,16 @@ author_bio: "Carl Brooks is a meticulous researcher who has spent years comparin
 slug: "home-insurance-neighbor-damage-liability"
 affiliate_disclosure: true
 faqs:
-  - q: "My neighbor's tree fell on my house. Do they have to pay?"
-    a: "Not automatically. Unless you can show your neighbor was negligent (they knew the tree was diseased and failed to act), your own homeowner's policy is typically responsible for the damage to your home. You'd file under your dwelling coverage and pay your deductible."
-  - q: "What if my neighbor refuses to file a claim or says they're not responsible?"
-    a: "You can still file with your own insurer. If there's a legitimate negligence argument, your insurance company may pursue subrogation against your neighbor's insurer to recover costs, including your deductible, on your behalf."
-  - q: "Does homeowner's insurance cover damage I accidentally cause to a neighbor's property?"
-    a: "Yes, generally. Your policy's liability coverage applies when you're legally responsible for property damage or bodily injury to others. Accidental damage from your mower, a fire that spreads from your grill, a guest who trips on your property and then falls into their fence: these are all potentially covered liability scenarios."
-  - q: "How much liability coverage is actually enough?"
-    a: "Most standard policies come with $100,000, which can disappear fast in a serious claim. Many insurance professionals recommend at least $300,000 in liability on your home policy, with a personal umbrella policy on top if you have meaningful assets or income to protect. The III has a straightforward framework for thinking through this."
-  - q: "Can I be sued personally if my insurance doesn't cover the full damage?"
-    a: "Yes. If a judgment against you exceeds your liability limits, your personal assets are on the table. This is exactly why liability limits and umbrella policies matter more than people realize at renewal time."
+ - q: "My neighbor's tree fell on my house. Do they have to pay?"
+ a: "Not automatically. Unless you can show your neighbor was negligent (they knew the tree was diseased and failed to act), your own homeowner's policy is typically responsible for the damage to your home. You'd file under your dwelling coverage and pay your deductible."
+ - q: "What if my neighbor refuses to file a claim or says they're not responsible?"
+ a: "You can still file with your own insurer. If there's a legitimate negligence argument, your insurance company may pursue subrogation against your neighbor's insurer to recover costs, including your deductible, on your behalf."
+ - q: "Does homeowner's insurance cover damage I accidentally cause to a neighbor's property?"
+ a: "Yes, generally. Your policy's liability coverage applies when you're legally responsible for property damage or bodily injury to others. Accidental damage from your mower, a fire that spreads from your grill, a guest who trips on your property and then falls into their fence: these are all potentially covered liability scenarios."
+ - q: "How much liability coverage is actually enough?"
+ a: "Most standard policies come with $100,000, which can disappear fast in a serious claim. Many insurance professionals recommend at least $300,000 in liability on your home policy, with a personal umbrella policy on top if you have meaningful assets or income to protect. The III has a straightforward framework for thinking through this."
+ - q: "Can I be sued personally if my insurance doesn't cover the full damage?"
+ a: "Yes. If a judgment against you exceeds your liability limits, your personal assets are on the table. This is exactly why liability limits and umbrella policies matter more than people realize at renewal time."
 ---
 Your tree just fell on your neighbor's fence. Or maybe their dead oak came down on your garage. Either way, you're standing in the yard staring at splintered wood wondering who pays for what, and you're probably getting two very different stories from two very different insurance agents.
 

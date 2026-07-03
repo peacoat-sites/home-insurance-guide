@@ -11,10 +11,7 @@ author_slug: "mark-thompson"
 author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 slug: "hail-and-wind-are-now-pricier-than-hurricanes-for-insurers"
-affiliate_disclosure: true
----
-
-If you live in the Midwest or Great Plains and your homeowner's renewal notice arrived with a number that made you blink, here's why: hail and wind just officially dethroned hurricanes as the most expensive insured peril in American history. Not theoretically. Not trending that way. Done. Three separate reports from Aon, the Insurance Information Institute, and Cotality confirmed it in early 2026, and the math isn't close. Severe convective storms (SCS) cost U.S. insurers $51 billion in 2025 alone, the third straight year above that threshold. Peak storm season is underway right now. Your insurer already knows this. You should too.
+affiliate_disclosure: true, If you live in the Midwest or Great Plains and your homeowner's renewal notice arrived with a number that made you blink, here's why: hail and wind just officially dethroned hurricanes as the most expensive insured peril in American history. Not theoretically. Not trending that way. Done. Three separate reports from Aon, the Insurance Information Institute, and Cotality confirmed it in early 2026, and the math isn't close. Severe convective storms (SCS) cost U.S. insurers $51 billion in 2025 alone, the third straight year above that threshold. Peak storm season is underway right now. Your insurer already knows this. You should too.
 
 ## The Numbers That Reshuffled the Risk Map
 
@@ -62,10 +59,10 @@ The larger story here is that the insurance industry's internal map of catastrop
 
 - [Triple-I: Severe Convective Storms Generate More Than $50B in Insured Losses for Third Consecutive Year](https://www.iii.org/press-release/triple-i-severe-convective-storms-generate-more-than-50b-in-insured-losses-for-third-consecutive-year-041326) (April 14, 2026)
 - [2026 Cotality Severe Convective Storm Risk Report](https://www.cotality.com/insights/articles/2026-cotality-severe-convective-storm-risk-report) (2026)
-- [Forget Hurricanes. This Is America's Fastest-Growing Insurance Threat ,  Insurify](https://insurify.com/homeowners-insurance/news/severe-convective-storms/) (Late June 2026)
-- [2026 Home Insurance Trends: Mid-Year Outlook ,  Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
-- [Severe Convective Storms Become Costliest Insured Peril of 21st Century: Aon ,  Insurance Journal](https://www.insurancejournal.com/news/international/2026/01/21/855026.htm) (January 21, 2026)
-- [Reinsurance Rates Fall Further at June Renewal ,  Insurance Business Magazine](https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/reinsurance-rates-fall-further-at-june-renewal-577402.aspx) (June 1, 2026)
+- [Forget Hurricanes. This Is America's Fastest-Growing Insurance Threat , Insurify](https://insurify.com/homeowners-insurance/news/severe-convective-storms/) (Late June 2026)
+- [2026 Home Insurance Trends: Mid-Year Outlook , Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
+- [Severe Convective Storms Become Costliest Insured Peril of 21st Century: Aon , Insurance Journal](https://www.insurancejournal.com/news/international/2026/01/21/855026.htm) (January 21, 2026)
+- [Reinsurance Rates Fall Further at June Renewal , Insurance Business Magazine](https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/reinsurance-rates-fall-further-at-june-renewal-577402.aspx) (June 1, 2026)
 
 ## Helpful Resources
 
@@ -88,6 +85,6 @@ The larger story here is that the insurance industry's internal map of catastrop
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 

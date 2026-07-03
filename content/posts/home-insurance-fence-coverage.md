@@ -9,16 +9,16 @@ tags: ["home", "insurance", "fence", "coverage"]
 slug: "home-insurance-fence-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Is my fence covered under homeowner insurance?"
-    a: "Most standard homeowner policies cover fences under the 'other structures' (Coverage B) section, but coverage is limited to specific causes of damage and subject to your deductible and any applicable sublimits. Check your declarations page for a separate fence sublimit, which can be much lower than your overall Coverage B amount."
-  - q: "What happens if my neighbor's tree falls on my fence?"
-    a: "In most cases, you'd file a claim with your own insurer. Your neighbor is generally only liable if you can prove they knew the tree was a hazard and failed to address it. Your insurer may pursue subrogation against the neighbor's liability coverage, but that process doesn't speed up your claim."
-  - q: "Does homeowner insurance cover a rotting or aging fence?"
-    a: "No. Rot, deterioration, insect damage, and normal wear and tear are excluded from virtually every standard homeowner policy. Coverage applies to sudden, accidental damage from covered perils like wind, hail, fire, or vandalism."
-  - q: "Will my rates go up if I file a fence claim?"
-    a: "Possibly, yes. Filing a claim for fence damage, especially a relatively small one, can affect your loss history and trigger a rate increase at renewal. Many homeowners find the long-term cost of the rate impact outweighs the payout on smaller claims. It's worth doing the math before you file."
-  - q: "Can I get more coverage for an expensive fence?"
-    a: "Yes. Talk to your agent about increasing your Coverage B limit or adding an endorsement for other structures. If you have a high-value fence, a shared gate system, or a long perimeter, this is one of the cheaper upgrades you can make to your policy and one that most agents won't proactively suggest."
+ - q: "Is my fence covered under homeowner insurance?"
+ a: "Most standard homeowner policies cover fences under the 'other structures' (Coverage B) section, but coverage is limited to specific causes of damage and subject to your deductible and any applicable sublimits. Check your declarations page for a separate fence sublimit, which can be much lower than your overall Coverage B amount."
+ - q: "What happens if my neighbor's tree falls on my fence?"
+ a: "In most cases, you'd file a claim with your own insurer. Your neighbor is generally only liable if you can prove they knew the tree was a hazard and failed to address it. Your insurer may pursue subrogation against the neighbor's liability coverage, but that process doesn't speed up your claim."
+ - q: "Does homeowner insurance cover a rotting or aging fence?"
+ a: "No. Rot, deterioration, insect damage, and normal wear and tear are excluded from virtually every standard homeowner policy. Coverage applies to sudden, accidental damage from covered perils like wind, hail, fire, or vandalism."
+ - q: "Will my rates go up if I file a fence claim?"
+ a: "Possibly, yes. Filing a claim for fence damage, especially a relatively small one, can affect your loss history and trigger a rate increase at renewal. Many homeowners find the long-term cost of the rate impact outweighs the payout on smaller claims. It's worth doing the math before you file."
+ - q: "Can I get more coverage for an expensive fence?"
+ a: "Yes. Talk to your agent about increasing your Coverage B limit or adding an endorsement for other structures. If you have a high-value fence, a shared gate system, or a long perimeter, this is one of the cheaper upgrades you can make to your policy and one that most agents won't proactively suggest."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Policy Researcher"
@@ -31,12 +31,12 @@ So let's fix that.
 
 
 <div class="value-module">
-  <div class="vm-head">Fence Coverage Gap Finder Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to identify whether your policy has hidden gaps before you file a claim.</p>
-    <ol><li><strong>Locate your declarations page</strong>, Look for a separate line item mentioning "fence," "fencing," or "outdoor structures" with a dollar cap. If you see a number like $500–$2,500 listed separately from Coverage B, that sublimit overrides your total other structures coverage.</li><li><strong>Calculate your true Coverage B capacity</strong>, Add up replacement costs: detached garage ($15,000–$40,000 typical), shed ($1,500–$8,000), fence ($3,000–$15,000 for wood privacy), pool enclosure ($5,000–$20,000). If total exceeds 10% of dwelling coverage, you're underinsured for a multi-structure loss.</li><li><strong>Check for "actual cash value" language on fences</strong>, Many policies pay ACV (depreciated value) rather than replacement cost for fences. A 10-year-old wood fence originally worth $8,000 might pay out at $2,500–$3,500 after depreciation.</li><li><strong>Review excluded perils</strong>, Standard HO-3 policies typically exclude fence damage from: flood, earthquake, normal wear/rot, insect damage, tree roots, and gradual settling. Wind and fallen trees are usually covered only if the tree fell due to a covered peril.</li><li><strong>Confirm your deductible applies per occurrence</strong>, A $1,500 deductible on a $2,000 fence claim leaves you with $500. Calculate whether filing makes sense versus paying out-of-pocket and preserving claims history.</li><li><strong>Ask about endorsement options</strong>, Request quotes for: increased Coverage B (typically $20–$50/year per additional $10,000), fence-specific sublimit removal, and replacement cost endorsement for other structures.</li></ol>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Fence Coverage Gap Finder Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to identify whether your policy has hidden gaps before you file a claim.</p>
+ <ol><li><strong>Locate your declarations page</strong>, Look for a separate line item mentioning "fence," "fencing," or "outdoor structures" with a dollar cap. If you see a number like $500–$2,500 listed separately from Coverage B, that sublimit overrides your total other structures coverage.</li><li><strong>Calculate your true Coverage B capacity</strong>, Add up replacement costs: detached garage ($15,000–$40,000 typical), shed ($1,500–$8,000), fence ($3,000–$15,000 for wood privacy), pool enclosure ($5,000–$20,000). If total exceeds 10% of dwelling coverage, you're underinsured for a multi-structure loss.</li><li><strong>Check for "actual cash value" language on fences</strong>, Many policies pay ACV (depreciated value) rather than replacement cost for fences. A 10-year-old wood fence originally worth $8,000 might pay out at $2,500–$3,500 after depreciation.</li><li><strong>Review excluded perils</strong>, Standard HO-3 policies typically exclude fence damage from: flood, earthquake, normal wear/rot, insect damage, tree roots, and gradual settling. Wind and fallen trees are usually covered only if the tree fell due to a covered peril.</li><li><strong>Confirm your deductible applies per occurrence</strong>, A $1,500 deductible on a $2,000 fence claim leaves you with $500. Calculate whether filing makes sense versus paying out-of-pocket and preserving claims history.</li><li><strong>Ask about endorsement options</strong>, Request quotes for: increased Coverage B (typically $20–$50/year per additional $10,000), fence-specific sublimit removal, and replacement cost endorsement for other structures.</li></ol>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "Other Structures" Actually Means for Your Fence

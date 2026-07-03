@@ -9,16 +9,16 @@ tags: ["home", "insurance", "after", "refinancing"]
 slug: "home-insurance-after-refinancing"
 affiliate_disclosure: true
 faqs:
-  - q: "Does refinancing automatically change my home insurance policy?"
-    a: "No. Refinancing doesn't trigger any automatic changes to your insurance policy. You have to proactively update the mortgagee clause to reflect your new lender, or your policy will still list the old one. Nothing about the closing process notifies your insurer on your behalf."
-  - q: "How quickly do I need to update my insurance after refinancing?"
-    a: "Do it within a week of closing, ideally within a day or two. Your new lender may require proof of insurance with their name listed as mortgagee before they'll finalize certain paperwork, and some will flag your account quickly if they can't verify coverage."
-  - q: "What is force-placed insurance and why is it so bad?"
-    a: "Force-placed insurance is a policy your lender buys on your behalf if they can't verify you have adequate coverage. It protects only their financial interest in the structure, not your belongings or your liability. It's typically far more expensive than a policy you'd buy yourself, and those costs get added to your mortgage payment."
-  - q: "Does refinancing affect how much coverage I need?"
-    a: "Not directly, but it's a smart trigger to re-evaluate. Refinancing often coincides with changes in home value or planned renovations, both of which can affect how much dwelling coverage you should carry. At minimum, use it as a prompt to verify your replacement cost estimate is current."
-  - q: "Will my insurer notify me if there's a problem with my policy after refinancing?"
-    a: "They'll try. But notices go to the address on file, and if you've moved or if your contact information has drifted, things fall through the cracks. Don't rely on your insurer to catch problems created by your refinance. Take about 20 minutes after closing to verify everything yourself."
+ - q: "Does refinancing automatically change my home insurance policy?"
+ a: "No. Refinancing doesn't trigger any automatic changes to your insurance policy. You have to proactively update the mortgagee clause to reflect your new lender, or your policy will still list the old one. Nothing about the closing process notifies your insurer on your behalf."
+ - q: "How quickly do I need to update my insurance after refinancing?"
+ a: "Do it within a week of closing, ideally within a day or two. Your new lender may require proof of insurance with their name listed as mortgagee before they'll finalize certain paperwork, and some will flag your account quickly if they can't verify coverage."
+ - q: "What is force-placed insurance and why is it so bad?"
+ a: "Force-placed insurance is a policy your lender buys on your behalf if they can't verify you have adequate coverage. It protects only their financial interest in the structure, not your belongings or your liability. It's typically far more expensive than a policy you'd buy yourself, and those costs get added to your mortgage payment."
+ - q: "Does refinancing affect how much coverage I need?"
+ a: "Not directly, but it's a smart trigger to re-evaluate. Refinancing often coincides with changes in home value or planned renovations, both of which can affect how much dwelling coverage you should carry. At minimum, use it as a prompt to verify your replacement cost estimate is current."
+ - q: "Will my insurer notify me if there's a problem with my policy after refinancing?"
+ a: "They'll try. But notices go to the address on file, and if you've moved or if your contact information has drifted, things fall through the cracks. Don't rely on your insurer to catch problems created by your refinance. Take about 20 minutes after closing to verify everything yourself."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
@@ -33,12 +33,12 @@ Refinancing touches your home insurance in ways nobody explains at the closing t
 
 
 <div class="value-module">
-  <div class="vm-head">Post-Refinance Insurance Checklist with Deadlines</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this timeline to avoid coverage gaps and force-placed insurance after refinancing.</p>
-    <table><caption>Critical Insurance Tasks After Refinancing</caption><thead><tr><th>Task</th><th>Deadline</th><th>What You Need</th><th>Red Flag If Missed</th></tr></thead><tbody><tr><td>Update mortgagee clause with insurer</td><td>Within 3 business days of closing</td><td>New lender's exact legal name, mailing address, loan number (from closing docs)</td><td>Claim checks issued to wrong lender; payout delays of 30–90 days</td></tr><tr><td>Verify new lender received declarations page</td><td>Within 14 days of closing</td><td>Confirmation from agent showing transmission date</td><td>Lender may flag policy as unverified</td></tr><tr><td>Confirm escrow account insurance payment setup</td><td>Before first mortgage payment</td><td>Escrow disclosure statement; annual premium amount</td><td>Premium not funded; policy lapses at renewal</td></tr><tr><td>Review dwelling coverage against new loan amount</td><td>Within 30 days of closing</td><td>Loan payoff amount; current replacement cost estimate</td><td>Coverage below lender's 100% replacement cost requirement</td></tr><tr><td>Check mailbox for insurer or lender notices</td><td>Ongoing for 90 days post-closing</td><td>Watch for requests to verify coverage or increase limits</td><td>Force-placed insurance added at 2–3× normal premium</td></tr><tr><td>Confirm old lender removed from policy</td><td>Within 45 days of closing</td><td>Updated declarations page listing only new mortgagee</td><td>Duplicate mortgagee clauses complicate future claims</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Post-Refinance Insurance Checklist with Deadlines</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this timeline to avoid coverage gaps and force-placed insurance after refinancing.</p>
+ <table><caption>Critical Insurance Tasks After Refinancing</caption><thead><tr><th>Task</th><th>Deadline</th><th>What You Need</th><th>Red Flag If Missed</th></tr></thead><tbody><tr><td>Update mortgagee clause with insurer</td><td>Within 3 business days of closing</td><td>New lender's exact legal name, mailing address, loan number (from closing docs)</td><td>Claim checks issued to wrong lender; payout delays of 30–90 days</td></tr><tr><td>Verify new lender received declarations page</td><td>Within 14 days of closing</td><td>Confirmation from agent showing transmission date</td><td>Lender may flag policy as unverified</td></tr><tr><td>Confirm escrow account insurance payment setup</td><td>Before first mortgage payment</td><td>Escrow disclosure statement; annual premium amount</td><td>Premium not funded; policy lapses at renewal</td></tr><tr><td>Review dwelling coverage against new loan amount</td><td>Within 30 days of closing</td><td>Loan payoff amount; current replacement cost estimate</td><td>Coverage below lender's 100% replacement cost requirement</td></tr><tr><td>Check mailbox for insurer or lender notices</td><td>Ongoing for 90 days post-closing</td><td>Watch for requests to verify coverage or increase limits</td><td>Force-placed insurance added at 2–3× normal premium</td></tr><tr><td>Confirm old lender removed from policy</td><td>Within 45 days of closing</td><td>Updated declarations page listing only new mortgagee</td><td>Duplicate mortgagee clauses complicate future claims</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Your Lender Has Changed. Your Policy Doesn't Know That.

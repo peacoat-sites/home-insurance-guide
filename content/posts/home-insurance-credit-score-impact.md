@@ -9,16 +9,16 @@ tags: ["home", "insurance", "credit", "score", "impact"]
 slug: "home-insurance-credit-score-impact"
 affiliate_disclosure: true
 faqs:
-  - q: "Does checking my own credit hurt my insurance score?"
-    a: "No. When you pull your own credit report, it's recorded as a 'soft inquiry.' Only 'hard inquiries,' the kind generated when you apply for credit, show up in the data insurers use. Checking your own report has zero negative impact. Do it regularly."
-  - q: "Can an insurer deny my application based on credit alone?"
-    a: "In most states where credit scoring is permitted, yes, technically. In practice, most insurers use it as a rating factor rather than a hard eligibility gate. But some carriers do decline to write policies for applicants below a certain credit tier, particularly in voluntary market programs. If you're having trouble getting coverage, your state's FAIR Plan (insurer of last resort) cannot use credit as a disqualifying factor."
-  - q: "Will filing a homeowner claim hurt my credit score?"
-    a: "No, not directly. Homeowner insurance claims don't show up on your credit report. Your credit score is unaffected by claims activity. However, claims are tracked separately in a database called CLUE (Comprehensive Loss Underwriting Exchange), maintained by LexisNexis, and prior claims can affect your insurability and your rate independent of your credit. These are two completely separate systems."
-  - q: "How long do negative credit items affect my insurance score?"
-    a: "Most negative items, late payments, collections, defaults, age off your credit report after seven years. Bankruptcies can remain for up to ten years. As these items age and eventually fall off, your credit-based insurance score will generally improve assuming you've maintained better habits since. The trajectory matters as much as the absolute score."
-  - q: "My credit dropped during a divorce. What can I do?"
-    a: "Request a life event exception from your insurer. Document the timeline: when the divorce proceedings began, how they affected joint accounts, any errors introduced to your report. Most states with credit scoring rules require insurers to offer this exception process in writing. Submit a formal written request, keep a copy, and follow up in writing if you don't hear back. If your insurer refuses to engage, your state insurance department has a consumer complaints process."
+ - q: "Does checking my own credit hurt my insurance score?"
+ a: "No. When you pull your own credit report, it's recorded as a 'soft inquiry.' Only 'hard inquiries,' the kind generated when you apply for credit, show up in the data insurers use. Checking your own report has zero negative impact. Do it regularly."
+ - q: "Can an insurer deny my application based on credit alone?"
+ a: "In most states where credit scoring is permitted, yes, technically. In practice, most insurers use it as a rating factor rather than a hard eligibility gate. But some carriers do decline to write policies for applicants below a certain credit tier, particularly in voluntary market programs. If you're having trouble getting coverage, your state's FAIR Plan (insurer of last resort) cannot use credit as a disqualifying factor."
+ - q: "Will filing a homeowner claim hurt my credit score?"
+ a: "No, not directly. Homeowner insurance claims don't show up on your credit report. Your credit score is unaffected by claims activity. However, claims are tracked separately in a database called CLUE (Comprehensive Loss Underwriting Exchange), maintained by LexisNexis, and prior claims can affect your insurability and your rate independent of your credit. These are two completely separate systems."
+ - q: "How long do negative credit items affect my insurance score?"
+ a: "Most negative items, late payments, collections, defaults, age off your credit report after seven years. Bankruptcies can remain for up to ten years. As these items age and eventually fall off, your credit-based insurance score will generally improve assuming you've maintained better habits since. The trajectory matters as much as the absolute score."
+ - q: "My credit dropped during a divorce. What can I do?"
+ a: "Request a life event exception from your insurer. Document the timeline: when the divorce proceedings began, how they affected joint accounts, any errors introduced to your report. Most states with credit scoring rules require insurers to offer this exception process in writing. Submit a formal written request, keep a copy, and follow up in writing if you don't hear back. If your insurer refuses to engage, your state insurance department has a consumer complaints process."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
@@ -31,12 +31,12 @@ Most people know a bad credit score will tank their car loan interest rate. Far 
 
 
 <div class="value-module">
-  <div class="vm-head">Credit Tier Premium Impact Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows how credit-based insurance scores typically translate to annual premium differences for the same $300,000 home with identical coverage.</p>
-    <table><thead><tr><th>Credit Tier</th><th>Typical Insurance Score Range</th><th>Estimated Annual Premium</th><th>Cost vs. Excellent Credit</th><th>Monthly Difference</th></tr></thead><tbody><tr><td>Excellent</td><td>776–997</td><td>$1,450</td><td>Baseline</td><td>$0</td></tr><tr><td>Good</td><td>626–775</td><td>$1,740</td><td>+$290 (+20%)</td><td>+$24</td></tr><tr><td>Fair</td><td>501–625</td><td>$2,175</td><td>+$725 (+50%)</td><td>+$60</td></tr><tr><td>Poor</td><td>300–500</td><td>$2,755</td><td>+$1,305 (+90%)</td><td>+$109</td></tr></tbody><tfoot><tr><td colspan="5"><em>Figures are illustrative national averages; actual premiums vary by insurer, state, and individual risk factors. States including California, Maryland, and Massachusetts restrict or prohibit credit-based insurance scoring.</em></td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Credit Tier Premium Impact Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows how credit-based insurance scores typically translate to annual premium differences for the same $300,000 home with identical coverage.</p>
+ <table><thead><tr><th>Credit Tier</th><th>Typical Insurance Score Range</th><th>Estimated Annual Premium</th><th>Cost vs. Excellent Credit</th><th>Monthly Difference</th></tr></thead><tbody><tr><td>Excellent</td><td>776–997</td><td>$1,450</td><td>Baseline</td><td>$0</td></tr><tr><td>Good</td><td>626–775</td><td>$1,740</td><td>+$290 (+20%)</td><td>+$24</td></tr><tr><td>Fair</td><td>501–625</td><td>$2,175</td><td>+$725 (+50%)</td><td>+$60</td></tr><tr><td>Poor</td><td>300–500</td><td>$2,755</td><td>+$1,305 (+90%)</td><td>+$109</td></tr></tbody><tfoot><tr><td colspan="5"><em>Figures are illustrative national averages; actual premiums vary by insurer, state, and individual risk factors. States including California, Maryland, and Massachusetts restrict or prohibit credit-based insurance scoring.</em></td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Insurers Actually Use: The Insurance Score vs. Your Credit Score
