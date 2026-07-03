@@ -11,10 +11,7 @@ author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "your-wildfire-risk-score-is-no-longer-secret"
-affiliate_disclosure: true
----
-
-Wildfire season is burning through June 2026, and for the first time, Colorado homeowners have a legal right to see the number that may have quietly ended their insurance coverage. Colorado's HB25-1182 takes effect July 1, 2026, requiring insurers to disclose the wildfire risk scores they use to price, non-renew, or deny policies. Washington state's SB 5928 passed the Senate 48-1 in February 2026 with nearly identical requirements. Two states in six months signals something real: the era of secret risk scoring is ending, whether insurers want it to or not.
+affiliate_disclosure: true, Wildfire season is burning through June 2026, and for the first time, Colorado homeowners have a legal right to see the number that may have quietly ended their insurance coverage. Colorado's HB25-1182 takes effect July 1, 2026, requiring insurers to disclose the wildfire risk scores they use to price, non-renew, or deny policies. Washington state's SB 5928 passed the Senate 48-1 in February 2026 with nearly identical requirements. Two states in six months signals something real: the era of secret risk scoring is ending, whether insurers want it to or not.
 
 Here's what most coverage of these laws gets wrong: they frame this as a minor disclosure tweak. It's not. It's the first crack in a system that has been pricing homeowners out of the standard market based on algorithms nobody outside the insurance industry could examine, question, or contest.
 
@@ -67,11 +64,11 @@ One more thing: none of this replaces a conversation with a licensed insurance p
 The score existed before July 1. Now you get to see it.
 
 ## Sources
-- [Colorado Wildfire Risk Score: What HB 1182 Means for You ,  Live Insurance News](https://www.liveinsurancenews.com/colorado-wildfire-risk-score/8571925/) (May 2, 2026)
-- [Wildfire Risk Scoring Transparency Bill Passes State Senate ,  WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/wildfire-risk-scoring-transparency-bill-passes-state-senate) (February 12, 2026)
-- [Consumer Alert: Wildfire Season Is Here ,  WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/consumer-alert-wildfire-season-here-and-so-oic) (June 17, 2026)
-- [Colorado Wildfire Risk Score HB 1182 ,  Premier Mountain Insurance](https://www.premiermountaininsurance.com/colorado-wildfire-risk-score-hb-1182/) (June 2026)
-- [2026 Home Insurance Trends & Predictions ,  Matic](https://matic.com/blog/2026-home-insurance-predictions/) (December 19, 2025)
+- [Colorado Wildfire Risk Score: What HB 1182 Means for You , Live Insurance News](https://www.liveinsurancenews.com/colorado-wildfire-risk-score/8571925/) (May 2, 2026)
+- [Wildfire Risk Scoring Transparency Bill Passes State Senate , WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/wildfire-risk-scoring-transparency-bill-passes-state-senate) (February 12, 2026)
+- [Consumer Alert: Wildfire Season Is Here , WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/consumer-alert-wildfire-season-here-and-so-oic) (June 17, 2026)
+- [Colorado Wildfire Risk Score HB 1182 , Premier Mountain Insurance](https://www.premiermountaininsurance.com/colorado-wildfire-risk-score-hb-1182/) (June 2026)
+- [2026 Home Insurance Trends & Predictions , Matic](https://matic.com/blog/2026-home-insurance-predictions/) (December 19, 2025)
 
 ## Helpful Resources
 
@@ -94,7 +91,7 @@ The score existed before July 1. Now you get to see it.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) — Hardwired interconnected smoke and CO detector — when one alarm sounds, all alarms in the house sound.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
 

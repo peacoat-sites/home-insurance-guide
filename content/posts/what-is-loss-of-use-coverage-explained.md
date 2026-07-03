@@ -13,16 +13,16 @@ author_bio: "Diana Foster worked as a public adjuster for a decade, helping home
 slug: "what-is-loss-of-use-coverage-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does loss of use coverage last?"
-    a: "It depends on your policy. Most policies cover the 'shortest time required to repair or replace the damage,' but some impose a hard cap of 12 or 24 months regardless of how long the repair actually takes. Check your declarations page for both a dollar limit and a time limit. Both apply, and whichever you hit first ends the coverage."
-  - q: "Does loss of use coverage apply if I voluntarily leave my home?"
-    a: "No. Coverage requires that your home be uninhabitable due to a covered loss, not that it's inconvenient or uncomfortable to stay in. If a fire damages one room but the rest of the house is livable, don't expect ALE reimbursement for a hotel stay. An adjuster will evaluate habitability based on safety, sanitation, and access to basic functions like heat and running water."
-  - q: "Can I stay with family and still collect loss of use?"
-    a: "Yes, if you're paying them fair market rent and have documentation (a written agreement and proof of payment). You can't collect for free lodging with relatives, but legitimate rent paid to a family member counts as a housing expense. Get it in writing before you move in."
-  - q: "What if my insurer says my home is habitable but I don't agree?"
-    a: "You have the right to dispute that determination. Ask for the adjuster's habitability assessment in writing and request an itemized explanation. You can hire a public adjuster or an independent inspector to counter their assessment. If it becomes a formal dispute, your policy likely includes an appraisal or mediation clause. The NAIC consumer portal is a good starting point for understanding your state-specific rights."
-  - q: "Does loss of use coverage pay my mortgage while I'm displaced?"
-    a: "No. Your mortgage is an obligation you carry regardless of whether you're living in the home. Loss of use covers the additional costs of living elsewhere, not your baseline housing debt. This surprises a lot of people, and honestly, it's one of the most common misconceptions I heard during my claims years."
+ - q: "How long does loss of use coverage last?"
+ a: "It depends on your policy. Most policies cover the 'shortest time required to repair or replace the damage,' but some impose a hard cap of 12 or 24 months regardless of how long the repair actually takes. Check your declarations page for both a dollar limit and a time limit. Both apply, and whichever you hit first ends the coverage."
+ - q: "Does loss of use coverage apply if I voluntarily leave my home?"
+ a: "No. Coverage requires that your home be uninhabitable due to a covered loss, not that it's inconvenient or uncomfortable to stay in. If a fire damages one room but the rest of the house is livable, don't expect ALE reimbursement for a hotel stay. An adjuster will evaluate habitability based on safety, sanitation, and access to basic functions like heat and running water."
+ - q: "Can I stay with family and still collect loss of use?"
+ a: "Yes, if you're paying them fair market rent and have documentation (a written agreement and proof of payment). You can't collect for free lodging with relatives, but legitimate rent paid to a family member counts as a housing expense. Get it in writing before you move in."
+ - q: "What if my insurer says my home is habitable but I don't agree?"
+ a: "You have the right to dispute that determination. Ask for the adjuster's habitability assessment in writing and request an itemized explanation. You can hire a public adjuster or an independent inspector to counter their assessment. If it becomes a formal dispute, your policy likely includes an appraisal or mediation clause. The NAIC consumer portal is a good starting point for understanding your state-specific rights."
+ - q: "Does loss of use coverage pay my mortgage while I'm displaced?"
+ a: "No. Your mortgage is an obligation you carry regardless of whether you're living in the home. Loss of use covers the additional costs of living elsewhere, not your baseline housing debt. This surprises a lot of people, and honestly, it's one of the most common misconceptions I heard during my claims years."
 ---
 
 Most homeowners couldn't tell you what loss of use coverage actually pays for. I know because I spent 14 years on the other side of those calls, watching people discover the hard way that "Additional Living Expenses" on their declarations page wasn't quite what they thought it was.
@@ -154,7 +154,7 @@ One more thing: notify your insurer immediately when you're displaced, before yo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 

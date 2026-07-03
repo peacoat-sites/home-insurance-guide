@@ -11,10 +11,7 @@ author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
 author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
 slug: "your-wildfire-risk-score-now-has-to-be-disclosed"
-affiliate_disclosure: true
----
-
-If you own a home anywhere near the wildland-urban interface, you've probably felt the ground shift under you over the past few years. Premiums going up. Renewal letters that don't quite explain why. A neighbor who got dropped and couldn't figure out what triggered it. You might be wondering whether your insurer knows something about your property that you don't. Starting July 1, 2026, in Colorado, the answer is: they have to tell you.
+affiliate_disclosure: true, If you own a home anywhere near the wildland-urban interface, you've probably felt the ground shift under you over the past few years. Premiums going up. Renewal letters that don't quite explain why. A neighbor who got dropped and couldn't figure out what triggered it. You might be wondering whether your insurer knows something about your property that you don't. Starting July 1, 2026, in Colorado, the answer is: they have to tell you.
 
 Colorado's HB 25-1182, signed into law May 28, 2025, is the first mandate of its kind in the country. Any insurer using a wildfire risk model must now disclose your score, explain what factors drove it, and give you a real path to appeal or earn credit for mitigation work you've already done. Washington state followed close behind, passing SB 5928 in February 2026 by a stunning 48-to-1 Senate vote, with near-identical requirements. Wildfire season is open. These laws couldn't be more timely.
 
@@ -32,7 +29,7 @@ That's the gap these laws are designed to close.
 
 
 
-Knowing your score matters, but it's what comes with the score that really changes things. Colorado's law requires insurers to explain the factors behind your score and to provide you a path to earn credit for mitigation work. That's significant. Clearing defensible space, upgrading to ember-resistant vents, replacing wood shake roofing ,  these things can genuinely reduce your property's risk profile, but only if your insurer is required to acknowledge them.
+Knowing your score matters, but it's what comes with the score that really changes things. Colorado's law requires insurers to explain the factors behind your score and to provide you a path to earn credit for mitigation work. That's significant. Clearing defensible space, upgrading to ember-resistant vents, replacing wood shake roofing , these things can genuinely reduce your property's risk profile, but only if your insurer is required to acknowledge them.
 
 Washington's law goes a step further in plain-language requirements. Insurers must provide clear, readable steps for how you could improve your score. Not legalese. Not a boilerplate disclaimer. Actual guidance. As someone who spent years reviewing claims, I can tell you that homeowners who understood their risk and acted on it before a fire tended to fare better on coverage disputes afterward too. Documentation is everything.
 
@@ -62,11 +59,11 @@ The fact that Colorado and Washington had to pass laws to force this disclosure 
 
 ## Sources
 
-- [Colorado Just Gave Homeowners the Right to See Their Wildfire Risk Score ,  Live Insurance News](https://www.liveinsurancenews.com/colorado-wildfire-risk-score/8571925/) (May 2, 2026)
-- [Wildfire Risk Scoring Transparency Bill Passes WA State Senate ,  WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/wildfire-risk-scoring-transparency-bill-passes-state-senate) (February 12, 2026)
-- [Consumer Alert: Wildfire Season Is Here ,  WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/consumer-alert-wildfire-season-here-and-so-oic) (June 17, 2026)
-- [US Homeowners Face Chronic Underinsurance as LA Wildfire Losses Mount ,  United Policyholders](https://uphelp.org/us-homeowners-face-chronic-underinsurance-as-la-wildfire-losses-mount/) (February 9, 2026)
-- [Underinsured Homeowners May Be at Risk as Mortgage Rates Surge ,  The MortgagePoint](https://themortgagepoint.com/2026/04/07/underinsured-homeowners-may-be-at-risk-as-mortgage-rates-surge/) (April 7, 2026)
+- [Colorado Just Gave Homeowners the Right to See Their Wildfire Risk Score , Live Insurance News](https://www.liveinsurancenews.com/colorado-wildfire-risk-score/8571925/) (May 2, 2026)
+- [Wildfire Risk Scoring Transparency Bill Passes WA State Senate , WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/wildfire-risk-scoring-transparency-bill-passes-state-senate) (February 12, 2026)
+- [Consumer Alert: Wildfire Season Is Here , WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/consumer-alert-wildfire-season-here-and-so-oic) (June 17, 2026)
+- [US Homeowners Face Chronic Underinsurance as LA Wildfire Losses Mount , United Policyholders](https://uphelp.org/us-homeowners-face-chronic-underinsurance-as-la-wildfire-losses-mount/) (February 9, 2026)
+- [Underinsured Homeowners May Be at Risk as Mortgage Rates Surge , The MortgagePoint](https://themortgagepoint.com/2026/04/07/underinsured-homeowners-may-be-at-risk-as-mortgage-rates-surge/) (April 7, 2026)
 
 ## Helpful Resources
 
