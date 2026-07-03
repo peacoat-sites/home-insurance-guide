@@ -11,7 +11,9 @@ author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "reinsurance-rates-just-fell-sharply-will-your-premium-follow"
-affiliate_disclosure: true, Something unusual happened at the wholesale end of the insurance market this month, and almost nobody outside the industry noticed. At the June 1, 2026 reinsurance renewals, the price that insurance companies pay to insure *themselves* against catastrophic losses dropped by 15 to 25 percent, the steepest single-renewal decline in years according to reports from Howden Re and Guy Carpenter. If you've been waiting for your homeowner's premium to finally come down, you might assume this is your moment. I'll be honest: it probably isn't.
+affiliate_disclosure: true
+---
+Something unusual happened at the wholesale end of the insurance market this month, and almost nobody outside the industry noticed. At the June 1, 2026 reinsurance renewals, the price that insurance companies pay to insure *themselves* against catastrophic losses dropped by 15 to 25 percent, the steepest single-renewal decline in years according to reports from Howden Re and Guy Carpenter. If you've been waiting for your homeowner's premium to finally come down, you might assume this is your moment. I'll be honest: it probably isn't.
 
 Understanding why requires a quick look at how the insurance supply chain actually works, and where the money goes before it ever reaches your policy.
 

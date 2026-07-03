@@ -13,7 +13,9 @@ author_slug: "mark-thompson"
 author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 slug: "you-are-paying-more-for-home-insurance-but-covered-for-less"
-affiliate_disclosure: true, Picture this: your neighbor's house burns down in a wildfire. They had insurance, paid every premium on time, never missed a renewal. Then the adjuster calls with the payout number, and it's $140,000 short of what it actually costs to rebuild. That's not a horror story I'm making up. That's the documented reality for 74% of homeowners affected by Colorado's 2021 Marshall Fire, according to a 2025 University of Colorado study. The average coverage gap was $139,000. People did everything right and still got crushed.
+affiliate_disclosure: true
+---
+Picture this: your neighbor's house burns down in a wildfire. They had insurance, paid every premium on time, never missed a renewal. Then the adjuster calls with the payout number, and it's $140,000 short of what it actually costs to rebuild. That's not a horror story I'm making up. That's the documented reality for 74% of homeowners affected by Colorado's 2021 Marshall Fire, according to a 2025 University of Colorado study. The average coverage gap was $139,000. People did everything right and still got crushed.
 
 Now multiply that scenario by the current moment: June 2026, and the picture is genuinely alarming. According to LendingTree's 2026 State of Home Insurance Report, homeowners absorbed a cumulative 46.8% increase in premiums between 2020 and 2025. Nearly 47 cents more on every dollar, for five straight years. You'd think that kind of money would buy serious protection. Here's what should stop you in your tracks: it mostly didn't.
 

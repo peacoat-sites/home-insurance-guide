@@ -11,7 +11,9 @@ author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "your-wildfire-risk-score-is-no-longer-secret"
-affiliate_disclosure: true, Wildfire season is burning through June 2026, and for the first time, Colorado homeowners have a legal right to see the number that may have quietly ended their insurance coverage. Colorado's HB25-1182 takes effect July 1, 2026, requiring insurers to disclose the wildfire risk scores they use to price, non-renew, or deny policies. Washington state's SB 5928 passed the Senate 48-1 in February 2026 with nearly identical requirements. Two states in six months signals something real: the era of secret risk scoring is ending, whether insurers want it to or not.
+affiliate_disclosure: true
+---
+Wildfire season is burning through June 2026, and for the first time, Colorado homeowners have a legal right to see the number that may have quietly ended their insurance coverage. Colorado's HB25-1182 takes effect July 1, 2026, requiring insurers to disclose the wildfire risk scores they use to price, non-renew, or deny policies. Washington state's SB 5928 passed the Senate 48-1 in February 2026 with nearly identical requirements. Two states in six months signals something real: the era of secret risk scoring is ending, whether insurers want it to or not.
 
 Here's what most coverage of these laws gets wrong: they frame this as a minor disclosure tweak. It's not. It's the first crack in a system that has been pricing homeowners out of the standard market based on algorithms nobody outside the insurance industry could examine, question, or contest.
 

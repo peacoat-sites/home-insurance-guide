@@ -11,7 +11,9 @@ author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
 author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
 slug: "your-wildfire-risk-score-now-has-to-be-disclosed"
-affiliate_disclosure: true, If you own a home anywhere near the wildland-urban interface, you've probably felt the ground shift under you over the past few years. Premiums going up. Renewal letters that don't quite explain why. A neighbor who got dropped and couldn't figure out what triggered it. You might be wondering whether your insurer knows something about your property that you don't. Starting July 1, 2026, in Colorado, the answer is: they have to tell you.
+affiliate_disclosure: true
+---
+If you own a home anywhere near the wildland-urban interface, you've probably felt the ground shift under you over the past few years. Premiums going up. Renewal letters that don't quite explain why. A neighbor who got dropped and couldn't figure out what triggered it. You might be wondering whether your insurer knows something about your property that you don't. Starting July 1, 2026, in Colorado, the answer is: they have to tell you.
 
 Colorado's HB 25-1182, signed into law May 28, 2025, is the first mandate of its kind in the country. Any insurer using a wildfire risk model must now disclose your score, explain what factors drove it, and give you a real path to appeal or earn credit for mitigation work you've already done. Washington state followed close behind, passing SB 5928 in February 2026 by a stunning 48-to-1 Senate vote, with near-identical requirements. Wildfire season is open. These laws couldn't be more timely.
 

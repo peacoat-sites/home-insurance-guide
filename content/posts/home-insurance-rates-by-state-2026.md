@@ -10,15 +10,15 @@ date: 2026-06-28
 lastmod: 2026-06-28
 faqs:
  - question: "Why does Florida cost so much more than other states?"
- answer: "Florida averages $10,240/year vs. national average $2,490. Drivers: hurricane risk (catastrophic claims), high litigation rates (fraud pressures), carrier flight (reduced competition), and roof-age scrutiny (32 billion in roof claims in 2024 alone)."
+   answer: "Florida averages $10,240/year vs. national average $2,490. Drivers: hurricane risk (catastrophic claims), high litigation rates (fraud pressures), carrier flight (reduced competition), and roof-age scrutiny (32 billion in roof claims in 2024 alone)."
  - question: "Can I lower my rate by improving my credit score?"
- answer: "Yes. Poor credit holders pay 72% more ($1,800/year premium increase). Improving from poor (580) to good (700) saves ~$1,800 annually. Some states (CA, MD, MA) prohibit credit-based pricing, so check your state."
+   answer: "Yes. Poor credit holders pay 72% more ($1,800/year premium increase). Improving from poor (580) to good (700) saves ~$1,800 annually. Some states (CA, MD, MA) prohibit credit-based pricing, so check your state."
  - question: "What&#x2019;s the biggest rate factor I control?"
- answer: "Roof age. It&#x2019;s the #1 underwriting factor in 2026. A 15-year roof costs ~$600 more/year than a 10-year roof. A 25+ year roof can mean non-renewal. Replacing your roof can save $1,000-$2,000/year."
+   answer: "Roof age. It&#x2019;s the #1 underwriting factor in 2026. A 15-year roof costs ~$600 more/year than a 10-year roof. A 25+ year roof can mean non-renewal. Replacing your roof can save $1,000-$2,000/year."
  - question: "Is homeowners insurance cheaper by bundling with auto?"
- answer: "Yes. Bundling (home + auto) averages 18% savings, about $448/year on a $2,490 policy. This is the single biggest discount most people leave on the table."
+   answer: "Yes. Bundling (home + auto) averages 18% savings, about $448/year on a $2,490 policy. This is the single biggest discount most people leave on the table."
  - question: "Do I need separate flood insurance?"
- answer: "If you&#x2019;re in a FEMA flood zone with a government-backed mortgage, yes, it&#x2019;s mandatory. Even if not mandatory, coastal or river-adjacent homes should consider it ($400-$3,000/year depending on risk)."
+   answer: "If you&#x2019;re in a FEMA flood zone with a government-backed mortgage, yes, it&#x2019;s mandatory. Even if not mandatory, coastal or river-adjacent homes should consider it ($400-$3,000/year depending on risk)."
 categories: ["Homeowners Insurance", "Insurance Costs", "State-by-State Rates"]
 keywords: ["homeowners insurance rates by state", "home insurance cost", "cheapest homeowners insurance", "most expensive insurance states", "credit score impact insurance"]
 featured_depth: true, I spent 14 years reviewing insurance claims. I saw the same pattern over and over: homeowners paying wildly different rates for essentially identical homes, based on factors they didn't understand, or worse, didn't know they could control.

@@ -11,7 +11,9 @@ author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
 author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
 slug: "why-the-biggest-home-insurers-are-denying-nearly-half-of-all-claims"
-affiliate_disclosure: true, The numbers came out in late May 2026, and they're worth sitting with for a moment. A Wall Street Journal analysis found that the five largest U.S. home insurers, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, collectively declined more than 44% of claims resolved in 2025. A decade ago, that figure was 36%. That's not a rounding error. That's a structural shift in what home insurance actually does for the people paying for it.
+affiliate_disclosure: true
+---
+The numbers came out in late May 2026, and they're worth sitting with for a moment. A Wall Street Journal analysis found that the five largest U.S. home insurers, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, collectively declined more than 44% of claims resolved in 2025. A decade ago, that figure was 36%. That's not a rounding error. That's a structural shift in what home insurance actually does for the people paying for it.
 
 Then Weiss Ratings published a separate list in April 2026 naming 15 large insurers that closed at least 50% of homeowner claims with zero payout in 2025. Mid-Century Insurance Company of Texas topped that list at 78%. Lemonade hit 64%. Spinnaker Insurance came in at 61%. These aren't obscure regional carriers. Some of them are actively advertising right now, selling peace of mind to homeowners who may never see a dollar when something goes wrong.
 

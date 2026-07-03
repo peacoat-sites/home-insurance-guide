@@ -11,7 +11,9 @@ author_slug: "carl-brooks"
 author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 slug: "reinsurance-rates-just-fell-will-your-home-insurance-bill-follow"
-affiliate_disclosure: true, Picture this: you open your homeowner's insurance renewal notice and the number is actually lower than last year. Maybe it's down $80, maybe $200. You read it twice because it hasn't happened in half a decade. That moment, still rare, is becoming slightly less rare in 2026, and the reason starts in a market most homeowners have never heard of.
+affiliate_disclosure: true
+---
+Picture this: you open your homeowner's insurance renewal notice and the number is actually lower than last year. Maybe it's down $80, maybe $200. You read it twice because it hasn't happened in half a decade. That moment, still rare, is becoming slightly less rare in 2026, and the reason starts in a market most homeowners have never heard of.
 
 Reinsurance, the insurance that your insurer buys to protect itself from catastrophic losses, just got meaningfully cheaper. At the June 1, 2026 renewal cycle, the most significant date on the reinsurance calendar, risk-adjusted property-catastrophe reinsurance rates dropped 10 to 25 percent, the steepest decline of any renewal period so far this year, according to Howden Re. That is a real and substantial shift. Whether it reaches your mailbox is a different question entirely.
 

@@ -11,7 +11,9 @@ author_slug: "mark-thompson"
 author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 slug: "nearly-half-of-home-insurance-claims-pay-out-nothing"
-affiliate_disclosure: true, If you're renewing your homeowner's policy this summer, or you've already paid your premium and feel reasonably covered, this is a hard moment to read about. You've been doing the responsible thing. You've been paying. And you might be wondering, if something actually happens to my house, will any of this matter?
+affiliate_disclosure: true
+---
+If you're renewing your homeowner's policy this summer, or you've already paid your premium and feel reasonably covered, this is a hard moment to read about. You've been doing the responsible thing. You've been paying. And you might be wondering, if something actually happens to my house, will any of this matter?
 
 Based on what we now know, that concern is completely justified.
 

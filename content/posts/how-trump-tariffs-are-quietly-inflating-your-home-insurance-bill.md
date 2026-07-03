@@ -11,7 +11,9 @@ author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "how-trump-tariffs-are-quietly-inflating-your-home-insurance-bill"
-affiliate_disclosure: true, Picture this: your home insurance renewal lands in your inbox, and the premium has jumped again. You haven't filed a claim in years. Nothing burned down. No pipe burst. You live in the same house, on the same street, and yet you're paying noticeably more than last year. You call your agent, who offers something vague about "market conditions." What they probably won't tell you is that a significant piece of that increase has nothing to do with your risk profile. It has to do with steel and lumber sitting in a port somewhere, waiting to clear a tariff schedule.
+affiliate_disclosure: true
+---
+Picture this: your home insurance renewal lands in your inbox, and the premium has jumped again. You haven't filed a claim in years. Nothing burned down. No pipe burst. You live in the same house, on the same street, and yet you're paying noticeably more than last year. You call your agent, who offers something vague about "market conditions." What they probably won't tell you is that a significant piece of that increase has nothing to do with your risk profile. It has to do with steel and lumber sitting in a port somewhere, waiting to clear a tariff schedule.
 
 This is the quiet story of 2026 for homeowners across the country. The tariff fights of 2025 are still working their way through your insurance bill right now, and most policyholders have no idea.
 

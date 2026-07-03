@@ -11,7 +11,9 @@ author_slug: "mark-thompson"
 author_title: "Insurance Writer"
 author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
 slug: "hail-and-wind-are-now-pricier-than-hurricanes-for-insurers"
-affiliate_disclosure: true, If you live in the Midwest or Great Plains and your homeowner's renewal notice arrived with a number that made you blink, here's why: hail and wind just officially dethroned hurricanes as the most expensive insured peril in American history. Not theoretically. Not trending that way. Done. Three separate reports from Aon, the Insurance Information Institute, and Cotality confirmed it in early 2026, and the math isn't close. Severe convective storms (SCS) cost U.S. insurers $51 billion in 2025 alone, the third straight year above that threshold. Peak storm season is underway right now. Your insurer already knows this. You should too.
+affiliate_disclosure: true
+---
+If you live in the Midwest or Great Plains and your homeowner's renewal notice arrived with a number that made you blink, here's why: hail and wind just officially dethroned hurricanes as the most expensive insured peril in American history. Not theoretically. Not trending that way. Done. Three separate reports from Aon, the Insurance Information Institute, and Cotality confirmed it in early 2026, and the math isn't close. Severe convective storms (SCS) cost U.S. insurers $51 billion in 2025 alone, the third straight year above that threshold. Peak storm season is underway right now. Your insurer already knows this. You should too.
 
 ## The Numbers That Reshuffled the Risk Map
 
