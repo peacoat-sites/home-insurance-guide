@@ -21,7 +21,9 @@ faqs:
    answer: "If you&#x2019;re in a FEMA flood zone with a government-backed mortgage, yes, it&#x2019;s mandatory. Even if not mandatory, coastal or river-adjacent homes should consider it ($400-$3,000/year depending on risk)."
 categories: ["Homeowners Insurance", "Insurance Costs", "State-by-State Rates"]
 keywords: ["homeowners insurance rates by state", "home insurance cost", "cheapest homeowners insurance", "most expensive insurance states", "credit score impact insurance"]
-featured_depth: true, I spent 14 years reviewing insurance claims. I saw the same pattern over and over: homeowners paying wildly different rates for essentially identical homes, based on factors they didn't understand, or worse, didn't know they could control.
+featured_depth: true
+---
+I spent 14 years reviewing insurance claims. I saw the same pattern over and over: homeowners paying wildly different rates for essentially identical homes, based on factors they didn't understand, or worse, didn't know they could control.
 
 A Florida homeowner with a 30-year-old roof, poor credit, and one prior claim? They might pay $15,000+/year. Their identical twin home in Vermont with the same profile? Maybe $1,500.
 
