@@ -14,15 +14,15 @@ slug: "landlord-insurance-vs-homeowners"
 affiliate_disclosure: true
 faqs:
  - q: "Can I use my homeowners insurance if I rent out a room in my home?"
- a: "If you're renting out a room while still living in the home yourself, some homeowners policies will cover this with an endorsement, but many won't. Call your insurer before your first tenant moves in and get any coverage confirmation in writing. Don't assume silence means approval."
+   a: "If you're renting out a room while still living in the home yourself, some homeowners policies will cover this with an endorsement, but many won't. Call your insurer before your first tenant moves in and get any coverage confirmation in writing. Don't assume silence means approval."
  - q: "What if I only rent my property seasonally or for a few months a year?"
- a: "Short-term and seasonal rentals often fall outside both standard homeowners and landlord policy definitions. You may need a short-term rental endorsement or a hybrid product. This is worth a direct conversation with your insurer, not just a policy skim."
+   a: "Short-term and seasonal rentals often fall outside both standard homeowners and landlord policy definitions. You may need a short-term rental endorsement or a hybrid product. This is worth a direct conversation with your insurer, not just a policy skim."
  - q: "Does landlord insurance cover my tenant's belongings if there's a fire?"
- a: "No. Landlord insurance covers the structure, your property, and your liability. Your tenant's belongings are their responsibility to insure through a renters policy. This is worth spelling out clearly in your lease."
+   a: "No. Landlord insurance covers the structure, your property, and your liability. Your tenant's belongings are their responsibility to insure through a renters policy. This is worth spelling out clearly in your lease."
  - q: "My property is in an LLC. Does that change what insurance I need?"
- a: "Owning through an LLC doesn't change the underlying need for landlord insurance, but it can affect how the policy is written and who's listed as the named insured. Make sure the LLC is correctly listed on the policy, otherwise a claim could be denied on a technicality."
+   a: "Owning through an LLC doesn't change the underlying need for landlord insurance, but it can affect how the policy is written and who's listed as the named insured. Make sure the LLC is correctly listed on the policy, otherwise a claim could be denied on a technicality."
  - q: "Will my insurer drop me if I find out I've had the wrong policy for years?"
- a: "Possibly. Some insurers will non-renew or cancel when they discover a rental property has been covered under a homeowners policy. The smarter move is to disclose proactively, accept whatever premium adjustment comes, and get properly covered. Finding out at claim time is far more expensive."
+   a: "Possibly. Some insurers will non-renew or cancel when they discover a rental property has been covered under a homeowners policy. The smarter move is to disclose proactively, accept whatever premium adjustment comes, and get properly covered. Finding out at claim time is far more expensive."
 ---
 
 A landlord I'll call Dennis called our advocacy line a few years back, furious. He'd been renting out a duplex for six years, had a standard homeowners policy the whole time, and when a kitchen fire gutted the upstairs unit, his insurer denied the claim. The reason: the property wasn't owner-occupied, which meant the homeowners policy was void. He lost over $90,000 in repairs and rental income. His insurer hadn't warned him. His agent hadn't caught it. He just assumed he was covered.

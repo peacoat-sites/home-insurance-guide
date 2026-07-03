@@ -14,15 +14,15 @@ slug: "home-warranty-vs-insurance-difference"
 affiliate_disclosure: true
 faqs:
  - q: "Does a home warranty replace homeowners insurance?"
- a: "No. They cover completely different events. Insurance covers sudden damage from perils like fire, wind, and theft. A warranty covers mechanical breakdown and wear. You can't substitute one for the other, and most mortgage lenders require insurance regardless."
+   a: "No. They cover completely different events. Insurance covers sudden damage from perils like fire, wind, and theft. A warranty covers mechanical breakdown and wear. You can't substitute one for the other, and most mortgage lenders require insurance regardless."
  - q: "If my appliance is damaged in a fire, which one pays?"
- a: "Insurance. A covered peril (fire) caused the loss, which puts it squarely in homeowners insurance territory. Your home warranty doesn't apply to damage from external events."
+   a: "Insurance. A covered peril (fire) caused the loss, which puts it squarely in homeowners insurance territory. Your home warranty doesn't apply to damage from external events."
  - q: "Is a home warranty worth it?"
- a: "It depends heavily on your home's age and your risk tolerance. Older homes with aging systems, or as-is purchases, tend to get real value from a warranty. New construction with manufacturer warranties already in place? Probably not. Read the coverage caps before you buy."
+   a: "It depends heavily on your home's age and your risk tolerance. Older homes with aging systems, or as-is purchases, tend to get real value from a warranty. New construction with manufacturer warranties already in place? Probably not. Read the coverage caps before you buy."
  - q: "Can my homeowners insurance claim be denied because I have a home warranty?"
- a: "No. They're independent contracts. Having a home warranty doesn't affect your insurance coverage or your right to file a claim, and vice versa."
+   a: "No. They're independent contracts. Having a home warranty doesn't affect your insurance coverage or your right to file a claim, and vice versa."
  - q: "What's the difference between an HO-5 policy and a home warranty?"
- a: "An HO-5 is the broadest standard homeowners insurance form, covering your dwelling and personal property on an 'open perils' basis (meaning everything is covered unless specifically excluded). It still won't cover wear and tear or mechanical breakdown. A home warranty covers exactly those things. Different products, different risks."
+   a: "An HO-5 is the broadest standard homeowners insurance form, covering your dwelling and personal property on an 'open perils' basis (meaning everything is covered unless specifically excluded). It still won't cover wear and tear or mechanical breakdown. A home warranty covers exactly those things. Different products, different risks."
 ---
 
 Most homeowners carry both a home warranty and homeowners insurance without being able to explain, under mild pressure, what either one actually covers. That's a problem, because when something breaks or burns, the gap between those two products is exactly where your claim gets denied.

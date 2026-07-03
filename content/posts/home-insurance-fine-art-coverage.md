@@ -14,15 +14,15 @@ slug: "home-insurance-fine-art-coverage"
 affiliate_disclosure: true
 faqs:
  - q: "What if I inherited art and don't know the value?"
- a: "Get it appraised. You can't properly insure what you don't know the value of. An appraiser will tell you whether it's worth $500 or $50,000, and then you can decide whether to schedule it. If it turns out to be worthless, you just paid for an appraisal and learned something. If it's valuable, the appraisal paid for itself immediately when you got the right coverage."
+   a: "Get it appraised. You can't properly insure what you don't know the value of. An appraiser will tell you whether it's worth $500 or $50,000, and then you can decide whether to schedule it. If it turns out to be worthless, you just paid for an appraisal and learned something. If it's valuable, the appraisal paid for itself immediately when you got the right coverage."
  - q: "Can I insure art that I bought on eBay or at an estate sale for unknown provenance?"
- a: "Yes, but the appraisal will be harder and might be lower because provenance adds value. An appraiser can't verify the artist or authenticity, so the valuation might be conservative. Have it appraised anyway. Even conservative coverage is better than no coverage."
+   a: "Yes, but the appraisal will be harder and might be lower because provenance adds value. An appraiser can't verify the artist or authenticity, so the valuation might be conservative. Have it appraised anyway. Even conservative coverage is better than no coverage."
  - q: "Does my homeowners policy cover art stored in my attic or basement?"
- a: "Only if it's listed on your policy and only if the storage is climate-controlled and reasonably secure. Uncontrolled storage in an attic or damp basement is high-risk for damage, and most insurers either won't cover it or will offer a much lower limit. If you're storing art long-term, invest in a climate-controlled space."
+   a: "Only if it's listed on your policy and only if the storage is climate-controlled and reasonably secure. Uncontrolled storage in an attic or damp basement is high-risk for damage, and most insurers either won't cover it or will offer a much lower limit. If you're storing art long-term, invest in a climate-controlled space."
  - q: "If my painting gets damaged, can I choose my own restorer, or does the insurer pick?"
- a: "Depends on the policy. Some insurers will let you choose. Others require their preferred restorer or will split costs if you use someone else. Ask before a claim happens. Get it in writing."
+   a: "Depends on the policy. Some insurers will let you choose. Others require their preferred restorer or will split costs if you use someone else. Ask before a claim happens. Get it in writing."
  - q: "What if I buy a new piece of art after my policy is already in effect?"
- a: "Call your agent and schedule it. Most carriers let you add scheduled items anytime. You'll pay a prorated premium for the rest of the policy year. Don't wait until something happens. Unscheduled art that gets damaged during that gap might not be covered."
+   a: "Call your agent and schedule it. Most carriers let you add scheduled items anytime. You'll pay a prorated premium for the rest of the policy year. Don't wait until something happens. Unscheduled art that gets damaged during that gap might not be covered."
 ---
 
 I spent 14 years watching claims get denied over fine art. Not because the art was damaged. Because the owner never actually disclosed it to the insurer. Or disclosed it wrong. And after all that, you'd think I'd have a simple answer for people: get separate coverage. But it's messier than that, and I want to show you exactly where the gaps are and how to avoid them.

@@ -14,15 +14,15 @@ slug: "home-insurance-shopping-mistakes-to-avoid"
 affiliate_disclosure: true
 faqs:
  - q: "How many quotes should I get when shopping for home insurance?"
- a: "Get at least three quotes, ideally from a mix of direct carriers and independent agents. Independent agents can access multiple carriers at once and sometimes surface options that direct-to-consumer platforms miss."
+   a: "Get at least three quotes, ideally from a mix of direct carriers and independent agents. Independent agents can access multiple carriers at once and sometimes surface options that direct-to-consumer platforms miss."
  - q: "Is it okay to lower my coverage to reduce my premium?"
- a: "Sometimes, but the risk is real. Raising your deductible to cut premiums is usually smarter than reducing your dwelling coverage limit, because a higher deductible is a known, manageable expense, while inadequate dwelling coverage can leave you uninsured mid-rebuild when you have no options left."
+   a: "Sometimes, but the risk is real. Raising your deductible to cut premiums is usually smarter than reducing your dwelling coverage limit, because a higher deductible is a known, manageable expense, while inadequate dwelling coverage can leave you uninsured mid-rebuild when you have no options left."
  - q: "Do I actually need personal liability coverage beyond the standard amount?"
- a: "If you have significant assets, a pool, a dog, or anyone regularly working on your property, yes. Standard liability limits are often $100,000, which can evaporate quickly in a serious injury lawsuit. Umbrella policies that extend liability coverage typically start around $150 to $300 per year for an additional $1 million in coverage and are consistently underutilized."
+   a: "If you have significant assets, a pool, a dog, or anyone regularly working on your property, yes. Standard liability limits are often $100,000, which can evaporate quickly in a serious injury lawsuit. Umbrella policies that extend liability coverage typically start around $150 to $300 per year for an additional $1 million in coverage and are consistently underutilized."
  - q: "Does my home insurance cover my home-based business equipment?"
- a: "Usually not, or only up to very low sublimits. Business property, including expensive equipment or inventory stored at home, typically requires a separate endorsement or a business owner's policy. If you work from home and own equipment worth more than a few hundred dollars, ask your agent specifically."
+   a: "Usually not, or only up to very low sublimits. Business property, including expensive equipment or inventory stored at home, typically requires a separate endorsement or a business owner's policy. If you work from home and own equipment worth more than a few hundred dollars, ask your agent specifically."
  - q: "What's the difference between a claims-made and occurrence policy for homeowners?"
- a: "Standard homeowner policies are occurrence-based, meaning they cover losses that happen while the policy is active, regardless of when you file. This matters most if you discover damage (like hidden mold) after switching carriers. Know which policy type you have before you cancel or switch."
+   a: "Standard homeowner policies are occurrence-based, meaning they cover losses that happen while the policy is active, regardless of when you file. This matters most if you discover damage (like hidden mold) after switching carriers. Know which policy type you have before you cancel or switch."
 ---
 Most people spend more time picking a Netflix subscription than they do shopping for home insurance. I know that sounds harsh, but after 14 years reviewing claims, I watched it play out constantly: policyholders who'd grabbed the cheapest quote online, signed whatever the agent sent over, and then called us genuinely shocked when we explained why their $40,000 claim was only paying out $11,000. That gap isn't bad luck. It's predictable. Almost entirely avoidable.
 

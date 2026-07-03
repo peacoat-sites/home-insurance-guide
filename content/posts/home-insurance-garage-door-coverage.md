@@ -14,15 +14,15 @@ slug: "home-insurance-garage-door-coverage"
 affiliate_disclosure: true
 faqs:
  - q: "Does homeowner's insurance cover a garage door spring replacement?"
- a: "No. Broken springs are mechanical wear and tear, and standard homeowner's policies explicitly exclude that. This is a maintenance item, and you'll need to pay for it out of pocket. Spring replacement typically runs $150 to $300 depending on the type and whether you're hiring a pro."
+   a: "No. Broken springs are mechanical wear and tear, and standard homeowner's policies explicitly exclude that. This is a maintenance item, and you'll need to pay for it out of pocket. Spring replacement typically runs $150 to $300 depending on the type and whether you're hiring a pro."
  - q: "Is my garage door covered if someone breaks into my home through it?"
- a: "Yes, almost certainly. Forced entry damage is covered under the vandalism and malicious mischief perils in standard policies. The repair to the door, the track, or any damaged hardware would be part of your claim. Keep in mind your deductible still applies."
+   a: "Yes, almost certainly. Forced entry damage is covered under the vandalism and malicious mischief perils in standard policies. The repair to the door, the track, or any damaged hardware would be part of your claim. Keep in mind your deductible still applies."
  - q: "Will filing a garage door claim raise my rates?"
- a: "It can. Even a single claim can affect your premium at renewal, and some insurers track claims through databases like CLUE for up to seven years. If the repair cost is close to your deductible, it's often smarter to pay out of pocket. Talk to your agent before filing if the damage is borderline."
+   a: "It can. Even a single claim can affect your premium at renewal, and some insurers track claims through databases like CLUE for up to seven years. If the repair cost is close to your deductible, it's often smarter to pay out of pocket. Talk to your agent before filing if the damage is borderline."
  - q: "Does my homeowner's policy cover the car that hit my garage door?"
- a: "No. Vehicle damage goes through your auto insurance, specifically collision coverage (with its own deductible). The homeowner's policy covers the structure, meaning the door. You're handling two separate claims with two separate insurers for the same accident."
+   a: "No. Vehicle damage goes through your auto insurance, specifically collision coverage (with its own deductible). The homeowner's policy covers the structure, meaning the door. You're handling two separate claims with two separate insurers for the same accident."
  - q: "What if my garage door was damaged by a neighbor's vehicle?"
- a: "If someone else's vehicle caused the damage, their auto liability insurance should cover it. You'd file a claim against their policy rather than your own, which avoids a claim on your homeowner's policy. Get their insurance information at the scene the same way you would for a car accident."
+   a: "If someone else's vehicle caused the damage, their auto liability insurance should cover it. You'd file a claim against their policy rather than your own, which avoids a claim on your homeowner's policy. Get their insurance information at the scene the same way you would for a car accident."
 ---
 
 Most people don't think about their garage door and their insurance policy at the same time until something goes wrong. Maybe you just backed your car into the door. Maybe a storm rolled through and left it bent and hanging off the track. Maybe a neighbor kid threw a baseball and now there's a dent the size of a softball in the panel. Whatever brought you here, you're probably wondering whether your homeowner's policy will actually pay for this, or whether you're going to be stuck with a repair bill on your own.

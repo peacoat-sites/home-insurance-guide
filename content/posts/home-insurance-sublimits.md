@@ -14,15 +14,15 @@ slug: "home-insurance-sublimits"
 affiliate_disclosure: true
 faqs:
  - q: "What is a sublimit in home insurance?"
- a: "A sublimit is a coverage cap that applies to a specific category of personal property, regardless of your overall policy limit. Even if your policy covers $200,000 in personal property, a jewelry sublimit of $2,500 means that's all you'd receive for stolen jewelry, no matter how much was taken."
+   a: "A sublimit is a coverage cap that applies to a specific category of personal property, regardless of your overall policy limit. Even if your policy covers $200,000 in personal property, a jewelry sublimit of $2,500 means that's all you'd receive for stolen jewelry, no matter how much was taken."
  - q: "Does scheduling jewelry remove the sublimit?"
- a: "Yes. When you schedule an item, it's covered at its full appraised value under a separate endorsement, and the general jewelry sublimit no longer applies to that piece. Scheduling also typically provides broader coverage, including mysterious disappearance, which standard policies exclude."
+   a: "Yes. When you schedule an item, it's covered at its full appraised value under a separate endorsement, and the general jewelry sublimit no longer applies to that piece. Scheduling also typically provides broader coverage, including mysterious disappearance, which standard policies exclude."
  - q: "Are sublimits the same on every home insurance policy?"
- a: "No. Sublimit amounts vary by insurer and policy type. Standard ISO-based policies have baseline amounts, but individual insurers can set their own, and they do. Always review the 'Special Limits of Liability' section in your specific policy document rather than assuming industry norms apply."
+   a: "No. Sublimit amounts vary by insurer and policy type. Standard ISO-based policies have baseline amounts, but individual insurers can set their own, and they do. Always review the 'Special Limits of Liability' section in your specific policy document rather than assuming industry norms apply."
  - q: "Do sublimits apply to damage from a fire, or just theft?"
- a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
+   a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
  - q: "How do I know if my home business equipment is covered?"
- a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
+   a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
 ---
 
 Most policyholders have no idea sublimits exist until they're sitting across a desk from someone like me, staring at a claim denial that makes no sense to them. That moment, I saw it hundreds of times in fourteen years. Someone loses a collection of jewelry in a break-in, files a claim under their $300,000 homeowners policy, and walks away with $1,500. Technically, the policy paid. Practically, they were blindsided.

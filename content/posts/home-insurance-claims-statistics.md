@@ -14,15 +14,15 @@ slug: "home-insurance-claims-statistics"
 affiliate_disclosure: true
 faqs:
  - q: "What is the most common type of homeowner insurance claim?"
- a: "Wind and hail damage consistently tops the list, making up roughly 40% of all homeowner claims nationwide. Water damage from internal sources like burst pipes or appliance failures is a close second."
+   a: "Wind and hail damage consistently tops the list, making up roughly 40% of all homeowner claims nationwide. Water damage from internal sources like burst pipes or appliance failures is a close second."
  - q: "Does filing a claim raise my insurance rates?"
- a: "It often does, yes. Even a single claim can result in a premium increase at renewal, and some insurers will non-renew a policy after multiple claims within a few years. It's worth calculating whether a small claim is worth filing versus paying out of pocket, especially if the damage is close to your deductible anyway."
+   a: "It often does, yes. Even a single claim can result in a premium increase at renewal, and some insurers will non-renew a policy after multiple claims within a few years. It's worth calculating whether a small claim is worth filing versus paying out of pocket, especially if the damage is close to your deductible anyway."
  - q: "How long does a homeowner insurance claim take to settle?"
- a: "Simple claims can close in a week or two. Complex ones involving significant structural damage, disputes over coverage, or contractor estimates can take months. If your claim is stalled, you have the right to request a written explanation and to file a complaint with your state's insurance department."
+   a: "Simple claims can close in a week or two. Complex ones involving significant structural damage, disputes over coverage, or contractor estimates can take months. If your claim is stalled, you have the right to request a written explanation and to file a complaint with your state's insurance department."
  - q: "What percentage of homeowner claims get denied?"
- a: "There's no single universal denial rate, and it varies significantly by insurer, region, and claim type. Maintenance exclusions and documentation gaps are the most common reasons for denial. If your claim is denied, you have the right to appeal and, in many states, to request an independent appraisal."
+   a: "There's no single universal denial rate, and it varies significantly by insurer, region, and claim type. Maintenance exclusions and documentation gaps are the most common reasons for denial. If your claim is denied, you have the right to appeal and, in many states, to request an independent appraisal."
  - q: "Is it worth having a public adjuster help with my claim?"
- a: "For large, complicated claims, often yes. Public adjusters work for you rather than the insurer, and they typically charge 10% to 15% of the final settlement. On a $100,000 claim, that fee can be worth it if they negotiate a significantly higher payout. For a $4,000 roof repair, it usually isn't."
+   a: "For large, complicated claims, often yes. Public adjusters work for you rather than the insurer, and they typically charge 10% to 15% of the final settlement. On a $100,000 claim, that fee can be worth it if they negotiate a significantly higher payout. For a $4,000 roof repair, it usually isn't."
 ---
 
 Every year, millions of American homeowners file a claim expecting the process to be straightforward, and millions of them are surprised. I've sat across the desk from enough policyholders to tell you: the surprise is almost never good.

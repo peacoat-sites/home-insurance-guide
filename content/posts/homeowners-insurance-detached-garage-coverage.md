@@ -14,15 +14,15 @@ slug: "homeowners-insurance-detached-garage-coverage"
 affiliate_disclosure: true
 faqs:
  - q: "Does my homeowners policy automatically cover my detached garage?"
- a: "Yes, typically, but only up to the 'other structures' limit, which defaults to 10% of your dwelling coverage. That limit often isn't enough to fully rebuild a detached garage, especially a finished or oversized one. You can usually increase it by requesting a Coverage B endorsement."
+   a: "Yes, typically, but only up to the 'other structures' limit, which defaults to 10% of your dwelling coverage. That limit often isn't enough to fully rebuild a detached garage, especially a finished or oversized one. You can usually increase it by requesting a Coverage B endorsement."
  - q: "What happens if my garage has an apartment above it?"
- a: "If the space above the garage is a guest suite or in-law unit that you don't rent out, it still falls under Coverage B. The moment you rent it for income, standard other structures coverage likely won't apply. You'd need to disclose it to your insurer and get appropriate additional coverage."
+   a: "If the space above the garage is a guest suite or in-law unit that you don't rent out, it still falls under Coverage B. The moment you rent it for income, standard other structures coverage likely won't apply. You'd need to disclose it to your insurer and get appropriate additional coverage."
  - q: "Are my power tools covered if they're stolen from my detached garage?"
- a: "Possibly, but sublimits apply. Most HO-3 policies cover personal property in detached structures, but many cap coverage on tools, electronics, and other specific categories well below their actual value. Check the special limits of liability section of your declarations page."
+   a: "Possibly, but sublimits apply. Most HO-3 policies cover personal property in detached structures, but many cap coverage on tools, electronics, and other specific categories well below their actual value. Check the special limits of liability section of your declarations page."
  - q: "Does a detached garage need its own insurance policy?"
- a: "No, not typically. Coverage through your homeowners policy is usually sufficient with appropriate limit adjustments. A separate policy would only make sense in unusual situations, like if the structure is on a different property parcel than your home."
+   a: "No, not typically. Coverage through your homeowners policy is usually sufficient with appropriate limit adjustments. A separate policy would only make sense in unusual situations, like if the structure is on a different property parcel than your home."
  - q: "Is my car covered inside the detached garage?"
- a: "The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof."
+   a: "The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof."
 ---
 Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild, and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
 

@@ -14,15 +14,15 @@ slug: "home-insurance-loyalty-discount"
 affiliate_disclosure: true
 faqs:
  - q: "Is a home insurance loyalty discount the same as a renewal discount?"
- a: "Not always. Some insurers offer a renewal discount just for staying through one renewal cycle, while a loyalty discount specifically rewards longer tenure, often three or more years. Read your declarations page carefully to see how each discount is defined, because conflating them can lead you to overestimate what you're actually saving."
+   a: "Not always. Some insurers offer a renewal discount just for staying through one renewal cycle, while a loyalty discount specifically rewards longer tenure, often three or more years. Read your declarations page carefully to see how each discount is defined, because conflating them can lead you to overestimate what you're actually saving."
  - q: "Can I lose my loyalty discount if I file a claim?"
- a: "Typically no, the loyalty discount is tied to tenure, not claim history. However, filing a claim can trigger a surcharge or premium increase that more than offsets any discount you're holding. The net effect on your premium is what matters, not the discount line in isolation."
+   a: "Typically no, the loyalty discount is tied to tenure, not claim history. However, filing a claim can trigger a surcharge or premium increase that more than offsets any discount you're holding. The net effect on your premium is what matters, not the discount line in isolation."
  - q: "Does shopping around hurt my insurance record or credit?"
- a: "Insurance quotes generally use a 'soft' credit inquiry, which doesn't affect your credit score the way a loan application does. Your claims history (via CLUE report) is visible to any insurer you apply with regardless, so shopping around doesn't expose you to any new risk on that front."
+   a: "Insurance quotes generally use a 'soft' credit inquiry, which doesn't affect your credit score the way a loan application does. Your claims history (via CLUE report) is visible to any insurer you apply with regardless, so shopping around doesn't expose you to any new risk on that front."
  - q: "Should I tell my current insurer I'm shopping around?"
- a: "Yes, and I'd do it before you have quotes in hand. Some insurers will offer a retention discount or match a competitor's rate if they think they're about to lose you. That conversation costs nothing. Whether what they offer is actually good enough is a separate question."
+   a: "Yes, and I'd do it before you have quotes in hand. Some insurers will offer a retention discount or match a competitor's rate if they think they're about to lose you. That conversation costs nothing. Whether what they offer is actually good enough is a separate question."
  - q: "How many years do I need to stay for the loyalty discount to kick in?"
- a: "It varies by insurer, but three years is a common threshold for the first tier of loyalty pricing. Some companies have multi-tier structures where discounts increase at five or ten years. The actual discount percentage and when it applies should be explicitly listed in your policy documents or available from your agent."
+   a: "It varies by insurer, but three years is a common threshold for the first tier of loyalty pricing. Some companies have multi-tier structures where discounts increase at five or ten years. The actual discount percentage and when it applies should be explicitly listed in your policy documents or available from your agent."
 ---
 
 Most homeowners assume that staying with the same insurer is rewarded. The company knows you, you've never filed a claim, you've paid on time for years. Surely that loyalty counts for something. I believed that too, for most of my career on the claims side. What I found when I started pulling actual policy data and talking to consumers as an advocate was considerably more uncomfortable.
