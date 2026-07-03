@@ -9,16 +9,16 @@ tags: ["mortgage", "lender", "insurance", "requirements"]
 slug: "mortgage-lender-insurance-requirements"
 affiliate_disclosure: true
 faqs:
-  - q: "Can my lender force me to use a specific insurance company?"
-    a: "No. Federal law (specifically the Homeowners Protection Act and related regulations) prohibits lenders from requiring you to buy insurance from a particular company or through their affiliated agent. They can set coverage standards, but you have the right to shop for your own policy. If a lender or servicer pressures you toward a specific insurer, that's worth reporting to your state insurance department."
-  - q: "What happens if I don't get insurance before closing?"
-    a: "Closing won't happen. Insurance isn't optional, and your lender will require a paid receipt (the insurance 'binder') before they'll fund the loan. The binding confirmation from your insurer proves coverage is in place from the date of closing forward."
-  - q: "Does my condo mortgage have different insurance requirements?"
-    a: "Yes, significantly. For a condo, your HOA's master policy typically covers the building's exterior and common areas. Your lender's requirements for an individual condo unit focus on your 'walls-in' or HO-6 policy, which covers interior improvements, your personal property, and liability. You'll also want to understand whether the master policy is 'all-in' (covering fixtures and built-ins inside your unit) or 'bare walls-in' (covering only the structure itself). The gap between those two can be substantial."
-  - q: "What is force-placed insurance and how do I avoid it?"
-    a: "Force-placed insurance is a policy your mortgage servicer purchases on your behalf if you let your homeowners coverage lapse. It protects the lender's interest in the structure only. It does not cover your belongings, liability, or additional living expenses, and it's priced at a significant premium over what you'd pay on the open market. Avoid it by setting a calendar reminder before your homeowners policy renews each year, and confirming your servicer has your current insurer's information on file."
-  - q: "Can I get a lower coverage limit than my lender requires if my home is paid off?"
-    a: "Once your mortgage is paid off, your lender has no authority over your insurance decisions. You can carry whatever coverage you choose. That said, carrying inadequate insurance on a paid-off home is a real financial risk that the absence of a lender requirement doesn't make disappear. Your home's replacement cost doesn't care whether you have a mortgage."
+ - q: "Can my lender force me to use a specific insurance company?"
+ a: "No. Federal law (specifically the Homeowners Protection Act and related regulations) prohibits lenders from requiring you to buy insurance from a particular company or through their affiliated agent. They can set coverage standards, but you have the right to shop for your own policy. If a lender or servicer pressures you toward a specific insurer, that's worth reporting to your state insurance department."
+ - q: "What happens if I don't get insurance before closing?"
+ a: "Closing won't happen. Insurance isn't optional, and your lender will require a paid receipt (the insurance 'binder') before they'll fund the loan. The binding confirmation from your insurer proves coverage is in place from the date of closing forward."
+ - q: "Does my condo mortgage have different insurance requirements?"
+ a: "Yes, significantly. For a condo, your HOA's master policy typically covers the building's exterior and common areas. Your lender's requirements for an individual condo unit focus on your 'walls-in' or HO-6 policy, which covers interior improvements, your personal property, and liability. You'll also want to understand whether the master policy is 'all-in' (covering fixtures and built-ins inside your unit) or 'bare walls-in' (covering only the structure itself). The gap between those two can be substantial."
+ - q: "What is force-placed insurance and how do I avoid it?"
+ a: "Force-placed insurance is a policy your mortgage servicer purchases on your behalf if you let your homeowners coverage lapse. It protects the lender's interest in the structure only. It does not cover your belongings, liability, or additional living expenses, and it's priced at a significant premium over what you'd pay on the open market. Avoid it by setting a calendar reminder before your homeowners policy renews each year, and confirming your servicer has your current insurer's information on file."
+ - q: "Can I get a lower coverage limit than my lender requires if my home is paid off?"
+ a: "Once your mortgage is paid off, your lender has no authority over your insurance decisions. You can carry whatever coverage you choose. That said, carrying inadequate insurance on a paid-off home is a real financial risk that the absence of a lender requirement doesn't make disappear. Your home's replacement cost doesn't care whether you have a mortgage."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Insurance Writer"
@@ -88,7 +88,7 @@ Your state's department of insurance is also a resource if you feel like you're 
 - [CFPB, What is homeowner's insurance?](https://www.consumerfinance.gov/ask-cfpb/what-is-homeowners-insurance-why-do-i-need-it-en-162/), Explains lender insurance requirements for mortgage borrowers
 - [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), Covers replacement cost vs market value distinction
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

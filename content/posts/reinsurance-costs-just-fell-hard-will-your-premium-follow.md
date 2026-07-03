@@ -11,9 +11,7 @@ author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "reinsurance-costs-just-fell-hard-will-your-premium-follow"
-affiliate_disclosure: true
----
-Something unusual just happened in the insurance market, and I'll be honest: it's the kind of shift I spent 14 years waiting to write about. According to Guy Carpenter, U.S. property catastrophe reinsurance pricing dropped 14% through the first half of 2026, the steepest decline since 2014. In Florida specifically, some reinsurance layers fell 15 to 20% at the June 2026 renewals. After watching rates climb relentlessly for years, that's a genuinely significant reversal.
+affiliate_disclosure: true, Something unusual just happened in the insurance market, and I'll be honest: it's the kind of shift I spent 14 years waiting to write about. According to Guy Carpenter, U.S. property catastrophe reinsurance pricing dropped 14% through the first half of 2026, the steepest decline since 2014. In Florida specifically, some reinsurance layers fell 15 to 20% at the June 2026 renewals. After watching rates climb relentlessly for years, that's a genuinely significant reversal.
 
 But here's what actually matters for you: does any of this reach your mailbox?
 

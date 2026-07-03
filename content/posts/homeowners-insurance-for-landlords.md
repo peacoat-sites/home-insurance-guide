@@ -13,16 +13,16 @@ author_bio: "Carl Brooks is a meticulous researcher who has spent years comparin
 slug: "homeowners-insurance-for-landlords"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I just add an endorsement to my homeowners policy instead of switching to a landlord policy?"
-    a: "Sometimes, yes. Some insurers offer a 'tenant-occupied' or 'rental dwelling' endorsement that extends coverage for properties you rent out. It's worth asking your current insurer. But the endorsement needs to actually match your situation, including how long the property will be rented, whether it's your primary residence or a separate property, and the rental structure. Don't assume an endorsement plugs every gap."
-  - q: "What if I only rent out a room in my primary residence?"
-    a: "This is one of the genuinely murkier areas. Some homeowners policies will extend coverage when you rent a room while still living there, but many won't cover liability for a paying tenant. You'll need to call your insurer directly and get their answer in writing. Verbal assurances don't hold up in claims."
-  - q: "Does landlord insurance cover damage caused by the tenant?"
-    a: "This depends on the policy. Some landlord policies include 'tenant damage' coverage or 'malicious damage' coverage as an add-on. Basic policies often exclude it or limit it significantly. If tenant damage is a concern, ask specifically about this coverage when shopping. It's not universally included."
-  - q: "How much does landlord insurance typically cost compared to homeowners insurance?"
-    a: "Landlord policies generally run 15% to 25% more than comparable homeowners coverage, though costs vary considerably by location, property type, and coverage limits. The gap is real but not enormous, and it reflects the legitimately different risk profile. Shopping multiple insurers is worth your time."
-  - q: "My tenant wants to know if they're covered under my policy. What do I tell them?"
-    a: "They're not. Your landlord policy covers the structure and your liability as the property owner. The tenant's belongings and their own personal liability are entirely separate. Tell them they need renters insurance, and consider making it a lease requirement. Renters insurance is inexpensive (often $15 to $20 a month) and it protects everyone involved when something goes wrong."
+ - q: "Can I just add an endorsement to my homeowners policy instead of switching to a landlord policy?"
+ a: "Sometimes, yes. Some insurers offer a 'tenant-occupied' or 'rental dwelling' endorsement that extends coverage for properties you rent out. It's worth asking your current insurer. But the endorsement needs to actually match your situation, including how long the property will be rented, whether it's your primary residence or a separate property, and the rental structure. Don't assume an endorsement plugs every gap."
+ - q: "What if I only rent out a room in my primary residence?"
+ a: "This is one of the genuinely murkier areas. Some homeowners policies will extend coverage when you rent a room while still living there, but many won't cover liability for a paying tenant. You'll need to call your insurer directly and get their answer in writing. Verbal assurances don't hold up in claims."
+ - q: "Does landlord insurance cover damage caused by the tenant?"
+ a: "This depends on the policy. Some landlord policies include 'tenant damage' coverage or 'malicious damage' coverage as an add-on. Basic policies often exclude it or limit it significantly. If tenant damage is a concern, ask specifically about this coverage when shopping. It's not universally included."
+ - q: "How much does landlord insurance typically cost compared to homeowners insurance?"
+ a: "Landlord policies generally run 15% to 25% more than comparable homeowners coverage, though costs vary considerably by location, property type, and coverage limits. The gap is real but not enormous, and it reflects the legitimately different risk profile. Shopping multiple insurers is worth your time."
+ - q: "My tenant wants to know if they're covered under my policy. What do I tell them?"
+ a: "They're not. Your landlord policy covers the structure and your liability as the property owner. The tenant's belongings and their own personal liability are entirely separate. Tell them they need renters insurance, and consider making it a lease requirement. Renters insurance is inexpensive (often $15 to $20 a month) and it protects everyone involved when something goes wrong."
 ---
 
 If you've recently bought a rental property, or you're thinking about converting your current home into one, there's a good chance you're staring at your existing homeowners policy wondering whether it still covers you. It might. Partially. And that partial coverage is exactly where the expensive surprises live.
@@ -114,8 +114,8 @@ Renting out a property isn't a passive income situation. It's a business with re
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

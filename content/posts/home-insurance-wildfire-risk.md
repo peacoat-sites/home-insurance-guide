@@ -13,16 +13,16 @@ author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years 
 slug: "home-insurance-wildfire-risk"
 affiliate_disclosure: true
 faqs:
-  - q: "Does standard homeowners insurance cover wildfire damage?"
-    a: "Yes, standard homeowners policies include fire coverage, which includes wildfire damage to the dwelling, detached structures, and personal property. The real issue is whether your coverage limits are high enough to actually rebuild, which is a separate and increasingly important question."
-  - q: "What happens if my insurer drops me because I live in a wildfire-risk area?"
-    a: "You'll likely have access to your state's FAIR Plan, a last-resort pool that provides basic dwelling coverage. FAIR Plan policies are typically bare-minimum and may not include liability or comprehensive personal property coverage, so many homeowners pair them with a separate 'difference in conditions' policy. Check your state insurance department's website for specifics."
-  - q: "What is the difference between extended and guaranteed replacement cost coverage?"
-    a: "Extended replacement cost pays a fixed percentage above your Coverage A limit (say, 25% extra) if rebuilding costs exceed that limit. Guaranteed replacement cost pays the full actual cost to rebuild, regardless of how far over your stated limit it runs. Guaranteed is significantly better protection, especially after a regional disaster drives up contractor costs."
-  - q: "Can I lower my wildfire insurance premium by hardening my home?"
-    a: "Sometimes, yes, though the discount varies a lot by insurer and state. Documented defensible space, Class A roofing, and ember-resistant vents are the most commonly rewarded features. More importantly, mitigation can affect whether standard market carriers will write you a policy at all, which matters more than the premium difference."
-  - q: "What does wildfire insurance NOT cover that surprises people?"
-    a: "A few things catch people off guard: debris removal costs above the policy sublimit, the cost to meet updated building codes during reconstruction (often requires a separate code upgrade endorsement), landscaping replacement, and additional living expenses once the ALE coverage cap or time limit is reached. Read those specific sections before you assume you're fully covered."
+ - q: "Does standard homeowners insurance cover wildfire damage?"
+ a: "Yes, standard homeowners policies include fire coverage, which includes wildfire damage to the dwelling, detached structures, and personal property. The real issue is whether your coverage limits are high enough to actually rebuild, which is a separate and increasingly important question."
+ - q: "What happens if my insurer drops me because I live in a wildfire-risk area?"
+ a: "You'll likely have access to your state's FAIR Plan, a last-resort pool that provides basic dwelling coverage. FAIR Plan policies are typically bare-minimum and may not include liability or comprehensive personal property coverage, so many homeowners pair them with a separate 'difference in conditions' policy. Check your state insurance department's website for specifics."
+ - q: "What is the difference between extended and guaranteed replacement cost coverage?"
+ a: "Extended replacement cost pays a fixed percentage above your Coverage A limit (say, 25% extra) if rebuilding costs exceed that limit. Guaranteed replacement cost pays the full actual cost to rebuild, regardless of how far over your stated limit it runs. Guaranteed is significantly better protection, especially after a regional disaster drives up contractor costs."
+ - q: "Can I lower my wildfire insurance premium by hardening my home?"
+ a: "Sometimes, yes, though the discount varies a lot by insurer and state. Documented defensible space, Class A roofing, and ember-resistant vents are the most commonly rewarded features. More importantly, mitigation can affect whether standard market carriers will write you a policy at all, which matters more than the premium difference."
+ - q: "What does wildfire insurance NOT cover that surprises people?"
+ a: "A few things catch people off guard: debris removal costs above the policy sublimit, the cost to meet updated building codes during reconstruction (often requires a separate code upgrade endorsement), landscaping replacement, and additional living expenses once the ALE coverage cap or time limit is reached. Read those specific sections before you assume you're fully covered."
 ---
 
 Most people assume their home insurance policy will cover a wildfire. After all, fire is fire, right? I spent 14 years reviewing claims, and I'll be honest: that assumption is getting more people badly hurt financially than almost anything else I saw in that job.

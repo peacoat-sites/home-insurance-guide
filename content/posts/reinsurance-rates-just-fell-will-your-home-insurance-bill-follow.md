@@ -11,10 +11,7 @@ author_slug: "carl-brooks"
 author_title: "Policy Researcher"
 author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
 slug: "reinsurance-rates-just-fell-will-your-home-insurance-bill-follow"
-affiliate_disclosure: true
----
-
-Picture this: you open your homeowner's insurance renewal notice and the number is actually lower than last year. Maybe it's down $80, maybe $200. You read it twice because it hasn't happened in half a decade. That moment, still rare, is becoming slightly less rare in 2026, and the reason starts in a market most homeowners have never heard of.
+affiliate_disclosure: true, Picture this: you open your homeowner's insurance renewal notice and the number is actually lower than last year. Maybe it's down $80, maybe $200. You read it twice because it hasn't happened in half a decade. That moment, still rare, is becoming slightly less rare in 2026, and the reason starts in a market most homeowners have never heard of.
 
 Reinsurance, the insurance that your insurer buys to protect itself from catastrophic losses, just got meaningfully cheaper. At the June 1, 2026 renewal cycle, the most significant date on the reinsurance calendar, risk-adjusted property-catastrophe reinsurance rates dropped 10 to 25 percent, the steepest decline of any renewal period so far this year, according to Howden Re. That is a real and substantial shift. Whether it reaches your mailbox is a different question entirely.
 
@@ -95,8 +92,8 @@ The reinsurance market's shift is real and meaningful. But it won't automaticall
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

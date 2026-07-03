@@ -11,10 +11,7 @@ author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "how-trump-tariffs-are-quietly-inflating-your-home-insurance-bill"
-affiliate_disclosure: true
----
-
-Picture this: your home insurance renewal lands in your inbox, and the premium has jumped again. You haven't filed a claim in years. Nothing burned down. No pipe burst. You live in the same house, on the same street, and yet you're paying noticeably more than last year. You call your agent, who offers something vague about "market conditions." What they probably won't tell you is that a significant piece of that increase has nothing to do with your risk profile. It has to do with steel and lumber sitting in a port somewhere, waiting to clear a tariff schedule.
+affiliate_disclosure: true, Picture this: your home insurance renewal lands in your inbox, and the premium has jumped again. You haven't filed a claim in years. Nothing burned down. No pipe burst. You live in the same house, on the same street, and yet you're paying noticeably more than last year. You call your agent, who offers something vague about "market conditions." What they probably won't tell you is that a significant piece of that increase has nothing to do with your risk profile. It has to do with steel and lumber sitting in a port somewhere, waiting to clear a tariff schedule.
 
 This is the quiet story of 2026 for homeowners across the country. The tariff fights of 2025 are still working their way through your insurance bill right now, and most policyholders have no idea.
 
@@ -89,8 +86,8 @@ The frustration here is real. You didn't vote for or against tariffs to manage y
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

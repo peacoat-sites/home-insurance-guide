@@ -13,16 +13,16 @@ author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years 
 slug: "manufactured-home-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I get replacement cost coverage on an older manufactured home?"
-    a: "Some insurers will write replacement cost coverage on manufactured homes regardless of age, while others cap it at homes built after a certain year, often 1976 (when HUD standards took effect) or later. It's absolutely worth asking, because the difference in a total-loss claim can be tens of thousands of dollars."
-  - q: "Does my manufactured home policy cover the land it sits on?"
-    a: "No. Homeowner-type policies of any kind don't cover the land itself. If you own the lot, you're insuring the structure and your liability. If you rent the lot in a park, the community owner is responsible for common areas and the land, but your personal property and home structure are on you."
-  - q: "What happens to my coverage if I move my manufactured home to a new location?"
-    a: "Most policies suspend or exclude coverage during transit. You'd need to notify your insurer before any move and ask specifically about trip collision or transportation endorsements. Moving a manufactured home without confirming this can leave you completely exposed if something goes wrong on the road."
-  - q: "Is a manufactured home the same as a mobile home for insurance purposes?"
-    a: "Technically, 'mobile home' usually refers to units built before June 15, 1976, when HUD standards went into effect. 'Manufactured home' refers to units built after that date. Insurers treat them somewhat differently, and older pre-HUD units are harder and more expensive to insure because of the construction differences. If you're buying a pre-1976 unit, get the insurance situation sorted out before you close."
-  - q: "Does my manufactured home policy cover it if a guest is injured on my property?"
-    a: "Liability coverage in a manufactured home policy works similarly to a standard homeowner policy: it covers you if someone is injured on your property and you're found legally responsible, up to your policy limit. Standard limits often start at $100,000, and I'd honestly suggest going higher if you can. An umbrella policy can extend that coverage for relatively low additional cost."
+ - q: "Can I get replacement cost coverage on an older manufactured home?"
+ a: "Some insurers will write replacement cost coverage on manufactured homes regardless of age, while others cap it at homes built after a certain year, often 1976 (when HUD standards took effect) or later. It's absolutely worth asking, because the difference in a total-loss claim can be tens of thousands of dollars."
+ - q: "Does my manufactured home policy cover the land it sits on?"
+ a: "No. Homeowner-type policies of any kind don't cover the land itself. If you own the lot, you're insuring the structure and your liability. If you rent the lot in a park, the community owner is responsible for common areas and the land, but your personal property and home structure are on you."
+ - q: "What happens to my coverage if I move my manufactured home to a new location?"
+ a: "Most policies suspend or exclude coverage during transit. You'd need to notify your insurer before any move and ask specifically about trip collision or transportation endorsements. Moving a manufactured home without confirming this can leave you completely exposed if something goes wrong on the road."
+ - q: "Is a manufactured home the same as a mobile home for insurance purposes?"
+ a: "Technically, 'mobile home' usually refers to units built before June 15, 1976, when HUD standards went into effect. 'Manufactured home' refers to units built after that date. Insurers treat them somewhat differently, and older pre-HUD units are harder and more expensive to insure because of the construction differences. If you're buying a pre-1976 unit, get the insurance situation sorted out before you close."
+ - q: "Does my manufactured home policy cover it if a guest is injured on my property?"
+ a: "Liability coverage in a manufactured home policy works similarly to a standard homeowner policy: it covers you if someone is injured on your property and you're found legally responsible, up to your policy limit. Standard limits often start at $100,000, and I'd honestly suggest going higher if you can. An umbrella policy can extend that coverage for relatively low additional cost."
 ---
 
 Most people buying a manufactured home have no idea their standard HO-3 homeowner policy won't cover it. I know this because I spent 14 years on the other side of the desk, and I watched it happen over and over again: someone files a claim after a windstorm or a pipe freeze, and the denial letter arrives because the policy they were sold was written for site-built construction. The language is buried, the agent sometimes didn't catch it, and by then it's too late to fix anything.
@@ -119,7 +119,7 @@ One more worked example worth knowing: A couple in Florida purchased a 1997 manu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 

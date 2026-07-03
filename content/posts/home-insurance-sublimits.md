@@ -13,16 +13,16 @@ author_bio: "Diana Foster worked as a public adjuster for a decade, helping home
 slug: "home-insurance-sublimits"
 affiliate_disclosure: true
 faqs:
-  - q: "What is a sublimit in home insurance?"
-    a: "A sublimit is a coverage cap that applies to a specific category of personal property, regardless of your overall policy limit. Even if your policy covers $200,000 in personal property, a jewelry sublimit of $2,500 means that's all you'd receive for stolen jewelry, no matter how much was taken."
-  - q: "Does scheduling jewelry remove the sublimit?"
-    a: "Yes. When you schedule an item, it's covered at its full appraised value under a separate endorsement, and the general jewelry sublimit no longer applies to that piece. Scheduling also typically provides broader coverage, including mysterious disappearance, which standard policies exclude."
-  - q: "Are sublimits the same on every home insurance policy?"
-    a: "No. Sublimit amounts vary by insurer and policy type. Standard ISO-based policies have baseline amounts, but individual insurers can set their own, and they do. Always review the 'Special Limits of Liability' section in your specific policy document rather than assuming industry norms apply."
-  - q: "Do sublimits apply to damage from a fire, or just theft?"
-    a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
-  - q: "How do I know if my home business equipment is covered?"
-    a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
+ - q: "What is a sublimit in home insurance?"
+ a: "A sublimit is a coverage cap that applies to a specific category of personal property, regardless of your overall policy limit. Even if your policy covers $200,000 in personal property, a jewelry sublimit of $2,500 means that's all you'd receive for stolen jewelry, no matter how much was taken."
+ - q: "Does scheduling jewelry remove the sublimit?"
+ a: "Yes. When you schedule an item, it's covered at its full appraised value under a separate endorsement, and the general jewelry sublimit no longer applies to that piece. Scheduling also typically provides broader coverage, including mysterious disappearance, which standard policies exclude."
+ - q: "Are sublimits the same on every home insurance policy?"
+ a: "No. Sublimit amounts vary by insurer and policy type. Standard ISO-based policies have baseline amounts, but individual insurers can set their own, and they do. Always review the 'Special Limits of Liability' section in your specific policy document rather than assuming industry norms apply."
+ - q: "Do sublimits apply to damage from a fire, or just theft?"
+ a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
+ - q: "How do I know if my home business equipment is covered?"
+ a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
 ---
 
 Most policyholders have no idea sublimits exist until they're sitting across a desk from someone like me, staring at a claim denial that makes no sense to them. That moment, I saw it hundreds of times in fourteen years. Someone loses a collection of jewelry in a break-in, files a claim under their $300,000 homeowners policy, and walks away with $1,500. Technically, the policy paid. Practically, they were blindsided.
@@ -114,8 +114,8 @@ One more thing worth knowing: sublimits can often be raised incrementally even w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

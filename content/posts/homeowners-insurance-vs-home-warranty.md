@@ -13,16 +13,16 @@ author_bio: "Kevin Park spent his early career as a home inspector before moving
 slug: "homeowners-insurance-vs-home-warranty"
 affiliate_disclosure: true
 faqs:
-  - q: "Does homeowners insurance cover appliance breakdown?"
-    a: "No. Standard homeowners insurance covers appliances that are damaged by a covered peril, fire, theft, certain water events, but it does not cover mechanical or electrical breakdown from normal wear. That's specifically what a home warranty is designed to address."
-  - q: "Can a home warranty company deny my claim for a pre-existing condition?"
-    a: "Yes, and they do it regularly. Most warranty contracts exclude conditions that existed before the coverage started, and they typically rely on the dispatched technician's assessment to make that determination. If you're buying a warranty on an older home, push for a home inspection beforehand so you have documentation of the system's condition at the time of purchase."
-  - q: "What happens if both my insurer and my warranty company deny the same claim?"
-    a: "It happens, and it's genuinely awful. The most common scenario involves water damage where the insurer calls it gradual and the warranty company calls it accidental damage outside their scope. Your best recourse is to document everything, get the denial in writing from both, and if the amount is significant, consult a public adjuster or an attorney who handles insurance disputes."
-  - q: "Is a home warranty worth it on a new construction home?"
-    a: "Usually not for the first few years. New construction typically comes with a builder's warranty (often one year on workmanship, two years on systems, ten years on structural), and appliances carry manufacturer warranties. You're paying for coverage you probably already have. Revisit the question around year four or five when those warranties start expiring."
-  - q: "Does homeowners insurance cover foundation problems?"
-    a: "Almost never through standard policies. Settling, cracking, and foundation movement are typically excluded as earth movement or gradual deterioration. Flood-related foundation damage may be covered under a separate flood insurance policy, but standard homeowners insurance won't touch most foundation claims. If you're buying in an area with expansive soil or a history of foundation movement, this is a question worth asking your agent in writing before you close."
+ - q: "Does homeowners insurance cover appliance breakdown?"
+ a: "No. Standard homeowners insurance covers appliances that are damaged by a covered peril, fire, theft, certain water events, but it does not cover mechanical or electrical breakdown from normal wear. That's specifically what a home warranty is designed to address."
+ - q: "Can a home warranty company deny my claim for a pre-existing condition?"
+ a: "Yes, and they do it regularly. Most warranty contracts exclude conditions that existed before the coverage started, and they typically rely on the dispatched technician's assessment to make that determination. If you're buying a warranty on an older home, push for a home inspection beforehand so you have documentation of the system's condition at the time of purchase."
+ - q: "What happens if both my insurer and my warranty company deny the same claim?"
+ a: "It happens, and it's genuinely awful. The most common scenario involves water damage where the insurer calls it gradual and the warranty company calls it accidental damage outside their scope. Your best recourse is to document everything, get the denial in writing from both, and if the amount is significant, consult a public adjuster or an attorney who handles insurance disputes."
+ - q: "Is a home warranty worth it on a new construction home?"
+ a: "Usually not for the first few years. New construction typically comes with a builder's warranty (often one year on workmanship, two years on systems, ten years on structural), and appliances carry manufacturer warranties. You're paying for coverage you probably already have. Revisit the question around year four or five when those warranties start expiring."
+ - q: "Does homeowners insurance cover foundation problems?"
+ a: "Almost never through standard policies. Settling, cracking, and foundation movement are typically excluded as earth movement or gradual deterioration. Flood-related foundation damage may be covered under a separate flood insurance policy, but standard homeowners insurance won't touch most foundation claims. If you're buying in an area with expansive soil or a history of foundation movement, this is a question worth asking your agent in writing before you close."
 ---
 
 Most people buy both without fully understanding either. That's not a knock on you, the insurance industry and the home warranty industry have every incentive to blur the lines. Confused buyers buy more coverage and ask fewer questions. Here's what I tell people who come to me after a claim denial: the confusion usually started on the day they signed up.
@@ -104,8 +104,8 @@ Keeping a home inventory is also something most homeowners skip until it's too l
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

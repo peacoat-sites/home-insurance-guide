@@ -13,16 +13,16 @@ author_bio: "Mark Thompson spent 15 years as a licensed property and casualty in
 slug: "homeowners-insurance-roof-age-restrictions"
 affiliate_disclosure: true
 faqs:
-  - q: "Can an insurance company drop you because your roof is too old?"
-    a: "Yes. Insurers can non-renew your policy if they determine your roof presents unacceptable risk, and roof age is a documented basis for non-renewal in virtually every state. You'll typically receive a notice 30 to 60 days before the policy ends, and you'll need to either replace the roof or find another carrier in that window."
-  - q: "Does a new roof lower my homeowners insurance premium?"
-    a: "In most cases, yes, and sometimes significantly. Replacing an aging asphalt shingle roof with a new standard roof typically generates some savings; upgrading to a Class 4 impact-resistant shingle or metal can generate discounts of 20% or more depending on your insurer and your location. Always confirm the discount before you install, since not every carrier treats materials the same way."
-  - q: "What's the difference between replacement cost and actual cash value for roofs?"
-    a: "Replacement cost coverage pays to replace your damaged roof with a new comparable roof. Actual cash value pays what your roof was worth at the time of the loss, factoring in depreciation. On an older roof, the ACV payout can be a fraction of what a replacement actually costs, leaving you to cover the difference out of pocket."
-  - q: "At what roof age do insurers typically start restricting coverage?"
-    a: "The most common threshold for asphalt shingles is 15 to 20 years, though this varies significantly by insurer, region, and material. Some carriers in high-storm markets have moved the cutoff down to 10 years for standard shingles. Metal roofs and Class 4 impact-resistant shingles are generally given longer leash."
-  - q: "If I buy a house with an old roof, when will my insurer find out?"
-    a: "Most insurers conduct a post-binding inspection within 30 to 60 days of writing a new policy. Aerial imagery from vendors like EagleView or Nearmap also lets underwriters assess roof condition and approximate age remotely, often without ever sending a human inspector. Trying to obscure the roof's age or condition is both ineffective and a quick path to a coverage dispute."
+ - q: "Can an insurance company drop you because your roof is too old?"
+ a: "Yes. Insurers can non-renew your policy if they determine your roof presents unacceptable risk, and roof age is a documented basis for non-renewal in virtually every state. You'll typically receive a notice 30 to 60 days before the policy ends, and you'll need to either replace the roof or find another carrier in that window."
+ - q: "Does a new roof lower my homeowners insurance premium?"
+ a: "In most cases, yes, and sometimes significantly. Replacing an aging asphalt shingle roof with a new standard roof typically generates some savings; upgrading to a Class 4 impact-resistant shingle or metal can generate discounts of 20% or more depending on your insurer and your location. Always confirm the discount before you install, since not every carrier treats materials the same way."
+ - q: "What's the difference between replacement cost and actual cash value for roofs?"
+ a: "Replacement cost coverage pays to replace your damaged roof with a new comparable roof. Actual cash value pays what your roof was worth at the time of the loss, factoring in depreciation. On an older roof, the ACV payout can be a fraction of what a replacement actually costs, leaving you to cover the difference out of pocket."
+ - q: "At what roof age do insurers typically start restricting coverage?"
+ a: "The most common threshold for asphalt shingles is 15 to 20 years, though this varies significantly by insurer, region, and material. Some carriers in high-storm markets have moved the cutoff down to 10 years for standard shingles. Metal roofs and Class 4 impact-resistant shingles are generally given longer leash."
+ - q: "If I buy a house with an old roof, when will my insurer find out?"
+ a: "Most insurers conduct a post-binding inspection within 30 to 60 days of writing a new policy. Aerial imagery from vendors like EagleView or Nearmap also lets underwriters assess roof condition and approximate age remotely, often without ever sending a human inspector. Trying to obscure the roof's age or condition is both ineffective and a quick path to a coverage dispute."
 ---
 
 Your roof is the first place an insurer looks when they're deciding whether to cover your house at all. Not your electrical panel, not your foundation. The roof. And most homeowners don't realize how dramatically roof age affects not just their premium, but their ability to get covered in the first place.
@@ -114,8 +114,8 @@ The most direct fix, and sometimes the most economical one when you factor in ev
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

@@ -11,10 +11,7 @@ author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "nearly-half-of-home-insurance-claims-go-unpaid-what-the-data-really-sh"
-affiliate_disclosure: true
----
-
-If you've been following the news this week, you might have seen the headlines and felt something between alarm and a grim sense of confirmation. The Wall Street Journal published an analysis on May 30, 2026, finding that the five largest home insurers in the country, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, paid nothing on 44% of homeowner claims resolved in 2025. That number was 36% a decade ago. And with hurricane season now officially open, the timing couldn't be more pointed.
+affiliate_disclosure: true, If you've been following the news this week, you might have seen the headlines and felt something between alarm and a grim sense of confirmation. The Wall Street Journal published an analysis on May 30, 2026, finding that the five largest home insurers in the country, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, paid nothing on 44% of homeowner claims resolved in 2025. That number was 36% a decade ago. And with hurricane season now officially open, the timing couldn't be more pointed.
 
 You might be wondering: is this as bad as it sounds? The honest answer is complicated, and I want to walk you through what's actually driving those numbers, because the headline statistic and the real problem are two slightly different things. Understanding the difference might change how you look at your own policy this weekend.
 

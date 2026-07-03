@@ -13,16 +13,16 @@ author_bio: "Mark Thompson spent 15 years as a licensed property and casualty in
 slug: "homeowners-insurance-hurricane-coverage"
 affiliate_disclosure: true
 faqs:
-  - q: "Does homeowners insurance cover hurricane damage?"
-    a: "Partially. Standard homeowners policies cover wind damage from hurricanes but exclude flooding, including storm surge. You'll also typically face a separate hurricane deductible that's higher than your standard deductible, often calculated as a percentage of your home's insured value rather than a flat dollar amount."
-  - q: "Do I need separate flood insurance if I'm in a hurricane zone?"
-    a: "Yes. Flood damage from a hurricane, including storm surge and overland flooding, is not covered under a standard homeowners policy. You need a separate flood insurance policy through the NFIP or a private insurer, and it won't take effect until 30 days after purchase."
-  - q: "What triggers a hurricane deductible?"
-    a: "It varies by policy and state. Common triggers include a hurricane watch or warning being issued for your county, or the official declaration of a named storm by the National Weather Service. Some policies use even broader language. Read your specific deductible endorsement carefully, and check your state insurance department's rules."
-  - q: "Is private flood insurance better than NFIP?"
-    a: "For many homeowners, especially those with homes valued above $250,000, private flood insurance is worth a serious look. NFIP caps building coverage at $250,000 and doesn't always include additional living expenses. Private policies can offer higher limits and additional features, though pricing varies significantly by location and risk. Get quotes from both."
-  - q: "What if my neighbor's tree falls on my house during a hurricane?"
-    a: "Your homeowners policy covers the damage to your home regardless of where the tree came from, assuming wind is the cause. Your neighbor isn't liable unless their negligence (a dead, obviously diseased tree they ignored) contributed to the damage. That's a harder case to make than most people expect."
+ - q: "Does homeowners insurance cover hurricane damage?"
+ a: "Partially. Standard homeowners policies cover wind damage from hurricanes but exclude flooding, including storm surge. You'll also typically face a separate hurricane deductible that's higher than your standard deductible, often calculated as a percentage of your home's insured value rather than a flat dollar amount."
+ - q: "Do I need separate flood insurance if I'm in a hurricane zone?"
+ a: "Yes. Flood damage from a hurricane, including storm surge and overland flooding, is not covered under a standard homeowners policy. You need a separate flood insurance policy through the NFIP or a private insurer, and it won't take effect until 30 days after purchase."
+ - q: "What triggers a hurricane deductible?"
+ a: "It varies by policy and state. Common triggers include a hurricane watch or warning being issued for your county, or the official declaration of a named storm by the National Weather Service. Some policies use even broader language. Read your specific deductible endorsement carefully, and check your state insurance department's rules."
+ - q: "Is private flood insurance better than NFIP?"
+ a: "For many homeowners, especially those with homes valued above $250,000, private flood insurance is worth a serious look. NFIP caps building coverage at $250,000 and doesn't always include additional living expenses. Private policies can offer higher limits and additional features, though pricing varies significantly by location and risk. Get quotes from both."
+ - q: "What if my neighbor's tree falls on my house during a hurricane?"
+ a: "Your homeowners policy covers the damage to your home regardless of where the tree came from, assuming wind is the cause. Your neighbor isn't liable unless their negligence (a dead, obviously diseased tree they ignored) contributed to the damage. That's a harder case to make than most people expect."
 ---
 
 Most homeowners in hurricane-prone states think they have hurricane coverage. They don't. What they have is wind coverage with a hurricane-shaped hole in it, and they find out the hard way when they file a claim and get handed a number far smaller than they expected.

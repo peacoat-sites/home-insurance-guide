@@ -13,16 +13,16 @@ author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years 
 slug: "home-security-ratings-and-insurance"
 affiliate_disclosure: true
 faqs:
-  - q: "Does a ring doorbell camera lower my home insurance?"
-    a: "Probably not on its own. Most insurers don't offer standalone discounts for video doorbells unless they're part of a broader monitored system. It can contribute to a general safety discount package, but don't expect a premium reduction just for the camera."
-  - q: "How do I prove my security system qualifies for a discount?"
-    a: "Get a certificate of installation from your alarm company, confirm the monitoring company has UL listing for their central station, and submit both documents to your insurer in writing. A phone call isn't enough; you want a paper trail."
-  - q: "Can my insurer cancel my discount if I stop paying for monitoring?"
-    a: "Yes, and they can do it retroactively in some cases. If you stop monitoring service and your insurer finds out at renewal (or during a claim), expect the discount to disappear and possibly a premium adjustment."
-  - q: "Do home security discounts stack with other discounts?"
-    a: "Sometimes, up to a point. Many carriers have a total discount cap that lumps safety features, loyalty discounts, and bundling discounts together. Adding a security system might not change your premium if you've already hit that ceiling with other discounts."
-  - q: "Is a more expensive security system always worth it for insurance purposes?"
-    a: "No. The discount doesn't always scale with the system price. A UL-listed monitored system at $30 a month may earn the same insurance discount as one at $60 a month. Ask your insurer what certification tier triggers their highest discount, then find the cheapest system that meets exactly that threshold."
+ - q: "Does a ring doorbell camera lower my home insurance?"
+ a: "Probably not on its own. Most insurers don't offer standalone discounts for video doorbells unless they're part of a broader monitored system. It can contribute to a general safety discount package, but don't expect a premium reduction just for the camera."
+ - q: "How do I prove my security system qualifies for a discount?"
+ a: "Get a certificate of installation from your alarm company, confirm the monitoring company has UL listing for their central station, and submit both documents to your insurer in writing. A phone call isn't enough; you want a paper trail."
+ - q: "Can my insurer cancel my discount if I stop paying for monitoring?"
+ a: "Yes, and they can do it retroactively in some cases. If you stop monitoring service and your insurer finds out at renewal (or during a claim), expect the discount to disappear and possibly a premium adjustment."
+ - q: "Do home security discounts stack with other discounts?"
+ a: "Sometimes, up to a point. Many carriers have a total discount cap that lumps safety features, loyalty discounts, and bundling discounts together. Adding a security system might not change your premium if you've already hit that ceiling with other discounts."
+ - q: "Is a more expensive security system always worth it for insurance purposes?"
+ a: "No. The discount doesn't always scale with the system price. A UL-listed monitored system at $30 a month may earn the same insurance discount as one at $60 a month. Ask your insurer what certification tier triggers their highest discount, then find the cheapest system that meets exactly that threshold."
 ---
 Most homeowners think a security system automatically brings down their insurance bill. It usually does. But the actual discount you get depends almost entirely on factors the alarm company's sales rep conveniently never mentions.
 
