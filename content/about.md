@@ -1,5 +1,6 @@
 ---
 title: "About Home Insurance Clear"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Home Insurance Clear,  meet Dana Holloway and learn how we help homeowners understand their coverage."
