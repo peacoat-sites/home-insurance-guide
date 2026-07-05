@@ -1,5 +1,6 @@
 ---
 title: "Best Home Insurance Companies 2024: Side-by-Side Carrier Comparison"
+hide_title: true
 date: 2026-06-10
 slug: "best-home-insurance-companies"
 author: "Dana Holloway"
