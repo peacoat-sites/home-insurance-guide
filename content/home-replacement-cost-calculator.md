@@ -1,5 +1,6 @@
 ---
 title: "Home Replacement Cost Calculator: How Much Dwelling Coverage Do You Need?"
+hide_title: true
 date: 2026-06-10
 slug: "home-replacement-cost-calculator"
 author: "Dana Holloway"
