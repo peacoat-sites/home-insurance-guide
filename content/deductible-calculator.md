@@ -1,5 +1,6 @@
 ---
 title: "Home Insurance Deductible Calculator: Find Your Break-Even Point"
+hide_title: true
 description: "Compare the long-term cost of different home insurance deductibles. Our calculator shows your break-even timeline, annual savings, and 10-year cost comparison so you can choose the right deductible for your situation."
 date: 2026-06-10
 slug: "home-insurance-deductible-calculator"
