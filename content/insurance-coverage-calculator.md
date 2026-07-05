@@ -1,5 +1,6 @@
 ---
 title: "Home Insurance Coverage Calculator: How Much Coverage Do You Really Need?"
+hide_title: true
 description: "Use our interactive home insurance coverage wizard to get personalized recommendations for dwelling, personal property, liability, and specialty coverage based on your home and risk profile."
 date: 2026-06-10
 slug: "home-insurance-coverage-calculator"
