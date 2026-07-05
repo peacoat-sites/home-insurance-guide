@@ -2,6 +2,7 @@
 title: "Laura Martinez"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Disaster Coverage Writer"
