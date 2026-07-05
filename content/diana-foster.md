@@ -2,6 +2,7 @@
 title: "Diana Foster"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
