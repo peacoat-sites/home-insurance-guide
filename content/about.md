@@ -6,7 +6,8 @@ draft: false
 description: "About Home Insurance Clear,  meet Dana Holloway and learn how we help homeowners understand their coverage."
 layout: "about-page"
 author_slug: "carl-brooks"
-author_name: "Home Insurance Clear"---
+author_name: "Home Insurance Clear"
+---
 
 ## About Home Insurance Clear
 
