@@ -6,7 +6,6 @@ date: 2026-06-10
 slug: "home-insurance-coverage-calculator"
 categories: ["Home Insurance Basics"]
 author: "Dana Holloway"
-image: ""
 faqs:
   - question: "How do I determine how much dwelling coverage I need?"
     answer: "Base dwelling coverage on your home's replacement cost — what it would cost to rebuild from scratch — not its market value or purchase price. Replacement costs often exceed sale prices, especially after material and labor cost increases of 25–40% since 2019. A local contractor or insurance appraiser can provide an accurate estimate; our calculator above uses your estimate as the starting point."
