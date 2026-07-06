@@ -7,6 +7,7 @@ description: "About Home Insurance Clear,  meet Dana Holloway and learn how we h
 layout: "about-page"
 author_slug: "carl-brooks"
 author_name: "Home Insurance Clear"
+person_name: "Dana Holloway"
 ---
 
 ## About Home Insurance Clear
