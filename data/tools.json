@@ -2,26 +2,50 @@
   {
     "label": "Average Home Insurance",
     "url": "/average-home-insurance-cost-by-state/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "average",
+      "home",
+      "insurance",
+      "cost"
+    ]
   },
   {
     "label": "Insurance Deductible",
     "url": "/home-insurance-deductible-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "insurance",
+      "deductible"
+    ]
   },
   {
     "label": "Best Home Insurance",
     "url": "/best-home-insurance-companies/",
-    "icon": "\ud83d\udcc8"
+    "icon": "\ud83d\udcc8",
+    "match": [
+      "best",
+      "home",
+      "insurance",
+      "companies"
+    ]
   },
   {
     "label": "Replacement Cost Calc",
     "url": "/home-replacement-cost-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "replacement",
+      "cost"
+    ]
   },
   {
     "label": "Insurance Coverage",
     "url": "/home-insurance-coverage-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "insurance",
+      "coverage"
+    ]
   }
 ]
