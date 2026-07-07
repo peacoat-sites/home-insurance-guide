@@ -21,8 +21,8 @@ faqs:
    a: "No. Earthquake coverage is specifically excluded from standard homeowner's policies in California. It's available as a separate policy, often through the California Earthquake Authority (CEA) or private insurers. Given that California has both significant wildfire and seismic risk, this is a gap that matters. The CEA offers several tiers of earthquake coverage, including more affordable basic policies that cover your dwelling but not personal property. Worth a real conversation with your agent."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 You just got a non-renewal notice in the mail. Your insurer, the one you've had for eleven years, is dropping you. Not because you filed too many claims. Not because you missed a payment. Because your zip code is now on an internal risk model that penciled out the wrong way. This is happening to California homeowners by the tens of thousands right now, and if it hasn't happened to you personally, there's a good chance it's happened to someone on your street.

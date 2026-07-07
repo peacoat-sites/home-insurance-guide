@@ -21,8 +21,8 @@ faqs:
    a: "Standard personal property coverage applies sublimits to categories like jewelry, firearms, art, and electronics. If you own a $5,000 engagement ring, your base policy might only cover $1,500 of it. Scheduling an item, meaning listing it separately on the policy with its own appraised value, gives you full coverage for that specific item, often without a deductible. If you have high-value items, ask your agent about scheduling them. It's usually not expensive and it closes a coverage gap that surprises a lot of people at claim time."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 2 a.m., water pouring through your ceiling. Your laptop's ruined. Your couch is soaked. You call your landlord, who calls their insurer, and you learn a brutal truth: their policy covers the building. It covers nothing you own. If you don't have renters insurance, you're paying out of pocket for everything.

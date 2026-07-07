@@ -21,8 +21,8 @@ faqs:
     a: "This gets complicated fast. Contact your loan servicer in writing, dispute the charge if it was applied in error, and document everything. If you're not getting resolution, file a complaint with your state's insurance department and consider reaching out to the CFPB. A HUD-approved housing counselor can also help you sort through your options at no cost."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 Most homeowners don't realize their insurance can be replaced without their permission. Then they get the bill.

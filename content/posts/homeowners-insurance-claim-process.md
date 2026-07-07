@@ -21,8 +21,8 @@ faqs:
    a: "A claims adjuster represents your insurance company. A public adjuster represents you, the policyholder. Public adjusters are licensed professionals who assess your damage independently and help negotiate your settlement. They make sense on large, complicated claims where you feel outmatched. For a straightforward small claim, the cost of hiring one may exceed the benefit."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 Most homeowners never read their policy until the moment they need it. A pipe bursts at 11 p.m., water spreads across the hardwood floors, and suddenly you're squinting at a 60-page document trying to figure out what comes next. I've seen this play out hundreds of times. The homeowners who navigate claims smoothly aren't the ones with the best policies, they're the ones who knew what to expect before disaster struck. The process has more steps than insurers advertise, and the gaps where claims go sideways are entirely predictable. Let me walk you through exactly how this works.

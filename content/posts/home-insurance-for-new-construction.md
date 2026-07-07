@@ -21,8 +21,8 @@ faqs:
    a: "If the builder's risk policy is still active, it covers the structure. Your homeowner's policy likely hasn't started yet, or if it has, it may have limitations on unoccupied structures. This is one reason to understand the exact transition date and, if construction is delayed, to ask both your insurer and the builder how extended construction timelines affect coverage."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 You closed on your brand-new home last Thursday. The builder handed over the keys, you signed a stack of papers, and your lender confirmed your homeowner's policy was in place. Everything feels buttoned up. Then a pipe fitting fails behind the drywall during week two, and you discover your policy has a construction defect exclusion that your agent never mentioned. Welcome to new construction insurance, where the gaps are real and the marketing language is designed to make you feel covered when you're not.

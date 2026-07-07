@@ -21,8 +21,8 @@ faqs:
    a: "Standard homeowners policies don't cover flood or earthquake damage at all. Flood coverage is typically purchased separately through the National Flood Insurance Program (NFIP) or private insurers, and it has its own loss settlement rules. The NFIP generally pays ACV for contents, with different terms for building coverage. Our home insurance flood coverage article covers those specifics. Earthquake policies also have their own valuation terms. Don't assume your RCV homeowners policy extends to these perils."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Policy Researcher"
-author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+author_title: "Insurance Policy Analyst"
+author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 
 ---
 Your kitchen burns. Cabinets, appliances, flooring, gone. You'd paid $18,000 for all of it seven years ago. The adjuster's check arrives: $6,400. You're stunned. Everything worked fine until the fire. But your policy said "actual cash value," and depreciation just took the other $11,600. I watched this happen to policyholders during my 14 years adjusting claims. The look on their faces never changed, pure shock followed by justified anger, because nobody explained this choice when they bought the policy.

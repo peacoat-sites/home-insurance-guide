@@ -21,8 +21,8 @@ faqs:
    a: "Yes, with nuance. Improvements that increase the replacement cost of your home (additions, high-end kitchen remodels, finished basements) should be reported so your dwelling coverage limit stays adequate. Improvements that reduce risk (new roof, updated electrical, security systems) should be reported because they may earn you a discount. The only reason to hesitate is if an improvement reveals an unpermitted prior condition, which is a separate conversation to have carefully with your agent."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Policy Researcher"
-author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+author_title: "Insurance Policy Analyst"
+author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 
 ---
 Most homeowners assume their insurance premium is fixed, something that creeps up a little each year like a utility bill, and there's nothing to do about it. I believed that too, honestly, until I spent 14 years sitting on the other side of the desk, watching what actually moved the needle on pricing. The truth is that insurers have dozens of rating factors they rarely explain, and a surprising number of them are within your control. I've seen policies drop by hundreds of dollars annually after a single phone call. I've also seen people pay thousands more than necessary for years simply because nobody told them what questions to ask.

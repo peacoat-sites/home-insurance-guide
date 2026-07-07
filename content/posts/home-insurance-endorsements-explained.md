@@ -8,8 +8,8 @@ categories: ["Coverage Basics"]
 tags: ["home", "insurance", "endorsements", "explained"]
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 slug: "home-insurance-endorsements-explained"
 affiliate_disclosure: true
 faqs:

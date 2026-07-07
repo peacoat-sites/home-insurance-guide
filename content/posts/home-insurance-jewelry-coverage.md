@@ -21,8 +21,8 @@ faqs:
    a: "They're typically the same thing, just different terms carriers use. A scheduled personal property endorsement, a jewelry floater, a valuable articles rider, these all refer to adding specific high-value items to your policy with individual coverage limits and broader perils. Don't let the terminology confusion stop you from asking your agent directly what options your carrier offers."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 Most people have no idea their jewelry is barely covered by their home insurance policy. Not as a minor gap. As in, you could lose a $6,000 engagement ring in a house fire and walk away with maybe $1,500. I watched this happen to claimants more times than I can count.

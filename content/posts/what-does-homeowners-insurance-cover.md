@@ -21,8 +21,8 @@ faqs:
    a: "Usually yes, under liability coverage. Dog bites are actually one of the most common homeowners liability claims. However, many insurers exclude specific 'dangerous' breeds or charge higher premiums. If you own a breed on an insurer's exclusion list, your liability coverage may not apply to a bite claim. Read your policy's animal liability language carefully, and if your breed is excluded, shop accordingly."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 Most homeowners find out what their policy doesn't cover right after something breaks. I've sat with hundreds of people in that position, staring at a denial letter and realizing they've been paying for something that doesn't protect what they thought it did. A burst pipe in January? Covered. A slow leak hidden behind drywall for six months that turned into mold? Not a chance. Understanding this stuff before disaster hits is one of the smartest financial moves you can make.

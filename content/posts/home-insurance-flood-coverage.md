@@ -21,8 +21,8 @@ faqs:
    a: "Waiting too long to buy it. I've seen this more times than I can count. People who live in flood-prone areas know they should have it, keep meaning to get around to it, and then a weather event arrives. With a standard 30-day waiting period on NFIP policies, 'I'll get it this week' in response to a forecast storm often means you're already too late. Buy it on a day when nothing threatening is on the horizon and you won't be scrambling."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 Your basement fills with two feet of water after a heavy rainstorm. You call your insurance company, relieved that you've been paying your homeowners premium for years. Then comes the gut punch: "I'm sorry, but flood damage isn't covered under your policy." That call happens thousands of times every year. After 14 years reviewing claims, I can tell you that flood exclusions are one of the most consistently misunderstood gaps in residential insurance, and they catch good, responsible homeowners completely off guard.

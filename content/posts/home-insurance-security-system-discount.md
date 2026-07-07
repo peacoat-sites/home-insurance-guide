@@ -21,8 +21,8 @@ faqs:
    a: "Yes. If your monitoring service lapses, you cancel your contract, or your monitoring company loses its UL certification status, the credit can be removed at renewal. Some insurers audit this annually. Keep your monitoring active and your certificates current."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 $850 for a professional installation, 24/7 monitoring, the whole deal. My friend got that credit: 2% on a $1,400 premium. That's $28 a year. He did the math instantly. Thirty years to break even. I've watched this play out a dozen times, and it's not because security systems are bad. It's because people don't ask the right questions before they buy.

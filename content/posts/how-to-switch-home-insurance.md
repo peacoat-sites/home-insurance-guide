@@ -21,8 +21,8 @@ faqs:
    a: "Possibly. Some policies have a loyalty discount that takes a few years to vest, so you'd want to check whether leaving early forfeits a future discount. But if the new policy offers significantly better coverage or price, a year in is fine to switch. Don't let sunk-time thinking keep you in a policy that isn't serving you."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 Most homeowners think switching insurance is way more complicated than it actually is. I've talked to people who've been with the same insurer for a decade, quietly overpaying by 30-40%, simply because they didn't know the whole process takes less than a week and costs nothing. Here's the thing: switching home insurance is one of the easiest financial moves you can make. You don't have to wait for renewal. You don't have to fight anyone. You just need to know what to do in the right order.

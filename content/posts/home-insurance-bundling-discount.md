@@ -21,8 +21,8 @@ faqs:
    a: "You'll only know by comparing. Get standalone quotes for each policy from carriers that don't write the other, then compare the total to your best bundled quote. If the bundled total is lower and the coverage terms are equivalent, the bundle is working for you. If it's not, the discount is doing its job of keeping you from shopping around."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Policy Researcher"
-author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+author_title: "Insurance Policy Analyst"
+author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 
 ---
 You're paying two separate premiums every month, one for your home and one for your car. Somewhere in there is a discount you might not be fully using. Bundling those two policies with the same insurer is one of the most commonly advertised discounts in personal insurance, with carriers frequently promoting savings of 10% to 25%. But here's what the ads don't tell you: bundling doesn't always save you money, the discount can mask an otherwise overpriced policy, and the way claims interact across bundled policies can create complications most policyholders never anticipate until it's too late.

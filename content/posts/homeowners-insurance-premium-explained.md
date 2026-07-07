@@ -21,8 +21,8 @@ faqs:
    a: "Sewer and water backup. Most HO-3 policies explicitly exclude damage from water that backs up through a drain or sump. A backed-up sewer line can cause tens of thousands of dollars in damage to floors, walls, and personal property. The endorsement to add this coverage typically costs between $50 and $150 per year. Few agents proactively mention it. Ask for it specifically."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Policy Researcher"
-author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+author_title: "Insurance Policy Analyst"
+author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 
 ---
 Your neighbor's house is identical to yours. Same square footage, same roof age, same ZIP code. His homeowners premium is $400 less per year than yours. No, he didn't get a special deal. You're probably just paying the price of not knowing what's actually inside your policy or what levers you can pull to change it.

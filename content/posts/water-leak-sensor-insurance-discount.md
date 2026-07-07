@@ -21,8 +21,8 @@ faqs:
    a: "No, they don't change your deductible or the claims process directly. What they can do is reduce the scope of damage before a claim is even necessary, which is ultimately more valuable than a discount. An insurer can't raise your rates for having sensors, either."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Policy Researcher"
-author_bio: "Carl Brooks is a meticulous researcher who has spent years comparing homeowners insurance products, reading the policy language that most consumers never look at until they need to file a claim. He has a particular talent for making the fine print readable and identifying the differences between policies that look similar on the surface. At Home Insurance Guide, he covers policy comparison and quote shopping strategy."
+author_title: "Insurance Policy Analyst"
+author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 
 ---
 Most homeowners have no idea their insurer might cut their premium just for plugging in a $20 sensor. I didn't either, until a claim I reviewed back in 2011 changed how I thought about water damage entirely.

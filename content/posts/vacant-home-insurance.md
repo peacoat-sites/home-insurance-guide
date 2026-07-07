@@ -21,8 +21,8 @@ faqs:
     a: "This varies by policy, but weekly inspections are a common requirement, sometimes documented. Some insurers require a signed log. Ask your specific insurer what their inspection requirement is before you buy."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 If your house sits empty for more than 30 days, your standard homeowner's policy has probably already stopped covering it. Most people don't find out until they file a claim.

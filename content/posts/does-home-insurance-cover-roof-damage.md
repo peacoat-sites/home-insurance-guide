@@ -21,8 +21,8 @@ faqs:
    a: "Start by reviewing your declarations page and policy endorsements specifically for roof-related language. Look for ACV vs. RCV valuation, any cosmetic damage exclusions, and your deductible structure. Ask your agent directly: 'If a hailstorm damaged my roof today, how would that claim be valued?' Consider a professional roof inspection, which gives you documentation of your roof's current condition. Some insurers offer discounts or better terms for impact-resistant roofing materials, so it's worth exploring that conversation if you're planning a replacement soon."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 You file a claim after a bad hailstorm tears up your roof. The adjuster comes out, inspects the damage, and then informs you that your payout will cover less than half the repair cost because your roof has depreciated significantly. You thought you were fully covered. You weren't. I watched this exact scenario play out hundreds of times during my years adjusting claims, and it almost always comes as a genuine shock to the homeowner. Roof damage is the single most claimed category in homeowner insurance, yet coverage works in ways most people never take the time to understand until the moment they desperately need it.

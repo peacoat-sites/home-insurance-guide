@@ -21,8 +21,8 @@ faqs:
    a: "Request a life event exception from your insurer. Document the timeline: when the divorce proceedings began, how they affected joint accounts, any errors introduced to your report. Most states with credit scoring rules require insurers to offer this exception process in writing. Submit a formal written request, keep a copy, and follow up in writing if you don't hear back. If your insurer refuses to engage, your state insurance department has a consumer complaints process."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 Most people know a bad credit score will tank their car loan interest rate. Far fewer realize it can tack hundreds of dollars onto their home insurance bill every year, sometimes more than a speeding ticket or a prior claim would cost. I spent years reviewing claims for an insurer, and I'll admit I didn't fully grasp how aggressively the industry weaponized credit data until I switched sides and started seeing what my clients actually paid. The gap between a policyholder with excellent credit and one with poor credit, for the exact same house and coverage, can be genuinely shocking.

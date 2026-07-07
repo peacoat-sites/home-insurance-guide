@@ -21,8 +21,8 @@ faqs:
    a: "Yes. If you've just purchased an older home and you're planning to re-wire or re-pipe within the next year, it's worth having that conversation with your insurer now. Some will write coverage with a condition that work is completed within a certain timeframe. Others may require the work first. Either way, transparency protects you: if you fail to disclose a known problem and then file a claim related to that problem, you may face a denial based on misrepresentation."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 You buy a charming 1920s Craftsman bungalow, fall in love with the original hardwood floors and built-in cabinetry, and then your insurance renewal notice arrives with a premium that makes your stomach drop. Or worse: you file a claim after a pipe bursts and discover your policy pays only a fraction of the actual repair cost because of something buried in the fine print called "actual cash value." This is one of the most common and painful surprises I saw during my 14 years reviewing claims, and it hits older home owners especially hard.

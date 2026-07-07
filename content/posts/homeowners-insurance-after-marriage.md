@@ -21,8 +21,8 @@ faqs:
    a: "For most couples combining two incomes and meaningful assets, yes. The cost is low relative to the protection. If you have a dog, a pool, a trampoline, or a history of entertaining at home, I'd consider it a near-priority rather than a nice-to-have."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 Getting married changes your insurance situation faster than most newlyweds realize. The gap between "we should probably update that" and actually doing it has cost couples real money.

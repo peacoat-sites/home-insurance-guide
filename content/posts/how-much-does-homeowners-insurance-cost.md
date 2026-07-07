@@ -21,8 +21,8 @@ faqs:
    a: "Almost certainly not. Claims stay on your CLUE report for five to seven years and can raise your premium, affect your ability to get coverage elsewhere, or get your policy non-renewed. A general rule I used to tell claimants: if the loss is less than two to three times your deductible, seriously consider paying out of pocket. Your insurance is best preserved for the large, unexpected losses that could actually threaten your financial stability."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 The average American pays somewhere around $1,400 to $2,000 a year for homeowners insurance, but I've seen nearly identical houses on the same street quoted at wildly different premiums. One client paid $1,100 annually. Her neighbor, same square footage, same roof age, paid $2,600. The difference came down to claims history, credit score, and one detail neither of them knew to ask about: the neighbor had filed a water damage claim six years earlier at a previous address, and that followed him to every quote he got. Homeowners insurance pricing is not arbitrary, but the logic behind it is buried in systems most buyers never see. Understanding those systems is how you stop guessing and start shopping smart.

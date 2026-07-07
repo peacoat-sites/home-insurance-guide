@@ -21,8 +21,8 @@ faqs:
    a: "Replacement cost pays what it would cost to replace a damaged item or structure with a new equivalent today. Actual cash value (ACV) subtracts depreciation. A 10-year-old roof destroyed by hail has significantly depreciated. Under ACV, you'd receive a fraction of what a new roof costs. Under replacement cost, you'd receive close to the full replacement amount, minus your deductible. ACV policies have lower premiums. They also produce dramatically smaller claim payments. For your dwelling, replacement cost coverage is almost always worth the premium difference. For older personal property with"
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Insurance Writer"
-author_bio: "Mark Thompson spent 15 years as a licensed property and casualty insurance agent before deciding he could help more people by writing clearly about what policies actually cover. He has reviewed hundreds of homeowners policies and knows exactly where the gaps tend to hide. At Home Insurance Guide, he covers policy types, coverage limits, exclusions, and how to make sure you are actually protected."
+author_title: "Former Insurance Agent"
+author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 
 ---
 Your mortgage lender requires home insurance. You buy it, pay the premium, and assume you're covered. Then a pipe bursts in the wall, ruins the hardwood floors, and you file a claim, only to learn your policy covers the pipe repair but not the floor replacement because water damage from "slow leaks" gets classified differently than sudden damage. The claim gets denied. This happens constantly, and it's not buried in fine print so much as hidden in plain sight, in the gap between what people assume coverage means and what it actually says.

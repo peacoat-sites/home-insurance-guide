@@ -21,8 +21,8 @@ faqs:
    a: "Broadly, yes. Renters insurance includes personal property coverage that functions similarly: covered perils, ACV vs. RCV options, and sub-limits for certain item categories. The key difference is that renters insurance doesn't include dwelling coverage (that's the landlord's responsibility). If you're renting, your belongings are not covered by your landlord's policy, period. The structure is. Your stuff is not."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Disaster Coverage Writer"
-author_bio: "Laura Martinez grew up in a hurricane-prone region and spent years helping her community understand flood insurance, wind coverage, and disaster-specific policies after watching neighbors get blindsided by excluded losses. At Home Insurance Guide, she covers flood, earthquake, wildfire, and disaster-specific coverage questions."
+author_title: "Catastrophe Claims Specialist"
+author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 
 ---
 Your basement floods after a pipe bursts overnight. Furniture ruined. Television gone. Kids' gaming equipment destroyed. You call your insurer confident you're covered, and the adjuster hits you with the number: $4,200. Your losses? You're looking at $12,000, maybe more. How'd this happen? You had actual cash value coverage, not replacement cost. Your five-year-old couch wasn't worth what a new one costs today.
