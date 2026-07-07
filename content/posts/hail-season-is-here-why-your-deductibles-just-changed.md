@@ -14,8 +14,6 @@ slug: "hail-season-is-here-why-your-deductibles-just-changed"
 affiliate_disclosure: true
 ---
 
-# Hail Season Is Here: Why Your Deductibles Just Changed
-
 Here's what nobody is talking about at the water cooler: the costliest weather peril in America isn't hurricanes anymore. It's hail. And if you live anywhere between the Mississippi River and the Rockies, or across the Southeast, your insurance company already knows this. They've restructured their entire approach to homeowners policies because of it.
 
 I'll be honest, when I started looking into the claim patterns my former industry was seeing this summer, I expected the usual post-hurricane activity. Instead, what I found was data showing that severe convective storms, hail, derechos, damaging straight-line winds, and tornadoes, have become the dominant driver of insurance losses in America. According to March 2026 data from Insurance Business Magazine, these storms are now the major insurance loss driver in the U.S., surpassing hurricanes in frequency and total cost. Last year, insured losses from severe convective storms hit $127 billion in 2025 alone. By September 2025, we were already at $42 billion.
