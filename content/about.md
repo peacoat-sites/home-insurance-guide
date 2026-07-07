@@ -3,11 +3,11 @@ title: "About Home Insurance Clear"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Home Insurance Clear,  meet Dana Holloway and learn how we help homeowners understand their coverage."
+description: "About Home Insurance Clear,  meet Carl Brooks and learn how we help homeowners understand their coverage."
 layout: "about-page"
 author_slug: "carl-brooks"
 author_name: "Home Insurance Clear"
-person_name: "Dana Holloway"
+person_name: "Carl Brooks"
 ---
 
 ## About Home Insurance Clear
@@ -16,11 +16,9 @@ Home Insurance Clear is an independent resource dedicated to helping homeowners 
 
 ## Meet the Editor
 
-**Dana Holloway** is the editor behind Home Insurance Clear.
+**Carl Brooks** is the editor behind Home Insurance Clear.
 
-Dana spent years as a licensed property insurance agent helping homeowners shop for coverage, file claims, and navigate the fine print of their policies. Over time, she noticed a consistent pattern: homeowners rarely read their policies until something went wrong,  and by then, it was too late to change coverage or understand their options.
-
-She created Home Insurance Clear to give homeowners the information they need up front: how policies are structured, what standard exclusions mean in practice, how claims affect premiums, and how to compare quotes without getting lost in jargon.
+Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury.
 
 ## What We Cover
 
@@ -34,7 +32,7 @@ Every article on this site is researched from industry sources, state insurance 
 
 ## Important Disclaimer
 
-Home Insurance Clear provides general informational content. Dana Holloway is a former insurance professional and researcher,  not a licensed advisor in your state. Insurance regulations, policy terms, and coverage options vary significantly by state and insurer. Always consult a licensed insurance professional for advice specific to your situation.
+Home Insurance Clear provides general informational content. Carl Brooks is a former insurance professional and researcher,  not a licensed advisor in your state. Insurance regulations, policy terms, and coverage options vary significantly by state and insurer. Always consult a licensed insurance professional for advice specific to your situation.
 
 ## Affiliate Disclosure
 
