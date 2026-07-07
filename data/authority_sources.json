@@ -1,0 +1,22 @@
+[
+ {
+  "name": "National Association of Insurance Commissioners (NAIC)",
+  "url": "https://www.naic.org/",
+  "note": "State insurance regulation"
+ },
+ {
+  "name": "Insurance Information Institute",
+  "url": "https://www.iii.org/",
+  "note": "Coverage and claims data"
+ },
+ {
+  "name": "FEMA",
+  "url": "https://www.fema.gov/",
+  "note": "Flood and disaster guidance"
+ },
+ {
+  "name": "Consumer Financial Protection Bureau",
+  "url": "https://www.consumerfinance.gov/",
+  "note": "Consumer financial protection"
+ }
+]
