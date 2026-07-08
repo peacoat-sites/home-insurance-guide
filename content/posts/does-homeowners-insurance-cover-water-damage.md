@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 Most homeowners assume water damage is water damage. A pipe bursts, the ceiling caves in, the floor buckles, and they reach for their insurance card confident that somewhere in that thick policy binder, this mess is covered. What I found after 14 years of reviewing those claims is that this assumption is wrong more often than it's right. The difference between a six-figure payout and a denial letter often comes down to a single word: *sudden*.
 
@@ -38,6 +38,16 @@ The legal and practical line sits between "you couldn't have known" and "you sho
 This doesn't mean you're helpless. It means you need to understand exactly what falls into which category before you file, before you renovate, and honestly, before you buy your next policy.
 
 ## What Standard Policies Actually Cover (and What They Don't)
+
+| Coverage Type | Standard HO-3 Policy | Requires Separate Policy |
+| --- | --- | --- |
+| Burst pipes (sudden freezing) | Covered | No |
+| Roof leak from covered peril | Covered | No |
+| Sudden appliance failure | Covered | No |
+| Flooding (rain, storm surge, rivers) | Not covered | Yes (NFIP or private) |
+| Sewer backup/drain overflow | Not covered | Yes (endorsement available) |
+| Gradual leaks/seepage | Not covered | No |
+| Foundation seepage | Not covered | No |
 
 Let me break this down plainly, because the marketing language on insurance websites is genuinely misleading on this point.
 
@@ -65,7 +75,7 @@ The flood exclusion isn't a technicality. It's a massive coverage gap that affec
 
 About 20 percent of NFIP flood claims come from homes outside high-risk flood zones, according to federal data. I've reviewed claims from homeowners who genuinely had no idea they needed separate coverage because their agent never explained it and they never asked. By the time the water was in the house, it was too late.
 
-The NFIP has coverage limits: $250,000 for the structure and $100,000 for contents. If your home is worth more than that, or you have significant personal property, you'd need to look at excess flood coverage from private insurers. Premiums vary dramatically based on elevation, proximity to water, and your flood zone designation, so the only way to know your actual cost is to get a quote.
+The [NFIP has coverage limits](/how-much-home-insurance-do-i-need/): $250,000 for the structure and $100,000 for contents. If your home is worth more than that, or you have significant personal property, you'd need to look at excess flood coverage from private insurers. Premiums vary dramatically based on elevation, proximity to water, and your flood zone designation, so the only way to know your actual cost is to get a quote.
 
 One thing worth knowing: there's typically a 30-day waiting period before NFIP coverage kicks in. You can't buy it when a hurricane is in the Gulf and expect it to cover the storm surge. This is a feature of the program designed to prevent adverse selection, and it catches people off guard every hurricane season.
 

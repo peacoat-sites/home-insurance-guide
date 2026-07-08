@@ -23,13 +23,22 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 If you're active-duty, a veteran, or a military spouse renewing your homeowner's policy right now, you're probably wondering if there's a discount waiting for you. Short answer: sometimes yes, sometimes it's buried deep in the fine print, and sometimes what gets marketed as a "military discount" is really just good branding. After 14 years reviewing claims, I've seen the full range. I want to help you actually get something out of this, not just feel good about clicking a button labeled "military savings."
 
 Here's what I tell people who come to me confused: the discount itself is rarely the most important part of the conversation.
 
 ## What Military Discounts on Home Insurance Actually Look Like
+
+| Military Discount Type | Typical Range/Benefit | Key Consideration |
+| --- | --- | --- |
+| Flat premium reduction | 5-15% off | Varies by insurer and state |
+| Deductible waiver/reduction | Applies during deployment | Check policy wording carefully |
+| Rate hold during vacancy | Maintains rate while deployed | Not all insurers offer this |
+| Personal property in transit | Coverage during PCS moves | Often excluded in standard policies |
+| Landlord/dwelling fire policy | Premium higher than standard homeowners | Required if renting out property |
+| Bundled military association plans | Variable (USAA, credit union options) | May include non-discount coverage advantages |
 As of June 2026, 
 There's no standard. That's where I have to start.
 
@@ -49,7 +58,7 @@ Can you maintain coverage while deployed without a vacancy exclusion kicking in?
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) published guidance specifically for servicemembers on insurance rights and what to watch for during active duty, including state-level protections you probably don't know about. Spend 20 minutes reading it.
 
-One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a landlord policy (sometimes called a dwelling fire policy). I've seen military families learn this after a tenant causes damage and the claim gets denied. The premium difference is real. So is the coverage gap.
+One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a [landlord policy](/best-homeowners-insurance-companies/) (sometimes called a dwelling fire policy). I've seen military families learn this after a tenant causes damage and the claim gets denied. The premium difference is real. So is the coverage gap.
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -77,7 +86,7 @@ Water leak sensors near your water heater and under sinks are cheap insurance ag
 
 ---
 
-The discount is a place to start, not a reason to stop asking questions. A 10% savings on a policy that denies your claim during deployment isn't a deal. Know what you're actually buying.
+The discount is a place to start, not a reason to [stop asking questions](/homeowners-insurance-shopping-tips/). A 10% savings on a policy that denies your claim during deployment isn't a deal. Know what you're actually buying.
 
 ## Helpful Resources
 

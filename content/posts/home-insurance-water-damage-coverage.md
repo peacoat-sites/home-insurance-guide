@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 Picture this: you come home from a week-long vacation, open your front door, and hear it. That soft, unmistakable sound of running water. You follow it upstairs to the bathroom, where a supply line behind the toilet silently failed sometime on day two. The floor is warped. The ceiling below is sagging. Your hardwood hallway looks like a topographic map, all buckled and rippled. You call your insurance company expecting relief. Then they say it: "That looks like it may have been ongoing. We'll need to investigate before we can confirm coverage." I've watched this exact scenario play out dozens of times. The homeowner did nothing wrong. They still had to fight like hell for their claim. Understanding what your policy actually covers before water touches a single floorboard is the difference between financial disaster and a manageable problem.
 
@@ -38,6 +38,14 @@ What insurers don't emphasize is the "slow leak problem." If an adjuster can arg
 The burden of proof often falls on you. Document everything immediately upon discovery. Photos with timestamps. Notes about when you last accessed the area. A written account of what you first noticed. That documentation is your best defense against a claim denial.
 
 ## The Four Types of Water Damage and How Policies Treat Them Differently
+
+| Water Damage Type | Coverage Under Standard HO-3 | Key Condition |
+| --- | --- | --- |
+| Internal plumbing failures (burst pipes, supply lines, appliances) | Generally Covered | Must be sudden and accidental |
+| Roof and weather-related intrusion | Usually Covered | Damage must be from storm; excluded if roof already deteriorating |
+| Sewer and drain backup | Not Covered (requires endorsement) | Endorsement typically costs $50-$200/year |
+| Flooding (groundwater, storm surge, bodies of water) | Not Covered (requires separate policy) | Requires National Flood Insurance Program or private flood policy |
+| Surface water and foundation seepage | Typically Excluded | May be partially covered under optional water backup endorsement |
 
 > **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

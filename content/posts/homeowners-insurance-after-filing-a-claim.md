@@ -23,21 +23,28 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
-You filed a claim last spring after a burst pipe soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.
+You filed a claim last spring after a [burst pipe](/home-insurance-frozen-pipes/) soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.
 
 That's the part nobody explains when you're signing your policy.
 
 ## What Actually Happens to Your Policy After a Claim
 
-The moment you file a claim, your insurer does more than just process a payment. They flag your account. The claim gets logged in a database called CLUE, which stands for Comprehensive Loss Underwriting Exchange. This is a report maintained by LexisNexis that insurers use to see your claims history across companies, going back up to seven years. Any insurer you apply to in the future can pull this report. It follows you.
+The moment you file a claim, your insurer does more than just process a payment. They flag your account. The claim gets logged in a database called CLUE, which stands for Comprehensive Loss Underwriting Exchange. This is a report maintained by LexisNexis that insurers use to see your [claims history](/home-insurance-claims-statistics/) across companies, going back up to seven years. Any insurer you apply to in the future can pull this report. It follows you.
 
-At renewal time, underwriters review your file. They're not just looking at whether your claim was legitimate. They're evaluating what your claim says about risk going forward. A water damage claim, for example, often signals to underwriters that there may be ongoing moisture issues in the home. A liability claim might suggest a pattern they want to price accordingly.
+At renewal time, underwriters review your file. They're not just looking at whether your claim was legitimate. They're evaluating what your claim says about risk going forward. A [water damage claim](/home-insurance-water-damage-coverage/), for example, often signals to underwriters that there may be ongoing moisture issues in the home. A liability claim might suggest a pattern they want to price accordingly.
 
 What happens next falls into three categories: your premium goes up, your policy gets modified with a new exclusion attached to that type of loss, or your insurer decides not to renew you at all. None of these outcomes are guaranteed after a single claim, but all are real possibilities.
 
 ## Premium Increases: How Much, and Why
+
+| Outcome | Definition | Timeline | Your Options |
+| --- | --- | --- | --- |
+| Premium Increase | Insurer raises your rate at renewal | At renewal | Accept, shop competitors, or request written explanation |
+| Policy Modification | Exclusion added for that type of loss | At renewal | Review exclusion scope, consider separate coverage |
+| Non-Renewal | Insurer declines to renew at policy expiration | 30-60 days notice before expiration | Shop for new insurer before coverage lapses |
+| Mid-Term Cancellation | Insurer terminates during active policy | Immediate (with notice) | Only legal for non-payment, fraud, or material misrepresentation; contact state insurance department if improper |
 
 There's no universal formula here. I want to be straight with you about that. Premium increases after a claim vary significantly based on your insurer, your state's regulations, the type and size of the claim, and your prior claims history. What I can tell you from years of working with these systems is that the increase is almost never zero.
 

@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Most homeowners carry 20% too little insurance. That's not a rounding error. If your house costs $400,000 to rebuild and your policy covers $320,000, you're eating an $80,000 loss yourself after a total loss. When you're standing in the ash, that gap doesn't look smaller.
 
@@ -34,6 +34,14 @@ Let's walk through this properly.
 ---
 
 ## The Number That Actually Matters: Dwelling Coverage
+
+| Coverage Type | Standard Limit | What It Covers | Key Detail |
+|---|---|---|---|
+| Coverage A (Dwelling) | Replacement cost of home | House structure, attached components | Must match rebuild cost, not market value |
+| Coverage B (Other Structures) | 10% of Coverage A (default) | Detached garage, shed, fence, outbuildings | Can be increased for additional premium |
+| Coverage C (Personal Property) | 50-70% of Coverage A | Furniture, appliances, clothing, electronics | Subject to sub-limits on jewelry ($1,500-$2,500), firearms ($2,500), collectibles |
+| Coverage D (Loss of Use) | 20-30% of Coverage A | Hotel, rental housing, living expenses during rebuild | May be insufficient in high-cost markets; 14+ months typical rebuild time |
+| Coverage E (Liability) | Varies by policy | Bodily injury and property damage claims by third parties | Protects against lawsuit costs for injuries on your property |
 As of June 2026, 
 Your home's market value and its replacement cost are completely different numbers. Tens of thousands of dollars different, sometimes. Confusing them is the single most expensive mistake in home insurance.
 
@@ -47,7 +55,7 @@ How do you find that number? Three ways, ranked by accuracy:
 2. **Use your insurer's estimator.** Most big carriers have one built in. It's useful but remember: it's an approximation designed for speed, not the custom tile work or the addition you permitted last spring.
 3. **Ask your contractor.** They know local labor rates inside out. Their estimate plus an online cost calculator for your region gets you close enough.
 
-Once you have that number, hunt for a policy with **guaranteed replacement cost** or **extended replacement cost** coverage. Extended is standard: if construction costs spike, it pays 20-50% above your limit. Guaranteed replacement covers the rebuild no matter what the actual cost runs. Don't mix up "replacement cost" coverage (what the rebuild actually costs) with "actual cash value" (replacement cost minus depreciation). Actual cash value is cheaper. It's cheaper for a reason.
+Once you have that number, hunt for a policy with **[guaranteed replacement cost](/how-does-home-insurance-replacement-cost-work/)** or **extended replacement cost** coverage. Extended is standard: if construction costs spike, it pays 20-50% above your limit. Guaranteed replacement covers the rebuild no matter what the actual cost runs. Don't mix up "replacement cost" coverage (what the rebuild actually costs) with "actual cash value" (replacement cost minus depreciation). Actual cash value is cheaper. It's cheaper for a reason.
 
 ---
 
@@ -81,7 +89,7 @@ Two critical details:
 
 ## Liability and Loss of Use: The Two Covers People Skip
 
-**Coverage D: Loss of Use.** If your home becomes unlivable after a covered loss, this pays for hotel rooms, rentals, and other reasonable living expenses while you're rebuilding. Standard limits run 20-30% of your dwelling coverage. Do the math for your area. Rebuilding a total loss takes 14 months, easy, in a busy market. If a comparable rental runs $3,000 monthly, you need at least $42,000 just for housing. Add meals out, storage, laundry. The standard limit often works, but in expensive cities it doesn't.
+**Coverage D: [Loss of Use](/what-is-loss-of-use-coverage-explained/).** If your home becomes unlivable after a covered loss, this pays for hotel rooms, rentals, and other reasonable living expenses while you're rebuilding. Standard limits run 20-30% of your dwelling coverage. Do the math for your area. Rebuilding a total loss takes 14 months, easy, in a busy market. If a comparable rental runs $3,000 monthly, you need at least $42,000 just for housing. Add meals out, storage, laundry. The standard limit often works, but in expensive cities it doesn't.
 
 **Coverage E: Liability.** This pays if someone slips on your property and sues. Your dog bites a neighbor's kid. Standard policies offer $100,000. That's the bare minimum, not the target. A serious injury lawsuit blows through $100,000 in medical bills alone. Most experts recommend $300,000 minimum. If you have real assets, stack a personal umbrella policy on top of your home and auto coverage. Umbrella policies are often shockingly affordable for the protection.
 

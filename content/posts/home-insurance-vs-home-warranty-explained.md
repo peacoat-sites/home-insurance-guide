@@ -23,9 +23,9 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
-You just got hit with a $4,000 HVAC repair bill, and your first call was to your homeowner's insurance company. The agent told you they couldn't help. So you called the home warranty company you've been paying $60 a month for, and they sent a technician who said the problem wasn't covered because of "improper maintenance." Now you're out $4,000, plus months of premiums, and nobody seems to be on your side. If that scenario sounds familiar, or if you're trying to figure out how to avoid it, you're in exactly the right place.
+You just got hit with a $4,000 HVAC repair bill, and your first call was to your [homeowner's insurance](/best-home-insurance-for-new-homeowners/) company. The agent told you they couldn't help. So you called the home warranty company you've been paying $60 a month for, and they sent a technician who said the problem wasn't covered because of "improper maintenance." Now you're out $4,000, plus months of premiums, and nobody seems to be on your side. If that scenario sounds familiar, or if you're trying to figure out how to avoid it, you're in exactly the right place.
 
 ## What Each One Actually Covers (And Why People Confuse Them)
 
@@ -71,6 +71,15 @@ Here's what I tell people considering a warranty: read the exclusions before you
 That last one matters. A power surge that kills your refrigerator might be covered by your homeowner's insurance under personal property coverage. But your home warranty company will tell you it's not their problem because it wasn't a mechanical failure. Again, wrong problem, wrong company.
 
 ## Side-by-Side: What to Expect from Each
+
+| | **Home Insurance** | **Home Warranty** |
+|---|---|---|
+| **Type of product** | Insurance policy | Service contract |
+| **Regulated by** | State insurance commissioners | State consumer protection agencies (varies) |
+| **Covers** | Sudden, accidental damage from covered perils | Mechanical failure from wear and tear |
+| **Does NOT cover** | Wear and tear, gradual damage, mechanical failure | Catastrophic events, structural damage, pre-existing conditions |
+| **Typical cost** | $1,200 to $2,000/year | $60/month (~$720/year) |
+| **Service call fee** | None (after deductible) | $75 to $150 per visit |
 
 | | **Home Insurance** | **Home Warranty** |
 |---|---|---|

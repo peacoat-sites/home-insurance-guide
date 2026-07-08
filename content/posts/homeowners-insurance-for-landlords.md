@@ -23,6 +23,7 @@ faqs:
    a: "Landlord policies generally run 15% to 25% more than comparable homeowners coverage, though costs vary considerably by location, property type, and coverage limits. The gap is real but not enormous, and it reflects the legitimately different risk profile. Shopping multiple insurers is worth your time."
  - q: "My tenant wants to know if they're covered under my policy. What do I tell them?"
    a: "They're not. Your landlord policy covers the structure and your liability as the property owner. The tenant's belongings and their own personal liability are entirely separate. Tell them they need renters insurance, and consider making it a lease requirement. Renters insurance is inexpensive (often $15 to $20 a month) and it protects everyone involved when something goes wrong."
+lastmod: 2026-07-07
 ---
 
 If you've recently bought a rental property, or you're thinking about converting your current home into one, there's a good chance you're staring at your existing homeowners policy wondering whether it still covers you. It might. Partially. And that partial coverage is exactly where the expensive surprises live.
@@ -41,6 +42,15 @@ That last part matters. If your home burns down and the insurer discovers it was
 
 ## Landlord Insurance: What You're Actually Buying
 
+| Coverage Type | Standard Homeowners Policy | Landlord (DP-3) Policy |
+| --- | --- | --- |
+| Dwelling/Structure | May exclude or limit if rented | Included |
+| Tenant Liability | Limited or excluded | Included |
+| Personal Property (Tenant's) | Not covered | Not covered (tenant's responsibility) |
+| Loss of Rental Income | Not included | Included |
+| Vacant Property (30-60+ days) | May suspend coverage | May require endorsement |
+| Short-term Rental (Airbnb/Vrbo) | Typically excluded | May not cover; platform coverage varies |
+
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -55,7 +65,7 @@ One more thing landlord policies typically don't cover: your tenant's belongings
 
 ## The Coverage Gap That Catches People Most Often
 
-Vacant and unoccupied properties are treated differently still. If your rental sits empty between tenants for more than 30 to 60 days (the threshold varies), some policies suspend coverage or require a vacancy endorsement. This is a detail that trips up a lot of landlords managing turnover.
+[Vacant and unoccupied properties](/vacant-home-insurance/) are treated differently still. If your rental sits empty between tenants for more than 30 to 60 days (the threshold varies), some policies suspend coverage or require a vacancy endorsement. This is a detail that trips up a lot of landlords managing turnover.
 
 Short-term rental platforms add another layer of complexity. Renting through Airbnb or Vrbo with a standard landlord policy may not cover you either, because the liability and usage profile is different from a long-term tenant. Some platforms offer their own host protections, but I'd encourage you to read the actual terms and not assume "coverage" means what you think it means. Check [your state's insurance department](https://www.naic.org/state_web_map.htm) for guidance on short-term rental regulations in your area, since some states have specific disclosure requirements too.
 

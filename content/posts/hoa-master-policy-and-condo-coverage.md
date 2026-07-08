@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 Most condo owners I've spoken with assume they're fully covered because their HOA pays for insurance. That assumption has cost people tens of thousands of dollars. I've seen the claims. I know exactly how this plays out.
 
@@ -55,11 +55,11 @@ Here's the real problem: most condo owners have never actually read their associ
 
 There are three places where condo owners routinely get exposed. I want to be specific about each one.
 
-**The gap between the master policy deductible and your coverage.** HOA master policy deductibles have skyrocketed over the past decade. You'll see $10,000, $25,000, even $50,000 deductibles now, driven by rising reinsurance costs after major weather events. A pipe bursts. $30,000 in damage to the building. The master policy has a $25,000 deductible. The association comes after unit owners to cover that $5,000 gap. Your individual HO-6 can include "loss assessment coverage" to handle exactly this. Most policies offer it as a cheap add-on. Get it.
+**The gap between the master policy deductible and your coverage.** HOA master policy deductibles have skyrocketed over the past decade. You'll see $10,000, $25,000, even $50,000 deductibles now, driven by rising reinsurance costs after major weather events. A pipe bursts. $30,000 in damage to the building. The master policy has a $25,000 deductible. The association comes after unit owners to cover that $5,000 gap. Your individual HO-6 can include "[loss assessment coverage](/homeowners-insurance-for-condos/)" to handle exactly this. Most policies offer it as a cheap add-on. Get it.
 
 **Personal property and betterments.** Even a truly all-in master policy won't cover your furniture, clothing, electronics, or the upgraded hardwood floors you installed after you bought the unit. Those "betterments and improvements" are yours to insure. I've talked to owners who assumed their $8,000 custom tile work was covered under the master policy because it was "part of the building." It wasn't.
 
-**The liability gap inside your unit.** If a guest slips on your wet kitchen floor, that's your liability exposure, not a common-area incident. The master policy covers the association. It doesn't step in to defend you personally for what happens inside your unit. Your HO-6 policy's liability coverage handles this. The standard limit is $100,000, which sounds like a lot until someone breaks an ankle and hires an attorney.
+**The liability gap inside your unit.** If a guest slips on your wet kitchen floor, that's your liability exposure, not a common-area incident. The master policy covers the association. It doesn't step in to defend you personally for what happens inside your unit. Your [HO-6 policy](/condo-insurance-explained/)'s liability coverage handles this. The standard limit is $100,000, which sounds like a lot until someone breaks an ankle and hires an attorney.
 
 ## Reading the Documents You Actually Need
 

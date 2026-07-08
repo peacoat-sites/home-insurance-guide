@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 2 a.m., water pouring through your ceiling. Your laptop's ruined. Your couch is soaked. You call your landlord, who calls their insurer, and you learn a brutal truth: their policy covers the building. It covers nothing you own. If you don't have renters insurance, you're paying out of pocket for everything.
 
@@ -47,11 +47,11 @@ Home and renters insurance are built on the same three pillars: personal propert
 
 **Personal property** covers your belongings when they're damaged by a covered peril: fire, theft, vandalism, windstorm, water damage from a sudden internal leak. Neither policy covers flooding from outside the home. That requires separate flood insurance through the National Flood Insurance Program or a private insurer. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes plain-language consumer guides that break down what's included and excluded in standard policies. Read them before you sign anything.
 
-**Liability protection** works almost identically in both. A guest slips on your icy front steps and sues. Your dog bites a neighbor. Liability coverage pays for legal defense and judgments up to your policy limit. Homeowners typically have higher default limits, but renters can and should buy comparable amounts.
+**[Liability protection](/home-insurance-liability-coverage/)** works almost identically in both. A guest slips on your icy front steps and sues. Your dog bites a neighbor. Liability coverage pays for legal defense and judgments up to your policy limit. Homeowners typically have higher default limits, but renters can and should buy comparable amounts.
 
 **Additional living expenses**, sometimes called loss of use coverage, pays for hotel stays and meals if your home becomes uninhabitable due to a covered loss. Renters get this too. A fire forces you out of your apartment for three months? Your renters policy covers temporary housing.
 
-The biggest divergence is **dwelling coverage**. Homeowners have it; renters don't need it. Dwelling coverage rebuilds the actual house. For homeowners, it needs to reflect the full replacement cost of the structure, not the market value of the property. A lot of people mix those up.
+The biggest divergence is **dwelling coverage**. Homeowners have it; renters don't need it. [Dwelling coverage](/home-insurance-dwelling-coverage/) rebuilds the actual house. For homeowners, it needs to reflect the full replacement cost of the structure, not the market value of the property. A lot of people mix those up.
 
 ## A Side-by-Side Comparison
 

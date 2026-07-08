@@ -23,6 +23,7 @@ faqs:
    a: "They're related but distinct. Sewer backup is raw sewage or drainage coming up through your lines. Sump pump failure is groundwater or accumulated water that the pump couldn't remove, which then floods your basement. Most water backup endorsements cover both, but the policy language varies. Ask specifically about both scenarios, and ask whether power outage-related pump failures are included."
  - q: "Can I be denied a claim if I didn't maintain my sump pump?"
    a: "Yes. Insurers can deny or reduce claims if they can demonstrate negligence or lack of maintenance contributed to the loss. A sump pump with a dead battery backup, visible corrosion, or no maintenance history is a claim vulnerability. Test yours twice a year, replace the battery backup annually, and keep a simple record of when you did it."
+lastmod: 2026-07-07
 ---
 Your standard homeowner's policy doesn't cover sewer backup. Not as a default. Not buried in the fine print as a reduced benefit. It flat-out excludes it, and if you've never been told that directly, you've been failed by whoever sold you your policy.
 
@@ -50,9 +51,14 @@ Push your insurer for higher limits. $25,000 is a more realistic floor if you ha
 
 ## What This Endorsement Costs (And Why It's Worth It)
 
+| Coverage Type | Typical Limit | Estimated Annual Premium | Real-World Repair Cost Range |
+| --- | --- | --- | --- |
+| Water backup endorsement (basic) | $5,000-$10,000 | $40-$150 | $20,000-$40,000+ |
+| Water backup endorsement (enhanced) | $25,000-$50,000 | $60-$190 | $20,000-$40,000+ |
+
 The premium for water backup coverage varies by region, home age, and your existing policy, but you're typically looking at $40 to $150 a year for a basic endorsement. For a risk that the [Insurance Information Institute](https://www.iii.org/) has described as one of the fastest-growing sources of homeowner losses, the endorsement is priced like an afterthought.
 
-Here's my contrarian take: this is one of the few insurance add-ons that genuinely earns its price, every time, no debate. I'm usually skeptical of upsells. Extended replacement cost endorsements, scheduled personal property riders, equipment breakdown coverage, all worth scrutinizing carefully. Water backup? Just get it. Especially if your home was built before 1980, when clay or cast-iron lateral lines were common and root intrusion is practically inevitable over time. Especially if you have a finished basement. Especially if your neighborhood sees heavy rain events.
+Here's my contrarian take: this is one of the few insurance add-ons that genuinely earns its price, every time, no debate. I'm usually skeptical of upsells. Extended replacement cost endorsements, scheduled personal property riders, [equipment breakdown coverage](/home-insurance-umbrella-policy/), all worth scrutinizing carefully. Water backup? Just get it. Especially if your home was built before 1980, when clay or cast-iron lateral lines were common and root intrusion is practically inevitable over time. Especially if you have a finished basement. Especially if your neighborhood sees heavy rain events.
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) tracks consumer complaints by coverage type, and water damage disputes are consistently near the top. A significant slice of those are people who thought they were covered and weren't.
 

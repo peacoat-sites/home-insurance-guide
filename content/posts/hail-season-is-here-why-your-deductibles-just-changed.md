@@ -12,6 +12,7 @@ author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 slug: "hail-season-is-here-why-your-deductibles-just-changed"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Here's what nobody is talking about at the water cooler: the costliest weather peril in America isn't hurricanes anymore. It's hail. And if you live anywhere between the Mississippi River and the Rockies, or across the Southeast, your insurance company already knows this. They've restructured their entire approach to homeowners policies because of it.
@@ -34,6 +35,18 @@ The reason this is flying under the radar is that insurers don't have to announc
 
 ## Why this is happening, and why it won't stop
 
+| Metric | Figure | Source |
+| --- | --- | --- |
+| U.S. properties facing moderate or greater hail risk | 43.5 million | Cotality 2026 Severe Convective Storm Risk Report |
+| Damaging hail days in 2025 | 142 days | Cotality 2026 Severe Convective Storm Risk Report |
+| 20-year average damaging hail days | 122 days | Cotality 2026 Severe Convective Storm Risk Report |
+| Insured losses from severe convective storms in 2025 | $127 billion | Insurance Business Magazine (March 2026) |
+| Insured losses by September 2025 | $42 billion | Insurance Business Magazine (March 2026) |
+| Expected 50-year hail loss scenario | $58 billion | Claims data firms (cited in article) |
+| Insurance executives concerned about convective storm losses | 87% | Business Insurance (April 2026) |
+| Premium increases in high plains states (2021-present) | 30-50% | Article analysis |
+| Hail deductibles now common in high-risk areas | $2,500-$5,000 | Article reporting |
+
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -50,7 +63,7 @@ The geographic concentration is real too. Corridor areas from Texas north throug
 
 If you're in a hail-prone area, reading your policy word-for-word isn't optional anymore. Here's what matters:
 
-First, identify your hail deductible. Call your agent or log into your carrier's website and pull up your declarations page. Look for any deductible labeled specifically for hail, wind, or weather. If it's higher than $2,500, understand that's what you'll pay out of pocket if your roof gets hammered. Some policies stack these deductibles, meaning if a single storm causes both hail and wind damage, you could be paying two separate deductibles.
+First, identify your hail deductible. Call your agent or log into your carrier's website and pull up your declarations page. Look for any deductible labeled specifically for hail, wind, or weather. If it's higher than $2,500, understand that's what you'll pay out of pocket if your roof gets hammered. Some policies stack these deductibles, meaning if a single storm causes both [hail and wind damage](/hail-and-wind-are-now-pricier-than-hurricanes-for-insurers/), you could be paying two separate deductibles.
 
 Second, check for exclusions. Search your policy document for the word "hail" and read everything around it. If you see language like "hail damage is excluded" or "hail damage is not covered," call your agent immediately and ask if you can buy back that coverage through an endorsement. Some carriers will sell it to you. Others won't. The ones that won't are already acknowledging they don't want the exposure.
 

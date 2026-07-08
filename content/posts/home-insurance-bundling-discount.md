@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 You're paying two separate premiums every month, one for your home and one for your car. Somewhere in there is a discount you might not be fully using. Bundling those two policies with the same insurer is one of the most commonly advertised discounts in personal insurance, with carriers frequently promoting savings of 10% to 25%. But here's what the ads don't tell you: bundling doesn't always save you money, the discount can mask an otherwise overpriced policy, and the way claims interact across bundled policies can create complications most policyholders never anticipate until it's too late.
 
@@ -57,7 +57,7 @@ Bundling tends to produce real savings when:
 - You have a good driving record and a newer vehicle, which means your auto premium is already competitive and the additional bundle discount compounds on a reasonable base rate.
 - Your home is relatively new construction or recently updated, putting you in a lower-risk tier where the home premium is already manageable.
 - You're working with a regional carrier that genuinely prices both products competitively rather than using one to subsidize the other.
-- You're adding an umbrella policy to the bundle. Umbrella coverage almost always requires you to have the underlying home and auto policies with the same carrier, and the pricing on umbrella coverage through a bundle is typically quite strong.
+- You're adding an [umbrella policy](/multi-policy-discount-insurance/) to the bundle. Umbrella coverage almost always requires you to have the underlying home and auto policies with the same carrier, and the pricing on umbrella coverage through a bundle is typically quite strong.
 
 The clearest way to evaluate this is to get quotes for each policy both bundled and separately. If you haven't done that recently, our [home insurance quotes comparison](/home-insurance-quotes-comparison/) tool is a good starting point to see what standalone home coverage actually costs in your area before you commit to a bundle.
 
@@ -65,7 +65,7 @@ The clearest way to evaluate this is to get quotes for each policy both bundled 
 
 This is the part the ads skip entirely.
 
-**Pricing opacity.** When you bundle, it's harder to comparison shop because you're evaluating a package, not individual products. Most consumers don't unbundle the pricing, and insurers know this. You get one combined bill and gradually lose track of whether either policy remains competitive at renewal.
+**Pricing opacity.** When you bundle, it's harder to [comparison shop](/home-insurance-shopping-mistakes-to-avoid/) because you're evaluating a package, not individual products. Most consumers don't unbundle the pricing, and insurers know this. You get one combined bill and gradually lose track of whether either policy remains competitive at renewal.
 
 **Claims cross-contamination.** Here's something I saw regularly in my claims work: when you bundle, a claim on one policy can affect your standing on both. If your auto accident triggers a surchargeable event, your insurer now sees you as a higher-risk customer overall, and that risk perception can influence how they underwrite your home policy at renewal. Not every carrier does this, but enough do that it's worth asking before you bundle.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Usually not, or only up to very low sublimits. Business property, including expensive equipment or inventory stored at home, typically requires a separate endorsement or a business owner's policy. If you work from home and own equipment worth more than a few hundred dollars, ask your agent specifically."
  - q: "What's the difference between a claims-made and occurrence policy for homeowners?"
    a: "Standard homeowner policies are occurrence-based, meaning they cover losses that happen while the policy is active, regardless of when you file. This matters most if you discover damage (like hidden mold) after switching carriers. Know which policy type you have before you cancel or switch."
+lastmod: 2026-07-07
 ---
 Most people spend more time picking a Netflix subscription than they do shopping for home insurance. I know that sounds harsh, but after 14 years reviewing claims, I watched it play out constantly: policyholders who'd grabbed the cheapest quote online, signed whatever the agent sent over, and then called us genuinely shocked when we explained why their $40,000 claim was only paying out $11,000. That gap isn't bad luck. It's predictable. Almost entirely avoidable.
 
@@ -48,6 +49,13 @@ The Insurance Information Institute consistently advises comparing coverage term
 
 ## Ignoring What the Policy Actually Excludes
 
+| Coverage Type | What It Covers | Common Exclusions | Why It Matters |
+| --- | --- | --- | --- |
+| Standard Homeowner Policy | Dwelling, personal property, liability | Flood, earthquake, sewer backup, mold, gradual water damage | Covers structure and belongings but leaves gaps in common loss scenarios |
+| Flood Insurance (NFIP/Private) | Water damage from flooding events | Depends on policy type and location | Essential in flood-adjacent areas; premiums rising, availability tightening |
+| Extended/Guaranteed Replacement Cost Rider | Rebuild costs exceeding dwelling limit | Varies by carrier | Protects against cost overruns during major regional disasters |
+| Scheduled Personal Property Endorsement | High-value jewelry, firearms, art, collectibles | Standard policy sublimits ($1,500-$2,500) | Prevents underpayment on items exceeding default caps |
+
 Standard homeowner policies exclude a lot. Flood damage. Earthquake damage. Sewer backup. Mold, usually. Gradual water damage from a slow leak. These aren't obscure edge cases. They're among the most common losses homeowners experience.
 
 What surprised me when I was on the claims side: the most frequent source of policyholder anger wasn't denial of major catastrophic losses. It was the $6,000 to $15,000 mid-range claims. Water backup. Sump pump failure. A slow pipe leak that soaked into subfloor for months. People genuinely assumed these were covered and weren't.
@@ -68,7 +76,7 @@ Scheduled personal property endorsements matter here too. Standard policies cap 
 
 You renovated your kitchen. Added a finished basement. Put in a pool. Built a detached garage. Each of those increases your home's rebuild cost and potentially adds liability exposure. Your policy, written three years ago, doesn't know any of that happened.
 
-Most people call their insurer once at purchase and then treat the policy as a background utility until they need it. That's the wrong mental model. Annual review isn't paranoid. It's just sensible. If your dwelling coverage was set correctly in 2022, construction cost inflation alone may have widened a gap since then.
+Most people call their insurer once at purchase and then treat the policy as a background utility until they need it. That's the wrong mental model. [Annual review isn't paranoid](/how-to-switch-home-insurance/). It's just sensible. If your dwelling coverage was set correctly in 2022, construction cost inflation alone may have widened a gap since then.
 
 The IBHS home fortification guides are worth reading on this because upgrades that harden your home, impact-resistant roofing, reinforced garage doors, can actually qualify you for premium discounts with many carriers. That fact goes wildly underadvertised.
 

@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 You wake up to a water stain spreading across your bedroom ceiling. Maybe you heard dripping in the night, or maybe you just spotted it on a Sunday morning with coffee in hand, stomach dropping as you realize what you're looking at. Your first thought is almost certainly: *does my homeowner's insurance cover this?* The honest answer is: it depends on what caused the leak, and that distinction matters more than most people realize until they're standing in the middle of a claim denial.
 
@@ -66,15 +66,22 @@ This is where a home inventory and documentation habit pays off in ways people d
 
 ## What Happens to the Damage Inside Your Home
 
-Let's say a storm did cause the roof breach, and your ceiling, insulation, drywall, and flooring all took water damage. You might be wondering whether coverage extends to those interior losses, or just the roof itself.
+| Coverage Type | What It Covers | Typical Application to Roof Leaks |
+| --- | --- | --- |
+| Dwelling Coverage (Coverage A) | Structural damage including roof, decking, framing, ceilings, walls | Pays for roof repair and interior structural damage from covered perils |
+| Personal Property Coverage (Coverage C) | Belongings damaged by covered water intrusion | Furniture, clothing, electronics damaged by the leak (subject to ACV or RCV valuation) |
+| Additional Living Expenses (Coverage D) | Hotel stays and meal costs above normal expenses | Covers temporary relocation if home is uninhabitable during repairs |
+| Mold Coverage | Damage from mold resulting from water intrusion | Often excluded or severely limited; check declarations page for sublimits |
+
+Let's say a storm did cause the roof breach, and your ceiling, insulation, drywall, and flooring all took [water damage](/does-homeowners-insurance-cover-water-damage/). You might be wondering whether coverage extends to those interior losses, or just the roof itself.
 
 Here's how the typical claim breaks down:
 
 **Dwelling coverage (Coverage A)** pays for structural damage, including the roof itself, the decking underneath, interior framing, ceilings, and walls. This is where the cost of actually repairing the roof and drying out the structure comes from.
 
-**Personal property coverage (Coverage C)** can cover belongings damaged by the covered water intrusion: furniture, clothing, electronics soaked by the leak. Note that coverage limits and sub-limits vary widely. Check whether your policy covers personal property at actual cash value (ACV) or replacement cost value (RCV). ACV deducts depreciation, meaning a five-year-old couch gets paid out at what it's worth now, not what it costs to replace.
+**Personal property coverage (Coverage C)** can cover belongings damaged by the covered water intrusion: furniture, clothing, electronics soaked by the leak. Note that coverage limits and sub-limits vary widely. Check whether your policy covers personal property at actual cash value (ACV) or [replacement cost value (RCV)](/how-does-home-insurance-replacement-cost-work/). ACV deducts depreciation, meaning a five-year-old couch gets paid out at what it's worth now, not what it costs to replace.
 
-**Additional living expenses (Coverage D)** may kick in if the damage makes your home temporarily uninhabitable. This covers hotel stays and meals above your normal food costs while repairs happen.
+**[Additional living expenses (Coverage D)](/what-is-loss-of-use-coverage-explained/)** may kick in if the damage makes your home temporarily uninhabitable. This covers hotel stays and meals above your normal food costs while repairs happen.
 
 One critical point people often miss: even if the roof leak itself is covered, any mold that results from a slow, long-standing leak is frequently excluded or subject to a separate, much lower sublimit. Check your declarations page carefully for mold coverage caps. This is one of the more painful surprises I've seen people encounter after the fact.
 

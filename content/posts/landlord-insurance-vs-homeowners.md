@@ -23,17 +23,26 @@ faqs:
    a: "Owning through an LLC doesn't change the underlying need for landlord insurance, but it can affect how the policy is written and who's listed as the named insured. Make sure the LLC is correctly listed on the policy, otherwise a claim could be denied on a technicality."
  - q: "Will my insurer drop me if I find out I've had the wrong policy for years?"
    a: "Possibly. Some insurers will non-renew or cancel when they discover a rental property has been covered under a homeowners policy. The smarter move is to disclose proactively, accept whatever premium adjustment comes, and get properly covered. Finding out at claim time is far more expensive."
+lastmod: 2026-07-07
 ---
 
-A landlord I'll call Dennis called our advocacy line a few years back, furious. He'd been renting out a duplex for six years, had a standard homeowners policy the whole time, and when a kitchen fire gutted the upstairs unit, his insurer denied the claim. The reason: the property wasn't owner-occupied, which meant the homeowners policy was void. He lost over $90,000 in repairs and rental income. His insurer hadn't warned him. His agent hadn't caught it. He just assumed he was covered.
+A landlord I'll call Dennis called our advocacy line a few years back, furious. He'd been [renting out a duplex](/home-insurance-for-investment-property/) for six years, had a standard homeowners policy the whole time, and when a kitchen fire gutted the upstairs unit, his insurer denied the claim. The reason: the property wasn't owner-occupied, which meant the homeowners policy was void. He lost over $90,000 in repairs and rental income. His insurer hadn't warned him. His agent hadn't caught it. He just assumed he was covered.
 
 I've seen versions of this story more times than I can count. It's one of the most expensive mistakes property owners make, and it happens because the difference between homeowners insurance and landlord insurance sounds technical and minor until it isn't.
 
 ## What each policy is actually designed to do
 
+| Coverage Type | Homeowners Policy | Landlord Policy |
+| --- | --- | --- |
+| Personal Property | Covers resident's belongings | Covers only landlord-owned items (appliances, tools, supplied fixtures) |
+| Loss of Rental Income | Not included | Typically included if unit becomes uninhabitable |
+| Liability Coverage | Based on resident occupancy | Accounts for tenant and visitor injuries |
+| Vacancy Provisions | Often voids after 30-60 days empty | Usually allows for tenant turnover |
+| Typical Cost Difference | Baseline | 15-25% more than comparable homeowners policy |
+
 Homeowners insurance is built around one assumption: you live there. The liability coverage assumes you're the resident. The personal property coverage covers your stuff. The additional living expenses coverage kicks in so *you* have somewhere to stay if the home becomes uninhabitable. Every part of the policy flows from that one premise.
 
-Landlord insurance, sometimes called a "dwelling policy" or DP-3, flips that premise entirely. You're not a resident. You're a business owner with a property asset generating income, and the policy is structured to protect that income stream and that asset. The coverage categories look similar on paper but they operate very differently in practice.
+Landlord insurance, sometimes called a "[dwelling policy](/homeowners-insurance-for-landlords/)" or DP-3, flips that premise entirely. You're not a resident. You're a business owner with a property asset generating income, and the policy is structured to protect that income stream and that asset. The coverage categories look similar on paper but they operate very differently in practice.
 
 The big four differences:
 
@@ -52,7 +61,7 @@ Here's the thing I'd push back on if you told me "my agent handles all that": ag
 
 What most people don't realize is that telling your homeowners insurer you're renting the property doesn't automatically upgrade your policy. Some insurers will quietly cancel you if they find out the property isn't owner-occupied, rather than proactively converting you to the right product. Others will keep accepting your premium and deny the claim later. Neither outcome is acceptable, but both are legal in most states.
 
-I'd also point out that "occasional rental" sits in a genuinely murky space. Short-term rentals (think Airbnb, Vrbo) are often excluded from both standard homeowners *and* landlord policies unless you've added a specific endorsement or purchased a separate short-term rental product. If you're hosting guests a few weekends a month while still living in the home yourself, your homeowners policy may or may not cover a liability claim during a guest's stay. Check your policy's "business activities" exclusion language. It's usually buried in the exclusions section around page 14.
+I'd also point out that "occasional rental" sits in a genuinely murky space. [Short-term rentals](/seasonal-home-insurance/) (think Airbnb, Vrbo) are often excluded from both standard homeowners *and* landlord policies unless you've added a specific endorsement or purchased a separate short-term rental product. If you're hosting guests a few weekends a month while still living in the home yourself, your homeowners policy may or may not cover a liability claim during a guest's stay. Check your policy's "business activities" exclusion language. It's usually buried in the exclusions section around page 14.
 
 ## What landlord insurance actually costs, and why it varies so much
 

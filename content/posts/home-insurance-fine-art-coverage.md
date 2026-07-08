@@ -23,6 +23,7 @@ faqs:
    a: "Depends on the policy. Some insurers will let you choose. Others require their preferred restorer or will split costs if you use someone else. Ask before a claim happens. Get it in writing."
  - q: "What if I buy a new piece of art after my policy is already in effect?"
    a: "Call your agent and schedule it. Most carriers let you add scheduled items anytime. You'll pay a prorated premium for the rest of the policy year. Don't wait until something happens. Unscheduled art that gets damaged during that gap might not be covered."
+lastmod: 2026-07-07
 ---
 
 I spent 14 years watching claims get denied over fine art. Not because the art was damaged. Because the owner never actually disclosed it to the insurer. Or disclosed it wrong. And after all that, you'd think I'd have a simple answer for people: get separate coverage. But it's messier than that, and I want to show you exactly where the gaps are and how to avoid them.
@@ -45,19 +46,25 @@ The Insurance Information Institute (III) tracks data on fine art claims, and th
 
 ## How Scheduled Coverage Works (and Why It's Better)
 
+| Coverage Type | Typical Fine Art Limit | Deductible | Best For | Coverage Scope |
+| --- | --- | --- | --- | --- |
+| Standard Homeowners Policy | $1,500-$2,500 (total) | Standard | Basic protection only | Limited; excludes environmental damage, restoration work |
+| Scheduled Rider | Up to $25,000-$50,000 (per company threshold) | Standard to reduced | Valuable individual pieces | Agreed-value; broader than standard policy |
+| Standalone Fine Art Policy | $20,000+ (no limit) | $0-reduced | Collections and high-value art | Theft, collision, environmental, mysterious disappearance, transit damage |
+
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
-If you want real protection, you need to schedule each piece individually. This means getting an appraisal, listing it by name on your policy, and paying a separate premium.
+If you want real protection, you need to [schedule each piece individually](/scheduled-personal-property-insurance/). This means getting an appraisal, listing it by name on your policy, and paying a separate premium.
 
-Here's what that actually looks like: You own a $12,000 contemporary painting. You get an independent appraisal (more on that in a minute). You tell your insurer, "I want to add this to my policy. Here's the appraisal." They'll either add it as a scheduled fine art rider to your existing homeowners policy or recommend a separate fine art policy altogether. You'll pay maybe $150-400 a year depending on the value and your location. The coverage is agreed-value, which means if it's damaged beyond repair, they pay the appraised amount, not what they think it's worth.
+Here's what that actually looks like: You own a $12,000 contemporary painting. You get an independent appraisal (more on that in a minute). You tell your insurer, "I want to add this to my policy. Here's the appraisal." They'll either add it as a [scheduled fine art rider](/scheduled-personal-property-insurance/) to your existing homeowners policy or recommend a separate fine art policy altogether. You'll pay maybe $150-400 a year depending on the value and your location. The coverage is agreed-value, which means if it's damaged beyond repair, they pay the appraised amount, not what they think it's worth.
 
 The advantage here is clarity. No ambiguity about limits. No dispute about valuation if something happens. The insurer already knows what the painting is worth because you told them upfront.
 
 A scenario that shows the difference: Mary has two paintings in her home, one worth $5,000 and one worth $18,000. She didn't schedule either one. Both suffer water damage in a basement flood. The standard policy caps her fine art loss at $2,000 total. She gets a check for $2,000 and a lesson in reading her policy. Had she scheduled both pieces, she would've received $5,000 + $18,000 minus her deductible. That's a $21,000 difference.
 
-Most insurers will add scheduled fine art to your existing homeowners policy if the total value is below a certain threshold, usually $25,000 to $50,000 depending on the company. Once you cross that line, they'll typically push you toward a standalone fine art policy, which actually offers better coverage anyway.
+Most insurers will add scheduled fine art to your existing homeowners policy if the total value is below a certain threshold, usually $25,000 to $50,000 depending on the company. Once you cross that line, they'll typically push you toward a [standalone fine art policy](/home-insurance-collectibles-coverage/), which actually offers better coverage anyway.
 
 Standalone fine art policies are bizarre in the best way. They exist in a different regulatory universe than homeowners policies. The deductibles are lower (sometimes $0 for theft). The coverage is broader. I worked with one client who had a $60,000 sculpture in her living room. She could insure it for theft, collision damage, environmental damage (heat, humidity swings), mysterious disappearance, and transit damage when she moved it. Under her homeowners policy, she could insure it for, basically, whatever the adjuster felt like interpreting as a covered peril that day.
 

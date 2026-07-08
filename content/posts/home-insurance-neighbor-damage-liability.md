@@ -23,6 +23,7 @@ faqs:
    a: "Most standard policies come with $100,000, which can disappear fast in a serious claim. Many insurance professionals recommend at least $300,000 in liability on your home policy, with a personal umbrella policy on top if you have meaningful assets or income to protect. The III has a straightforward framework for thinking through this."
  - q: "Can I be sued personally if my insurance doesn't cover the full damage?"
    a: "Yes. If a judgment against you exceeds your liability limits, your personal assets are on the table. This is exactly why liability limits and umbrella policies matter more than people realize at renewal time."
+lastmod: 2026-07-07
 ---
 Your tree just fell on your neighbor's fence. Or maybe their dead oak came down on your garage. Either way, you're standing in the yard staring at splintered wood wondering who pays for what, and you're probably getting two very different stories from two very different insurance agents.
 
@@ -52,7 +53,7 @@ Your retaining wall collapses and crushes your neighbor's car. An engineer deter
 
 What liability coverage won't do: it won't cover intentional acts. It also won't cover damage to your own property. And it won't substitute for a neighborly conversation. I've watched small claims spiral into litigation over $3,000 of fence damage because two neighbors stopped talking and let lawyers do it instead.
 
-One thing I see people get confused about: your liability coverage follows you personally, not just your home. If you're doing yardwork and accidentally throw a rock through their window with your mower, that's a liability situation too, not just a property damage claim against your own dwelling coverage.
+One thing I see people get confused about: [your liability coverage](/home-insurance-swimming-pool-liability/) follows you personally, not just your home. If you're doing yardwork and accidentally throw a rock through their window with your mower, that's a liability situation too, not just a property damage claim against your own dwelling coverage.
 
 ## The Negligence Test: Where Every Disputed Claim Lives
 

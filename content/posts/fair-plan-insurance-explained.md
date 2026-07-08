@@ -23,6 +23,7 @@ faqs:
    a: "Most states have guarantee funds that provide some protection, but the limits and mechanisms vary significantly. Florida's Citizens situation has put this question front and center. Ask your agent specifically what protections apply in your state before assuming you're covered against insurer insolvency."
  - q: "Can I be dropped from a FAIR plan?"
    a: "Yes, though it's less common than private market non-renewals. FAIR plans can decline to renew if a property is found to be in poor condition, if claims patterns suggest fraud, or if the property no longer qualifies under the program's guidelines. Maintaining your home and being honest in your application are both important."
+lastmod: 2026-07-07
 ---
 
 Most homeowners have never heard of a FAIR plan until the moment they desperately need one. By then, it's usually too late to understand what they're actually getting.
@@ -42,6 +43,11 @@ What surprised me was how dramatically FAIR plan enrollment has accelerated. In 
 Here's the critical thing most policyholders miss: FAIR plans typically cover the structure. The dwelling. That's their core purpose. Personal property coverage, liability protection, loss of use (the money that pays your hotel while your home is being rebuilt)? Those often require separate endorsements, separate policies, or simply aren't available depending on your state's specific program. The National Association of Insurance Commissioners (NAIC) has good documentation on how each state's program differs at [naic.org](https://www.naic.org/), and the variation is genuinely striking.
 
 ## The Coverage Gaps That Will Absolutely Bite You
+
+| Scenario | Property Value | Dwelling Coverage | Personal Property Loss | Additional Living Expenses | Total Uninsured Loss | DIC Policy Cost |
+| --- | --- | --- | --- | --- | --- | --- |
+| Without DIC | $620,000 | $600,000 | $85,000 | $44,800 (14 months × $3,200) | $129,800 | N/A |
+| With DIC | $620,000 | $600,000 | Covered | Covered | ~$4,200 (deductibles only) | $1,100/year |
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

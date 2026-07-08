@@ -23,15 +23,29 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 Most homeowners think their house is fully covered the moment they sign the dotted line. Then a fire destroys their kitchen, and reality hits: their dwelling coverage limit was set four years ago based on a rough online estimate, construction costs have jumped 40% since then, and they're now staring at a $90,000 gap between what the insurer will pay and what it actually costs to rebuild. I've watched this scenario play out more times than I care to count. Dwelling coverage is the spine of your homeowner's policy, and most people don't truly understand how it works until something goes wrong.
 
 ## What Dwelling Coverage Actually Covers (And What It Doesn't)
 
-Dwelling coverage, listed as Coverage A on a standard HO-3 policy, pays to repair or rebuild the physical structure of your home when it's damaged by a covered peril. That includes the walls, roof, floors, built-in appliances, attached garage, and permanently installed fixtures like cabinets and countertops. A tree crashes through your roof during a windstorm. That's what dwelling coverage is for.
+| Coverage Component | Covered | Not Covered |
+| --- | --- | --- |
+| Walls, roof, floors | ✓ | |
+| Built-in appliances | ✓ | |
+| Attached garage | ✓ | |
+| Permanently installed fixtures | ✓ | |
+| Personal belongings inside | | ✓ |
+| Detached structures (shed, freestanding garage) | | ✓ |
+| Land | | ✓ |
+| Flooding | | ✓ |
+| Earthquakes | | ✓ |
+| Sewer backup | | ✓ |
+| Normal wear and tear | | ✓ |
 
-But the boundaries matter. Dwelling coverage doesn't touch your belongings inside the house, that's personal property coverage, which is separate. Detached structures like a freestanding garage or shed don't qualify either; those fall under Coverage B, other structures, typically set at 10% of your dwelling limit by default. And the land your house sits on? Not covered, even though land value gets factored into your home's market price.
+Dwelling coverage, listed as Coverage A on a standard [HO-3 policy](/ho-3-policy-explained/), pays to repair or rebuild the physical structure of your home when it's damaged by a covered peril. That includes the walls, roof, floors, built-in appliances, attached garage, and permanently installed fixtures like cabinets and countertops. A tree crashes through your roof during a windstorm. That's what dwelling coverage is for.
+
+But the boundaries matter. Dwelling coverage doesn't touch your belongings inside the house, that's [personal property coverage](/homeowners-insurance-personal-property-coverage/), which is separate. Detached structures like a freestanding garage or shed don't qualify either; those fall under Coverage B, other structures, typically set at 10% of your dwelling limit by default. And the land your house sits on? Not covered, even though land value gets factored into your home's market price.
 
 What perils you're covered for depends on your policy type. An HO-3 policy, the most common for single-family homes, uses "open perils" for the dwelling, meaning your structure is covered for everything except what's explicitly excluded. Flooding, earthquakes, sewer backup, normal wear and tear, those are all out. Flood damage requires a separate National Flood Insurance Program policy or a private policy. Earthquake coverage is usually an endorsement you add on. If you're in a flood zone or a seismically active state and you haven't bought those add-ons, your dwelling coverage has a hole the size of a truck.
 

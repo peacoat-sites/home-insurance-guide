@@ -12,6 +12,7 @@ author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 slug: "why-the-biggest-home-insurers-are-denying-nearly-half-of-all-claims"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The numbers came out in late May 2026, and they're worth sitting with for a moment. A Wall Street Journal analysis found that the five largest U.S. home insurers, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, collectively declined more than 44% of claims resolved in 2025. A decade ago, that figure was 36%. That's not a rounding error. That's a structural shift in what home insurance actually does for the people paying for it.
 
@@ -20,6 +21,16 @@ Then Weiss Ratings published a separate list in April 2026 naming 15 large insur
 If you have a homeowner policy, this is your problem.
 
 ## The Gap Between "Covered" and "Paid" Is Enormous
+
+| Insurer | Claim Denial Rate (2025) |
+| --- | --- |
+| Mid-Century Insurance Company of Texas | 78% |
+| Lemonade | 64% |
+| Spinnaker Insurance | 61% |
+| Big Five Average* | 44% |
+| Decade Prior (2015) | 36% |
+
+*Allstate, Farmers, Liberty Mutual, State Farm, and USAA combined
 
 Most people buy home insurance assuming a simple transaction: something bad happens, you file a claim, the insurer pays. What the policy actually promises is far more conditional. Coverage exists for specific perils, specific causes, within specific dollar limits, after specific exclusions are applied. The gap between "we cover your home" and "we'll pay this claim" is where most denials live.
 
@@ -35,7 +46,7 @@ The problem isn't just that flood is excluded. The problem is that most homeowne
 
 Here's what the denial rate increase actually tells you: the largest insurers are getting more aggressive, not less, while some smaller carriers are moving in the opposite direction. Erie Insurance, for instance, paid out on relatively more claims over the past decade, not fewer. That's not a coincidence.
 
-Large insurers operate at enormous scale and are under consistent pressure from investors and ratings agencies to manage loss ratios. After years of catastrophic losses in wildfire and hurricane zones, their underwriting and claims review processes have tightened considerably. More claims reviewers with more authority to deny. More algorithmic tools flagging claims for additional scrutiny. More pressure on adjusters to find the exclusion that applies.
+Large insurers operate at enormous scale and are under consistent pressure from investors and ratings agencies to manage loss ratios. After years of [catastrophic losses in wildfire](/your-wildfire-risk-score-now-has-to-be-disclosed/) and hurricane zones, their underwriting and claims review processes have tightened considerably. More claims reviewers with more authority to deny. More algorithmic tools flagging claims for additional scrutiny. More pressure on adjusters to find the exclusion that applies.
 
 Smaller regional carriers often have different incentive structures. They're frequently more dependent on local reputation and agent relationships. A regional insurer that starts denying 60% of claims in a mid-sized market hears about it fast.
 

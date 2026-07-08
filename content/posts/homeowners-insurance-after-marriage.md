@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 Getting married changes your insurance situation faster than most newlyweds realize. The gap between "we should probably update that" and actually doing it has cost couples real money.
 
@@ -46,6 +46,15 @@ Marriage is a genuinely good trigger point to buy a personal umbrella policy if 
 Also check: does your combined household now include any new attractive nuisances? A trampoline one spouse brought from their old place, a pool that's now being used by a larger social circle, a dog breed your insurer might categorize as high-risk? All of these affect your coverage and potentially your rates, and your insurer needs to know.
 
 ## Jewelry, Art, and the Engagement Ring Problem
+
+| Coverage Type | Typical Limit | Key Issue After Marriage |
+| --- | --- | --- |
+| Personal Liability | $100,000 | Thin for married couples with combined assets; umbrella policy recommended |
+| Personal Property (Jewelry) | $1,000-$2,500 | Capped regardless of overall limit; scheduling needed for engagement rings and valuables |
+| Umbrella Policy | $1 million | $150-$300/year; fraction of cost to defend serious liability claim |
+| Scheduling Cost | - | ~$1-$2 per $100 of value annually (e.g., $60-$120/year for $6,000 ring) |
+| Bundling Discount | - | 10-15% typical; requires comparison shopping |
+| Vacant Home Coverage | 30-60 days | Standard policies exclude damage after home vacant beyond this period |
 
 Standard personal property coverage caps payouts on certain categories of valuables regardless of your overall limit. Jewelry is typically capped at $1,000 to $2,500 for theft. If your engagement ring cost $6,000, your base policy isn't covering the gap.
 

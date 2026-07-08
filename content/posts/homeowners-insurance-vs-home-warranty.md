@@ -23,6 +23,7 @@ faqs:
    a: "Usually not for the first few years. New construction typically comes with a builder's warranty (often one year on workmanship, two years on systems, ten years on structural), and appliances carry manufacturer warranties. You're paying for coverage you probably already have. Revisit the question around year four or five when those warranties start expiring."
  - q: "Does homeowners insurance cover foundation problems?"
    a: "Almost never through standard policies. Settling, cracking, and foundation movement are typically excluded as earth movement or gradual deterioration. Flood-related foundation damage may be covered under a separate flood insurance policy, but standard homeowners insurance won't touch most foundation claims. If you're buying in an area with expansive soil or a history of foundation movement, this is a question worth asking your agent in writing before you close."
+lastmod: 2026-07-07
 ---
 
 Most people buy both without fully understanding either. That's not a knock on you, the insurance industry and the home warranty industry have every incentive to blur the lines. Confused buyers buy more coverage and ask fewer questions. Here's what I tell people who come to me after a claim denial: the confusion usually started on the day they signed up.
@@ -30,6 +31,12 @@ Most people buy both without fully understanding either. That's not a knock on y
 Let me walk you through what these two products actually do, where they overlap (less than you think), and the specific gaps where most homeowners get blindsided.
 
 ## What Each One Is Actually Protecting
+
+| Coverage Type | What It Covers | What It Doesn't Cover | Typical Cost |
+| --- | --- | --- | --- |
+| Homeowners Insurance | Sudden, catastrophic events (windstorm, fire, liability claims) | Gradual deterioration, normal wear and tear, pre-existing conditions | Varies by location and coverage level |
+| Home Warranty | Breakdown of systems and appliances from normal use (compressor failure, furnace failure) | Sudden damage events, pre-existing conditions, cosmetic damage, secondary damage | $400-$700 annually |
+| Coverage Gap | Neither fully covers water damage from ruptured supply lines or similar scenarios where responsibility is disputed | Water damage to flooring, ongoing maintenance issues | N/A |
 As of June 2026, 
 Homeowners insurance was designed for sudden, catastrophic events. Your roof gets torn off by a windstorm. Someone slips on your steps and sues you. A kitchen fire guts your first floor. The whole premise is that something unexpected and severe happened, and the financial loss would be too large to absorb on your own. Insurers price the policy around probability and severity of loss, not around the age of your appliances or the wear on your HVAC system.
 
@@ -45,11 +52,11 @@ Here's where I see the misconception take root: people assume "I have both, so I
 
 The single most common misunderstanding I encountered in 14 years of reviewing claims was homeowners submitting appliance breakdowns to their insurance carrier and getting denied, then submitting sudden damage events to their warranty company and getting denied. Both denials were correct. The homeowner just didn't understand which product applied where.
 
-Your homeowners insurance covers your refrigerator if it's destroyed in a kitchen fire. Your home warranty covers the refrigerator if the compressor fails from age. But here's the problem: if a water supply line to your fridge ruptures and floods your kitchen floor, your home warranty doesn't cover the water damage to the flooring, and your insurance company will want to know why you didn't maintain the supply line. You can end up in an expensive no-man's-land between two companies, each pointing at the other.
+Your [homeowners insurance covers](/home-insurance-dwelling-coverage/) your refrigerator if it's destroyed in a kitchen fire. Your home warranty covers the refrigerator if the compressor fails from age. But here's the problem: if a water supply line to your fridge ruptures and floods your kitchen floor, your home warranty doesn't cover the water damage to the flooring, and your insurance company will want to know why you didn't maintain the supply line. You can end up in an expensive no-man's-land between two companies, each pointing at the other.
 
 That scenario isn't rare. Water damage is one of the most frequently disputed claims in homeowners insurance. The [Insurance Information Institute](https://www.iii.org/) consistently notes that water damage and freezing represents one of the largest categories of homeowners claims by dollar volume, and a significant portion of those claims involve some dispute over whether the damage was sudden or the result of ongoing neglect.
 
-Read your homeowners policy's exclusions before you need them. Specifically look for the word "gradual", as in gradual water damage, gradual deterioration, gradual leakage. Most standard policies exclude it. That's the gap where your warranty should theoretically pick up, but warranty contracts have their own exclusions, and "pre-existing conditions" is one of the most common.
+Read your [homeowners policy's exclusions](/home-insurance-mandatory-vs-optional-coverage/) before you need them. Specifically look for the word "gradual", as in gradual water damage, gradual deterioration, gradual leakage. Most standard policies exclude it. That's the gap where your warranty should theoretically pick up, but warranty contracts have their own exclusions, and "pre-existing conditions" is one of the most common.
 
 ## What Home Warranties Don't Cover (And Rarely Advertise)
 
@@ -63,7 +70,7 @@ Your state's insurance department (you can find yours through the [NAIC's state 
 
 ## So Do You Need Both?
 
-Yes, with eyes open. Homeowners insurance is not optional if you have a mortgage, and honestly it's not optional even if you don't, a single fire or liability judgment can be financially ruinous without it. That's not marketing. That's math.
+Yes, with eyes open. Homeowners insurance is not optional if you have a mortgage, and honestly it's not optional even if you don't, a single fire or [liability judgment](/home-insurance-liability-coverage/) can be financially ruinous without it. That's not marketing. That's math.
 
 A home warranty is genuinely useful if you're buying an older home with aging systems, if you don't have a deep emergency fund to absorb a $6,000 HVAC replacement, or if you'd rather pay a predictable annual fee than gamble on when your 15-year-old water heater fails. Where I see people waste money on warranties: buying them on newer construction where appliances and systems are still under manufacturer warranties anyway, or buying the most expensive tier of coverage without reading whether it actually covers what they're worried about.
 

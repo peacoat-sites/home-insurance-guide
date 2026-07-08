@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 You closed on your house a week ago. You've got a mortgage, a moving truck bill, and an insurance policy someone handed you at the title company that you signed without fully reading. Statistically, that policy has at least two coverage gaps you haven't found yet. Most new homeowners don't find them until they file a claim.
 
@@ -44,7 +44,7 @@ Let's fix that now, before something happens.
 **"Homeowners insurance covers all disasters": Most new homeowners assume their policy protects them from everything, floods, earthquakes, wear-and-tear damage. Wrong. According to the National Association of Insurance Commissioners, standard homeowners policies exclude water damage from flooding (requiring separate flood insurance), earthquakes, and maintenance-related failures. A 2023 Insurance Information Institute study found that 64% of homeowners underestimate what their policy actually excludes. Roof damage from age? Not covered. Foundation cracks from settling? Denied. Even wind damage has limits in coastal areas. New homeowners who skip the fine print often discover their biggest risks, floods and earthquakes, require entirely separate policies they never purchased.**
 
 
-**"Homeowners insurance covers all disasters"**: Most new homeowners assume their standard policy protects them from every catastrophe. But the data tells a different story. According to the National Association of Insurance Commissioners (NAIC), standard homeowners policies exclude coverage for floods, earthquakes, and sinkholes, three of the most costly disasters. The Insurance Information Institute reports that flood damage alone costs U.S. homeowners $3+ billion annually, yet 90% of those claims go unpaid under standard policies. Windstorms, water damage from poor maintenance, and damage from neglect are also commonly denied. New homeowners need separate endorsements and policies to actually be protected, relying on your base policy leaves you financially exposed.
+**"Homeowners insurance covers all disasters"**: Most new homeowners assume their standard policy protects them from every catastrophe. But the data tells a different story. According to the National Association of Insurance Commissioners (NAIC), standard homeowners policies exclude coverage for floods, earthquakes, and sinkholes, three of the most costly disasters. The Insurance Information Institute reports that flood damage alone costs U.S. homeowners $3+ billion annually, yet 90% of those claims go unpaid under standard policies. Windstorms, water damage from poor maintenance, and damage from neglect are also commonly denied. New homeowners need [separate endorsements and policies](/home-insurance-vs-home-warranty-explained/) to actually be protected, relying on your base policy leaves you financially exposed.
 
 
 A standard homeowner's policy, called an HO-3 in the industry, covers your dwelling, your personal property, liability, and additional living expenses if you're displaced. Sounds comprehensive.

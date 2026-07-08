@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 You just watched the news coverage of a house fire three blocks away, or maybe you smelled smoke last night and it got you thinking. Or perhaps you're sitting down to renew your policy and you're staring at a declarations page that might as well be written in a foreign language. Whatever brought you here, you're asking the right question at the right time: does my homeowners insurance actually cover fire damage, and what does that really mean in practice? The answer is mostly yes, but the word "mostly" is doing a lot of heavy lifting in that sentence, and that's exactly what we need to unpack.
 
@@ -31,9 +31,17 @@ You just watched the news coverage of a house fire three blocks away, or maybe y
 
 ## What Fire Coverage Actually Includes (And What You Assume It Does)
 
+| Coverage Type | What It Covers | Typical Limit Structure |
+| --- | --- | --- |
+| Dwelling (Coverage A) | Home structure, walls, roof, flooring, built-in appliances, attached structures | Primary limit (e.g., $350,000-$480,000) |
+| Other Structures (Coverage B) | Detached garage, fence, shed, gazebo | Typically 10% of dwelling limit |
+| Personal Property (Coverage C) | Furniture, clothing, electronics, artwork, owned appliances | Actual Cash Value or Replacement Cost Value |
+| Additional Living Expenses (Coverage D) | Temporary housing, meals, laundry during displacement | Secondary limit, typically a percentage of dwelling |
+| High-Value Items (Sublimits) | Jewelry, fine art, collectibles, firearms, musical instruments | Often $1,500 or less per category |
+
 Here's what I tell people first: standard homeowners insurance does cover fire and smoke damage, and it does so across multiple parts of your policy simultaneously. Understanding which parts matter will change how you read your own coverage.
 
-A standard HO-3 policy, which is what most American homeowners carry, covers fire under at least four separate coverage categories.
+A standard [HO-3 policy](/ho-3-policy-explained/), which is what most American homeowners carry, covers fire under at least four separate coverage categories.
 
 **Dwelling coverage (Coverage A)** pays to repair or rebuild your home's physical structure, including walls, roof, flooring, built-in appliances, and attached structures like a garage. If your kitchen catches fire and the damage spreads through the ceiling into the upstairs bathroom, all of it falls under Coverage A.
 
@@ -61,7 +69,7 @@ In my 14 years reviewing claims, the post-fire conversations I dreaded most were
 
 **High-value personal property sublimits.** Most policies cap coverage for specific categories of belongings. Jewelry is often limited to $1,500 for theft and fire combined. Fine art, collectibles, musical instruments, and firearms all have common sublimits. If you have items in these categories worth more than those caps, you need a scheduled personal property endorsement.
 
-**The coverage limit itself.** If it costs $480,000 to rebuild your home and your dwelling coverage limit is $350,000, you're underinsured by $130,000. This is the most common and most painful gap I've seen. Policies don't automatically update to reflect construction cost inflation. An extended replacement cost endorsement, which pays a percentage above your policy limit if costs exceed it, is something every homeowner should at least ask about.
+**The coverage limit itself.** If it costs $480,000 to rebuild your home and your dwelling coverage limit is $350,000, you're underinsured by $130,000. This is the most common and most painful gap I've seen. Policies don't automatically update to reflect construction cost inflation. An [extended replacement cost endorsement](/home-insurance-extended-replacement-cost/), which pays a percentage above your policy limit if costs exceed it, is something every homeowner should at least ask about.
 
 ---
 

@@ -12,6 +12,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "hail-and-wind-are-now-the-biggest-threat-to-your-home-insurance"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Your neighbor files a claim after a softball-sized hailstorm tears through the suburb, gets a check, and replaces her roof. You file a nearly identical claim two years later and get a fraction of what you expected, because somewhere in your renewal paperwork, your insurer quietly switched you to an actual cash value payout for roofing. Same storm. Same damage. Completely different financial outcome. I've watched this exact scenario play out hundreds of times, and right now, in the summer of 2026, the conditions for that kind of gut-punch are better than ever.
@@ -37,6 +38,13 @@ Every few years, when forecasters announce an El Niño pattern, homeowners in th
 Meteorologists cited by Insurify and Monarch Weather in June 2026 are warning that El Niño can actually strengthen the subtropical jet stream, increasing the likelihood of hail and tornado outbreaks across the Gulf Coast and Southeast. The storm systems that produce residential losses don't follow the same rules as Atlantic hurricanes. If you've been telling yourself that El Niño buys you a quiet summer, that reasoning doesn't hold up for severe convective storms. The June outbreak proved the point in real time.
 
 ## The Coverage Shift Happening in Your Renewal Packet
+
+| Coverage Type | Payout Example | Key Difference |
+| --- | --- | --- |
+| Replacement Cost Value (RCV) | $18,000 for new roof | Full cost to replace damaged roof |
+| Actual Cash Value (ACV) | $6,000-$7,000 for 12-year-old roof | Includes depreciation; older roofs pay less |
+| Wind-and-Hail Deductible (Flat) | $7,700 average (TX, MA, NJ) | Fixed dollar amount you pay before coverage |
+| Wind-and-Hail Deductible (Percentage) | $8,000-$20,000 on $400,000 home | 1%-5% of insured value you pay before coverage |
 
 This is the part that should make you pull out your current policy tonight. Insurers in hail-prone states have been steadily moving away from replacement cost value coverage for roofs, substituting actual cash value payouts that factor in depreciation. A 12-year-old roof that costs $18,000 to replace might yield a check for $6,000 or $7,000 under an actual cash value calculation. The insurer isn't doing anything illegal. The language was in your renewal. Most people just don't read it.
 

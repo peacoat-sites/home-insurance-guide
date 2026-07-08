@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 Most homeowners never actually pay their home insurance premium. The bill goes straight to an escrow account, the servicer writes the check, and the homeowner sees a line item on their mortgage statement and moves on. Convenient, right? It is, until it isn't.
 
@@ -55,7 +55,7 @@ Here's what the mortgage industry won't tell you: your servicer manages hundreds
 
 The scariest scenario I saw repeatedly involved refinancing. When a loan transfers servicers, the old escrow balance needs to be dispersed correctly and the new servicer has to pick up insurance payments without any gap. That transition window is genuinely risky. Your insurance company doesn't know or care that your loan changed hands. If the premium comes due during that window and nobody sends a check, your policy lapses. Insurers aren't in the business of giving extended grace periods because of servicing transfers.
 
-Then there's force-placed insurance. If your servicer thinks (rightly or wrongly) your coverage lapsed or isn't enough, they can buy a policy for you and charge you for it. Force-placed insurance exists to protect the lender's interest in the building. It typically won't cover your personal belongings, may not cover liability at all, and the premium is almost always astronomically higher than what you'd pay on the open market. The National Association of Insurance Commissioners has repeatedly flagged force-placed insurance as a consumer problem.
+Then there's [force-placed insurance](/lender-placed-insurance/). If your servicer thinks (rightly or wrongly) your coverage lapsed or isn't enough, they can buy a policy for you and charge you for it. Force-placed insurance exists to protect the lender's interest in the building. It typically won't cover your personal belongings, may not cover liability at all, and the premium is almost always astronomically higher than what you'd pay on the open market. The National Association of Insurance Commissioners has repeatedly flagged force-placed insurance as a consumer problem.
 
 ## What Your Escrow Statement Is Actually Telling You
 

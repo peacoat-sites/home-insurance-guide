@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 A woman I spoke with a few years ago had a basement full of vintage baseball cards, including a 1952 Topps Mickey Mantle she'd inherited from her father. Worth somewhere in the neighborhood of $50,000 to $80,000, depending on grading. She had homeowner's insurance. She assumed she was covered. After a burst pipe soaked the basement, she found out her policy had a $2,500 sublimit on collectibles.
 
@@ -45,7 +45,7 @@ Most homeowner's policies are built around the assumption that your personal pro
 
 Here's the blunt version: standard homeowner's policies are bad at covering collectibles, and they're bad in multiple ways at once.
 
-The first problem is sublimits. Most policies cap coverage for specific categories of property well below what you might assume. According to the Insurance Information Institute, many standard policies cap jewelry coverage at $1,500 and don't cover collectibles as a defined category at all. Coins and currency often get their own even lower sublimit. What falls under "collectibles" varies by insurer, and some policies don't define it at all, which creates its own set of problems at claim time.
+The first problem is sublimits. Most policies cap coverage for specific categories of property well below what you might assume. According to the Insurance Information Institute, many standard policies cap [jewelry coverage](/home-insurance-jewelry-coverage/) at $1,500 and don't cover collectibles as a defined category at all. Coins and currency often get their own even lower sublimit. What falls under "collectibles" varies by insurer, and some policies don't define it at all, which creates its own set of problems at claim time.
 
 Actual cash value versus replacement cost is the second problem. Even if your collectibles aren't hitting a sublimit, your policy might pay actual cash value instead of replacement cost. For a 1965 Fender Stratocaster or a graded CGC 9.8 comic, "actual cash value" after depreciation can be a fraction of what you'd pay to replace it today. I reviewed claims for over a decade, and I watched people get paid out on guitars and vintage cameras at prices that hadn't existed in the market for twenty years.
 
@@ -57,7 +57,7 @@ If you have items worth real money, the only reliable solution is scheduling the
 
 Scheduled coverage is genuinely better in almost every way compared to relying on your base policy. You get agreed value, meaning if your 1952 Bowman Mickey Mantle is insured for $60,000, that's what you get paid without depreciation arguments. Coverage typically extends to accidental breakage, which matters enormously for ceramics, glass, vintage electronics, and fragile paper items. Most floaters cover mysterious disappearance too.
 
-The cost varies depending on the item category, your location, and your insurer. A ballpark figure I've seen often is roughly $1 to $2 per $100 of value annually for many collectibles, though specialty items like fine art or wine can run higher. So a $10,000 collection might cost you an extra $100 to $200 a year. That's genuinely not much.
+The cost varies depending on the item category, your location, and your insurer. A ballpark figure I've seen often is roughly $1 to $2 per $100 of value annually for many collectibles, though specialty items like [fine art](/home-insurance-fine-art-coverage/) or wine can run higher. So a $10,000 collection might cost you an extra $100 to $200 a year. That's genuinely not much.
 
 Getting items scheduled requires documentation. For most collectibles, you'll want a written appraisal from a credentialed appraiser. For sports cards, a grading certificate from PSA, BGS, or SGC is standard. For coins, PCGS or NGC certification. For vintage instruments or memorabilia, a professional appraisal in writing. Some insurers will accept recent auction records or dealer invoices for items with clear market comparables. Ask specifically what they'll accept before you spend money on an appraisal.
 

@@ -12,6 +12,7 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "nearly-half-of-home-insurance-claims-go-unpaid-what-the-data-really-sh"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been following the news this week, you might have seen the headlines and felt something between alarm and a grim sense of confirmation. The Wall Street Journal published an analysis on May 30, 2026, finding that the five largest home insurers in the country, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, paid nothing on 44% of homeowner claims resolved in 2025. That number was 36% a decade ago. And with hurricane season now officially open, the timing couldn't be more pointed.
 
@@ -39,6 +40,14 @@ If you're in a coastal state, Florida, Texas, Louisiana, the Carolinas, and you 
 
 ## The Pricing Context You Can't Ignore
 
+| Metric | 2015 | 2025 | Change |
+| --- | --- | --- | --- |
+| Unpaid Claims Rate (Big Five Insurers) | 36% | 44% | +8 percentage points |
+| Homeowners Reporting Recent Cost Increases (Pew Survey) | - | 71% | - |
+| Homeowners Citing High Costs as Major Reason for Increases | - | 65% | - |
+| Homeowners Reporting Costs Up "A Lot" (CNBC) | - | 42% | - |
+| Florida Insurers with >50% Nonpayment Rate | - | 3 | - |
+
 The claims data lands differently when you set it next to what homeowners are already paying. A Pew Research Center survey conducted March 16-22, 2026, of 3,524 U.S. homeowners found that 71% say their insurance costs have gone up in recent years, and 65% believe insurers wanting to make more money is a major reason for those increases. CNBC reported in late May 2026 that 42% of homeowners say costs have gone up "a lot."
 
 So the consumer backdrop right now is people paying significantly more for coverage that, by the data, is paying out on a smaller share of claims than it did ten years ago. That combination is what's generating real anger, and it's a reasonable reaction. Whether the anger is directed at the right targets is a separate question.
@@ -51,7 +60,7 @@ One finding in the WSJ analysis that didn't get enough coverage: Erie Insurance,
 
 Here's what I tell people about that: regional insurers sometimes maintain tighter underwriting and pricing discipline because they can't dilute risk across the entire country. Erie's underwriting culture is genuinely different from the national carriers, and this data suggests that difference shows up when customers file claims.
 
-This isn't an endorsement of Erie or any specific carrier. What it is, though, is evidence that the 44% figure isn't an inevitable industry-wide ceiling. It reflects specific choices made by specific companies. When you're shopping for coverage or renewing, the insurer's claims payment history, not just the premium, is worth researching. Your state insurance commissioner's website often publishes complaint ratios and claim settlement data by company. Use it.
+This isn't an endorsement of Erie or any specific carrier. What it is, though, is evidence that the 44% figure isn't an inevitable industry-wide ceiling. It reflects specific choices made by specific companies. When you're shopping for coverage or renewing, the insurer's [claims payment history](/why-the-biggest-home-insurers-are-denying-nearly-half-of-all-claims/), not just the premium, is worth researching. Your state insurance commissioner's website often publishes complaint ratios and claim settlement data by company. Use it.
 
 ## Questions to Ask Before Hurricane Season Gets Serious
 

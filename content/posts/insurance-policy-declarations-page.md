@@ -23,13 +23,24 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. I spent 14 years on the other side of that claim, and I can tell you: that one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.
 
 You might be wondering what exactly the declarations page even is, since insurers aren't always great at explaining it. Here's the short version: it's the summary sheet at the front of your policy that spells out who's covered, what's covered, how much, and what you'll pay out of pocket if something goes wrong. Think of it as the cover sheet that tells the story your 60-page policy document tells in legal language. The difference is that the declarations page is actually readable.
 
 ## What You'll Find on It (And What Each Part Actually Means)
+
+| Coverage Type | What It Covers | Default/Typical Amount | Key Consideration |
+| --- | --- | --- | --- |
+| Dwelling (Coverage A) | Rebuilding your home if destroyed | Based on rebuild cost estimate | Review every 5 years; may be underinsured if estimate is outdated |
+| Other Structures (Coverage B) | Detached garages, sheds, fences | 10% of dwelling coverage (default) | May be insufficient for large workshops or guest cottages |
+| Personal Property (Coverage C) | Furniture, electronics, clothing, appliances | Varies | Check if actual cash value (ACV) or replacement cost value (RCV); depreciation applies with ACV |
+| Loss of Use (Coverage D) | Hotel/rental costs if home uninhabitable | Varies by policy | Higher amounts recommended in high cost-of-living areas |
+| Liability (Coverage E) | Protection if someone injured on your property | $100,000 (typical default) | Most advisors recommend at least $300,000; consider umbrella policy |
+| Medical Payments (Coverage F) | Medical bills for injuries on your property | Varies by policy | Covers liability regardless of fault |
+| Standard Deductible | Most claim types | Varies | Compare across policies; don't focus only on premium |
+| Wind/Hurricane Deductible | Hurricane or wind damage | % of dwelling coverage (e.g., 2%) | Percentage-based; calculate actual dollar amount for your home value |
 
 The top section seems obvious but contains a few traps. Your name and address should exactly match your mortgage documents. An error there, like a misspelling or an old address, can create headaches during a claim. Same goes for the policy period: check the start and end dates every single renewal. I reviewed claims where people assumed their policy had renewed automatically when it hadn't. They were uninsured.
 
@@ -39,11 +50,11 @@ Below the basics, you'll find the coverage amounts broken out by category. This 
 
 **Other structures (Coverage B)** covers detached garages, fences, sheds. It's typically set at 10% of your dwelling coverage by default. If you have a large workshop or a guest cottage, that 10% might not be enough.
 
-**Personal property (Coverage C)** is your stuff: furniture, electronics, clothing, appliances. Here's where most people trip up: the declarations page won't tell you whether that coverage is "actual cash value" or "replacement cost value." Actual cash value means they depreciate your belongings before paying you. A five-year-old laptop might get you $200 even though replacing it costs $900. You have to read the full policy to find out which one you have. The declarations page might abbreviate it as "ACV" or "RCV," so look for those letters.
+**[Personal property (Coverage C)](/homeowners-insurance-personal-property-coverage/)** is your stuff: furniture, electronics, clothing, appliances. Here's where most people trip up: the declarations page won't tell you whether that coverage is "actual cash value" or "replacement cost value." Actual cash value means they depreciate your belongings before paying you. A five-year-old laptop might get you $200 even though replacing it costs $900. You have to read the full policy to find out which one you have. The declarations page might abbreviate it as "ACV" or "RCV," so look for those letters.
 
-**Loss of use (Coverage D)** pays for a hotel or rental if your home becomes uninhabitable. The amount matters more than people think. In high cost-of-living cities, hotel bills add up fast.
+**[Loss of use (Coverage D)](/loss-of-use-coverage-home-insurance/)** pays for a hotel or rental if your home becomes uninhabitable. The amount matters more than people think. In high cost-of-living cities, hotel bills add up fast.
 
-**Liability (Coverage E)** and **medical payments (Coverage F)** round out most standard declarations pages. Liability coverage protects you if someone is injured on your property and sues. The default is usually $100,000, which feels like a lot until you think about what a personal injury lawsuit can cost. Most advisors suggest at least $300,000, and a separate umbrella policy on top of that if you have significant assets.
+**[Liability (Coverage E)](/home-insurance-liability-coverage/)** and **medical payments (Coverage F)** round out most standard declarations pages. Liability coverage protects you if someone is injured on your property and sues. The default is usually $100,000, which feels like a lot until you think about what a personal injury lawsuit can cost. Most advisors suggest at least $300,000, and a separate umbrella policy on top of that if you have significant assets.
 
 ## The Deductible Section Deserves More Attention Than It Gets
 

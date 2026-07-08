@@ -12,6 +12,7 @@ author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 slug: "your-wildfire-risk-score-now-has-to-be-disclosed"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you own a home anywhere near the wildland-urban interface, you've probably felt the ground shift under you over the past few years. Premiums going up. Renewal letters that don't quite explain why. A neighbor who got dropped and couldn't figure out what triggered it. You might be wondering whether your insurer knows something about your property that you don't. Starting July 1, 2026, in Colorado, the answer is: they have to tell you.
 
@@ -26,6 +27,11 @@ This isn't a conspiracy. It's just how modern underwriting works, and it moved f
 That's the gap these laws are designed to close.
 
 ## What Disclosure Actually Gets You
+
+| Jurisdiction | Effective Date | Risk Score Disclosure Required | Mitigation Credit Path | Plain Language Requirement |
+| --- | --- | --- | --- | --- |
+| Colorado (HB 25-1182) | July 1, 2026 | Yes | Yes | Not specified |
+| Washington (SB 5928) | Pending implementation | Yes | Yes | Yes |
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -43,7 +49,7 @@ Transparency about your risk score is genuinely useful. It's not, by itself, goi
 
 This is where risk score disclosure becomes a tool rather than a solution. If you can see your score, understand your risk category, and then look at your policy's dwelling coverage limit with fresh eyes, you might finally ask the question that matters: does the amount on my declarations page actually reflect what it would cost to rebuild my home today, at current labor and material prices?
 
-The answer, for most people in high-risk zones, is no. Replacement costs have climbed steeply since most policies were last adjusted. California's wildfire losses in 2025 made this brutally visible. State Farm alone had paid $22.4 billion on 2025 LA wildfire claims by early 2026, with a 30% rate increase request filed in June 2024 still working through regulators. Those numbers reflect real replacement costs in a market where construction labor and materials are expensive and in short supply after a disaster. Your policy limits were probably set before that reality fully landed.
+The answer, for most people in high-risk zones, is no. Replacement costs have climbed steeply since most policies were last adjusted. [California's wildfire losses in 2025](/california-fair-plan-rates-jump-298-this-fall/) made this brutally visible. State Farm alone had paid $22.4 billion on 2025 LA wildfire claims by early 2026, with a 30% rate increase request filed in June 2024 still working through regulators. Those numbers reflect real replacement costs in a market where construction labor and materials are expensive and in short supply after a disaster. Your policy limits were probably set before that reality fully landed.
 
 ## How to Actually Use This Law Right Now
 

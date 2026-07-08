@@ -23,9 +23,9 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
-Most homeowners never read their policy until the moment they need it. A pipe bursts at 11 p.m., water spreads across the hardwood floors, and suddenly you're squinting at a 60-page document trying to figure out what comes next. I've seen this play out hundreds of times. The homeowners who navigate claims smoothly aren't the ones with the best policies, they're the ones who knew what to expect before disaster struck. The process has more steps than insurers advertise, and the gaps where claims go sideways are entirely predictable. Let me walk you through exactly how this works.
+Most homeowners never read their policy until the moment they need it. A [pipe bursts](/home-insurance-frozen-pipes/) at 11 p.m., water spreads across the hardwood floors, and suddenly you're squinting at a 60-page document trying to figure out what comes next. I've seen this play out hundreds of times. The homeowners who navigate claims smoothly aren't the ones with the best policies, they're the ones who knew what to expect before disaster struck. The process has more steps than insurers advertise, and the gaps where claims go sideways are entirely predictable. Let me walk you through exactly how this works.
 
 ---
 
@@ -56,6 +56,11 @@ A public adjuster works for you, not the insurer. They assess your damage indepe
 ---
 
 ## How the Settlement Is Calculated: ACV vs. RCV
+
+| Valuation Method | Depreciation Applied | Payment Structure | When to Use |
+| --- | --- | --- | --- |
+| Actual Cash Value (ACV) | Yes, factored into payout | Single payment after assessment | Lower premiums; older items |
+| Replacement Cost Value (RCV) | No; paid in two stages | ACV first, then depreciation recovered upon proof of repair/replacement | Higher premiums; protection for newer/valuable items |
 
 This is where many claims disappoint people, and it's almost always because they didn't understand this distinction before filing.
 

@@ -23,6 +23,7 @@ faqs:
    a: "No. They're independent contracts. Having a home warranty doesn't affect your insurance coverage or your right to file a claim, and vice versa."
  - q: "What's the difference between an HO-5 policy and a home warranty?"
    a: "An HO-5 is the broadest standard homeowners insurance form, covering your dwelling and personal property on an 'open perils' basis (meaning everything is covered unless specifically excluded). It still won't cover wear and tear or mechanical breakdown. A home warranty covers exactly those things. Different products, different risks."
+lastmod: 2026-07-07
 ---
 
 Most homeowners carry both a home warranty and homeowners insurance without being able to explain, under mild pressure, what either one actually covers. That's a problem, because when something breaks or burns, the gap between those two products is exactly where your claim gets denied.
@@ -31,7 +32,7 @@ Let me fix that confusion right now, in plain terms.
 
 ## What Each Product Is Actually Selling You
 
-Homeowners insurance is a risk transfer product. You pay a premium; your insurer bets the house won't burn down. If it does, they cover the loss. The policy protects against sudden, accidental damage from specific named perils: fire, wind, hail, lightning, theft, and usually a few dozen others depending on whether you have an HO-3 or HO-5 form. The operative word is "sudden." Insurance doesn't care about your 22-year-old water heater. It cares about the tree that fell on your roof at 2 a.m.
+Homeowners insurance is a risk transfer product. You pay a premium; your insurer bets the house won't burn down. If it does, they cover the loss. The policy protects against sudden, accidental damage from specific named perils: fire, wind, hail, lightning, theft, and usually a few dozen others depending on whether you have an [HO-3 or HO-5 form](/ho-3-policy-explained/). The operative word is "sudden." Insurance doesn't care about your 22-year-old water heater. It cares about the tree that fell on your roof at 2 a.m.
 
 A home warranty is a service contract, not insurance. You're prepaying for discounted repair or replacement of mechanical systems and appliances that break down from normal use and age. HVAC, plumbing, electrical, refrigerators, dishwashers. The logic is: these things wear out eventually, and the warranty spreads the cost of that eventual failure across monthly fees instead of one brutal surprise.
 
@@ -40,6 +41,17 @@ Neither product is a substitute for the other. They cover completely different e
 Check [your state's insurance department](https://www.naic.org/state_web_map.htm) to confirm what coverage types are regulated in your state, because home warranties specifically exist in a regulatory gray zone in many states.
 
 ## The Coverage Matrix Nobody Hands You at Closing
+
+| Claim Type | Covered By Insurance | Covered By Warranty | Key Condition |
+| --- | --- | --- | --- |
+| Sudden damage from named peril (fire, wind, hail, lightning) | Yes | No | Must be accidental and sudden |
+| Mechanical/appliance failure from age or wear | No | Yes | Normal use and age-related breakdown |
+| Structural damage | Yes | No | Fire, wind, hail damage to frame/foundation |
+| Appliance damage from covered peril | Yes | No | Tree falls on refrigerator, lightning fries electronics |
+| Appliance mechanical breakdown | No | Yes | Compressor fails, motor stops working |
+| Pipe burst from sudden freeze (pipe replacement) | Yes | No | Sudden and accidental |
+| Water damage from burst pipe (finishes) | Yes | No | Damage to walls, floors, cabinetry |
+| HVAC/plumbing/electrical system failure | No | Yes | Age or normal wear and tear |
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

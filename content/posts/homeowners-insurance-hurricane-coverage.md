@@ -23,6 +23,7 @@ faqs:
    a: "For many homeowners, especially those with homes valued above $250,000, private flood insurance is worth a serious look. NFIP caps building coverage at $250,000 and doesn't always include additional living expenses. Private policies can offer higher limits and additional features, though pricing varies significantly by location and risk. Get quotes from both."
  - q: "What if my neighbor's tree falls on my house during a hurricane?"
    a: "Your homeowners policy covers the damage to your home regardless of where the tree came from, assuming wind is the cause. Your neighbor isn't liable unless their negligence (a dead, obviously diseased tree they ignored) contributed to the damage. That's a harder case to make than most people expect."
+lastmod: 2026-07-07
 ---
 
 Most homeowners in hurricane-prone states think they have hurricane coverage. They don't. What they have is wind coverage with a hurricane-shaped hole in it, and they find out the hard way when they file a claim and get handed a number far smaller than they expected.
@@ -32,6 +33,13 @@ I'll be honest: even after 14 years adjusting claims, the first time I sat acros
 Let me walk you through what actually happens.
 
 ## What Standard Homeowners Insurance Actually Covers
+
+| Coverage Type | What's Covered | What's NOT Covered |
+| --- | --- | --- |
+| Wind Damage | Tree through roof, damaged siding, broken windows, structural damage from wind | Water entering through foundation or yard |
+| Water Damage | Water entering through wind-created roof opening | Storm surge, river flooding, rainfall through yard, foundation seepage |
+| Hurricane Deductible | Triggered by named storm declaration (varies by state/insurer) | Typically 1-5% of home's insured value (e.g., $8,000-$20,000 on $400,000 home) |
+| Flood Damage | Requires separate flood insurance policy | NOT included in standard homeowners policy |
 As of June 2026, 
 Your standard HO-3 policy covers wind damage. That part is real. If a hurricane knocks a tree through your roof, that wind-driven damage is typically covered under the dwelling portion of your policy. Same with damaged siding, broken windows, and most structural damage you can trace back to wind.
 

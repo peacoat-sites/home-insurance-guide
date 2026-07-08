@@ -23,6 +23,7 @@ faqs:
    a: "You have the right to dispute that determination. Ask for the adjuster's habitability assessment in writing and request an itemized explanation. You can hire a public adjuster or an independent inspector to counter their assessment. If it becomes a formal dispute, your policy likely includes an appraisal or mediation clause. The NAIC consumer portal is a good starting point for understanding your state-specific rights."
  - q: "Does loss of use coverage pay my mortgage while I'm displaced?"
    a: "No. Your mortgage is an obligation you carry regardless of whether you're living in the home. Loss of use covers the additional costs of living elsewhere, not your baseline housing debt. This surprises a lot of people, and honestly, it's one of the most common misconceptions I heard during my claims years."
+lastmod: 2026-07-07
 ---
 
 Most homeowners couldn't tell you what loss of use coverage actually pays for. I know because I spent 14 years on the other side of those calls, watching people discover the hard way that "Additional Living Expenses" on their declarations page wasn't quite what they thought it was.
@@ -76,6 +77,16 @@ A time-based cap is the other thing to check. Some policies limit loss of use to
 ---
 
 ## What's Actually Reimbursable (The Real List)
+
+| Coverage Component | Typical Limit | Key Consideration |
+| --- | --- | --- |
+| Additional Living Expenses (ALE) | 20-30% of dwelling coverage | Time-based caps (12-24 months) may limit total payout regardless of dollar limit |
+| Fair Rental Value | Varies by policy | Covers lost rent if you rent out part of your home |
+| Temporary Housing | Included in ALE limit | Hotel, extended-stay, furnished rental, or paid family arrangements |
+| Food Cost Increase | Included in ALE limit | Only the *additional* amount above normal spending if rental lacks kitchen |
+| Pet Boarding | Included in ALE limit | Reimbursable if temporary housing doesn't allow animals |
+| Storage Unit | Included in ALE limit | Necessary for displaced belongings during reconstruction |
+| Extra Transportation | Included in ALE limit | Commuting distance increase due to temporary relocation |
 
 Here's where the policy language gets creative. "Additional living expenses" typically includes:
 

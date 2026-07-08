@@ -23,6 +23,7 @@ faqs:
    a: "Often yes. Most HO-6 personal property coverage extends to belongings stolen away from your unit, like luggage taken from a hotel room or a bicycle stolen from a rack. Check your policy's off-premises theft limit, because it's frequently lower than the on-premises limit and may be subject to sublimits for certain categories."
  - q: "How much liability coverage do I actually need on my condo policy?"
    a: "More than the minimum. The standard $100,000 limit is inadequate for most people. If you have savings, investments, or other assets, those are potentially at risk in a lawsuit that exceeds your coverage. $300,000 to $500,000 is a reasonable floor, and pairing an umbrella policy with it is worth considering if your net worth justifies it."
+lastmod: 2026-07-07
 ---
 
 Most condo owners are underinsured and don't know it until they're standing in three inches of water from a burst pipe in the unit above them. That's not a hypothetical. I reviewed claims like that for 14 years, and the pattern was depressingly consistent: the owner had coverage, the adjuster had a policy, and somewhere in the middle was a gap nobody had explained clearly when the policy was sold.
@@ -30,6 +31,14 @@ Most condo owners are underinsured and don't know it until they're standing in t
 Condo insurance is genuinely different from homeowners insurance, in ways that matter enormously when something goes wrong. Let's get into what it actually covers, where it falls short, and what you should do before you renew.
 
 ## What Your HOA's Master Policy Is (and Isn't) Doing for You
+
+| Master Policy Type | Building Structure | Fixtures & Flooring | Built-in Appliances | Personal Belongings | Improvements You Made |
+| --- | --- | --- | --- | --- | --- |
+| Bare Walls In | ✓ | ✗ | ✗ | ✗ | ✗ |
+| All In (All Inclusive) | ✓ | ✓ | ✓ | ✗ | ✗ |
+| HO-6 Personal Condo Policy | ✗ | Partial* | Partial* | ✓ | ✓ |
+
+*HO-6 covers what's inside your unit walls; coordination with master policy type determines actual coverage gaps.
 As of June 2026, 
 Your HOA carries a master insurance policy. Most condo owners assume this protects them. It protects the building. Sometimes. Depending on the type of master policy, it may cover the building structure, common areas, and shared systems. It rarely covers what's inside your unit.
 
@@ -45,13 +54,13 @@ Read your HOA's CC&Rs (the governing documents) before you assume anything. Ask 
 
 
 
-A standard HO-6 policy (that's the insurance industry form number for condo coverage) has four main components.
+A standard [HO-6 policy](/homeowners-insurance-for-condos/) (that's the insurance industry form number for condo coverage) has four main components.
 
 **Dwelling coverage (Coverage A)** pays for damage to the interior of your unit, from your walls inward. This is where the "bare walls in" vs. "all in" distinction becomes actionable: if your HOA only covers bare walls, your HO-6 dwelling coverage needs to pick up everything from the drywall surface in. If your HOA has "all in," you may need less dwelling coverage, but you still need some for improvements you've made.
 
 **Personal property** covers your stuff. Furniture, electronics, clothing, kitchen equipment. Standard policies cover personal property on a named-perils basis, meaning you're only covered for the specific events listed (fire, theft, vandalism, etc.). An open-perils endorsement (sometimes called "special form") offers broader protection and is usually worth the modest extra premium.
 
-**Liability** is the coverage people chronically underbuy. It pays when someone is injured in your unit or you accidentally cause damage to someone else's property. $100,000 in liability coverage sounds like a lot. A slip-and-fall lawsuit, or water damage that you caused and spread to three floors below you, can exceed that fast. I'd argue most condo owners should carry $300,000 to $500,000, and seriously consider an umbrella policy on top.
+**Liability** is the coverage people chronically underbuy. It pays when someone is injured in your unit or you accidentally cause damage to someone else's property. $100,000 in liability coverage sounds like a lot. A slip-and-fall lawsuit, or water damage that you caused and spread to three floors below you, can exceed that fast. I'd argue most condo owners should carry $300,000 to $500,000, and seriously consider an [umbrella policy](/homeowners-insurance-for-landlords/) on top.
 
 **Loss of use** covers your additional living expenses if your unit becomes uninhabitable after a covered loss. Hotels, meals above your normal costs, temporary rentals. This one tends to be proportionally generous in standard policies, but double-check the daily and total limits.
 

@@ -12,6 +12,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "your-wildfire-risk-score-is-no-longer-secret"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Wildfire season is burning through June 2026, and for the first time, Colorado homeowners have a legal right to see the number that may have quietly ended their insurance coverage. Colorado's HB25-1182 takes effect July 1, 2026, requiring insurers to disclose the wildfire risk scores they use to price, non-renew, or deny policies. Washington state's SB 5928 passed the Senate 48-1 in February 2026 with nearly identical requirements. Two states in six months signals something real: the era of secret risk scoring is ending, whether insurers want it to or not.
 
@@ -38,6 +39,13 @@ That last part is the most meaningful. Fire-resistant roofing, defensible space 
 The practical implication: if you've done mitigation work and your premium still reflects a pre-improvement risk profile, you now have legal standing to challenge it. Keep every receipt, every photo, every contractor invoice. The burden of documentation falls on you, not the insurer.
 
 ## Washington's Numbers Are a Warning
+
+| Metric | Washington State | California/Florida/Texas (E&S Market) |
+|--------|------------------|----------------------------------------|
+| Homeowner Non-Renewals/Cancellations | Doubled from 11,763 (2021) to 24,106 (2025) | E&S market grew from <2% (2023) to ~16% (December 2025) |
+| Primary Driver | Wildfire risk scores | Wildfire risk scoring and market non-renewals |
+| Legislative Response | SB 5928 passed Senate 48-1 | N/A |
+| Effective Date for Disclosure | Pending (similar to Colorado HB25-1182) | N/A |
 
 Colorado's law is the landmark, but Washington's situation illustrates why this matters at scale. According to the Washington Office of the Insurance Commissioner, the number of homeowners non-renewed or canceled in the state has doubled since 2021, climbing from 11,763 to 24,106. A significant portion of those cancellations trace back to wildfire risk scores the homeowners never saw.
 

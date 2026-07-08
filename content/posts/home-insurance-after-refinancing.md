@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 Most homeowners who just refinanced their mortgage have no idea they may have accidentally broken their insurance policy.
 
@@ -63,7 +63,7 @@ What surprised me during my adjuster years was how rarely people questioned thei
 
 While you're updating your mortgagee clause anyway, ask your agent to run a current replacement cost estimate on your home. Most insurers use a calculator based on your home's square footage, construction type, and local labor costs. It takes about ten minutes and might reveal a gap that needs addressing.
 
-One more thing: check your liability coverage. A refinance often signals that your financial situation has changed or your home's value has grown. If you're now sitting on significantly more equity, the standard $100,000 in liability coverage most base policies carry may not be adequate. Umbrella policies are cheap relative to the coverage they provide, typically a few hundred dollars a year for $1 million in additional liability.
+One more thing: check your liability coverage. A refinance often signals that [your financial situation has changed](/homeowners-insurance-after-marriage/) or your home's value has grown. If you're now sitting on significantly more equity, the standard $100,000 in liability coverage most base policies carry may not be adequate. Umbrella policies are cheap relative to the coverage they provide, typically a few hundred dollars a year for $1 million in additional liability.
 
 ## Escrow, Premiums, and the Paperwork Black Hole
 

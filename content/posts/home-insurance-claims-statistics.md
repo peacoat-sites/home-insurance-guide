@@ -23,6 +23,7 @@ faqs:
    a: "There's no single universal denial rate, and it varies significantly by insurer, region, and claim type. Maintenance exclusions and documentation gaps are the most common reasons for denial. If your claim is denied, you have the right to appeal and, in many states, to request an independent appraisal."
  - q: "Is it worth having a public adjuster help with my claim?"
    a: "For large, complicated claims, often yes. Public adjusters work for you rather than the insurer, and they typically charge 10% to 15% of the final settlement. On a $100,000 claim, that fee can be worth it if they negotiate a significantly higher payout. For a $4,000 roof repair, it usually isn't."
+lastmod: 2026-07-07
 ---
 
 Every year, millions of American homeowners file a claim expecting the process to be straightforward, and millions of them are surprised. I've sat across the desk from enough policyholders to tell you: the surprise is almost never good.
@@ -30,6 +31,14 @@ Every year, millions of American homeowners file a claim expecting the process t
 So let's talk about what the numbers actually say, what they mean for your wallet, and where most people leave money on the table or get blindsided.
 
 ## What the Numbers Look Like at Scale
+
+| Claim Type | Frequency | Average Cost | Coverage Notes |
+| --- | --- | --- | --- |
+| Wind and hail damage | ~40% of all claims | Varies | Often has separate percentage-based deductible (1-5%) |
+| Water damage (interior) | Second most common | Varies | Covers burst pipes, failed water heaters |
+| Fire and lightning | Less frequent | $70,000+ | Most expensive per incident |
+| Flood damage | Excluded | N/A | Requires separate National Flood Insurance Program policy |
+| Maintenance-related damage | Common denial reason | N/A | Typically denied; not a covered peril |
 As of June 2026, 
 Roughly one in twenty insured homes has a claim in any given year. That's the figure the Insurance Information Institute (III) has tracked consistently, and it sounds reassuring until you do the math: with around 90 million insured homes in the U.S., that's somewhere in the neighborhood of 4 to 5 million claims annually. A lot of broken pipes. A lot of hail-dented roofs. A lot of people sitting in a damaged kitchen trying to remember their policy number.
 

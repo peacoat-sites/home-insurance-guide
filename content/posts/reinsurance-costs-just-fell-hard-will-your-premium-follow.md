@@ -12,6 +12,7 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "reinsurance-costs-just-fell-hard-will-your-premium-follow"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something unusual just happened in the insurance market, and I'll be honest: it's the kind of shift I spent 14 years waiting to write about. According to Guy Carpenter, U.S. property catastrophe reinsurance pricing dropped 14% through the first half of 2026, the steepest decline since 2014. In Florida specifically, some reinsurance layers fell 15 to 20% at the June 2026 renewals. After watching rates climb relentlessly for years, that's a genuinely significant reversal.
 
@@ -48,6 +49,15 @@ Those reforms seem to be working. Citizens filed for a 2.6% personal lines rate 
 Even an 8% decrease doesn't undo years of compounding increases for most Florida homeowners. But it's a signal that the transmission mechanism between wholesale costs and retail premiums is starting to function. Florida is ahead of the national curve partly because the crisis was so acute that regulatory and market responses accelerated.
 
 ## What Determines Whether Your Premium Actually Follows the Market Down
+
+| Factor | Impact on Premium | Whether Reinsurance Relief Affects It |
+| --- | --- | --- |
+| Reinsurance costs | Direct input cost to insurer | Yes-falling reinsurance prices can reduce this |
+| Insurer's own loss history | Determines carrier's rate needs | No-independent of wholesale market trends |
+| Property location & risk zone | Hyper-local flood, wildfire, wind exposure | No-individual property underwriting |
+| Carrier profitability on homeowners book | Overall product performance | Partially-reinsurance relief helps, but doesn't override losses |
+| Approved rate increase timeline | Multi-year regulatory approvals already in place | No-approved increases run their course regardless |
+| Carrier's reinsurance structure/retention | Changes to coverage terms and deductibles | Yes-but affects coverage design, not just price direction |
 
 Even in a softening market, your specific premium depends on factors that have nothing to do with reinsurance trends. This is where homeowners often get confused, thinking that because the broad market is improving, their individual renewal should reflect that.
 

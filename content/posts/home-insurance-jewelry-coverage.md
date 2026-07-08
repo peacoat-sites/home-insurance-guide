@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 Most people have no idea their jewelry is barely covered by their home insurance policy. Not as a minor gap. As in, you could lose a $6,000 engagement ring in a house fire and walk away with maybe $1,500. I watched this happen to claimants more times than I can count.
 
@@ -32,6 +32,12 @@ Here's why: standard homeowner policies include what's called "personal property
 What surprised me was how few policyholders ever see this language until they're sitting across from an adjuster like I used to be, claim form in hand, and I'm the one explaining it to them for the first time.
 
 ## What Your Base Policy Actually Covers
+
+| Coverage Type | Theft Sublimit | Perils Covered | Deductible | Worldwide Coverage |
+| --- | --- | --- | --- | --- |
+| Standard HO-3 Base Policy | $1,500 (typical) | Named perils only | Standard deductible applies | No |
+| Scheduled Personal Property | Full appraised value | Open perils | None | Yes |
+| Standalone Jewelry Insurance | Varies by policy | Varies by policy | Varies by policy | Often yes |
 As of June 2026, 
 Your standard HO-3 policy (the most common homeowner form in the U.S.) treats jewelry as personal property subject to a sublimit. The Insurance Services Office, which drafts the model policy language most carriers adapt, sets that theft sublimit at $1,500. Your carrier might be higher or lower. The point is: there's a cap, it applies per occurrence, and it almost certainly won't cover the full value of anything more than a modest piece.
 
@@ -41,7 +47,7 @@ The mysterious disappearance exclusion catches more people off guard than any ot
 
 ## Scheduled Personal Property: The Fix Nobody Buys Until It's Too Late
 
-The right solution for jewelry worth more than a few hundred dollars is a scheduled personal property endorsement (sometimes called a "floater" or "rider"). You list each piece individually, assign a value to it, and pay a small additional premium to cover it properly.
+The right solution for jewelry worth more than a few hundred dollars is a [scheduled personal property endorsement](/scheduled-personal-property-insurance/) (sometimes called a "floater" or "rider"). You list each piece individually, assign a value to it, and pay a small additional premium to cover it properly.
 
 What you get in exchange is significant. Scheduled jewelry is typically covered on an "open perils" basis, meaning everything is covered unless specifically excluded. That includes mysterious disappearance. It also usually comes with no deductible, worldwide coverage (so your ring is covered in Paris, not just in your house), and coverage at the agreed or appraised value rather than whatever depreciated amount an adjuster might assign.
 

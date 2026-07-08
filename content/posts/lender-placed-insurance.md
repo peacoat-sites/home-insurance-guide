@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 Most homeowners don't realize their insurance can be replaced without their permission. Then they get the bill.
 
@@ -45,9 +45,18 @@ The most obvious cause is a lapse in payment. Your homeowner's policy renews, yo
 
 But lapses aren't the only trigger.
 
-I've seen force-placed policies activated because a homeowner's insurer sent a non-renewal notice that never made it to the lender, or because the lender's records showed outdated coverage amounts after a refinance. I've even seen it happen during legitimate disputes between homeowners and their insurers. The lender doesn't wait to find out who's right. They see a gap and they fill it. Escrow account errors can also cause this. If your lender is collecting insurance premiums through escrow and they miscalculate or misroute a payment, your policy can lapse through absolutely no mistake of your own. You'd be surprised how often this happens. When it does, the homeowner is still the one who ends up with the costly replacement policy.
+I've seen force-placed policies activated because a homeowner's insurer sent a non-renewal notice that never made it to the lender, or because the lender's records showed outdated coverage amounts after a refinance. I've even seen it happen during legitimate disputes between homeowners and their insurers. The lender doesn't wait to find out who's right. They see a gap and they fill it. Escrow account errors can also cause this. If your lender is collecting insurance premiums through [escrow and they miscalculate](/escrow-and-home-insurance/) or misroute a payment, your policy can lapse through absolutely no mistake of your own. You'd be surprised how often this happens. When it does, the homeowner is still the one who ends up with the costly replacement policy.
 
 ## What It Costs and Why It's So High
+
+| Coverage Type | Lender-Placed Insurance | Standard Homeowner Policy |
+| --- | --- | --- |
+| Structure/Building | Covered | Covered |
+| Personal Property | Not covered | Covered |
+| Liability Protection | Not covered | Covered |
+| Additional Living Expenses | Not covered | Covered |
+| Primary Beneficiary | Lender's financial interest | Homeowner |
+| Typical Annual Cost | $3,000-$6,000+ | $1,200 (example from article) |
 
 Force-placed insurance is expensive partly because it's issued without an inspection or underwriting review of you as a borrower. The insurer is taking on unknown risk across a pool of properties, many of which may be vacant, in disrepair, or in foreclosure. That risk gets priced into the premium for everyone.
 
@@ -55,7 +64,7 @@ There's also a conflict of interest baked into the structure. Your lender select
 
 ## How to Get Rid of It (and How Fast That Can Happen)
 
-The good news: if you get a new policy that meets your lender's requirements, the force-placed policy should be cancelled quickly. Under federal mortgage servicing rules, servicers are generally required to cancel lender-placed insurance within 15 days of receiving evidence that you have your own coverage, and any premiums charged for overlapping periods should be refunded.
+The good news: if you get a new policy that meets your lender's requirements, the force-placed policy should be cancelled quickly. Under [federal mortgage servicing rules](/mortgage-lender-insurance-requirements/), servicers are generally required to cancel lender-placed insurance within 15 days of receiving evidence that you have your own coverage, and any premiums charged for overlapping periods should be refunded.
 
 Here's what to do. First, contact your original insurer or get a new policy immediately. Don't wait to understand why it lapsed; fix the gap first, then sort out the details. Second, send proof of coverage directly to your loan servicer. Don't assume they'll receive it automatically from the insurer. Email it, fax it if they still use that, and call to confirm receipt. Third, request written confirmation that the force-placed policy has been cancelled and that your escrow or account has been credited for any overlap.
 
@@ -65,7 +74,7 @@ If you're having trouble getting the servicer to act, your state's insurance dep
 
 Preventing force-placement is straightforward in theory, annoying in practice. Set a calendar reminder for your policy renewal date, two to three weeks out. If your insurer auto-charges a credit card, verify the card on file is current. Make sure your insurer has your lender's name and address correct so renewal confirmations go to the right place.
 
-If you have an escrow account, review your annual escrow statement and confirm the insurance line item reflects what you're actually paying. Errors show up more often than they should, especially after a refinance or loan transfer. Keep a copy of your insurance declarations page somewhere you can access it fast. A fireproof document safe is worth the $40 to $60 investment just for this reason. If you ever need to prove coverage quickly, having that document in hand instead of hunting through email saves you real time.
+If you have an escrow account, [review your annual escrow statement](/escrow-and-home-insurance/) and confirm the insurance line item reflects what you're actually paying. Errors show up more often than they should, especially after a refinance or loan transfer. Keep a copy of your insurance declarations page somewhere you can access it fast. A fireproof document safe is worth the $40 to $60 investment just for this reason. If you ever need to prove coverage quickly, having that document in hand instead of hunting through email saves you real time.
 
 The [Insurance Institute for Business and Home Safety](https://ibhs.org/) has guidance on what lenders typically require in terms of coverage levels, which is useful if you're shopping for a new policy and want to make sure you're buying enough to satisfy your servicer from the start.
 

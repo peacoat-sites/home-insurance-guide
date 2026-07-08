@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Your neighbor slips on your icy front steps, breaks her wrist, and ends up with $18,000 in medical bills and six weeks of lost wages. You're a good person. You feel terrible. You also have a homeowner's policy. Now here's the question that will keep you up at night until you actually read that policy: does your liability coverage actually protect you from what comes next?
 
@@ -41,6 +41,13 @@ Don't confuse the two. Your neighbor with the broken wrist is not a MedPay situa
 
 ## Standard Limits and Why They're Often Too Low
 
+| Coverage Type | Typical Limit | Best For | Notes |
+| --- | --- | --- | --- |
+| Base Liability | $100,000-$300,000 | Standard homeowner protection | Often too low for serious injuries |
+| Increased Base Liability | $300,000-$500,000 | Added security at low cost | Minimal premium increase |
+| Umbrella Policy | $1,000,000+ | Catastrophic loss protection | Typically $150-$300/year for $1M |
+| Medical Payments to Others | $1,000-$5,000 | Minor guest injuries | Pays regardless of fault |
+
 The default liability limit on most homeowner policies is $100,000. Some policies start at $300,000. Sounds like a lot until you price out what a personal injury lawsuit actually costs.
 
 A broken wrist with surgery, physical therapy, and six weeks of lost income from a professional job can approach or exceed $100,000 on its own. A serious injury, a dog bite that causes permanent scarring, a contractor who falls off your roof, a swimming pool accident. These generate claims in the hundreds of thousands or even millions. The [Insurance Information Institute (III)](https://www.iii.org/) consistently points out that liability claims can exceed standard policy limits far faster than most homeowners expect, particularly when lost wages, pain and suffering, and legal fees stack up.
@@ -53,7 +60,7 @@ The fix is usually one of two things. You can increase your base liability limit
 
 Here's where I've seen the most genuine shock from homeowners. The exclusions in the liability section of a standard policy are specific and significant.
 
-**Business activity.** If you run a business from home, even a side gig where you have clients or customers on your property, a standard homeowner's policy likely won't cover liability arising from that activity. A client trips on your front porch while dropping off work? Your insurer may deny that claim. You need a home business endorsement or a separate business policy.
+**Business activity.** If you run a business from home, even a side gig where you have clients or customers on your property, a standard homeowner's policy likely won't cover liability arising from that activity. A client trips on your front porch while dropping off work? Your insurer may deny that claim. You need a [home business endorsement](/home-insurance-endorsements-explained/) or a separate business policy.
 
 **Intentional acts.** Coverage doesn't apply if you or a household member intentionally causes injury. This one seems obvious, but it surfaces in ugly situations like domestic incidents or neighbor disputes that escalate.
 

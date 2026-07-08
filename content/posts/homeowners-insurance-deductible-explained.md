@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 A neighbor of mine filed a roof claim after a hailstorm a few years back. She had a standard $1,000 deductible, the damage came in at $4,200, and she walked away expecting a check for $3,200. What she actually got was a letter explaining that her policy had a separate wind and hail deductible equal to 2% of her dwelling coverage, which was insured for $380,000. Her out-of-pocket cost wasn't $1,000. It was $7,600, and the insurer legally owed her nothing at all. She had never heard of a percentage deductible. Nobody explained it when she bought the policy.
 
@@ -60,6 +60,13 @@ These aren't hypothetical numbers. I've reviewed claims where the percentage ded
 
 ## The Peril-Specific Deductible Trap
 
+| Percentage Deductible | Your Out-of-Pocket |
+|-----------------------|--------------------|
+| 1% | $3,500 |
+| 2% | $7,000 |
+| 3% | $10,500 |
+| 5% | $17,500 |
+
 Your policy likely has more than one deductible. Maybe three or four, each triggered by a different cause of loss.
 
 Standard "all-other-perils" deductible: applies to most covered losses like fire, theft, and water damage from internal sources.
@@ -72,7 +79,7 @@ Earthquake deductible: earthquake coverage is typically a separate policy or end
 
 Flood deductible: flood insurance through the National Flood Insurance Program (NFIP) or private carriers carries its own separate deductible, often with separate building and contents deductibles.
 
-Before you sign or renew anything, read your declarations page line by line. It's usually three to five pages, and every deductible should appear there. If you see "windstorm or hail deductible" with a percentage symbol, stop and calculate what that means in actual dollars for your coverage amount.
+Before you sign or renew anything, read your [declarations page](/insurance-policy-declarations-page/) line by line. It's usually three to five pages, and every deductible should appear there. If you see "windstorm or hail deductible" with a percentage symbol, stop and calculate what that means in actual dollars for your coverage amount.
 
 ## How to Actually Choose the Right Deductible
 
@@ -86,7 +93,7 @@ There's no universal right answer, but there's a framework that beats guessing.
 
 **Step 4: Look at your claims history and risk profile.** If you live in a hail corridor in Texas or Kansas, your probability of filing a windstorm claim within ten years is meaningfully higher than someone in the Pacific Northwest. Regional risk is real.
 
-**Step 5: Read the percentage deductible calculation method.** Some policies calculate the percentage based on Coverage A (dwelling) limit. Others use the total policy limit including personal property. Know which one applies before assuming your exposure.
+**Step 5: Read the percentage deductible calculation method.** Some policies calculate the percentage based on [Coverage A (dwelling) limit](/home-insurance-dwelling-coverage/). Others use the total policy limit including personal property. Know which one applies before assuming your exposure.
 
 One practical tool that makes a difference: a complete home inventory. If you file a claim, knowing exactly what you own speeds up settlement and reduces disputes. Apps like Encircle or HomeZada let you document rooms with video and store receipts. Keeping your documentation backed up in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) *(affiliate link, site may earn a commission)* ensures your policy documents, photos, and receipts survive the same event you're trying to claim.
 

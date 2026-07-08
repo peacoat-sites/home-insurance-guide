@@ -23,6 +23,7 @@ faqs:
     a: "If the carrier hasn't issued your policy, you could face a coverage gap, though most carriers will extend or re-issue the binder rather than let it lapse. Don't assume this will happen automatically. Track the expiration date and confirm with your agent about two weeks before it's up."
   - q: "Do I need a home inventory before getting a binder?"
     a: "No, a binder doesn't require a home inventory. But starting one immediately after closing is genuinely smart. Apps like Encircle or the NAIC's free myHOME Scr.APP.book let you photograph and log your belongings room by room. If you ever file a contents claim, that documentation can be worth thousands of dollars. (You can also store your policy documents and binder in a fireproof document safe, like this one on Amazon (note: this site may earn a commission on purchases)."
+lastmod: 2026-07-07
 ---
 
 Most homeowners have no idea what a binder actually is until they need one in the next 48 hours and suddenly it's the only thing standing between them and a closed real estate deal.
@@ -37,7 +38,7 @@ That gap, in my experience, is where a surprising number of problems live.
 
 A standard binder includes your name, the property address, the policy period (usually 30 to 90 days), the insurer's name, your coverage limits, your deductible, and the name of any mortgagee. That last part matters: if you're financing, the lender's name and loan number need to be listed correctly, or the title company will kick it back.
 
-What it doesn't always include: a full schedule of endorsements. If you added water backup coverage or scheduled a valuable piece of jewelry, those additions might not appear on the binder face page. I've seen closings where buyers assumed the binder reflected their complete coverage, then discovered a key endorsement wasn't bound yet. The fix is easy; ask your agent to confirm in writing that all requested endorsements are active as of the binder date.
+What it doesn't always include: a full schedule of endorsements. If you added [water backup coverage](/water-leak-sensor-insurance-discount/) or scheduled a valuable piece of jewelry, those additions might not appear on the binder face page. I've seen closings where buyers assumed the binder reflected their complete coverage, then discovered a key endorsement wasn't bound yet. The fix is easy; ask your agent to confirm in writing that all requested endorsements are active as of the binder date.
 
 One more thing people miss: a binder is not a policy. If a dispute ever went to coverage litigation, the terms of the eventual issued policy would govern, not the binder. This matters more in theory than in practice for most straightforward closings, but it's worth knowing.
 
@@ -49,7 +50,7 @@ One more thing people miss: a binder is not a policy. If a dispute ever went to 
 
 Your insurance agent issues the binder, usually within a few hours of you completing the application and paying the first premium (or authorizing the down payment to be collected at closing). Current as of July 2026, most major carriers allow agents to issue binders electronically, and many title companies will accept a PDF.
 
-The timeline that trips people up: don't wait until two days before closing to shop for homeowners insurance. If the underwriter needs to inspect the property, order a CLUE report, or review a loss history, that process takes time. A property with a prior claim, an older roof, or a wood-burning stove can take a week or more to bind.
+The timeline that trips people up: don't wait until two days before closing to shop for [homeowners insurance](/homeowners-insurance-at-closing/). If the underwriter needs to inspect the property, order a CLUE report, or review a loss history, that process takes time. A property with a prior claim, an older roof, or a wood-burning stove can take a week or more to bind.
 
 My standing recommendation: start shopping 3 to 4 weeks before your closing date. That gives you room to get declined somewhere, find a better carrier, and still hit your deadline without begging.
 
@@ -68,6 +69,13 @@ I'd treat this the same way I treat smoke detector batteries: put a reminder on 
 One scenario that burned a client I spoke with years ago: they purchased a vacation cabin, got a 30-day binder, closed fine, then got buried in post-closing paperwork. The insurer mailed the formal policy to the old address. Nobody confirmed receipt. The binder expired. A small fire occurred on day 37. The claim ended up in a coverage dispute that took months to resolve. The insurer ultimately paid, but it required documentation, back-and-forth, and legal fees that nobody planned for.
 
 ## What Lenders Are Actually Checking
+
+| Item | Checked by Lender? | Why It Matters |
+| --- | --- | --- |
+| Property address matches loan file | Yes | Mismatch blocks closing |
+| Coverage amount meets minimum (lesser of loan amount or replacement cost) | Yes | Lender won't release funds without adequate coverage |
+| Lender listed as mortgagee with correct name and address | Yes | Required for lender protection; typos cause delays |
+| Effective date on or before closing date | Yes | Coverage must be active at time of closing |
 
 Underwriters at mortgage companies aren't reading your binder the way a coverage attorney would. They're checking four things:
 

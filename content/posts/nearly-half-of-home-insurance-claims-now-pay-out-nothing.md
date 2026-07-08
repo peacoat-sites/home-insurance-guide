@@ -12,12 +12,21 @@ author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 slug: "nearly-half-of-home-insurance-claims-now-pay-out-nothing"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Hurricane season opened June 1, and most homeowners assume their policy is ready. The Wall Street Journal's investigation published May 30, 2026 suggests that assumption deserves serious scrutiny. After analyzing regulatory Schedule P filings for the five largest home insurers in the country, the Journal found that Allstate, Farmers, Liberty Mutual, State Farm, and USAA collectively declined or closed without payment 44% of homeowner claims resolved in 2025. That's up from 36% a decade ago. Nearly one in two claims. I'll be honest: even with 14 years reviewing claims from the inside, that number stopped me cold.
 
 The timing matters. Premiums are surging, storm exposure is growing, and millions of homeowners are walking into peak risk season with policies they haven't stress-tested. A May 2026 Pew Research Center survey found 71% of homeowners noticed rising policy costs in recent years, with 48% saying costs had gone up "a lot." People are paying more and, apparently, getting paid back less often. That's the tension worth understanding before the first named storm of the season makes landfall.
 
 ## What "No Payment" Actually Means, and Why It's Not Simple
+
+| Metric | 2015 | 2025 | Change |
+| --- | --- | --- | --- |
+| Claims closed without payment (top 5 insurers) | 36% | 44% | +8 percentage points |
+| Homeowners noticing rising policy costs (Pew Research) | - | 71% | - |
+| Homeowners reporting costs up "a lot" (Pew Research) | - | 48% | - |
+| Claims closed without payment in Florida (select carriers) | - | >50% | - |
+| Claims closed without payment in Texas | - | 47% | - |
 
 Here's where I want to push back a little on the instinct to read this as pure insurer bad faith, because the reality is messier. Insurers are quick to point out, and they're not entirely wrong, that many zero-payout closures involve claims where the loss fell below the deductible. A homeowner files after a hail storm, an adjuster estimates $1,800 in damage, the deductible is $2,500, and the claim closes without payment. That's not a denial in the traditional sense. The policyholder withdrew it, or it simply didn't clear the threshold.
 

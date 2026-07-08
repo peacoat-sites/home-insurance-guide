@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 Your mortgage approval came through, and now there's a five-page insurance requirements document sitting in your email. Nobody explained this part. You're staring at terms like "dwelling coverage equal to replacement cost" and "loss payee endorsement" and wondering if your current homeowner's policy even qualifies, or whether you need to buy something entirely different before closing.
 
@@ -33,6 +33,16 @@ Here's what I tell people new to this: lenders don't require insurance to protec
 
 ## What Lenders Actually Require
 
+| Lender Requirement | Purpose | Key Detail |
+| --- | --- | --- |
+| Dwelling coverage at replacement cost | Protects lender's collateral | Must cover rebuild cost, not market value or purchase price |
+| Named as loss payee | Ensures funds used for repairs | Insurance check made out to both you and lender |
+| Continuous coverage with no gaps | Maintains protection throughout loan | Lapse triggers force-placed insurance (2-3x market cost) |
+| Minimum deductible limits | Ensures borrower can file claims | Typically capped at $1,000-$5,000 |
+| Flood insurance (FEMA zones) | Required in high-risk areas | Separate policy through NFIP or private carrier |
+| Windstorm insurance (coastal states) | Required in hurricane-prone regions | Separate policy in some high-risk areas |
+| Earthquake coverage (seismic zones) | Required by some lenders | Less universal but required in certain regions |
+
 Every mortgage lender will require you to carry homeowners insurance as a condition of the loan. That's table stakes. The specific requirements vary more than most people realize, and they can catch you off guard if you're comparing policies before closing.
 
 The big ones:
@@ -41,11 +51,11 @@ The big ones:
 
 **Named as loss payee.** Your lender will require that they be listed on the policy as a "loss payee" or "mortgagee." This means if your house burns down and you file a claim, the insurance check gets made out to both you and the lender. They have a legal interest in that money being used to rebuild the collateral, not pay off your credit cards.
 
-**Continuous coverage with no gaps.** Lenders require proof of insurance at closing and continued proof every year after. Let your policy lapse, and your servicer has the right to purchase what's called "force-placed insurance" on your behalf. This is worth understanding, because force-placed policies are dramatically more expensive than market-rate coverage, often two to three times the cost, and they cover only the structure (not your belongings, not your liability). The Insurance Information Institute has documented this clearly. Force-placed insurance protects the lender. Full stop.
+**Continuous coverage with no gaps.** Lenders require proof of insurance at closing and continued proof every year after. Let your policy lapse, and your servicer has the right to purchase what's called "[force-placed insurance](/lender-placed-insurance/)" on your behalf. This is worth understanding, because force-placed policies are dramatically more expensive than market-rate coverage, often two to three times the cost, and they cover only the structure (not your belongings, not your liability). The Insurance Information Institute has documented this clearly. Force-placed insurance protects the lender. Full stop.
 
 **Minimum deductible limits.** Some lenders cap how high your deductible can be, typically somewhere around $1,000 to $5,000, though this varies. They want to know you can actually afford to file a claim and start repairs without the property sitting damaged.
 
-**Additional requirements in high-risk areas.** If you're buying in a FEMA-designated flood zone, your lender will require a separate flood insurance policy through the National Flood Insurance Program or a private carrier. In hurricane-prone coastal states, they may require a separate windstorm policy. Earthquake coverage is less universal but still required by some lenders in seismic zones.
+**Additional requirements in high-risk areas.** If you're buying in a FEMA-designated flood zone, your lender will require a [separate flood insurance policy](/escrow-and-home-insurance/) through the National Flood Insurance Program or a private carrier. In hurricane-prone coastal states, they may require a separate windstorm policy. Earthquake coverage is less universal but still required by some lenders in seismic zones.
 
 ## The Replacement Cost Calculation Is Where Things Get Sticky
 

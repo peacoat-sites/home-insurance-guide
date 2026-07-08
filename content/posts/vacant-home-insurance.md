@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 If your house sits empty for more than 30 days, your standard homeowner's policy has probably already stopped covering it. Most people don't find out until they file a claim.
 
@@ -43,6 +43,18 @@ What doesn't usually change is your liability coverage (if someone is injured on
 
 ## What Vacant Home Insurance Actually Covers
 
+| Coverage Type | Typically Included | Typically Excluded |
+| --- | --- | --- |
+| Fire and lightning | ✓ | |
+| Wind and hail | ✓ | |
+| Vandalism | ✓ (with 7-30 day waiting period) | |
+| Liability for injuries | ✓ | |
+| Water damage | ✓ (if winterized) | |
+| Theft of personal property | | ✓ |
+| Gradual deterioration | | ✓ |
+| Pest damage | | ✓ |
+| Deferred maintenance losses | | ✓ |
+
 A standalone vacant home policy replaces your standard policy during the period the home is empty. It's not a rider you add; it's a separate product, and it's more expensive than regular coverage, often 50 to 150 percent more per year for a comparable dwelling limit. That wide range exists because pricing depends heavily on how long the property has been empty, the location, whether it's winterized, whether you're doing renovations, and the home's condition.
 
 Coverage under a good vacant home policy typically includes:
@@ -55,7 +67,7 @@ Coverage under a good vacant home policy typically includes:
 
 What it usually doesn't cover: theft of personal property (the home is supposed to be empty), gradual deterioration, pest damage, and losses that result from deferred maintenance. One of the most common claim denials I saw in vacant home situations was a roof claim that turned out to involve damage from years before the vacancy. Insurers will look.
 
-Renovation-specific policies exist too, sometimes called "builder's risk" or "dwelling under construction" coverage. If you're doing significant work on the home, that's what you need rather than a standard vacant home product.
+Renovation-specific policies exist too, sometimes called "[builder's risk](/home-insurance-for-new-construction/)" or "dwelling under construction" coverage. If you're doing significant work on the home, that's what you need rather than a standard vacant home product.
 
 ## How Long Do You Actually Need It?
 

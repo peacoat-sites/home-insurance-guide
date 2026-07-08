@@ -23,13 +23,13 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 Most homeowners walk around convinced that if their house burns down, insurance will rebuild it. That assumption has wiped out entire families. I watched it happen repeatedly during my claims career: a home insured for $350,000, appraised two years prior. Wildfire tears through. Suddenly every contractor within 50 miles is booked, lumber prices spike 40%, and your $350,000 policy covers maybe $290,000 worth of today's construction costs. The gap? Your pocket. Extended replacement cost coverage was designed specifically to close that gap, and yet most people buying homeowners insurance have no idea it exists, let alone how it works.
 
 ## What Extended Replacement Cost Actually Means
 
-Standard dwelling coverage pays to rebuild your home up to your policy's Coverage A limit. Full stop. Go over that number, you're writing the check yourself.
+Standard [dwelling coverage](/home-insurance-dwelling-coverage/) pays to rebuild your home up to your policy's Coverage A limit. Full stop. Go over that number, you're writing the check yourself.
 
 Extended replacement cost (ERC) changes the math by adding a buffer, usually stated as a percentage above your dwelling limit. You'll see 25%, 50%, or sometimes higher. Say your home's insured for $400,000 with 50% ERC. You've now got up to $600,000 in dwelling coverage if reconstruction costs run over.
 
@@ -59,6 +59,13 @@ One wrinkle: not all insurers still offer GRC. After massive wildfire and hurric
 
 ## Comparing Your Coverage Options
 
+| Coverage Type | What It Pays | Ceiling | Best For |
+|---|---|---|---|
+| Actual Cash Value (ACV) | Depreciated value of structure | Policy limit | Almost no one (high risk) |
+| Replacement Cost Value (RCV) | Cost to rebuild at current rates | Policy limit, no buffer | Budget-focused buyers with recent appraisal |
+| Extended Replacement Cost (ERC) | Current rebuild cost plus a percentage buffer | Policy limit x 1.25 to 1.75 | Most homeowners, especially in disaster-prone areas |
+| Guaranteed Replacement Cost (GRC) | Full rebuild cost regardless of amount | No ceiling | Ideal option where available |
+
 Here's how the three main dwelling coverage types stack up:
 
 | Coverage Type | What It Pays | Ceiling | Best For |
@@ -70,7 +77,7 @@ Here's how the three main dwelling coverage types stack up:
 
 To evaluate where you actually stand, do this:
 
-1. Find your declarations page and locate Coverage A dwelling limit.
+1. Find your declarations page and locate [Coverage A dwelling limit](/insurance-policy-declarations-page/).
 2. Get an independent rebuild cost estimate, not a market appraisal.
 3. Compare the numbers. If Coverage A falls below the rebuild estimate, increase your limit before even considering ERC.
 4. Ask your agent specifically whether your policy includes ERC or GRC, and at what percentage. Request that answer in writing.

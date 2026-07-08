@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 A pipe bursts. Your kitchen floods. The damage is real, the stress is real, and then your insurer calls to say they'll cover about half of what repairs actually cost.
 
@@ -40,6 +40,16 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 Look up both numbers before requesting a single quote.
 
 ## What "Standard" Coverage Actually Means (And What It Quietly Excludes)
+
+| Coverage Type | Typical Limit | What's Covered | What's NOT Covered |
+| --- | --- | --- | --- |
+| Dwelling (HO-3) | Based on replacement cost | Open perils (all except exclusions) | Flood, earthquake, wear & tear |
+| Personal Property (HO-3) | 50-70% of dwelling limit | Named perils only | Flood, earthquake, maintenance failures |
+| Jewelry/Valuables | $1,500 (jewelry), $2,500 (firearms) | Theft, loss | Amounts exceeding special limits |
+| Additional Living Expense (ALE) | $10,000-varies | Hotel, meals during uninhabitable period | Varies by policy structure |
+| Sewer/Drain Backup | $10,000-$40,000 damage potential | Backup damage (with endorsement) | Without endorsement: not covered |
+| Replacement Cost Value (RCV) | Full replacement | Actual repair/replacement cost | Depreciation not subtracted |
+| Actual Cash Value (ACV) | Depreciated amount | Market value after depreciation | Gap between ACV and RCV |
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 Most homeowners renew their insurance policy every year without reading it. They get the bill, they pay it, they move on. I did this myself for the first few years I owned my house, and I was working in claims at the time. That's how easy it is to ignore.
 
@@ -38,6 +38,13 @@ I spent 14 years reviewing claims at a national insurer. The seasonal patterns w
 The National Association of Insurance Commissioners (NAIC) has published consumer guidance noting that homeowners consistently underestimate how much their coverage needs change year to year. They're right. Your insurer counts on you not noticing.
 
 ## The coverage gaps that hide in plain sight
+
+| Coverage Type | Typical Cost | Coverage Details |
+| --- | --- | --- |
+| Water backup endorsement | $50-$150/year | Covers sump pump failure and basement flooding from heavy rain |
+| Umbrella policy | $200-$300/year | Provides $1 million in additional liability coverage |
+| Flood insurance (separate policy) | Varies by location and risk | Covers water from outside the house traveling along ground to enter home |
+| Vacancy permit/seasonal rider | Varies by insurer | Maintains coverage during known vacant periods (30-60+ consecutive days) |
 
 Let me be direct about a few things that catch people badly.
 

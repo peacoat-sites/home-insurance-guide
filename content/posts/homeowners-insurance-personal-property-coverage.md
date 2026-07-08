@@ -23,13 +23,13 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 Your basement floods after a pipe bursts overnight. Furniture ruined. Television gone. Kids' gaming equipment destroyed. You call your insurer confident you're covered, and the adjuster hits you with the number: $4,200. Your losses? You're looking at $12,000, maybe more. How'd this happen? You had actual cash value coverage, not replacement cost. Your five-year-old couch wasn't worth what a new one costs today.
 
 I saw this play out in claims more times than I wanted to. And it was always a surprise to the person on the other end of the phone.
 
-Personal property coverage is one of the most misunderstood parts of a homeowners insurance policy. People assume it works like a shopping reimbursement. It doesn't. The difference between understanding how it actually functions and getting blindsided by a payout comes down to knowing where the limits live and what questions to ask before you file a claim.
+Personal property coverage is one of the most misunderstood parts of a [homeowners insurance policy](/ho-3-policy-explained/). People assume it works like a shopping reimbursement. It doesn't. The difference between understanding how it actually functions and getting blindsided by a payout comes down to knowing where the limits live and what questions to ask before you file a claim.
 
 ## What Personal Property Coverage Actually Is
 As of June 2026, 
@@ -40,6 +40,11 @@ The keyword there is "covered peril." Most standard policies are named-peril pol
 Coverage C is typically set at 50% to 70% of your dwelling coverage. So if your home is insured for $300,000, you might have $150,000 to $210,000 in personal property coverage. That sounds generous, but once you inventory everything you own, the math gets tighter fast. Don't assume the default percentage works for your household.
 
 ## Actual Cash Value vs. Replacement Cost: The Gap That Hurts
+
+| Coverage Type | Depreciation Applied | Payout Timeline | Typical Premium Difference |
+| --- | --- | --- | --- |
+| Actual Cash Value (ACV) | Yes | Full amount upfront | Baseline |
+| Replacement Cost Value (RCV) | No | ACV first, then recoverable depreciation after proof of replacement | 10-15% more per year |
 
 This is the single biggest coverage decision most people never consciously make. It's where I watched people come up short, over and over.
 
@@ -65,7 +70,7 @@ Common sub-limits in standard homeowners policies include:
 
 If you own an engagement ring worth $8,000 and it's stolen, you might collect $1,500. That's not a technicality. That's the contract you signed.
 
-The solution is a scheduled personal property endorsement, sometimes called a personal articles floater. You provide an appraisal or receipt, the insurer covers that specific item for its actual value, and the sub-limit disappears. You usually also get broader coverage, including mysterious disappearance (the ring falls off your finger somewhere, you don't know where). Premiums for these endorsements are generally reasonable, often $10 to $30 per year per $1,000 of insured value, though this varies by item and location.
+The solution is a [scheduled personal property endorsement](/home-insurance-endorsements-explained/), sometimes called a personal articles floater. You provide an appraisal or receipt, the insurer covers that specific item for its actual value, and the sub-limit disappears. You usually also get broader coverage, including mysterious disappearance (the ring falls off your finger somewhere, you don't know where). Premiums for these endorsements are generally reasonable, often $10 to $30 per year per $1,000 of insured value, though this varies by item and location.
 
 For a complete breakdown of how these limits stack up across your whole policy, the [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) walks through each coverage layer in detail.
 

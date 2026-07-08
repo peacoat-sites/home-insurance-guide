@@ -23,9 +23,9 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
-Most condo owners are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.
+Most [condo owners](/condo-insurance-explained/) are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.
 
 Here's what makes condos different from single-family homes: you don't own the building. You own a unit inside it. Your homeowners association owns the structure, the roof, the exterior walls, the hallways. They carry a master policy for all of that. You're responsible for everything else, which turns out to be more than most people think.
 
@@ -37,11 +37,19 @@ The HOA master policy comes in two flavors, and which one your association carri
 
 **All-in** (also called "single entity") goes further. It covers original fixtures and installations inside the unit, like factory-spec flooring and standard kitchen appliances. But here's the catch: it only covers what was original to the unit when built. That $12,000 kitchen renovation you did in 2021 probably isn't included.
 
-Before you buy a single day of HO-6 coverage (that's the specific policy type for condo owners), get a copy of the HOA's master policy declaration page. Read it. If your association won't hand it over, that's a red flag worth noting before you close on a unit.
+Before you buy a single day of HO-6 coverage (that's the specific policy type for condo owners), get a copy of the HOA's [master policy declaration page](/hoa-master-policy-and-condo-coverage/). Read it. If your association won't hand it over, that's a red flag worth noting before you close on a unit.
 
 The [Insurance Information Institute](https://www.iii.org/) has a solid breakdown of how master policies interact with individual HO-6 coverage, and it's worth reading before your next renewal.
 
 ## HO-6: What You're Actually Buying
+
+| Coverage Type | What It Covers | Typical Default Limit | Recommended Minimum |
+| --- | --- | --- | --- |
+| Dwelling (Coverage A) | Interior walls, floors, ceilings, permanent fixtures | Varies by unit size | $100+ per sq ft of interior |
+| Personal Property | Furniture, electronics, clothing, kitchenware | Standard policy limit | Replacement cost basis |
+| Liability | Guest injury, damage to neighboring units | $100,000 | $300,000 |
+| Loss Assessment | Your share of HOA shortfall on common area losses | $1,000 | $50,000+ |
+| Loss of Use | Temporary housing after covered loss | Included | Included |
 
 An HO-6 policy is built specifically for condo owners. It covers your personal property, liability, and the interior of your unit. But the details inside that broad description matter enormously.
 

@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 You buy a rental property, feel good about the investment, and assume your regular homeowners insurance policy has you covered. Then a tenant leaves the water running, walks out the door, and causes $40,000 in water damage. You file a claim. The insurer denies it. Why? Because you were using a homeowners policy on a property you don't occupy, and the insurer considers that a material misrepresentation. The claim is void. The loss is yours.
 
@@ -41,7 +41,7 @@ A standard HO-3 homeowners policy is written for owner-occupied residences. The 
 
 Here's the practical problem: many landlords don't realize their coverage is invalid until they file a claim. By then it's too late to fix it retroactively. Some insurers will cancel your policy outright when they discover the property is tenant-occupied. Others will void specific claims tied to rental activity. Either way, you're exposed.
 
-If you only rent occasionally, say you list your home on Airbnb during summer while you travel, you might qualify for a home-sharing endorsement. But if you're renting a property full-time and you don't live there, you need a landlord insurance policy, sometimes called a dwelling fire policy or DP-3. These are not the same thing as homeowners insurance. The distinction matters enormously.
+If you only rent occasionally, say you list your home on Airbnb during summer while you travel, you might qualify for a home-sharing endorsement. But if you're renting a property full-time and you don't live there, you need a [landlord insurance policy](/landlord-insurance-vs-homeowners/), sometimes called a dwelling fire policy or DP-3. These are not the same thing as homeowners insurance. The distinction matters enormously.
 
 ## What Landlord Insurance Actually Covers
 
@@ -51,7 +51,7 @@ Landlord insurance, specifically a DP-3 policy, is designed for non-owner-occupi
 
 **Dwelling coverage:** Protects the structure itself, including the roof, walls, built-in appliances, and permanently attached fixtures. This is the core of any rental property policy, and you'll want it set at replacement cost value, not actual cash value. The difference can be tens of thousands of dollars in a serious loss. If you want to understand how that gap works, the [home insurance replacement cost vs actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/) comparison is worth reading before you choose a policy.
 
-**Other structures coverage:** Covers detached garages, fences, and sheds on the property.
+**Other structures coverage:** Covers [detached garages, fences, and sheds](/homeowners-insurance-detached-garage-coverage/) on the property.
 
 **Liability coverage:** This protects you if a tenant or guest is injured on the property and sues you. Landlord liability cases can reach six figures quickly, so skimping here is a mistake. Most landlords should carry at least $300,000 in liability, and many advisors recommend $500,000 or more for multi-unit properties. A separate umbrella policy is worth exploring if you have multiple rental units.
 
@@ -84,7 +84,7 @@ Not all rental situations are identical. Here's a practical breakdown:
 | Multi-unit building (2-4 units) | DP-3 or commercial residential policy |
 | Multi-unit building (5+ units) | Commercial property insurance |
 
-The vacant property situation deserves a specific callout. If your rental sits empty between tenants for more than 30 to 60 days (the exact threshold varies by insurer), standard landlord policies may stop covering it. Vacant homes are high-risk: vandalism, pipe freezes, undetected leaks, and fires with no one to call 911. You need a standalone vacant home policy for those periods, or at minimum a vacancy endorsement. The cost is higher than a standard policy, but not as high as an uncovered loss on an empty building.
+The [vacant property](/vacant-home-insurance/) situation deserves a specific callout. If your rental sits empty between tenants for more than 30 to 60 days (the exact threshold varies by insurer), standard landlord policies may stop covering it. Vacant homes are high-risk: vandalism, pipe freezes, undetected leaks, and fires with no one to call 911. You need a standalone vacant home policy for those periods, or at minimum a vacancy endorsement. The cost is higher than a standard policy, but not as high as an uncovered loss on an empty building.
 
 For landlords shopping for coverage, a proper [home insurance quotes comparison](/home-insurance-quotes-comparison/) across landlord-specific products matters more than just accepting whoever you use for your primary residence. Coverage terms vary significantly between carriers.
 

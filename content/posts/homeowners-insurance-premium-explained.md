@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Your neighbor's house is identical to yours. Same square footage, same roof age, same ZIP code. His homeowners premium is $400 less per year than yours. No, he didn't get a special deal. You're probably just paying the price of not knowing what's actually inside your policy or what levers you can pull to change it.
 
@@ -35,11 +35,11 @@ That gap is real, and it's common. Homeowners insurance premiums are calculated 
 
 Your premium buys you a specific set of promises, not a blanket guarantee that your insurer will cover whatever goes wrong.
 
-A standard HO-3 policy, which is what most homeowners carry, covers your dwelling, other structures on the property, personal property, loss of use, personal liability, and medical payments to others. Each bucket has its own limit, and every limit is a ceiling you can hit faster than you'd expect.
+A [standard HO-3 policy](/ho-3-policy-explained/), which is what most homeowners carry, covers your dwelling, other structures on the property, personal property, loss of use, personal liability, and medical payments to others. Each bucket has its own limit, and every limit is a ceiling you can hit faster than you'd expect.
 
 The dwelling coverage limit, often called Coverage A, is the single biggest driver of your premium. This number should reflect what it would cost to rebuild your home from scratch at current labor and materials prices, not its market value. These two figures are rarely the same. After the supply chain chaos of recent years drove construction costs sharply upward, millions of homeowners discovered they were significantly underinsured when they filed claims. The Insurance Information Institute consistently flags this as one of the most common and costly coverage mistakes homeowners make.
 
-Liability coverage is the part most people ignore until they need it. Standard policies typically include $100,000 in liability, but that number evaporates quickly in a serious injury lawsuit. Many advisors recommend at least $300,000, and if you have meaningful assets, a personal umbrella policy deserves a serious look.
+[Liability coverage](/home-insurance-liability-coverage/) is the part most people ignore until they need it. Standard policies typically include $100,000 in liability, but that number evaporates quickly in a serious injury lawsuit. Many advisors recommend at least $300,000, and if you have meaningful assets, a personal umbrella policy deserves a serious look.
 
 What your premium is not paying for: flood damage, earthquake damage, sewer backup, or gradual damage from neglect. These require separate policies or endorsements. If you live anywhere near a floodplain and don't have a flood policy, you're carrying a risk your homeowners policy won't touch.
 

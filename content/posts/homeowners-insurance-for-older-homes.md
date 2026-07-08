@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 You buy a charming 1920s Craftsman bungalow, fall in love with the original hardwood floors and built-in cabinetry, and then your insurance renewal notice arrives with a premium that makes your stomach drop. Or worse: you file a claim after a pipe bursts and discover your policy pays only a fraction of the actual repair cost because of something buried in the fine print called "actual cash value." This is one of the most common and painful surprises I saw during my 14 years reviewing claims, and it hits older home owners especially hard.
 
@@ -50,6 +50,15 @@ The [Insurance Information Institute (III)](https://www.iii.org/) notes that old
 
 ## The Four Systems That Will Define Your Coverage
 
+| System | Common in Homes Built | Primary Risk | Coverage Impact |
+| --- | --- | --- | --- |
+| Knob-and-tube wiring | Before 1950 | Fire hazard | Often excluded or policy refused |
+| Aluminum wiring | Mid-1960s to mid-1970s | Fire hazard | Often excluded or policy refused |
+| Galvanized steel pipes | Pre-1980s | Interior corrosion, water damage | Coverage may be limited or excluded |
+| Polybutylene pipes | 1978-1995 | Pipe failure | Frequently excluded from coverage |
+| Asphalt shingle roof | 20+ years old | Weather damage, leaks | ACV payout only; separate deductible may apply |
+| Oil furnaces / coal boilers | Pre-1980s | Fire, carbon monoxide | Elevated risk; may require upgrade for coverage |
+
 When an underwriter looks at an older home, they're really asking four questions. Get ahead of these before your insurer does.
 
 **Electrical systems.** Knob-and-tube wiring (common in homes built before 1950) and aluminum wiring (common in homes built from the mid-1960s to mid-1970s) are two of the biggest red flags in the industry. Many insurers will refuse to write a policy, or will exclude fire coverage caused by those systems. Fuse boxes, rather than circuit breakers, are another concern. If your home has any of these, expect direct questions on your application and potentially a requirement to upgrade before coverage binds.
@@ -70,13 +79,13 @@ This is the single most important coverage concept for owners of older homes, an
 
 **Actual cash value (ACV)** pays replacement cost minus depreciation. For a 30-year-old roof or a vintage heating system, depreciation can be enormous. The insurer determines both the replacement cost and the depreciation percentage, and you often have limited ability to argue the numbers.
 
-The problem for older home owners is that replacement cost coverage can be expensive and hard to get, for exactly the reason it's valuable: these homes genuinely cost more to repair properly. Some insurers offer a middle option called "extended replacement cost" or "guaranteed replacement cost," which adds a buffer, usually 20 to 50 percent, above your policy's dwelling limit. For an older home with hard-to-source materials, that buffer can be the difference between a full rebuild and a check that leaves you short.
+The problem for older home owners is that replacement cost coverage can be expensive and hard to get, for exactly the reason it's valuable: these homes genuinely cost more to repair properly. Some insurers offer a middle option called "[extended replacement cost](/home-insurance-extended-replacement-cost/)" or "guaranteed replacement cost," which adds a buffer, usually 20 to 50 percent, above your policy's dwelling limit. For an older home with hard-to-source materials, that buffer can be the difference between a full rebuild and a check that leaves you short.
 
 Ask your agent these directly:
 
 1. Is this policy replacement cost or actual cash value for the dwelling?
 2. Is there a separate provision for the roof, and if so, is the roof covered at ACV even if the rest of the home is at replacement cost?
-3. Does this policy include ordinance or law coverage?
+3. Does this policy include [ordinance or law coverage](/home-insurance-ordinance-or-law-coverage/)?
 
 That third question leads directly to the next part.
 

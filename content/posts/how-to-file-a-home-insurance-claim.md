@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 Most homeowners assume filing a claim is the hard part. I'll be honest: after 14 years reviewing claims from the other side of the desk, I can tell you the hard part is everything that happens in the first 48 hours before most people even pick up the phone. The decisions you make in that window, what you say, what you photograph, what you touch, can meaningfully affect whether your claim pays out in full, gets partially denied, or triggers a coverage dispute that drags on for months. I've seen well-documented claims sail through in two weeks. I've also seen legitimate losses turn into six-month fights because the homeowner unknowingly made four small mistakes on day one. This guide is about making sure you're in the first group.
 
@@ -45,7 +45,7 @@ Before you file, understand what you're filing for. Not to talk yourself out of 
 
 Most standard homeowner policies, HO-3 is the most common form, cover your dwelling and personal property against "open perils" (for the structure) and "named perils" (for contents). Plain English: your house is covered against most causes of damage unless specifically excluded, but your stuff inside is only covered against causes explicitly listed. The distinction matters more than most people realize.
 
-The major exclusions: flooding from external sources (rain, storm surge, overflowing rivers) is almost never covered by a standard homeowner policy. You need a separate NFIP or private flood policy. Earthquake damage is also typically excluded. Gradual damage, rot, mold from a slow leak, settling, is almost universally excluded because insurers consider it maintenance, not a sudden loss. Sewer backup is frequently excluded unless you've added a specific rider.
+The major exclusions: flooding from external sources (rain, storm surge, overflowing rivers) is almost never covered by a standard homeowner policy. You need a separate NFIP or private flood policy. Earthquake damage is also typically excluded. Gradual damage, rot, [mold from a slow leak](/does-home-insurance-cover-mold-removal/), settling, is almost universally excluded because insurers consider it maintenance, not a sudden loss. Sewer backup is frequently excluded unless you've added a specific rider.
 
 Replacement cost value versus actual cash value hits people hard when they least expect it. ACV means your insurer pays what the damaged item is worth today, with depreciation factored in. RCV means they pay what it would cost to replace it new. If your policy pays ACV on personal property and your 8-year-old TV gets destroyed, you might receive $80 for something that costs $600 to replace. Check your declarations page for which applies.
 

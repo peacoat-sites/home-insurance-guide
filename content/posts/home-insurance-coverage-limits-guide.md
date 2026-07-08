@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 Your house burns down. The foundation survives. Everything else is ash. You call your insurer expecting relief, and they hit you with the number: your dwelling coverage limit is $280,000, but rebuilding costs in your area have jumped to $420,000 since you last touched your policy. You're out $140,000. Nothing closes that gap automatically.
 
@@ -33,7 +33,7 @@ This happens constantly. Insurance companies don't make a big deal about it. But
  <div class="vm-head">Coverage Limit Adequacy Checklist</div>
  <div class="vm-body">
  <p class="vm-intro">Use these thresholds to identify gaps before a claim forces the discovery.</p>
- <table><thead><tr><th>Coverage</th><th>Adequacy Test</th><th>Red Flag Threshold</th><th>Action If Flagged</th></tr></thead><tbody><tr><td>A: Dwelling</td><td>Compare limit to local per-sq-ft rebuild cost × your square footage</td><td>Limit is &lt;90% of calculated rebuild cost</td><td>Request insurer's replacement cost estimator or hire independent appraiser</td></tr><tr><td>B: Other Structures</td><td>Sum replacement cost of detached garage, shed, fence, pool house, etc.</td><td>Total exceeds 10% of Coverage A</td><td>Endorse policy to raise Coverage B separately</td></tr><tr><td>C: Personal Property</td><td>Run a room-by-room inventory (apps like Sortly or Encircle help)</td><td>Inventory total exceeds 50–70% of Coverage A</td><td>Increase limit or add scheduled items for high-value goods</td></tr><tr><td>C Sub-limits</td><td>Check policy declarations for jewelry, electronics, firearms, collectibles</td><td>Any single category sub-limit &lt; value of your items in that category</td><td>Add a scheduled personal property endorsement (floater)</td></tr><tr><td>D: Loss of Use</td><td>Estimate 12–18 months of rent + meals + storage in your ZIP code</td><td>Estimate exceeds 20–30% of Coverage A</td><td>Ask insurer about extended loss-of-use endorsement</td></tr><tr><td>E: Liability</td><td>Tally net worth + future earnings exposure</td><td>Assets exceed $300K and liability limit is only $100K</td><td>Raise to $300K–$500K or add umbrella policy</td></tr><tr><td>Policy Inflation Guard</td><td>Confirm whether policy auto-adjusts Coverage A annually</td><td>No inflation guard or adjustment &lt;3% in high-growth markets</td><td>Add endorsement or manually review limits each renewal</td></tr></tbody></table>
+ <table><thead><tr><th>Coverage</th><th>Adequacy Test</th><th>Red Flag Threshold</th><th>Action If Flagged</th></tr></thead><tbody><tr><td>A: Dwelling</td><td>Compare limit to local per-sq-ft rebuild cost × your square footage</td><td>Limit is &lt;90% of calculated rebuild cost</td><td>Request insurer's replacement cost estimator or hire independent appraiser</td></tr><tr><td>B: Other Structures</td><td>Sum replacement cost of detached garage, shed, fence, pool house, etc.</td><td>Total exceeds 10% of Coverage A</td><td>Endorse policy to raise Coverage B separately</td></tr><tr><td>C: [Personal Property](/homeowners-insurance-personal-property-coverage/)</td><td>Run a room-by-room inventory (apps like Sortly or Encircle help)</td><td>Inventory total exceeds 50–70% of Coverage A</td><td>Increase limit or add scheduled items for high-value goods</td></tr><tr><td>C Sub-limits</td><td>Check policy declarations for jewelry, electronics, firearms, collectibles</td><td>Any single category sub-limit &lt; value of your items in that category</td><td>Add a scheduled personal property endorsement (floater)</td></tr><tr><td>D: Loss of Use</td><td>Estimate 12–18 months of rent + meals + storage in your ZIP code</td><td>Estimate exceeds 20–30% of Coverage A</td><td>Ask insurer about extended loss-of-use endorsement</td></tr><tr><td>E: Liability</td><td>Tally net worth + future earnings exposure</td><td>Assets exceed $300K and liability limit is only $100K</td><td>Raise to $300K–$500K or add umbrella policy</td></tr><tr><td>Policy Inflation Guard</td><td>Confirm whether policy auto-adjusts Coverage A annually</td><td>No inflation guard or adjustment &lt;3% in high-growth markets</td><td>Add endorsement or manually review limits each renewal</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -51,11 +51,11 @@ This happens constantly. Insurance companies don't make a big deal about it. But
 
 A coverage limit is the maximum dollar amount your insurer will pay for a covered loss. Simple enough. Except it isn't.
 
-Your standard homeowner policy, what the industry calls an HO-3, bundles several coverages into one document. Each has its own separate limit. They don't combine. If dwelling coverage maxes out, personal property coverage doesn't fill the hole. You do.
+Your standard homeowner policy, what the industry calls an [HO-3, bundles several coverages](/ho-3-policy-explained/) into one document. Each has its own separate limit. They don't combine. If dwelling coverage maxes out, personal property coverage doesn't fill the hole. You do.
 
 Here's what you're actually buying:
 
-**Coverage A: Dwelling.** The structure itself, attached garages, built-in appliances. This is your largest number and your largest risk if it's wrong.
+**[Coverage A: Dwelling](/home-insurance-dwelling-coverage/).** The structure itself, attached garages, built-in appliances. This is your largest number and your largest risk if it's wrong.
 
 **Coverage B: Other Structures.** Detached garages, fences, sheds, pool houses. Automatically set to 10% of Coverage A. If your dwelling is $300,000, you get $30,000 for everything else. A large workshop or guest house can blow through that fast.
 

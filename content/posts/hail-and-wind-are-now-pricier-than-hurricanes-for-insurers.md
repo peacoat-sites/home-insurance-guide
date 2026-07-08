@@ -12,10 +12,23 @@ author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 slug: "hail-and-wind-are-now-pricier-than-hurricanes-for-insurers"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you live in the Midwest or Great Plains and your homeowner's renewal notice arrived with a number that made you blink, here's why: hail and wind just officially dethroned hurricanes as the most expensive insured peril in American history. Not theoretically. Not trending that way. Done. Three separate reports from Aon, the Insurance Information Institute, and Cotality confirmed it in early 2026, and the math isn't close. Severe convective storms (SCS) cost U.S. insurers $51 billion in 2025 alone, the third straight year above that threshold. Peak storm season is underway right now. Your insurer already knows this. You should too.
 
 ## The Numbers That Reshuffled the Risk Map
+
+| Metric | Figure | Source/Date |
+|--------|--------|-------------|
+| U.S. insured SCS losses (2025) | $51 billion | Triple-I, April 14, 2026 |
+| Global insured SCS losses (2025) | $127 billion | Aon 2026 Climate and Catastrophe Insight Report |
+| Percentage above long-term average | 27% | Aon 2026 Report |
+| Hail claims as % of SCS claims | Up to 80% | Triple-I April 2026 Issues Brief |
+| Roofs absorbing residential catastrophic losses | 70-90% | Triple-I April 2026 Issues Brief |
+| Replacement cost value in Chicago metro hail zone | $1 trillion | Cotality 2026 Severe Convective Storm Risk Report |
+| U.S. properties facing moderate or greater hail risk | 43.5 million | Cotality 2026 Report |
+| Reinsurance rate drop (June 1, 2026 renewal) | 15-25% | Insurance Business Magazine |
+| Wind and hail deductible range (% of dwelling) | 1-2% | Article text |
 
 The $51 billion figure from Triple-I's April 14, 2026 press release is striking enough on its own. But zoom out and it gets worse. Aon's 2026 Climate and Catastrophe Insight report put global insured SCS losses at $127 billion in 2025, running 27% above the long-term average. The kicker: 2025 was classified as a *below-average* hazard year. These aren't catastrophic outlier losses anymore. They're the floor.
 
@@ -37,7 +50,7 @@ Here's the market dynamic that should make Midwest homeowners legitimately frust
 
 Hail and wind states are not. The reinsurance repricing that benefits coastal carriers doesn't translate cleanly to SCS-exposed books of business. Severe convective storms are geographically diffuse, strike with little warning, and generate high-frequency moderate losses rather than infrequent catastrophic ones. That loss profile is harder to hedge and more expensive to carry. Insurers writing heavy Midwest and Plains exposure are still absorbing three consecutive years of $50-billion-plus losses with no obvious trend reversal in sight. Policyholders in those markets are paying for that math.
 
-Some carriers have responded by tightening eligibility, not just raising rates. Older roofs, properties with prior hail claims, and homes in higher-density suburban zones are getting non-renewed or quoted with narrower coverage terms. If your renewal arrived with a new cosmetic damage exclusion or a separate wind and hail deductible, that's not random. It's underwriting responding to loss data.
+Some carriers have responded by tightening eligibility, not just raising rates. Older roofs, properties with prior hail claims, and homes in higher-density suburban zones are getting non-renewed or quoted with narrower coverage terms. If your renewal arrived with a new cosmetic damage exclusion or a [separate wind and hail deductible](/hail-season-is-here-why-your-deductibles-just-changed/), that's not random. It's underwriting responding to loss data.
 
 ## El Niño Doesn't Mean What You Think This Season
 

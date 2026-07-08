@@ -23,6 +23,7 @@ faqs:
    a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
  - q: "How do I know if my home business equipment is covered?"
    a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
+lastmod: 2026-07-07
 ---
 
 Most policyholders have no idea sublimits exist until they're sitting across a desk from someone like me, staring at a claim denial that makes no sense to them. That moment, I saw it hundreds of times in fourteen years. Someone loses a collection of jewelry in a break-in, files a claim under their $300,000 homeowners policy, and walks away with $1,500. Technically, the policy paid. Practically, they were blindsided.
@@ -31,7 +32,7 @@ So if you're reading this because something happened, or because you're finally 
 
 ## What Sublimits Actually Are (And Why Insurers Don't Highlight Them)
 
-Your homeowners policy has a total personal property coverage limit, the number you probably know. Let's say it's $150,000. You might reasonably assume that means any single item or category of items is covered up to $150,000. That assumption is wrong, and it's one of the most expensive misunderstandings in personal finance.
+Your homeowners policy has a total [personal property coverage](/homeowners-insurance-personal-property-coverage/) limit, the number you probably know. Let's say it's $150,000. You might reasonably assume that means any single item or category of items is covered up to $150,000. That assumption is wrong, and it's one of the most expensive misunderstandings in personal finance.
 
 A sublimit is a cap within your overall coverage. It applies to specific categories of property, regardless of what your total policy limit says. These aren't buried in the fine print exactly, but they're not featured in the brochure either. They live in a section of your policy typically labeled "Special Limits of Liability," and most people never read it until after a loss.
 
@@ -39,9 +40,17 @@ Here's what I tell people when they first hear this: think of your total policy 
 
 The [Insurance Information Institute](https://www.iii.org/) lays out the standard categories that most policies cap separately, and the list is longer than people expect. Jewelry and watches. Firearms. Silverware and goldware. Business property kept at home. Cash and bank notes. Securities. Watercraft. And increasingly, electronics have their own sublimit in some policies.
 
-Standard sublimit amounts vary by insurer, but based on my years reviewing policies, a typical HO-3 policy will cap jewelry theft coverage somewhere between $1,000 and $2,500. Cash is often capped at $200. Securities at $1,500. These numbers haven't moved meaningfully in years, even as the value of what people own has climbed considerably.
+Standard sublimit amounts vary by insurer, but based on my years reviewing policies, a typical [HO-3 policy](/ho-3-policy-explained/) will cap jewelry theft coverage somewhere between $1,000 and $2,500. Cash is often capped at $200. Securities at $1,500. These numbers haven't moved meaningfully in years, even as the value of what people own has climbed considerably.
 
 ## The Categories That Bite People Most Often
+
+| Category | Typical Sublimit | Example Item Value | Coverage Gap |
+| --- | --- | --- | --- |
+| Jewelry (theft) | $1,500-$2,500 | $8,000-$20,000 engagement ring | $5,500-$18,500 |
+| Cash & bank notes | $200 | $400 cash | $200 |
+| Firearms (theft) | $2,500 | $3,200 shotgun collection | $700 |
+| Business property | $2,500 | $10,000 home office equipment | $7,500 |
+| Securities | $1,500 | Varies | Varies |
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -63,7 +72,7 @@ Claim filed. Adjuster applies sublimits. Jewelry covered up to $2,500. Cash cove
 
 ## How to Actually Fix This
 
-Scheduling, also called a "scheduled personal property endorsement" or a "floater," is the answer for high-value items. You get each item appraised, submit that to your insurer, and pay an additional premium to have it covered at full appraised value, often with no deductible and broader coverage (including mysterious disappearance, which standard policies don't cover).
+Scheduling, also called a "[scheduled personal property endorsement](/home-insurance-endorsements-explained/)" or a "floater," is the answer for high-value items. You get each item appraised, submit that to your insurer, and pay an additional premium to have it covered at full appraised value, often with no deductible and broader coverage (including mysterious disappearance, which standard policies don't cover).
 
 I'll be honest: I assumed for years that scheduling jewelry was automatically expensive. When I finally ran the numbers on my own policy after switching to advocacy work, I was covering a ring worth about $7,000 under a standard policy with a $2,500 jewelry sublimit. Adding it as a scheduled item cost me an additional $9 per month. That's $108 a year to fully cover something worth $7,000. That math is almost always worth doing.
 

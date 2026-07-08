@@ -23,13 +23,19 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 Your house burns down. The fire department clears the scene, your adjuster walks the lot, and you're ready to rebuild. Then the city steps in. Your home was built in 1978, and current building codes require upgraded electrical panels, additional fire blocking in the walls, and a sprinkler system the original structure never had. The cost to bring the new build up to code adds $40,000 to your reconstruction bill. Your standard homeowner's policy covers what was there before. Not what the law now requires. That $40,000 is yours to absorb, unless you have ordinance or law coverage.
 
 This is one of the most consequential gaps in residential insurance. Most homeowners have no idea it exists until they're staring at a contractor's estimate that doesn't match their settlement check.
 
 ## What Ordinance or Law Coverage Actually Does
+
+| Coverage Component | What It Covers | Triggers |
+| --- | --- | --- |
+| Coverage A: Undamaged Portion Loss | Loss of value from structures forced to demolish due to >50% damage rule | Demolition ordinances in jurisdiction |
+| Coverage B: Demolition Costs | Actual cost to tear down undamaged portions | Same as Coverage A |
+| Coverage C: Increased Cost of Construction | Difference between old-code and current-code rebuild costs (wiring, HVAC, energy efficiency, ADA features, foundation work) | Current building code requirements at time of loss |
 
 Standard homeowner's policies are built around one idea: restore the property to its pre-loss condition. That sounds fair until you realize "pre-loss condition" means pre-loss code compliance too. If your home was legally built in 1965, your insurer's obligation is to rebuild a 1965-code house. The fact that your municipality won't permit that anymore is, in the standard policy's view, not their problem.
 

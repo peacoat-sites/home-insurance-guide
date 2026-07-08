@@ -23,11 +23,21 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
-Most homeowners think switching insurance is way more complicated than it actually is. I've talked to people who've been with the same insurer for a decade, quietly overpaying by 30-40%, simply because they didn't know the whole process takes less than a week and costs nothing. Here's the thing: switching home insurance is one of the easiest financial moves you can make. You don't have to wait for renewal. You don't have to fight anyone. You just need to know what to do in the right order.
+Most homeowners think [switching insurance](/home-insurance-shopping-mistakes-to-avoid/) is way more complicated than it actually is. I've talked to people who've been with the same insurer for a decade, quietly overpaying by 30-40%, simply because they didn't know the whole process takes less than a week and costs nothing. Here's the thing: switching home insurance is one of the easiest financial moves you can make. You don't have to wait for renewal. You don't have to fight anyone. You just need to know what to do in the right order.
 
 ## When Switching Actually Makes Sense
+
+| Coverage Gap | Homeowner Belief | Actual Coverage | Source |
+| --- | --- | --- | --- |
+| Flood damage | 72% believe it's covered | Not covered in standard HO-3 | Insurance Information Institute (2024) |
+| Earthquake damage | 72% believe it's covered | Requires separate endorsement | Insurance Information Institute (2024) |
+| Flood insurance adoption | - | Only 15% of homeowners carry it | National Association of Insurance Commissioners |
+| Population in flood zones | - | 20% of U.S. homeowners | National Association of Insurance Commissioners |
+| Earthquake coverage adoption | - | Only 4% of those in risk zones | U.S. Geological Survey |
+| Population in earthquake zones | - | 143 million Americans | U.S. Geological Survey |
+| Awareness of coverage gaps | 73% unaware of need for riders | Separate policies required | Article analysis |
 
 **Most people think homeowners insurance covers all disasters. But the data shows it doesn't.**
 
@@ -43,7 +53,7 @@ The most obvious trigger is price. If your premium jumped significantly at renew
 
 The less obvious triggers matter more, honestly. A rate increase you can't explain is annoying. But inadequate coverage is dangerous. In my experience reviewing claims, the gap between what policyholders thought they had and what their policy actually paid was most painful after a major loss. If your dwelling coverage hasn't kept pace with local construction costs, or if your policy still carries actual cash value on your roof instead of replacement cost, you may be technically insured but practically underinsured. Before you compare prices, spend a few minutes with your current declarations page and cross-reference it against a [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) to understand where you stand.
 
-Other legitimate reasons to switch exist. Your insurer's claims handling reputation declined. You've added a major structure or renovation that changed your risk profile and your current carrier isn't repricing fairly. A life event (marriage, a home-based business, adding a pool) has changed what you actually need.
+Other legitimate reasons to switch exist. Your insurer's [claims handling reputation](/homeowners-insurance-binder/) declined. You've added a major structure or renovation that changed your risk profile and your current carrier isn't repricing fairly. A life event (marriage, a home-based business, adding a pool) has changed what you actually need.
 
 Switching for a $40 annual savings? Not worth the hassle. Switching for $300 or more a year, or to get meaningfully better coverage? Almost always worth it.
 

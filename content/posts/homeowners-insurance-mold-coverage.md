@@ -23,15 +23,15 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
-You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and water damage is covered, so it all works out. I spent 14 years reviewing claims that started exactly that way, and I'll be honest: that assumption gets people into serious financial trouble more often than almost any other coverage gap I've seen.
+You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and [water damage is covered](/home-insurance-water-damage-coverage/), so it all works out. I spent 14 years reviewing claims that started exactly that way, and I'll be honest: that assumption gets people into serious financial trouble more often than almost any other coverage gap I've seen.
 
 ## Why Mold Coverage Is Almost Never What You Think
 
 Here's the thing that trips people up. Standard homeowners insurance policies don't categorize mold as its own peril. Instead, mold coverage depends entirely on *what caused the mold*. The policy covers it only if it's a direct result of a covered event. And that's where everything gets complicated.
 
-A pipe bursts. Water floods your basement. You call a restoration company within 48 hours. The mold starting to grow in that damp drywall? Likely covered, because it's a direct consequence of a sudden, accidental covered loss. Now change one detail: that pipe had a slow drip for six months that you didn't notice. Same mold, same wall, completely different outcome. The insurer's position will almost certainly be that you had a maintenance issue, and maintenance issues are explicitly excluded from virtually every standard homeowners policy on the market.
+A pipe bursts. Water floods your basement. You call a restoration company within 48 hours. The mold starting to grow in that damp drywall? Likely covered, because it's a direct consequence of a sudden, accidental covered loss. Now change one detail: that pipe had a [slow drip for six months](/home-insurance-frozen-pipes/) that you didn't notice. Same mold, same wall, completely different outcome. The insurer's position will almost certainly be that you had a maintenance issue, and maintenance issues are explicitly excluded from virtually every standard homeowners policy on the market.
 
 What struck me when I started looking at this more closely was how much of the language is designed to feel reassuring while actually being quite narrow. The phrase "sudden and accidental" is doing a lot of heavy lifting in most policies, and most homeowners don't realize how strictly adjusters interpret it.
 

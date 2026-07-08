@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 You wake up at 2 a.m. to a sound like a cannon going off. A massive oak from your neighbor's yard has just crashed through your roof, and now rain is pouring into your living room while your family stands in the hallway in their pajamas. You grab your phone to call your insurance company, then pause: wait, whose insurance covers this? Yours? Theirs? Does it matter who owns the tree? 
 
@@ -42,6 +42,16 @@ There is one narrow exception. If your neighbor's tree was clearly dead, visibly
 The practical takeaway: if a tree falls and hits your house, call your own insurer first. Don't wait to sort out tree ownership.
 
 ## What Your Policy Actually Covers (and What It Doesn't)
+
+| Coverage Type | Typically Covered | Typical Limits/Exclusions |
+| --- | --- | --- |
+| Structural damage to home | Yes | Roof, walls, windows, attached structures |
+| Damage to other structures | Yes | Up to 10% of dwelling coverage (standard) |
+| Tree removal after damage | Yes | $500-$1,000 per tree; combined caps common |
+| Additional living expenses | Yes | Up to policy ALE limits |
+| Healthy tree falls without storm | No | Common exclusion; can be contested |
+| Tree removal as prevention | No | Before-storm removal not covered |
+| Damage from gradual deterioration | No | e.g., tree slowly growing into foundation |
 
 Standard homeowner's insurance, the HO-3 policy that most people carry, covers tree damage caused by what insurers call "covered perils." Wind, lightning, hail, the weight of ice or snow, and a car hitting the tree are all typically covered perils. Storm sends a tree through your roof? Your dwelling coverage kicks in to repair the structure.
 
@@ -77,7 +87,7 @@ I'm not telling you not to file. I'm telling you to do the math first. Know your
 
 ## After a Tree Falls: What to Do in the Right Order
 
-Handling this well in the first 48 hours makes a real difference in how your claim goes.
+Handling this well in the first 48 hours makes a real difference in [how your claim goes](/homeowners-insurance-claim-process/).
 
 **Step 1: Safety first, documentation second.**
 Don't go near the tree until you know there are no downed power lines, gas leaks, or structural collapse risks. If the tree hit your roof, treat the interior as potentially unsafe.

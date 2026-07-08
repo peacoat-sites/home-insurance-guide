@@ -7,7 +7,7 @@ author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-07-07
 faqs:
  - question: "Why does Florida cost so much more than other states?"
    answer: "Florida averages $10,240/year vs. national average $2,490. Drivers: hurricane risk (catastrophic claims), high litigation rates (fraud pressures), carrier flight (reduced competition), and roof-age scrutiny (32 billion in roof claims in 2024 alone)."
@@ -51,7 +51,7 @@ That $32 billion in roof claims in 2024? Most of it came from 5-6 severe storms 
 
 California, Florida, and Louisiana experienced major carrier exits in 2024-2026. State Farm stopped accepting new homeowners business in Florida. Allstate followed. This shrinks competition, which means remaining insurers have zero pressure to lower rates.
 
-In Florida, customers are often forced into "insurer of last resort" state pools, high-cost alternatives when major carriers won't touch them. These pools average 30-50% more expensive than standard market rates.
+In Florida, customers are often forced into "insurer of last resort" [state pools, high-cost alternatives](/fair-plan-insurance-explained/) when major carriers won't touch them. These pools average 30-50% more expensive than standard market rates.
 
 ### Litigation Environment
 
@@ -75,6 +75,13 @@ This is one of the biggest controllable factors. If credit improvements are feas
 Note: California, Maryland, and Massachusetts prohibit credit-based pricing, so check your state before assuming this applies.
 
 ### Roof Age: The Dominant Factor in 2026
+
+| Roof Age | Annual Premium | Coverage Type | Notes |
+| --- | --- | --- | --- |
+| Under 15 years | $2,200 | Full replacement cost | Standard rates |
+| 15-20 years | $2,800 | ACV (may shift) | Inspection required |
+| 20-25 years | $3,800 | Limited ACV | Replacement cost denied |
+| 25+ years | $4,500+ | Limited/Non-renewable | High risk; likely denial |
 
 Roof age is now #1. Period. No other factor matters more in 2026 underwriting.
 

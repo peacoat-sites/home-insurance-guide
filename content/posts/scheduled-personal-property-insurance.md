@@ -23,6 +23,7 @@ faqs:
     a: "Possibly. Floater claims and homeowners claims are often reported to the same CLUE (Comprehensive Loss Underwriting Exchange) database, and some insurers count floater claims in your loss history when calculating your base homeowners premium at renewal. It varies by company, so it's worth asking before you file small claims."
   - q: "How often should I update my scheduled items list?"
     a: "Every two years at minimum, and immediately after any significant purchase, gift, or inheritance of a valuable item. Jewelry and fine art markets shift, and an outdated appraisal can leave you underinsured even if you're technically 'scheduled.'"
+lastmod: 2026-07-07
 ---
 
 Most people find out they needed scheduled personal property coverage the same way they find out about every insurance gap: after it's too late.
@@ -43,11 +44,19 @@ What surprised me was how cheap this coverage often is relative to the value it 
 
 ## What Gets Scheduled (and What People Forget)
 
+| Item Category | Typical Policy Sublimit | Scheduling Cost (Annual) | Example Loss Scenario |
+| --- | --- | --- | --- |
+| Jewelry | $1,500-$3,000 | $100-$200 per $10,000 value | $14,000 ring covered only to $1,500-$3,000 |
+| Electronics | $2,500 | Included in base policy | $8,400 camera paid $1,500 after deductible |
+| Musical Instruments | Varies; often no accidental breakage | $50-$150 per $5,000-$10,000 value | $5,000-$100,000+ violin with no accidental damage coverage |
+| Fine Art | Varies | Included in base policy | Antique ceramics collection undervalued without appraisal |
+| Firearms | Varies by state | Included in base policy | Not specified in article |
+
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
-Jewelry is the obvious one. But in my 14 years of claims experience, here are the items people consistently forgot to schedule until they were filing a claim: fine art, antique furniture, vintage wine collections, musical instruments (especially bowed instruments, which are fragile and expensive), camera equipment, coin and stamp collections, and high-end sports equipment like custom bicycles or golf clubs.
+[Jewelry is the obvious one](/home-insurance-jewelry-coverage/). But in my 14 years of claims experience, here are the items people consistently forgot to schedule until they were filing a claim: fine art, antique furniture, vintage wine collections, musical instruments (especially bowed instruments, which are fragile and expensive), camera equipment, coin and stamp collections, and high-end sports equipment like custom bicycles or golf clubs.
 
 A reader reached out to me last spring asking why her insurer denied her claim for a stolen Leica M11 camera body (retail around $8,400). Her homeowners policy had a $2,500 electronics sublimit. She had no floater. The claim paid $2,500 minus her $1,000 deductible. She got $1,500 on a camera worth nearly $9,000.
 

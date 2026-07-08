@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Most first-time buyers don't realize their mortgage won't close without proof of homeowners insurance already in place. Not pending. Not "I have an agent looking into it." Bound and paid. That requirement catches people off guard three days before closing, and the scramble that follows almost always costs them money.
 
@@ -56,6 +56,17 @@ Here's the sequence:
 The mortgagee clause deserves a moment of attention. It's the language that names your lender as a loss payee, meaning if the house burns down, the insurance check goes to them first, toward the loan balance, before it goes to you. Banks are particular about how this reads. A typo or outdated lender name can flag the policy during closing review. Get the exact wording from your lender, then verify what's on the declarations page matches it character for character.
 
 ## What Gets Buried in a Closing-Week Policy
+
+| Coverage Type | Included in Standard HO-3 | Typical Cost | Notes |
+| --- | --- | --- | --- |
+| Dwelling coverage | Yes | Varies | Must equal at least loan amount |
+| Personal property | Yes | Included | Often underestimated at closing |
+| Liability protection | Yes | Included | Lender does not require verification |
+| Replacement cost endorsement | Optional | Varies | Compare vs. actual cash value |
+| Sewer and water backup | No | $50-150/year | Add-on rider; common claim type |
+| Service line coverage | No | Varies | Water/sewer lines are homeowner responsibility |
+| Flood insurance | No | Varies | Required in FEMA zones; separate policy |
+| Earthquake insurance | No | Varies | Separate policy; not included in standard |
 
 When you're buying insurance under deadline pressure, you're comparing prices. That's understandable. But the differences between a $1,100 policy and a $1,600 policy are rarely random.
 

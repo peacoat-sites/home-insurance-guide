@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Your kitchen burns. Cabinets, appliances, flooring, gone. You'd paid $18,000 for all of it seven years ago. The adjuster's check arrives: $6,400. You're stunned. Everything worked fine until the fire. But your policy said "actual cash value," and depreciation just took the other $11,600. I watched this happen to policyholders during my 14 years adjusting claims. The look on their faces never changed, pure shock followed by justified anger, because nobody explained this choice when they bought the policy.
 
@@ -37,7 +37,7 @@ Replacement cost means exactly that. Your destroyed item gets replaced with a ne
 
 Actual cash value is replacement cost minus depreciation. Insurers calculate this based on age, condition, and useful lifespan. A roof with a 20-year lifespan that's already 10 years old might lose 50 percent of its value. A seven-year-old refrigerator might lose 60 or 70 percent, depending on the insurer's schedule. The payout rarely covers what you actually need to rebuild.
 
-There's also extended replacement cost (or guaranteed replacement cost). Some policies pay 20 to 50 percent above your coverage limit if construction costs have jumped since you set that limit. Worth knowing about if you're in an area where building costs swing wildly.
+There's also [extended replacement cost](/home-insurance-extended-replacement-cost/) (or guaranteed replacement cost). Some policies pay 20 to 50 percent above your coverage limit if construction costs have jumped since you set that limit. Worth knowing about if you're in an area where building costs swing wildly.
 
 ## How Depreciation Is Calculated (And Why It's Not Always Obvious)
 
@@ -62,6 +62,14 @@ Personal property is where ACV bites most. Many standard policies cover furnitur
 For details on what's typically covered and how personal property works, check out the [homeowners insurance personal property coverage](/homeowners-insurance-personal-property-coverage/) article on this site.
 
 ## The Real-World Dollar Impact: A Side-by-Side Comparison
+
+| Item | Original Cost | Age | RCV Payout | ACV Payout |
+|---|---|---|---|---|
+| Kitchen appliances | $4,500 | 8 years | $5,200 (new) | $1,560 |
+| Hardwood flooring (600 sq ft) | $7,200 | 12 years | $8,400 (new) | $2,520 |
+| Living room furniture | $6,000 | 6 years | $6,800 (new) | $2,720 |
+| Laptop and electronics | $2,400 | 4 years | $2,600 (new) | $1,300 |
+| **Total** | **$20,100** | | **$23,000** | **$8,100** |
 
 Numbers tell the story better than theory.
 

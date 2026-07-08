@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and I'd do it before you have quotes in hand. Some insurers will offer a retention discount or match a competitor's rate if they think they're about to lose you. That conversation costs nothing. Whether what they offer is actually good enough is a separate question."
  - q: "How many years do I need to stay for the loyalty discount to kick in?"
    a: "It varies by insurer, but three years is a common threshold for the first tier of loyalty pricing. Some companies have multi-tier structures where discounts increase at five or ten years. The actual discount percentage and when it applies should be explicitly listed in your policy documents or available from your agent."
+lastmod: 2026-07-07
 ---
 
 Most homeowners assume that staying with the same insurer is rewarded. The company knows you, you've never filed a claim, you've paid on time for years. Surely that loyalty counts for something. I believed that too, for most of my career on the claims side. What I found when I started pulling actual policy data and talking to consumers as an advocate was considerably more uncomfortable.
@@ -54,6 +55,14 @@ What surprised me, once I started tracking this for clients, was how many homeow
 One homeowner I worked with had been with her insurer for eleven years. She had a 10% loyalty discount prominently listed on her declarations page. She was also paying $2,340 per year for coverage on a home where three competing insurers quoted her between $1,580 and $1,720 for comparable coverage. The loyalty discount was real. It was also beside the point.
 
 ## When Loyalty Discounts Actually Make Sense
+
+| Scenario | Loyalty Discount Value | When to Consider Staying |
+| --- | --- | --- |
+| No recent claims | Low to none | Only if total premium is competitive after shopping |
+| One or more recent claims | Potentially high | Current insurer pricing may be best available; new insurer will use CLUE report |
+| Auto-home bundle | Moderate to high | Worth examining if auto rates are also competitive |
+| State with aggressive rate regulation | Moderate | Long-term customers may see better pricing stability |
+| State with limited rate regulation | Low | Insurers may apply steady premium increases despite loyalty discount |
 
 I want to be fair here. The picture isn't uniformly bleak. Loyalty discounts do provide real value in specific situations.
 

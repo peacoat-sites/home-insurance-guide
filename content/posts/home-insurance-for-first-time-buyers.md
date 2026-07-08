@@ -23,11 +23,21 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 You're sitting at the closing table, pen in hand, when the title company asks for proof of homeowner's insurance. You thought you had more time. You grab the first policy you found online, pay for it, and move on. Six months later, a pipe bursts in your wall, causes $40,000 in damage, and your adjuster tells you that your policy's water damage sub-limit is $10,000. Nobody told you that was buried in the fine print. I've watched this exact scenario play out dozens of times. The real problem isn't that first-time buyers are careless. It's that the insurance industry actively obscures what you're actually buying.
 
 ## What Home Insurance Actually Covers (And What It Doesn't)
+
+| Coverage Type | Typical Limit | Key Consideration |
+| --- | --- | --- |
+| Dwelling Coverage (A) | Replacement cost of structure | Should be updated annually for construction cost increases |
+| Other Structures (B) | 10% of dwelling coverage (default) | May be insufficient for large detached garages or workshops |
+| Personal Property (C) | Varies; often actual cash value | Replacement cost option available at higher premium |
+| Loss of Use (D) | $20,000 (example) | Can be inadequate in high-cost rental markets |
+| Liability (E) | $100,000-$300,000+ | $300,000 minimum recommended; umbrella policy suggested for significant assets |
+| Medical Payments (F) | $1,000-$5,000 | Covers minor guest injuries regardless of fault |
+| High-Value Items Sub-Limit | Varies (e.g., $1,500 for jewelry) | Scheduled personal property endorsement required for full coverage |
 
 Most people assume homeowner's insurance catches everything. It doesn't. You're buying a series of named coverages, each with its own conditions, limits, and exclusions. Understanding the structure before you buy matters more than anything else you'll do with this policy.
 
@@ -51,7 +61,7 @@ This is where things get real. Standard HO-3 policies have named exclusions, and
 
 **Flood:** Not covered. Full stop. Homeowner's insurance does not cover flood damage from rising water, storm surge, or overland flooding, regardless of your insurer. Your lender will require a separate flood policy if you're in a FEMA-designated flood zone. If you're not in a mapped flood zone, many buyers skip it. Don't. Research your property's flood history and consider the National Flood Insurance Program or a private flood policy anyway. Roughly 20% of flood claims come from properties outside high-risk zones.
 
-**Earthquake:** Also excluded from standard policies. If you're in a seismically active region, buy a separate earthquake endorsement or standalone policy.
+**Earthquake:** Also excluded from standard policies. If you're in a seismically active region, [buy a separate earthquake endorsement](/how-to-lower-homeowners-insurance-cost/) or standalone policy.
 
 **Sewer Backup:** Sewage backing up through your drains is typically excluded unless you buy a specific endorsement. These endorsements cost $40 to $80 per year. Damage from a sewer backup can easily run into the tens of thousands.
 

@@ -23,6 +23,7 @@ faqs:
     a: "There's no universal answer, but water backup coverage and personal property replacement cost coverage are the two I'd push almost every homeowner toward reviewing seriously. After that, it depends on your property, assets, and risk profile."
   - q: "Will adding endorsements trigger a policy review or make me harder to insure?"
     a: "Adding endorsements doesn't typically trigger underwriting scrutiny by itself. Scheduling high-value items might prompt an appraisal requirement, but that's routine, not a red flag. If you're worried about this, ask your agent directly before making changes."
+lastmod: 2026-07-07
 ---
 
 Most homeowners file fewer than one claim per decade. That means for years at a stretch, your policy is just a document sitting in a drawer. You're probably not thinking about it until something goes wrong. And that's exactly when you discover that the standard policy you bought didn't actually cover the thing that just happened.
@@ -33,7 +34,7 @@ That's what this article is about. Not the fluffy version you get from a policy 
 
 ## What an Endorsement Actually Is (and Isn't)
 
-Your base homeowner policy, almost always an HO-3 form or its rough equivalents, covers a fairly specific set of perils for your dwelling and provides broader "open peril" coverage for personal property. It's a framework. Endorsements, sometimes called riders or floaters depending on the insurer, are additions to that framework. They modify, expand, or occasionally restrict your base coverage.
+Your base homeowner policy, almost always an [HO-3 form](/ho-3-policy-explained/) or its rough equivalents, covers a fairly specific set of perils for your dwelling and provides broader "open peril" coverage for personal property. It's a framework. Endorsements, sometimes called riders or floaters depending on the insurer, are additions to that framework. They modify, expand, or occasionally restrict your base coverage.
 
 Here's what I tell people who are confused about the terminology: an endorsement isn't a separate policy. It attaches to your existing policy, shares the same policy number, and renews when your policy renews. Some endorsements add a flat coverage amount. Some reduce your deductible for a specific type of loss. Some change the way losses are valued. They're surgical adjustments to a document that was written to cover the average household, not yours.
 
@@ -45,7 +46,7 @@ The Insurance Information Institute ([III](https://www.iii.org/)) breaks down en
 
 
 
-You'll hear a lot about scheduled personal property endorsements, and they genuinely deserve the attention. Your base policy covers personal property, but usually with sub-limits on categories like jewelry (often $1,500 or $2,500), firearms (often $2,500), and electronics. If you own a $7,000 engagement ring and it falls down a drain while you're washing dishes, you're going to collect maybe $1,500 and fight for the rest. A scheduled endorsement lists the item specifically, usually after an appraisal, and covers it for that appraised value.
+You'll hear a lot about scheduled [personal property](/homeowners-insurance-personal-property-coverage/) endorsements, and they genuinely deserve the attention. Your base policy covers personal property, but usually with sub-limits on categories like jewelry (often $1,500 or $2,500), firearms (often $2,500), and electronics. If you own a $7,000 engagement ring and it falls down a drain while you're washing dishes, you're going to collect maybe $1,500 and fight for the rest. A scheduled endorsement lists the item specifically, usually after an appraisal, and covers it for that appraised value.
 
 Worked example: A homeowner in Phoenix had her diamond earrings stolen from a hotel room during travel. Her base policy had a $1,500 jewelry sublimit, and theft away from home was further restricted. Her scheduled personal property endorsement, which she'd added for $180/year, covered the earrings at their appraised value of $6,200. Net difference: $4,700.
 
@@ -56,6 +57,14 @@ Worked example: A homeowner in suburban Chicago skipped the water backup endorse
 Equipment breakdown is one I'd push more people toward. It covers the mechanical failure of home systems, things like your HVAC compressor dying, your water heater cracking from pressure, or your refrigerator's motor giving out. Standard policies cover damage from sudden perils like fire or lightning. They don't cover the systems just... failing. Equipment breakdown endorsements often run under $50/year and can cover repair or replacement costs that hit several thousand dollars. I honestly think this one is underrated and undersold.
 
 ## The Ones You Might Be Overpaying For
+
+| Endorsement Type | Typical Annual Cost | Key Coverage | Common Sublimit/Limitation |
+| --- | --- | --- | --- |
+| Scheduled Personal Property | $180+ (varies by item) | Specifically appraised valuables | Base policy jewelry often $1,500-$2,500 |
+| Water Backup & Sump Overflow | $50-$200 | Sump pump failure, sewer backup | Excludes flood insurance coverage |
+| Equipment Breakdown | Under $50 | HVAC, water heater, appliance failure | Excludes standard peril damage |
+| Home Business | $30-$50+ | Home office property and liability | Business property capped at $2,500-$5,000 |
+| Identity Theft Restoration | $30-$50 | Resolution services or postage reimbursement | Varies by plan quality |
 
 Home business endorsements occupy a complicated middle ground. If you're running a significant business from home, you probably need a separate in-home business policy, not just an endorsement. Endorsements for home office coverage often cap business property at $2,500 to $5,000 and provide limited liability protection. If your business has clients coming to your home, significant inventory, or employees, an endorsement is probably not enough, and you should be talking to a commercial lines agent rather than bolting something onto your homeowner policy and hoping.
 

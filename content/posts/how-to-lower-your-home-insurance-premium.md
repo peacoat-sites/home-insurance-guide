@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Most homeowners assume their insurance premium is fixed, something that creeps up a little each year like a utility bill, and there's nothing to do about it. I believed that too, honestly, until I spent 14 years sitting on the other side of the desk, watching what actually moved the needle on pricing. The truth is that insurers have dozens of rating factors they rarely explain, and a surprising number of them are within your control. I've seen policies drop by hundreds of dollars annually after a single phone call. I've also seen people pay thousands more than necessary for years simply because nobody told them what questions to ask.
 
@@ -31,7 +31,7 @@ Most homeowners assume their insurance premium is fixed, something that creeps u
 
 Here's what I'll be honest about: insurance companies aren't legally required to volunteer discounts to you. They'll apply them if you qualify and they catch it during underwriting, but if your situation changes after you bind the policy, you often have to ask. That's not conspiracy. It's just how the business works.
 
-Most major insurers offer somewhere between 10 and 20 distinct discount categories. The advertised ones are bundling (home plus auto), claims-free history, and sometimes a new-home discount. The ones that don't get pushed as aggressively include:
+Most major insurers offer somewhere between 10 and 20 distinct discount categories. The advertised ones are bundling ([home plus auto](/home-insurance-bundling-discount/)), claims-free history, and sometimes a new-home discount. The ones that don't get pushed as aggressively include:
 
 **Loyalty discounts** that kick in after three or five years with the same carrier. If you've been with your insurer for a decade and haven't asked about a loyalty reduction, call tomorrow.
 
@@ -58,6 +58,12 @@ What surprised me was how much credit insurers give for specific upgrades:
 **Proximity to a fire station and fire hydrant** affects your ISO (Insurance Services Office) public protection classification, which affects your rate. Moving isn't realistic, but if your area recently built a new fire station closer to your neighborhood, your insurer may not know. It's worth asking.
 
 ## The Deductible Calculation Most People Get Wrong
+
+| Deductible Change | Estimated Annual Savings | Break-Even Period |
+|---|---|---|
+| $500 to $1,000 | ~$75-$150/year | 3-7 years |
+| $1,000 to $2,500 | ~$150-$300/year | 5-10 years |
+| $2,500 to $5,000 | ~$200-$400/year | 8-15 years |
 
 Raising your deductible is one of the most commonly suggested ways to cut your premium. It works. Going from a $500 deductible to a $2,500 deductible can reduce your annual premium meaningfully. But I've seen this strategy backfire, and I want you to go in with clear eyes.
 

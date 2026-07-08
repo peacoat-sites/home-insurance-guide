@@ -12,7 +12,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Roughly 40% of homeowners who file a claim accept the first settlement offer without questioning it. I know this because I spent 14 years on the other side of that transaction, reviewing claims for a national insurer. I'm not proud of everything I saw. The first offer is often not the best offer, and the gap between what's initially proposed and what a policy actually covers can be thousands of dollars. Sometimes tens of thousands.
 
@@ -32,9 +32,9 @@ That gap is what this article is about.
 
 Most homeowners assume a dispute means the insurer is acting in bad faith. Sometimes that's true. More often, it's something simpler: genuine disagreement over what the damage actually costs, ambiguous language buried in the policy, or an adjuster who's juggling 80 open files and spent 45 minutes on your roof.
 
-Underpayment beats outright denial most of the time. An adjuster prices your water-damaged hardwood floors at replacement cost for builder-grade materials when your floors are quarter-sawn white oak. Or a hail claim gets written up as "cosmetic damage" when you know the shingles are genuinely compromised. These aren't fraud, necessarily. They're judgment calls. And judgment calls can be challenged.
+Underpayment beats outright denial most of the time. An adjuster prices your [water-damaged hardwood floors](/home-insurance-water-damage-coverage/) at replacement cost for builder-grade materials when your floors are quarter-sawn white oak. Or a hail claim gets written up as "cosmetic damage" when you know the shingles are genuinely compromised. These aren't fraud, necessarily. They're judgment calls. And judgment calls can be challenged.
 
-Then there's depreciation. Most standard HO-3 policies use Actual Cash Value (ACV), which means replacement cost minus depreciation. The depreciation schedules adjusters use vary wildly by carrier. A 12-year-old roof might be depreciated at 70% by one company and 55% by another. On a $25,000 replacement, that difference is huge.
+Then there's depreciation. Most standard HO-3 policies use [Actual Cash Value (ACV)](/homeowners-insurance-claim-process/), which means replacement cost minus depreciation. The depreciation schedules adjusters use vary wildly by carrier. A 12-year-old roof might be depreciated at 70% by one company and 55% by another. On a $25,000 replacement, that difference is huge.
 
 ## Step One: The Internal Appeal
 

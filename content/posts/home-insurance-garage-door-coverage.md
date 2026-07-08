@@ -23,6 +23,7 @@ faqs:
    a: "No. Vehicle damage goes through your auto insurance, specifically collision coverage (with its own deductible). The homeowner's policy covers the structure, meaning the door. You're handling two separate claims with two separate insurers for the same accident."
  - q: "What if my garage door was damaged by a neighbor's vehicle?"
    a: "If someone else's vehicle caused the damage, their auto liability insurance should cover it. You'd file a claim against their policy rather than your own, which avoids a claim on your homeowner's policy. Get their insurance information at the scene the same way you would for a car accident."
+lastmod: 2026-07-07
 ---
 
 Most people don't think about their garage door and their insurance policy at the same time until something goes wrong. Maybe you just backed your car into the door. Maybe a storm rolled through and left it bent and hanging off the track. Maybe a neighbor kid threw a baseball and now there's a dent the size of a softball in the panel. Whatever brought you here, you're probably wondering whether your homeowner's policy will actually pay for this, or whether you're going to be stuck with a repair bill on your own.
@@ -32,10 +33,19 @@ You're not alone in being confused about this. Garage door claims were some of t
 Here's what I tell people who are sorting this out: start with the cause, not the object.
 
 ## What Your Policy Actually Covers (and Why the Cause Is Everything)
+
+| Scenario | Garage Door Component | Coverage Status | Key Condition |
+| --- | --- | --- | --- |
+| Fire, windstorm, hail, lightning, vandalism | Door panels, tracks, hardware | Covered | Sudden, external cause |
+| Wear and tear, age-related failure | Springs, opener | Not covered | Maintenance responsibility |
+| Gradual water damage, rot | Frame and wood | Not covered | Neglect/ongoing deterioration |
+| Flood damage | All components | Not covered | Requires separate flood policy |
+| Earthquake damage | All components | Not covered | Requires earthquake rider |
+| Power surge to smart opener | Opener and electronics | Covered only if | Equipment breakdown coverage included |
 As of June 2026, 
 Your homeowner's insurance covers your garage door as part of your home's structure, typically under what's called "Coverage A" or "dwelling coverage." The door, the tracks, the opener, the hardware, all of it is considered part of the physical structure of the house. So the coverage exists. The question is whether the *cause* of the damage is a covered peril.
 
-Standard homeowner's policies list covered perils, and most modern policies are "open peril" or "all-risk" on the dwelling, which sounds comprehensive but has significant exceptions. The perils that almost always cover garage door damage include fire, windstorm, hail, lightning, vandalism, and the weight of ice or snow. If a tornado took your door clean off the hinges, you're covered. If a hailstorm left the panels pockmarked, you're covered. If someone deliberately smashed it, vandalism coverage applies.
+Standard homeowner's policies list covered perils, and most modern policies are "open peril" or "all-risk" on the dwelling, which sounds comprehensive but has significant exceptions. The perils that almost always cover garage door damage include fire, windstorm, hail, lightning, vandalism, and the [weight of ice or snow](/home-insurance-frozen-pipes/). If a tornado took your door clean off the hinges, you're covered. If a hailstorm left the panels pockmarked, you're covered. If someone deliberately smashed it, vandalism coverage applies.
 
 What gets people into trouble is the exclusion side. Flood damage is excluded on virtually every standard policy (you'd need a separate NFIP or private flood policy). Earthquake damage is excluded unless you have a rider. And here's the one that catches almost everyone: *wear and tear*. If your door is 20 years old and the springs finally gave out, that's maintenance, not a covered loss. Insurers will not pay for that, and they're right not to. That's what a home maintenance budget is for.
 

@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 You file a claim after a bad hailstorm tears up your roof. The adjuster comes out, inspects the damage, and then informs you that your payout will cover less than half the repair cost because your roof has depreciated significantly. You thought you were fully covered. You weren't. I watched this exact scenario play out hundreds of times during my years adjusting claims, and it almost always comes as a genuine shock to the homeowner. Roof damage is the single most claimed category in homeowner insurance, yet coverage works in ways most people never take the time to understand until the moment they desperately need it.
 
@@ -47,7 +47,7 @@ According to the National Association of Insurance Commissioners, wear-and-tear 
 **"Insurance covers all roof damage"**: Most homeowners assume their policy is a catch-all for any roof problem. But claims data tells a different story. According to the Insurance Information Institute, wear-and-tear claims are the #1 reason insurers deny roof damage claims, accounting for over 40% of denials. Age matters too: if your roof is over 20 years old, many insurers won't cover it at all, regardless of the damage cause. The reality? Your policy covers *sudden, accidental damage* (storms, falling trees, hail). It explicitly excludes gradual deterioration, poor maintenance, and pre-existing conditions. That distinction is the difference between a covered claim and an out-of-pocket bill.
 
 
-It depends entirely on what caused the damage. Home insurance works through named perils or open perils, and the cause is the first thing any adjuster looks at.
+It depends entirely on what caused the damage. Home insurance works through [named perils or open perils](/homeowners-insurance-claim-process/), and the cause is the first thing any adjuster looks at.
 
 Standard HO-3 policies, the most common form in the country, typically cover roof damage from sudden and accidental events. Hail, wind, fire, lightning, falling tree limbs, the weight of snow or ice, vandalism, these usually qualify. When a covered peril causes the damage, the insurer generally pays to repair or replace the damaged portion of your roof, minus your deductible.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Sometimes, up to a point. Many carriers have a total discount cap that lumps safety features, loyalty discounts, and bundling discounts together. Adding a security system might not change your premium if you've already hit that ceiling with other discounts."
  - q: "Is a more expensive security system always worth it for insurance purposes?"
    a: "No. The discount doesn't always scale with the system price. A UL-listed monitored system at $30 a month may earn the same insurance discount as one at $60 a month. Ask your insurer what certification tier triggers their highest discount, then find the cheapest system that meets exactly that threshold."
+lastmod: 2026-07-07
 ---
 Most homeowners think a security system automatically brings down their insurance bill. It usually does. But the actual discount you get depends almost entirely on factors the alarm company's sales rep conveniently never mentions.
 
@@ -39,6 +40,13 @@ Many insurers also use a scoring system from the Insurance Services Office (ISO)
 Some insurers layer on their own proprietary scoring. One large regional carrier I dealt with used an internal five-tier classification for burglary deterrence specifically. Customers had no idea it existed or how they'd been classified.
 
 ## The Actual Discount Ranges (And Why They Vary So Much)
+
+| Security Setup Type | Typical Discount Range | Key Requirement |
+| --- | --- | --- |
+| Basic local alarm (no monitoring) | 2-5% | System installation |
+| Professionally monitored with UL-listed central station | 8-15% | Certificate of installation + UL verification |
+| Monitored system with smoke, fire, water leak detection + UL listing | 15-20% | Certificate + UL listing + potential stacking of other credits |
+| Discount cap (typical carrier maximum) | Up to 10% total | Applied across all safety devices |
 
 Discounts for home security typically run anywhere from 2% to 20% off your annual premium, depending on the carrier and the quality of your setup. That's a massive range. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) notes that discount structures vary significantly by state and insurer, which is their polite way of saying there's no standardization and you have to ask directly.
 
@@ -70,7 +78,7 @@ Step five: consider [water leak sensors](https://www.amazon.com/s?k=water+leak+s
 
 Not all monitoring is equal, and switching companies without telling your insurer can void your discount.
 
-I handled a claim where a homeowner switched from a UL-listed monitoring company to a cheaper regional alternative to save $10 a month. Never told the insurer. When a burglary happened, the insurer's investigation found the gap in monitoring, flagged it as a material change in risk, and the claim process got complicated fast.
+I handled a claim where a homeowner switched from a UL-listed monitoring company to a cheaper regional alternative to save $10 a month. Never told the insurer. When a burglary happened, the insurer's investigation found the gap in monitoring, flagged it as a [material change in risk](/homeowners-insurance-surcharges/), and the claim process got complicated fast.
 
 Your insurer's rating of your home is based on the setup you disclosed. If that changes, tell them.
 

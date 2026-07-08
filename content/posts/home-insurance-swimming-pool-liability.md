@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 A neighbor's kid drowned in a backyard pool outside Columbus, Ohio in 2017. The family who owned the pool thought they had solid homeowner's insurance. They didn't. Their liability limit was $100,000. The lawsuit exceeded $400,000. Their policy had a specific exclusion because they hadn't told their insurer about the pool when it was installed. They lost their home.
 
@@ -33,13 +33,19 @@ Let's fix that.
 
 ## What Your Standard Policy Actually Covers (and What It Doesn't)
 
+| Coverage Type | Typical Limit | Recommended Minimum | Additional Cost |
+| --- | --- | --- | --- |
+| Personal Liability (Coverage E) | $100,000 | $300,000-$500,000 | <$30/year to upgrade |
+| Medical Payments (Coverage F) | $1,000-$5,000 | N/A | Included in base policy |
+| Umbrella Policy | N/A | $1,000,000 | $150-$300/year |
+
 Your homeowner's policy includes two relevant pieces: personal liability coverage and medical payments coverage. Personal liability (typically listed as Coverage E) pays if someone is injured on your property and sues you. Medical payments coverage (Coverage F) handles smaller claims without a lawsuit, usually capped around $1,000 to $5,000. Both matter with a pool, but neither is as generous as you might think.
 
 Here's what most people don't realize: the liability limit printed on your declarations page is almost certainly too low for a serious pool injury. The default on many policies is $100,000. A single drowning or near-drowning incident involving a child can generate lawsuits well above $500,000. If your limit is $100,000 and a judgment comes in at $350,000, you're paying the difference out of pocket. That's your savings account. Your retirement. Your home equity. Everything.
 
 The Insurance Information Institute consistently recommends that homeowners with pools carry at least $300,000 to $500,000 in personal liability coverage, and many insurance professionals I know push higher than that. Bumping your limit from $100,000 to $300,000 often costs less than $30 extra per year. It's the cheapest upgrade most pool owners never make.
 
-What standard policies typically will not cover: intentional acts, business use of the pool (think swim lessons for pay), and, in some cases, injuries to household members. That last one surprises people. If your own child is injured, your homeowner's policy generally won't help. That falls under health insurance.
+What standard policies typically will not cover: intentional acts, business use of the pool (think swim lessons for pay), and, in some cases, [injuries to household members](/homeowners-insurance-dog-bite-coverage/). That last one surprises people. If your own child is injured, your homeowner's policy generally won't help. That falls under health insurance.
 
 ## The Disclosure Problem (This One Gets People)
 

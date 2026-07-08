@@ -23,6 +23,7 @@ faqs:
    a: "No, not typically. Coverage through your homeowners policy is usually sufficient with appropriate limit adjustments. A separate policy would only make sense in unusual situations, like if the structure is on a different property parcel than your home."
  - q: "Is my car covered inside the detached garage?"
    a: "The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof."
+lastmod: 2026-07-07
 ---
 Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild, and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
 
@@ -56,11 +57,19 @@ Do a garage inventory right now. [The III recommends keeping a home inventory](h
 
 ## Where Coverage Gets Complicated Fast
 
+| Coverage Type | What It Covers | Key Limitation |
+| --- | --- | --- |
+| Coverage B (Other Structures) | Detached garage, shed, fence, pergola, guest house | Default limit is 10% of dwelling coverage; all structures share one pool |
+| Coverage C (Personal Property) | Belongings stored in garage | Subject to category sublimits (tools, equipment, collectibles) |
+| Coverage A (Dwelling) | Attached garage with shared wall/roof | Full dwelling limit applies |
+| Standard HO-3 | Structure damage from open perils | Does not cover earthquake or flood damage |
+| Business Use | N/A | Standard policy excludes business property and liability |
+
 A few situations come up constantly that throw people off.
 
 **Renting out the garage.** If you rent your detached garage to someone, for storage, as a workshop, for parking, Coverage B likely won't apply to that structure at all. Standard policy language excludes structures "rented to others." Some insurers will add an endorsement for this; some won't. You need to tell your agent before you collect a dime, not after something goes wrong.
 
-**Using it for a business.** Similar problem. If you're doing auto repairs for customers, running a small contracting operation, or even storing business inventory in there, you've probably voided or severely limited your coverage without knowing it. A business owner's policy (BOP) or commercial property rider is what you'd need.
+**Using it for a business.** Similar problem. If you're doing auto repairs for customers, [running a small contracting operation](/homeowners-insurance-for-landlords/), or even storing business inventory in there, you've probably voided or severely limited your coverage without knowing it. A business owner's policy (BOP) or commercial property rider is what you'd need.
 
 **Earthquake and flood.** Neither is covered under a standard HO-3 for the main dwelling or for other structures. This catches people in California and Gulf Coast states especially hard. If a flood takes out your detached garage, your homeowners policy won't help. That's a separate NFIP or private flood policy, and even then, detached structures have their own coverage rules under the NFIP. Check with your state's insurance department (you can find yours through [NAIC's state map](https://www.naic.org/state_web_map.htm)) if you're not sure what's available in your area.
 

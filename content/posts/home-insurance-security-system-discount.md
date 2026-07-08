@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 $850 for a professional installation, 24/7 monitoring, the whole deal. My friend got that credit: 2% on a $1,400 premium. That's $28 a year. He did the math instantly. Thirty years to break even. I've watched this play out a dozen times, and it's not because security systems are bad. It's because people don't ask the right questions before they buy.
 
@@ -42,6 +42,19 @@ Fire and smoke monitoring through an alarm system frequently beats out burglar m
 There's also a certificate requirement almost everyone skips. Insurers won't apply the discount just because you claim you have a system. You'll need a certificate of installation or a UL (Underwriters Laboratories) certificate from your monitoring company. Some insurers want that renewed annually. If you set up a system three years ago but never submitted the paperwork, you're probably not getting the credit you think. Pull out your policy and check right now.
 
 ## What Qualifies and What Doesn't
+
+| Discount Type | Typical Credit Range | Key Requirement |
+| --- | --- | --- |
+| Basic local alarm (no monitoring) | 1-5% | Loud beeper with no central station connection |
+| Professional 24/7 central station monitoring | 5-20% | UL-listed equipment, licensed monitoring center, third-party dispatch |
+| Fire/smoke/CO detection (monitored) | Often exceeds burglar monitoring credit | Professional monitoring connection required |
+| Deadbolt locks | Small separate credit | Varies by insurer |
+| Fire-resistant safes | Separate credit | Varies by insurer |
+| Sprinkler systems | Separate credit | Varies by insurer |
+| DIY smart systems without monitoring (Ring, SimpliSafe self-monitored) | No standard credit | Self-monitored only; may qualify with professional monitoring tier |
+| Security cameras alone | No standard credit | No central monitoring connection |
+| Smart doorbells without full system | No standard credit | Standalone device without monitored system |
+| Local-only alarms | No credit | No third-party dispatch capability |
 
 Not every security-feeling device earns a discount. This is where confusion gets thick.
 

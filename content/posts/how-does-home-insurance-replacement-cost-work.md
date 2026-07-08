@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 Most people find out what "replacement cost" actually means at the worst possible moment: standing in a gutted living room, smoke still in the air, waiting for an adjuster to tell them what they're getting back.
 
@@ -52,6 +52,13 @@ Not catastrophic in that example. But when the numbers are bigger, the penalty i
 The [Insurance Information Institute](https://www.iii.org/) has been raising alarms about underinsurance for years, particularly after natural disasters where rebuilding costs spike fast. Your state's insurance department (find yours at [NAIC's state map](https://www.naic.org/state_web_map.htm)) may also have resources on how your specific state handles valuation disputes.
 
 ## Extended and Guaranteed Replacement Cost: The Upgrade That's Actually Worth It
+
+| Coverage Type | Ceiling Behavior | Best For | Availability |
+| --- | --- | --- | --- |
+| Standard Replacement Cost | Policy limit cap | Basic protection | Widely available |
+| Extended Replacement Cost | 25-50% above dwelling limit | Most homeowners | Widely available |
+| Guaranteed Replacement Cost | Full rebuild cost, no cap | High-risk areas | Increasingly rare |
+| Actual Cash Value (ACV) | Policy limit minus depreciation | Budget-conscious buyers | Widely available |
 
 Standard replacement cost coverage has a ceiling: your policy limit. If a total loss costs more to rebuild than your coverage cap, you're paying the difference yourself.
 

@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-07
 ---
 A reader emailed me last month after her basement flooded. Her 75-inch Samsung QLED, two gaming consoles, and a Sonos surround system she'd spent three years building sat in four inches of water. Total loss. Her homeowner's policy paid exactly zero dollars for any of it.
 
@@ -69,7 +69,7 @@ Check your state's insurance department website (the NAIC's state map will point
 
 The fix depends entirely on what you own and how prone you are to breaking things.
 
-**Scheduled personal property endorsement.** For individual items worth serious money, you can "schedule" them on the policy at an agreed value. That $4,000 camera setup, the $2,500 gaming PC, the high-end audio system. You pay a bit more upfront, but you get broader coverage (usually including accidental damage) and zero depreciation headaches. I'd recommend it for anything worth more than $1,000.
+**[Scheduled personal property endorsement](/scheduled-personal-property-insurance/).** For individual items worth serious money, you can "schedule" them on the policy at an agreed value. That $4,000 camera setup, the $2,500 gaming PC, the high-end audio system. You pay a bit more upfront, but you get broader coverage (usually including accidental damage) and zero depreciation headaches. I'd recommend it for anything worth more than $1,000.
 
 **Equipment breakdown coverage.** It's an endorsement, unglamorous, but it pays when your refrigerator's control board dies or your home theater receiver just quits. Not many people think to ask for it until something actually breaks.
 

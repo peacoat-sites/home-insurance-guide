@@ -23,6 +23,7 @@ faqs:
    a: "The most common threshold for asphalt shingles is 15 to 20 years, though this varies significantly by insurer, region, and material. Some carriers in high-storm markets have moved the cutoff down to 10 years for standard shingles. Metal roofs and Class 4 impact-resistant shingles are generally given longer leash."
  - q: "If I buy a house with an old roof, when will my insurer find out?"
    a: "Most insurers conduct a post-binding inspection within 30 to 60 days of writing a new policy. Aerial imagery from vendors like EagleView or Nearmap also lets underwriters assess roof condition and approximate age remotely, often without ever sending a human inspector. Trying to obscure the roof's age or condition is both ineffective and a quick path to a coverage dispute."
+lastmod: 2026-07-07
 ---
 
 Your roof is the first place an insurer looks when they're deciding whether to cover your house at all. Not your electrical panel, not your foundation. The roof. And most homeowners don't realize how dramatically roof age affects not just their premium, but their ability to get covered in the first place.
@@ -30,6 +31,12 @@ Your roof is the first place an insurer looks when they're deciding whether to c
 Here's what the marketing materials don't say: many insurers today won't write a new policy on a home with a roof older than 20 years. Some draw the line at 15. A few have pushed it down to 10 in high-hail or high-wind markets like Texas, Colorado, and parts of Florida. You won't see this in the brochure. You'll see it in the inspection report that comes back two weeks after you've moved in.
 
 ## How Roof Age Restrictions Actually Work
+
+| Roof Coverage Type | Claim Payout Scenario | Typical Homeowner Cost |
+| --- | --- | --- |
+| Replacement Cost Value (RCV) | Storm destroys 17-year-old roof | Full replacement ($15,000-$25,000) |
+| Actual Cash Value (ACV) | Storm destroys 17-year-old roof | $4,000-$6,000 (after depreciation) |
+| ACV Gap | Homeowner responsibility | $9,000-$21,000 out-of-pocket |
 As of June 2026, 
 Insurers use a few different approaches, and confusing them is expensive.
 
@@ -37,7 +44,7 @@ The first is a hard eligibility cutoff. Your roof hits a certain age, they won't
 
 The second approach is a coverage downgrade. The insurer will cover you, but they'll switch your roof from replacement cost value (RCV) to actual cash value (ACV). That's the one that really stings. With RCV, if a storm destroys your roof, you get a new roof. With ACV, you get what the roof was worth the day before the storm, minus depreciation. On a 17-year-old roof, that could mean you're handed $4,000 to $6,000 while a new roof installation runs $15,000 to $25,000 depending on pitch, size, and materials. You cover the gap yourself.
 
-The third approach, less common but worth knowing, is a required inspection before binding. Some insurers will accept older roofs but send an inspector first. That inspector's report can trigger a cancellation notice, a surcharge, or an ultimatum: replace the roof within 30 to 60 days or we're non-renewing you. I've seen homeowners blindsided by this after a perfectly routine renewal cycle.
+The third approach, less common but worth knowing, is a required inspection before binding. Some insurers will accept older roofs but send an inspector first. That inspector's report can trigger a cancellation notice, a surcharge, or an ultimatum: replace the roof within 30 to 60 days or we're [non-renewing you](/homeowners-insurance-surcharges/). I've seen homeowners blindsided by this after a perfectly routine renewal cycle.
 
 ## Why This Has Gotten Stricter
 
@@ -57,7 +64,7 @@ If you're buying a home, get the roof age confirmed in writing, not just verball
 
 Before you close, ask your intended insurer two specific questions: does this roof age affect my eligibility for replacement cost coverage, and do you require an inspection before binding? "Yes" to either one should immediately change your calculus on what you're willing to pay for the house.
 
-If you're renewing on a home you already own, don't wait for the insurer to bring it up. Your roof ages whether you're paying attention or not. Pull out your policy and find the roof coverage section. If it says ACV for roofing, that's already happened to you.
+If you're renewing on a home you already own, don't wait for the insurer to bring it up. Your roof ages whether you're paying attention or not. Pull out your policy and [find the roof coverage section](/escrow-and-home-insurance/). If it says ACV for roofing, that's already happened to you.
 
 One practical move: do a [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) of the whole property, including photos of your roof from the ground and any documentation of prior repairs. (The site may earn a commission on links.) It won't reverse an ACV downgrade, but having dated documentation of your roof's condition before a claim is genuinely useful when an adjuster tries to apply heavier depreciation than is warranted.
 

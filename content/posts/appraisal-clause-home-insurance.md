@@ -23,6 +23,7 @@ faqs:
     a: "Awards are binding, which is the whole point. Challenging one in court is possible but difficult. You'd need to show fraud, corruption, or that the appraisers exceeded their authority (for example, by deciding coverage questions they had no authority to decide). Courts are generally reluctant to overturn appraisal awards."
   - q: "Does hiring a public adjuster help with the appraisal process?"
     a: "It depends on your state's rules and your policy language. Some states allow public adjusters to serve as party appraisers; others don't. Even where they can't serve as your appraiser directly, a good public adjuster can help you prepare documentation and select a qualified party appraiser. On a large, complex claim, that preparation often matters more than the appraisal hearing itself."
+lastmod: 2026-07-07
 ---
 
 Most homeowners never hear the words "appraisal clause" until they're already in a fight with their insurer over how much a claim is worth. By then, it's too late to understand what they agreed to.
@@ -57,7 +58,7 @@ The process only addresses the amount of loss. If your insurer is denying covera
 
 
 
-The appraisal clause is worth invoking when the gap between what you're claiming and what the insurer is offering is significant and specific. If you have a $90,000 roof and siding loss and the insurer offers $54,000, you have a real valuation dispute. Invoke it.
+The appraisal clause is worth invoking when the gap between what you're claiming and what the insurer is offering is significant and specific. If you have a $90,000 [roof and siding loss](/does-home-insurance-cover-roof-damage/) and the insurer offers $54,000, you have a real valuation dispute. Invoke it.
 
 If the insurer is claiming the damage was pre-existing, or that your policy excludes the peril entirely, appraisal won't solve that. You're trying to use a screwdriver as a hammer.
 
@@ -70,6 +71,13 @@ Not every case works out that cleanly. Sometimes the award lands closer to the i
 ---
 
 ## The Cost You're Not Thinking About
+
+| Scenario | Disputed Amount | Appraisal Economics | Recommendation |
+| --- | --- | --- | --- |
+| Small dispute | Under $20,000 | Process costs (appraiser + umpire fees) consume significant recovery portion | Generally not worth invoking |
+| Medium dispute | $20,000-$25,000 | Economics begin to favor appraisal process | Worth considering with cost analysis |
+| Large dispute | Over $25,000 | Process costs justified by potential recovery | Strong candidate for appraisal |
+| Wide gap example | Insurer: $31,000 / Contractor: $67,000 | Award: $58,500 (net gain after fees and deductible) | Appraisal beneficial |
 
 You pay your appraiser. The insurer pays theirs. You split the umpire's fee. This isn't free.
 

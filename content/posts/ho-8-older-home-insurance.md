@@ -12,6 +12,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "ho-8-older-home-insurance"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Your house is 90 years old, it's got original plaster walls and a cast-iron radiator system, and your insurer just offered you an HO-8 policy. You're not sure if that's the standard thing everyone gets or if something's been quietly downgraded. I've seen this exact moment trip up hundreds of homeowners, and most of them sign without asking the single question that matters most.
 
@@ -19,11 +20,20 @@ The HO-8 is the policy form designed specifically for older homes, typically tho
 
 ## What the HO-8 Actually Covers (And What It Doesn't)
 
+| Coverage Aspect | HO-8 Policy | HO-3 Policy |
+| --- | --- | --- |
+| Replacement Cost Basis | Functional replacement cost (modern equivalent materials) | Full replacement cost (original materials/methods) |
+| Peril Coverage Model | Named-peril (only listed perils covered) | Open-peril (all perils covered except exclusions) |
+| Typical Perils Covered | Fire, lightning, windstorm, hail, explosion, riot, aircraft, vehicles, smoke, vandalism, theft, volcanic eruption | All perils except those explicitly excluded |
+| Theft Coverage Limit | ~$1,000 on-premises (often lower off-premises) | Much higher base limit with scheduled endorsement options |
+| Target Home Age | Built 40+ years ago | Any age |
+| Underwriting Flexibility | Limited; may require knob-and-tube wiring replacement or electrical upgrades | Standard underwriting; broader approval criteria |
+
 Here's the thing most people don't realize until they're standing in a flooded kitchen: the HO-8 doesn't pay what it costs to restore your home to its original state. It pays what it costs to make the home "functionally equivalent." In practice, that means your ornate Victorian plaster ceiling gets replaced with drywall. The hand-carved wood molding becomes MDF. The original clay tile roof becomes asphalt shingles.
 
 Insurers call this "common construction" and it's perfectly legal. The NAIC publishes consumer guidance on policy forms, and if you read their materials on older home coverage, you'll find this spelled out plainly, but almost nobody reads them before signing.
 
-Compare that to an HO-3, which pays replacement cost on structure. The HO-8 pays functional replacement cost, which is a categorically different thing. For a craftsman bungalow with old-growth wood details, that difference can easily represent tens of thousands of dollars in a claim.
+[Compare that to an HO-3](/ho-3-policy-explained/), which pays replacement cost on structure. The HO-8 pays functional replacement cost, which is a categorically different thing. For a craftsman bungalow with old-growth wood details, that difference can easily represent tens of thousands of dollars in a claim.
 
 The named-peril structure matters too. Most HO-8 policies cover only the perils specifically listed: fire, lightning, windstorm, hail, explosion, riot, aircraft, vehicles, smoke, vandalism, theft, and volcanic eruption. That's it. Anything not on that list isn't covered. An HO-3 works the opposite way, covering everything except what's explicitly excluded. That inversion is huge, and it catches people completely off guard.
 

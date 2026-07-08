@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 Your mortgage lender requires home insurance. You buy it, pay the premium, and assume you're covered. Then a pipe bursts in the wall, ruins the hardwood floors, and you file a claim, only to learn your policy covers the pipe repair but not the floor replacement because water damage from "slow leaks" gets classified differently than sudden damage. The claim gets denied. This happens constantly, and it's not buried in fine print so much as hidden in plain sight, in the gap between what people assume coverage means and what it actually says.
 
@@ -33,7 +33,7 @@ Understanding which parts of your home insurance policy are mandatory, which are
 
 ## What "Standard" Coverage Actually Means (And What It Doesn't)
 
-A standard homeowner's policy, usually called an HO-3, covers your dwelling, other structures, personal property, liability, and loss of use. That sounds comprehensive. It isn't.
+A standard homeowner's policy, [usually called an HO-3](/ho-3-policy-explained/), covers your dwelling, other structures, personal property, liability, and loss of use. That sounds comprehensive. It isn't.
 
 The HO-3 is the industry baseline, but "standard" doesn't mean "complete." The Insurance Information Institute describes the HO-3 as open-peril coverage for the dwelling itself, meaning it covers damage from any cause except those specifically excluded. Personal property, however, is typically named-peril, meaning it only covers losses from causes the policy explicitly lists. That's a meaningful distinction most policyholders don't catch until they're filing a claim.
 
@@ -61,6 +61,18 @@ One trap I've watched homeowners fall into: lender-placed insurance, also called
 
 ## Optional Coverage: The Add-Ons That Actually Matter
 
+| Coverage Type | Mandatory (Lender Required) | Typical Cost | Key Exclusions |
+| --- | --- | --- | --- |
+| Dwelling | Yes | Included in base premium | Flood, earthquake, wear and tear |
+| Liability | Yes | Included in base premium | Intentional acts, business activities |
+| Personal Property | No | Included in base premium | Named-peril only; sublimits on jewelry, art, firearms |
+| Flood | No | Separate policy | Standard HO-3 excludes entirely |
+| Earthquake | No | Separate endorsement | Standard HO-3 excludes entirely |
+| Sewer/Water Backup | No | $50-$150/year | Standard HO-3 excludes entirely |
+| Extended Replacement Cost | No | 10-15% premium increase (typical) | Applies only to dwelling coverage |
+| Scheduled Personal Property | No | Variable by item | Covers items above sublimits at appraised value |
+| Ordinance or Law | No | 5-10% premium increase (typical) | Standard coverage excludes code upgrades |
+
 The word "optional" implies these are nice-to-haves. Some are. Several aren't.
 
 **Flood insurance.** The standard HO-3 excludes flood damage entirely. If you live near water, in a low-lying area, or in a region with heavy seasonal rain, this exclusion can be catastrophic. Flood coverage is typically purchased separately through the National Flood Insurance Program or private carriers. According to the NAIC, even an inch of floodwater can cause tens of thousands of dollars in damage. This is less optional than the name suggests.
@@ -69,11 +81,11 @@ The word "optional" implies these are nice-to-haves. Some are. Several aren't.
 
 **Sewer and water backup coverage.** This is underused and underpriced. A sewage backup is disgusting, expensive, and not covered by your standard policy. The endorsement usually costs between $50 and $150 per year. Considering that remediation for a backed-up sewer can run into five figures, the math is obvious. A water leak sensor placed near floor drains, water heaters, and washing machines won't prevent a backup, but it can limit damage by alerting you early.
 
-**Extended replacement cost coverage.** If your home is destroyed, standard dwelling coverage pays up to your policy limit. If construction costs have risen since you bought the policy, that limit might not cover a full rebuild. Extended replacement cost adds a percentage buffer, typically 25% to 50% above your dwelling limit. After major regional disasters, when labor and materials spike suddenly, this endorsement has made a measurable difference for claimants.
+**[Extended replacement cost coverage](/home-insurance-extended-replacement-cost/).** If your home is destroyed, standard dwelling coverage pays up to your policy limit. If construction costs have risen since you bought the policy, that limit might not cover a full rebuild. Extended replacement cost adds a percentage buffer, typically 25% to 50% above your dwelling limit. After major regional disasters, when labor and materials spike suddenly, this endorsement has made a measurable difference for claimants.
 
 **Scheduled personal property.** Standard policies cap payouts on specific categories: jewelry, art, firearms, electronics. If you own items that exceed those sublimits, a scheduled personal property rider covers them at their appraised value. Expensive engagement rings, heirloom watches, and camera equipment are the most common candidates.
 
-**Ordinance or law coverage.** Older homes present a specific risk. If your 1960s house is partially destroyed by fire, your city might require you to bring the entire structure up to current building code before issuing permits to rebuild. Standard coverage pays to rebuild what was there. It doesn't pay for code upgrades. Ordinance or law coverage fills that gap.
+**[Ordinance or law coverage](/home-insurance-ordinance-or-law-coverage/).** Older homes present a specific risk. If your 1960s house is partially destroyed by fire, your city might require you to bring the entire structure up to current building code before issuing permits to rebuild. Standard coverage pays to rebuild what was there. It doesn't pay for code upgrades. Ordinance or law coverage fills that gap.
 
 ---
 

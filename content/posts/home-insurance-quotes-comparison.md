@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 You're looking at three quotes. $847 a year. $1,203. $1,619. All promising to cover your home. You pick the cheapest, close the email, move on. That 90-second decision could cost you tens of thousands of dollars when a serious claim hits. I watched it happen repeatedly during 14 years reviewing insurance claims. The policy that seemed like a steal was missing the one coverage the homeowner actually needed.
 
@@ -39,19 +39,28 @@ The quotes also rest on different assumptions about what your house is worth to 
 
 ## The Coverage Details That Make or Break a Quote
 
+| Coverage Type | Purpose | Key Comparison Points |
+| --- | --- | --- |
+| Dwelling Coverage (A) | Home structure rebuild | Replacement cost vs. market value; extended replacement cost provisions (typically 25-50% above limit) |
+| Other Structures (B) | Detached garages, sheds, fences | Usually 10% of Coverage A; verify adequacy for substantial structures |
+| Personal Property (C) | Belongings inside home | Actual Cash Value (ACV) vs. Replacement Cost Value (RCV); RCV typically higher premium but significantly better claims payout |
+| Loss of Use (D) | Temporary housing after loss | Verify limits cover realistic costs ($5,000-$8,000/month for family of four); claims may take 6+ months |
+| Liability (E) | Injury/lawsuit protection | Standard quotes often $100,000; recommend minimum $300,000; consider umbrella policy for assets |
+| Medical Payments (F) | Minor injuries on property | Complements liability; covers guest medical bills regardless of fault |
+
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 This is where I see most consumers go wrong. They compare premium totals. They should be comparing coverage architecture.
 
 Look at these core components side by side before you can meaningfully compare anything:
 
-**Dwelling Coverage (Coverage A):** What your home's structure is insured for. Should reflect rebuilding cost, not market value. Ask each insurer how they calculated this and whether the policy includes extended replacement cost provisions, which typically offer 25 to 50 percent above your Coverage A limit if construction costs spike after a disaster.
+**Dwelling Coverage (Coverage A):** What your home's structure is insured for. Should reflect rebuilding cost, not market value. Ask each insurer how they calculated this and whether the policy includes [extended replacement cost provisions](/home-insurance-extended-replacement-cost/), which typically offer 25 to 50 percent above your Coverage A limit if construction costs spike after a disaster.
 
 **Other Structures (Coverage B):** Fences, detached garages, sheds. Usually set at 10 percent of Coverage A automatically. If you have a substantial detached garage or pool house, 10 percent is likely way too low.
 
 **Personal Property (Coverage C):** Your belongings. The critical question isn't just the limit. It's whether you're getting actual cash value (ACV) or replacement cost value (RCV). ACV pays what your five-year-old laptop is worth today. RCV pays what a comparable new one costs. The premium difference is often small. The claims difference is enormous.
 
-**Loss of Use (Coverage D):** If your home becomes uninhabitable after a covered loss, this covers hotel stays, restaurant meals, temporary housing. Make sure the limit is real. A family of four spends $5,000 to $8,000 monthly in temporary housing, and some claims take six months or longer to settle.
+**[Loss of Use (Coverage D)](/loss-of-use-coverage-home-insurance/):** If your home becomes uninhabitable after a covered loss, this covers hotel stays, restaurant meals, temporary housing. Make sure the limit is real. A family of four spends $5,000 to $8,000 monthly in temporary housing, and some claims take six months or longer to settle.
 
 **Liability (Coverage E) and Medical Payments (Coverage F):** Liability protects you if someone gets injured on your property and sues. Standard quotes often offer $100,000 in liability. That's outdated. Ask for at least $300,000, and consider an umbrella policy if you have significant assets.
 

@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-07
 ---
 You closed on your brand-new home last Thursday. The builder handed over the keys, you signed a stack of papers, and your lender confirmed your homeowner's policy was in place. Everything feels buttoned up. Then a pipe fitting fails behind the drywall during week two, and you discover your policy has a construction defect exclusion that your agent never mentioned. Welcome to new construction insurance, where the gaps are real and the marketing language is designed to make you feel covered when you're not.
 
@@ -57,7 +57,7 @@ Three exclusions catch new homeowners most off guard:
 
 **Earth movement and settlement.** New construction homes settle. Footings cure, soil compresses, and framing adjusts. If that settling causes a crack that lets water in, most policies won't cover the resulting damage because settlement is a standard exclusion. This isn't fraud. It's in the policy language. Read section after section on exclusions before you sign.
 
-**Vacancy provisions.** If you close on a new build but don't move in for 30 to 60 days, some policies reduce coverage or void certain protections entirely because the home is considered vacant. Check your policy's vacancy clause before you assume occupancy delays are fine.
+**[Vacancy provisions](/vacant-home-insurance/).** If you close on a new build but don't move in for 30 to 60 days, some policies reduce coverage or void certain protections entirely because the home is considered vacant. Check your policy's vacancy clause before you assume occupancy delays are fine.
 
 ---
 

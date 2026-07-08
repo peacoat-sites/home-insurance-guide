@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Your kitchen catches fire on a Tuesday night. By midnight the flames are out, but the smoke is so thick your home isn't livable. You're standing in your driveway at 1 a.m. with your family, nowhere to go. The next morning your insurance company calls and tells you they'll cover the hotel, the meals, the laundry while repairs happen. That's loss of use coverage. And if you've never read that section of your policy, you probably don't know what you actually have.
 
@@ -39,7 +39,7 @@ The [Insurance Information Institute](https://www.iii.org/) says most standard h
 
 Here's where people get a nasty surprise. Loss of use only kicks in when the reason your home's uninhabitable is a covered peril. Your basement floods because a river crests or a storm surge hits? That's a flood event, and standard homeowner policies don't cover it. You'd need a separate National Flood Insurance Program policy or private flood coverage. Same deal with earthquakes.
 
-What standard policies usually cover: fire, smoke, windstorm, lightning, burst pipes from sudden and accidental causes, vandalism, and certain types of water damage from inside the home. Check your declarations page for the section listing covered perils. If your policy says "open perils" or "all-risk," it covers everything except what's explicitly excluded. If it says "named perils," it covers only what's listed.
+What standard policies usually cover: fire, smoke, windstorm, lightning, burst pipes from sudden and accidental causes, vandalism, and certain types of water damage from inside the home. Check your [declarations page](/insurance-policy-declarations-page/) for the section listing covered perils. If your policy says "open perils" or "all-risk," it covers everything except what's explicitly excluded. If it says "named perils," it covers only what's listed.
 
 I've seen people assume their displacement would be covered, then discover the underlying damage wasn't. Loss of use coverage can't stand alone. No coverage for the damage means no coverage for the expenses it creates.
 
@@ -61,6 +61,13 @@ What it won't cover: your mortgage payment (you'd pay it anyway), lifestyle upgr
 A home inventory app like [Sortly](https://www.amazon.com/s?k=home+inventory+app) helps you stay organized before a loss happens, and documenting your normal routine and expenses beforehand makes it much easier to prove what "additional" means for your household. *(This site may earn a commission from qualifying purchases.)*
 
 ## How Long Will It Pay, and What Are the Limits
+
+| Coverage Aspect | Typical Range | Notes |
+| --- | --- | --- |
+| Loss of Use as % of Dwelling Coverage | 20-30% | Standard homeowner policies |
+| Example: Home Insured at $400,000 | $80,000-$120,000 | Coverage D limit |
+| Maximum Time Period | 12-24 months | Whichever limit (time or dollar) is hit first ends coverage |
+| Typical Repair Timeline | 6-18 months | May extend longer due to delays or material shortages |
 
 Most policies set two limits on loss of use: a dollar cap and a time limit. Whichever you hit first ends your coverage. Time limits usually run from 12 to 24 months. Dollar caps vary.
 

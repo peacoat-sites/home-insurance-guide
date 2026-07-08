@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-
+lastmod: 2026-07-07
 ---
 Most homeowners have no idea their hail claim has already been partially decided before they even call their insurer. The adjuster arriving at your house isn't walking in neutral. They're working from a damage threshold matrix, a regional hail history database, and years of training on how to separate "cosmetic" damage from "functional" damage. That distinction alone determines whether you get a check or a denial letter.
 
@@ -33,7 +33,7 @@ I spent 14 years on the other side of that equation. Here's what I actually saw.
 
 ## What Your Policy Says vs. What It Pays
 As of June 2026, 
-Hail damage is covered under the dwelling portion of a standard HO-3 policy. That's true and mostly consistent across carriers. But there's a line buried in most policies, sometimes just a sentence or two, about "cosmetic damage exclusions." Insurers started adding these around 2012-2014 in response to high claim volume in hail-prone states like Texas, Colorado, and Oklahoma. What surprised me, even after years of reviewing claims, was how broadly some carriers define "cosmetic."
+Hail damage is covered under the dwelling portion of a standard HO-3 policy. That's true and mostly consistent across carriers. But there's a line buried in most policies, sometimes just a sentence or two, about "[cosmetic damage exclusions](/does-home-insurance-cover-roof-damage/)." Insurers started adding these around 2012-2014 in response to high claim volume in hail-prone states like Texas, Colorado, and Oklahoma. What surprised me, even after years of reviewing claims, was how broadly some carriers define "cosmetic."
 
 A dented metal roof that's lost its protective coating? Cosmetic, per some adjusters. A fiberglass shingle that's bruised and cracked below the surface granules? Could go either way. Gutters with impact marks but no functional loss? Almost always cosmetic. The thing is, cosmetic damage left untreated becomes functional damage in three to five years when moisture gets in. The policy won't care about that future claim's origin story.
 
@@ -57,7 +57,7 @@ Then check your gutters and downspouts for granule accumulation. A heavy granule
 
 I'd also strongly suggest picking up a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) to place in your attic or near vulnerable ceiling areas if you suspect roof penetration. A timestamped alert showing active moisture intrusion strengthens a claim considerably. *(The site may earn a commission on this link.)*
 
-File your claim promptly. Don't sign anything quickly, though. Call the number on your declarations page, get a claim number, and ask for an estimated timeline for an adjuster visit.
+[File your claim promptly](/homeowners-insurance-claim-process/). Don't sign anything quickly, though. Call the number on your declarations page, get a claim number, and ask for an estimated timeline for an adjuster visit.
 
 ---
 

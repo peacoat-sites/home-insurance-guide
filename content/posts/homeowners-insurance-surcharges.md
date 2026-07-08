@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-07
 ---
 You open your renewal notice, and the number is higher than last year. Not by a little. Maybe it's $200 more, maybe $400, and there's no explanation attached beyond a vague line about "rate adjustments." You're not sure whether to call your agent, shop around, or just pay it and move on. If that's where you are right now, you're in good company. Surcharges are one of the least explained, most consequential parts of homeowners insurance, and most policyholders never fully understand what triggered them or what they can do about it.
 
@@ -57,17 +57,27 @@ What sets these off? A handful of causes account for most surcharges homeowners 
 
 **Attractive nuisances.** That's what insurers call trampolines and pools because they increase liability exposure. Add either one without telling your insurer, and you've got a coverage gap. Tell them, and you'll usually get surcharged or need a rider.
 
-**Roof age and condition.** Roofs over 15 to 20 years old increasingly get surcharged or downgraded to actual cash value (ACV) coverage instead of replacement cost. It's a significant coverage cut dressed up as a pricing adjustment.
+**[Roof age and condition](/homeowners-insurance-roof-age-restrictions/).** Roofs over 15 to 20 years old increasingly get surcharged or downgraded to actual cash value (ACV) coverage instead of replacement cost. It's a significant coverage cut dressed up as a pricing adjustment.
 
 **Credit-based insurance scores.** Most states let insurers use credit information as a rating factor. A dip in your credit score translates directly into a higher premium. The [Insurance Information Institute](https://www.iii.org/) has published guidance on how this works, and it's worth understanding if you've had any financial disruptions lately.
 
-**Lapse in coverage.** Even a short gap between policies signals risk to underwriters. Thirty days without insurance during a move or policy dispute can follow you.
+**[Lapse in coverage](/lender-placed-insurance/).** Even a short gap between policies signals risk to underwriters. Thirty days without insurance during a move or policy dispute can follow you.
 
 **Home-based business activity.** Running any kind of business from your home without proper endorsements triggers a surcharge or an exclusion. Standard homeowners policies weren't written for business activity.
 
 ---
 
 ## How Long Do Surcharges Last, and Will They Ever Go Away?
+
+| Surcharge Type | Typical Duration | Conditions for Removal |
+| --- | --- | --- |
+| Claims-related | 3-5 years | Surcharge drops when claim exits insurer's lookback period |
+| Credit-based | Variable | Improves when credit score improves; requires insurer re-evaluation |
+| Breed-related | Ongoing | Removed when dog is no longer on policy |
+| Pool/Trampoline | Ongoing | Removed when feature is removed and reported to insurer |
+| Roof age | Ongoing until replacement | Removed after roof replacement with proof of completion |
+| Lapse in coverage | 3-5 years | Drops after lookback period expires |
+| Home-based business | Ongoing | Removed when business activity ceases or proper endorsement added |
 
 This is the question I hear most once people understand what a surcharge is. The answer depends on what caused it.
 

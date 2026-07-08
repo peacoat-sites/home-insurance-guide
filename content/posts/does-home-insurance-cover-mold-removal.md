@@ -23,6 +23,7 @@ faqs:
    a: "This is a separate issue from your homeowner's policy, which generally won't cover pre-existing mold. You might have a claim against the home inspector for professional negligence, or against the seller if there's evidence they knew and concealed it. Talk to an attorney, not your insurer, on this one."
  - q: "Will making a mold claim raise my premiums?"
    a: "Potentially, yes. Water and mold claims are among the claim types that can flag a property as higher risk. Some insurers will raise your rate or, in states that permit it, non-renew a policy after a significant water damage claim. It's worth doing the math on remediation cost versus your deductible and potential premium impact before you file, especially for smaller claims."
+lastmod: 2026-07-07
 ---
 
 Your neighbor calls in a panic. They found black mold behind their washing machine, called their insurer, and got told the damage wasn't covered. Now they're staring at a $4,000 remediation quote with no help on the way. I've seen this exact situation play out hundreds of times, and the frustration is completely legitimate, because the rules around mold coverage are genuinely confusing, written in policy language that seems designed to obscure rather than inform.
@@ -40,6 +41,16 @@ If the mold grew because a slow drip under your sink went unnoticed for eight mo
 The word "sudden" is doing a lot of work in standard homeowner policies. It appears in the covered perils language, and it's the hinge point for most mold disputes.
 
 ## Covered versus excluded: where the line actually sits
+
+| Coverage Scenario | Mold Covered? | Example |
+| --- | --- | --- |
+| Burst pipe (sudden) | Yes | Pipe bursts in January; mold from water damage covered |
+| Slow leak (gradual) | No | Drip under sink unnoticed for 8 months; mold not covered |
+| Appliance malfunction | Yes | Water heater fails; resulting mold covered |
+| Roof damage from storm | Yes | Storm tears off shingles; rain-driven mold covered |
+| Flooding | No | Standard HO-3 policies exclude flood damage and mold |
+| Bathroom/basement humidity | No | Mold with no discrete triggering event; not covered |
+| Pre-existing mold | No | Mold that existed before purchase; typically excluded |
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

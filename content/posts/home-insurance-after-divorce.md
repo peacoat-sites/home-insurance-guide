@@ -23,6 +23,7 @@ faqs:
    a: "Coverage continues while both parties are still living in the home under the original policy. But this is exactly when you should be documenting personal property, reviewing your dwelling coverage limits, and planning the transition. Don't wait until someone moves out to start those conversations."
  - q: "Will my home insurance premium change after my divorce is finalized?"
    a: "Possibly. Some insurers factor in marital status as part of their rating models, to the extent permitted by state law. You might also see changes if you're removing a named insured, updating your coverage amounts, or switching to a new policy entirely. Ask your agent directly what changes to expect and get quotes from at least two other carriers before renewing."
+lastmod: 2026-07-07
 ---
 
 Most people going through divorce are focused on the house itself. Who keeps it. Who buys out who. What the mortgage looks like going forward. What almost nobody thinks about until something goes wrong: the homeowner's insurance policy quietly sitting in the background, still written the way it was when two people lived there together.
@@ -47,13 +48,13 @@ The National Association of Insurance Commissioners (NAIC) has noted that life c
 
 This isn't a situation where you wait until the divorce is final. You need to act as soon as you know who's staying in the house.
 
-The spouse keeping the home needs to contact the insurer immediately and clarify the named insured situation. Get your name on the policy as the primary. If the current policy is in your ex's name only, you may need to start a fresh policy. Don't assume you're covered just because you're living there.
+The spouse keeping the home needs to contact the insurer immediately and clarify the named insured situation. Get your name on the policy as the primary. If the current policy is in your ex's name only, you may need to start a [fresh policy](/home-insurance-after-refinancing/). Don't assume you're covered just because you're living there.
 
 The spouse who leaves needs to understand something critical: the day you move out, your personal property inside that house is likely no longer covered by the homeowner's policy. Renters insurance for your new place is not optional. I've had readers email me genuinely shocked to learn that their laptops, clothing, and furniture sitting in a storage unit after the move were in a coverage gap while they "figured things out."
 
 A few other pressure points worth addressing directly:
 
-Liability coverage. If your ex is still on the policy but no longer lives there, you could have liability exposure tied to their activities. Get clarity on this with your insurer. The Insurance Information Institute (III) recommends reviewing all named insureds whenever there's a major life change, precisely because liability follows named parties, not just the physical dwelling.
+Liability coverage. If your ex is still on the policy but no longer lives there, you could have liability exposure tied to their activities. Get clarity on this with your insurer. The Insurance Information Institute (III) recommends reviewing all named insureds whenever there's a [major life change](/homeowners-insurance-after-marriage/), precisely because liability follows named parties, not just the physical dwelling.
 
 Rebuilding cost estimates. If years have passed since the original policy was written, the dwelling coverage limit may no longer reflect current rebuild costs. Inflation in construction materials has been brutal in recent years, and as of July 2026, rebuild costs per square foot in many markets remain substantially higher than they were even three years ago. A divorce is a natural trigger to get a fresh appraisal and make sure you're not sitting on a $280,000 dwelling limit when your house would cost $410,000 to rebuild.
 

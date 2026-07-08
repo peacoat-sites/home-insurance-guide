@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 Most homeowners find out what their policy doesn't cover right after something breaks. I've sat with hundreds of people in that position, staring at a denial letter and realizing they've been paying for something that doesn't protect what they thought it did. A burst pipe in January? Covered. A slow leak hidden behind drywall for six months that turned into mold? Not a chance. Understanding this stuff before disaster hits is one of the smartest financial moves you can make.
 
@@ -31,7 +31,16 @@ Most homeowners find out what their policy doesn't cover right after something b
 
 ## The Core Coverages: What a Standard Policy Actually Includes
 
-A standard homeowners policy, technically an HO-3 in most states, bundles several different coverages together. They work differently. Mixing them up is where people stumble.
+| Coverage Type | Basis | Key Characteristics |
+| --- | --- | --- |
+| Dwelling (Coverage A) | Open Perils | Covers physical structure; everything covered except explicit exclusions |
+| Other Structures (Coverage B) | Open Perils | Typically 10% of dwelling limit; covers detached garages, fences, sheds |
+| Personal Property (Coverage C) | Named Perils | Narrower coverage; subject to sub-limits on jewelry, cash, firearms, electronics, art |
+| Loss of Use (Coverage D) | Conditional | Covers temporary housing and living expenses; usually 20-30% of dwelling coverage |
+| Liability (Coverage E) | N/A | Protects against injury claims and property damage; typically starts at $100,000 |
+| Medical Payments (Coverage F) | N/A | No-fault coverage for guest injuries; small amounts for minor incidents |
+
+A standard homeowners policy, technically an [HO-3](/ho-3-policy-explained/) in most states, bundles several different coverages together. They work differently. Mixing them up is where people stumble.
 
 **Dwelling coverage (Coverage A)** rebuilds the physical structure of your home if a covered peril damages it. That word "covered" does a lot of work. An HO-3 covers the dwelling on an "open perils" basis, meaning everything's covered except what's explicitly excluded. Sounds broad. It is. But the exclusions list is longer than most people realize.
 
@@ -41,7 +50,7 @@ A standard homeowners policy, technically an HO-3 in most states, bundles severa
 
 **Loss of use (Coverage D)** pays for temporary housing, food, and other living expenses if a covered loss makes your home unlivable. It has its own limit, usually 20-30% of dwelling coverage. And it only applies when the loss itself was covered. If flooding forces you out, your standard policy won't help.
 
-**Liability (Coverage E)** protects you if someone gets hurt on your property or you accidentally damage theirs. It covers legal defense too. Most policies start at $100,000, but ask about higher limits if you have a pool, a trampoline, or a dog.
+**[Liability (Coverage E)](/home-insurance-liability-coverage/)** protects you if someone gets hurt on your property or you accidentally damage theirs. It covers legal defense too. Most policies start at $100,000, but ask about higher limits if you have a pool, a trampoline, or a dog.
 
 **Medical payments (Coverage F)** is small no-fault coverage that pays minor medical bills for guests injured on your property, whether you were negligent or not. Think of it as a goodwill payment that keeps minor incidents from becoming lawsuits.
 

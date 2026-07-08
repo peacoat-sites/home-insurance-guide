@@ -12,6 +12,7 @@ author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 slug: "nearly-half-of-home-insurance-claims-pay-out-nothing"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you're renewing your homeowner's policy this summer, or you've already paid your premium and feel reasonably covered, this is a hard moment to read about. You've been doing the responsible thing. You've been paying. And you might be wondering, if something actually happens to my house, will any of this matter?
 
@@ -32,6 +33,13 @@ The biggest one is the shift from fixed-dollar deductibles to percentage-based d
 Percentage deductibles have become especially common for wind and hurricane damage, the exact scenarios that matter most as we head into storm season. If your policy renewed in the last two or three years and you didn't specifically check, there's a real chance your deductible structure changed without you realizing.
 
 ## Florida Is Where This Gets Particularly Bad
+
+| Insurer | Zero-Payout Rate | Context |
+| --- | --- | --- |
+| Citizens Property Insurance (FL) | 61% | State-backed insurer of last resort |
+| State Farm Florida | 53% | Major carrier in high-risk state |
+| Slide Insurance | 50% | Newer carrier absorbing Citizens policies |
+| Five largest U.S. insurers (aggregate) | 44% | State Farm, Allstate, Liberty Mutual, USAA, Farmers (2025) |
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,6 +23,7 @@ faqs:
     a: "This is where claims get complicated. If there's evidence the pipe had been leaking slowly over weeks or months (staining, mold, soft drywall near the pipe), some insurers will argue this was a maintenance issue rather than a sudden loss and deny or reduce the claim. Document when you first noticed the problem and be clear in your claim report that the loss was unexpected."
   - q: "Is there any coverage if the damage happened in a detached garage or outbuilding?"
     a: "It depends on whether your policy extends to 'other structures' and whether that structure had any heat source. Detached garages are often covered under an Other Structures provision, but the same preventable-damage exclusions apply. An unheated garage with no insulation bursting a pipe in January is a tough claim. Check whether your Other Structures limit (typically 10% of dwelling coverage) is adequate for what you'd lose."
+lastmod: 2026-07-07
 ---
 
 Every February, I'd open a new stack of claims and know, without even looking at the first page, that frozen pipes would dominate the pile. It was that predictable. Homeowners calling in furious, confused, sometimes in tears because they'd come home to inches of standing water in their kitchen or a ceiling that had buckled overnight. And the question that came up in almost every single call: "This is covered, right?"
@@ -33,7 +34,15 @@ That's what this article is actually about. Not the pipes themselves. The covera
 
 ## What Your Policy Is (and Isn't) Doing for You
 
-Most standard homeowners policies cover sudden and accidental water damage from frozen pipes. If a pipe freezes and bursts while you're living normally in your home, your insurer will generally pay to repair the pipe, dry out the structure, replace damaged flooring or drywall, and in some cases cover damaged personal property.
+| Scenario | Coverage Status | Key Factor |
+| --- | --- | --- |
+| Pipe freezes and bursts during normal occupancy | Generally covered | Sudden and accidental damage |
+| Home left unoccupied 30-60 days in winter | May be covered | Depends on policy language and precautions taken |
+| Home left unoccupied 61+ days | Likely not covered | Vacancy exclusion typically applies |
+| Homeowner maintained adequate heat and precautions | Better coverage prospects | Documentation of prevention measures |
+| Homeowner failed to prevent freezing conditions | Likely denied | Breach of duty to maintain reasonable care |
+
+Most standard homeowners policies cover sudden and accidental [water damage from frozen pipes](/home-insurance-water-damage-coverage/). If a pipe freezes and bursts while you're living normally in your home, your insurer will generally pay to repair the pipe, dry out the structure, replace damaged flooring or drywall, and in some cases cover damaged personal property.
 
 That word "sudden" is doing a lot of work in that sentence.
 
@@ -57,7 +66,7 @@ I reviewed one claim years ago where a couple had spent four months at their Flo
 
 That situation stuck with me. $40,000. One day.
 
-If you have a winter home, a rental property that sits empty between tenants, or you're planning any trip longer than a month, call your insurer before you leave and ask explicitly: "Is my frozen pipe coverage affected by how long the home is unoccupied?" Get the answer in writing if you can.
+If you have a winter home, a rental property that sits empty between tenants, or you're planning any trip longer than a month, call your insurer before you leave and ask explicitly: "Is my [frozen pipe coverage affected](/home-insurance-dispute-resolution/) by how long the home is unoccupied?" Get the answer in writing if you can.
 
 ## What the Claim Process Actually Looks Like
 

@@ -12,6 +12,7 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "how-trump-tariffs-are-quietly-inflating-your-home-insurance-bill"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: your home insurance renewal lands in your inbox, and the premium has jumped again. You haven't filed a claim in years. Nothing burned down. No pipe burst. You live in the same house, on the same street, and yet you're paying noticeably more than last year. You call your agent, who offers something vague about "market conditions." What they probably won't tell you is that a significant piece of that increase has nothing to do with your risk profile. It has to do with steel and lumber sitting in a port somewhere, waiting to clear a tariff schedule.
 
@@ -23,9 +24,20 @@ Home insurance isn't priced on what your house is worth on the real estate marke
 
 When the cost of building a home rises, insurers raise dwelling coverage limits at renewal to keep pace. That's not a scam, it's actually protecting you from being underinsured. The problem right now is that those rebuild costs have been artificially inflated by tariff policy. The National Association of Home Builders estimates that tariffs added roughly $10,900 to the cost of building an average new home, a figure driven by steep increases in imported steel, aluminum, and lumber prices. You didn't renovate. You didn't add a pool. The materials just got more expensive, and your insurer adjusted your coverage accordingly.
 
-The Deloitte 2026 Engineering and Construction Outlook puts the scale of this in sharp relief: effective tariff rates on construction goods climbed to a 40-year high of 25% to 30% in 2025. That kind of jump doesn't stay in the lumber yard. It moves through the entire construction supply chain and eventually lands in the replacement cost estimates that underwriters use to set your limits.
+The Deloitte 2026 Engineering and Construction Outlook puts the scale of this in sharp relief: effective tariff rates on construction goods climbed to a 40-year high of 25% to 30% in 2025. That kind of jump doesn't stay in the lumber yard. It moves through the entire construction supply chain and eventually lands in the [replacement cost estimates](/you-are-paying-more-for-home-insurance-but-covered-for-less/) that underwriters use to set your limits.
 
 ## The 12-to-18 Month Lag That Explains Why This Is Hitting Now
+
+| Factor | Timeline/Figure | Impact |
+| --- | --- | --- |
+| Tariff increases on construction goods | 25%-30% effective rate (2025) | 40-year high |
+| Added cost to new home construction | ~$10,900 per home | Drives replacement cost estimates |
+| Claims settlement cost increase | 20%-30% vs. pre-tariff levels (2026) | Materials for repairs cost more |
+| Policy pricing lag | 12-18 months | Tariffs from 2025 hit bills in mid-2026 |
+| Estimated annual premium increase | ~$106 per household | 38% faster growth than baseline |
+| Estimated average annual premium | ~$3,626 (with tariff impact) | Includes tariff acceleration |
+| Supreme Court ruling date | February 2026 | Did not reverse already-paid tariffs |
+| Tariffs already paid by U.S. companies | $100+ billion | Already moved through supply chains |
 
 > **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

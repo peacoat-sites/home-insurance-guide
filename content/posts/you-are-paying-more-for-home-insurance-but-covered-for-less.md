@@ -14,6 +14,7 @@ author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 slug: "you-are-paying-more-for-home-insurance-but-covered-for-less"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: your neighbor's house burns down in a wildfire. They had insurance, paid every premium on time, never missed a renewal. Then the adjuster calls with the payout number, and it's $140,000 short of what it actually costs to rebuild. That's not a horror story I'm making up. That's the documented reality for 74% of homeowners affected by Colorado's 2021 Marshall Fire, according to a 2025 University of Colorado study. The average coverage gap was $139,000. People did everything right and still got crushed.
 
@@ -21,9 +22,20 @@ Now multiply that scenario by the current moment: June 2026, and the picture is 
 
 ## You're Paying for the Policy, Not the Protection
 
+| Metric | Value | Source |
+| --- | --- | --- |
+| Premium increase (2020-2025) | 46.8% | LendingTree 2026 State of Home Insurance Report |
+| Premium increase (2022-2026) | ~45% | Insurify analysis, June 2026 |
+| Dwelling limit increase (2022-2026) | <12% | Article analysis |
+| Rebuild cost increase (past 5 years) | ~30% | Insurify analysis, June 2026 |
+| Average coverage gap (Marshall Fire, 2021) | $139,000 | University of Colorado study, 2025 |
+| Estimated underinsured Americans | 80+ million | APCIA Harris Poll, 2022 |
+| Potential cost increase per home from tariffs | ~$11,000 | National Association of Home Builders |
+| Projected home insurance acceleration from tariffs | 38% faster | Insurify projection, January 2026 |
+
 The disconnect between what you're paying and what you'd actually get paid out is the central problem right now, and it's gotten worse fast. Premiums are up roughly 45% since 2022. Your dwelling limit, the part of your policy that pays to rebuild your actual home, has increased less than 12% over that same period. That gap isn't a rounding error. It's a structural failure hiding inside your renewal notice every year.
 
-Rebuild costs have jumped nearly 30% over the past five years. Inflation, labor shortages, supply-chain disruptions still haven't fully resolved. The same Insurify analysis from June 2026 notes that insurers have been raising rates aggressively to protect their own balance sheets after years of catastrophic losses. What they haven't been doing, systematically, is making sure your dwelling limit keeps pace with what your home would actually cost to rebuild today.
+Rebuild costs have jumped nearly 30% over the past five years. Inflation, labor shortages, supply-chain disruptions still haven't fully resolved. The same Insurify analysis from June 2026 notes that insurers have been raising rates aggressively to protect their own balance sheets after years of [catastrophic losses](/why-the-biggest-home-insurers-are-denying-nearly-half-of-all-claims/). What they haven't been doing, systematically, is making sure your dwelling limit keeps pace with what your home would actually cost to rebuild today.
 
 A homeowner who set their coverage limit in 2020 and accepted the default annual adjustments on renewal could easily be sitting on a policy that would cover maybe 70 cents of every rebuild dollar. The 2022 APCIA Harris Poll put the underinsurance problem at more than 80 million Americans. Two out of three homeowners. Given everything that's happened to construction costs since then, that number is almost certainly worse now.
 
@@ -41,7 +53,7 @@ Lumber costs, steel framing components, electrical copper, concrete reinforcemen
 
 Most policies have some form of inflation guard or automatic dwelling adjustment built in. Insurers love to mention this in sales conversations. What they mention less often is that these adjustments are typically modest, tied to general construction cost indices, and nearly always lag real-world rebuild costs. I've seen policies where the annual automatic adjustment was 4% while actual regional rebuild costs rose 12% in that same year.
 
-Some insurers offer "guaranteed replacement cost" or "extended replacement cost" endorsements, which provide more cushion. But these endorsements aren't always offered, aren't always explained, and in high-risk areas some carriers have quietly stopped issuing them altogether. The Insurance Information Institute flagged in a December 2025 issue brief that persistent climate-related losses and elevated replacement costs are fundamentally reshaping what coverage options are even available to homeowners in many markets.
+Some insurers offer "guaranteed replacement cost" or "extended replacement cost" endorsements, which provide more cushion. But these endorsements aren't always offered, aren't always explained, and in high-risk areas some carriers have quietly stopped issuing them altogether. The Insurance Information Institute flagged in a December 2025 issue brief that [persistent climate-related losses](/hail-and-wind-are-now-the-biggest-threat-to-your-home-insurance/) and elevated replacement costs are fundamentally reshaping what coverage options are even available to homeowners in many markets.
 
 Don't assume your auto-adjustment is protecting you. Pull your declarations page right now, find your coverage limit, and run it against a current rebuild cost estimator. Your agent can help, or you can use a contractor estimate if you've had any recent work done. The number on your policy and the number your home would actually cost to rebuild may be very different. That conversation is worth having before you need to file a claim.
 

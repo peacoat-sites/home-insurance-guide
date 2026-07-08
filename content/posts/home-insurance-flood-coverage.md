@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-
+lastmod: 2026-07-07
 ---
 Your basement fills with two feet of water after a heavy rainstorm. You call your insurance company, relieved that you've been paying your homeowners premium for years. Then comes the gut punch: "I'm sorry, but flood damage isn't covered under your policy." That call happens thousands of times every year. After 14 years reviewing claims, I can tell you that flood exclusions are one of the most consistently misunderstood gaps in residential insurance, and they catch good, responsible homeowners completely off guard.
 
@@ -56,11 +56,19 @@ There are other meaningful gaps:
 - Temporary living expenses (additional living expenses) aren't covered by the NFIP. If your home becomes uninhabitable after a flood, you're paying for the hotel yourself.
 - Landscaping, decks, patios, fences, and swimming pools are excluded.
 - Vehicles aren't covered (that's what comprehensive auto coverage handles).
-- Damage from mold or mildew that you could have prevented after the flood isn't covered.
+- [Damage from mold or mildew](/home-insurance-sewer-backup-coverage/) that you could have prevented after the flood isn't covered.
 
 Because NFIP caps are modest, homeowners with higher-value properties often need excess flood insurance from private carriers, which layers additional coverage above NFIP limits. If you're trying to understand how your overall coverage fits together, our [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) walks through what "enough" actually looks like for your specific home.
 
 ## The National Flood Insurance Program vs. Private Flood Insurance
+
+| Feature | NFIP | Private Flood Insurance |
+|---|---|---|
+| Building coverage limit | $250,000 | Often $500,000+ |
+| Contents coverage limit | $100,000 | Often higher |
+| Additional living expenses | Not covered | Often included |
+| Waiting period | 30 days (standard) | Often 10-14 days |
+| Basement contents | Excluded | Sometimes covered |
 
 The NFIP isn't your only option anymore. Private flood insurance has expanded significantly, and for some homeowners it's genuinely a better fit. Here's how they stack up:
 
