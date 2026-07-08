@@ -1,5 +1,5 @@
 ---
-title: "Manufactured Home Coverage"
+title: "Manufactured Home Insurance: What's Actually Covered"
 date: 2026-07-01T12:26:32.679363+00:00
 draft: false
 description: "Learn what manufactured home coverage protects, what it excludes, and how to find the right policy to safeguard your mobile or manufactured home."
@@ -23,6 +23,7 @@ faqs:
    a: "Technically, 'mobile home' usually refers to units built before June 15, 1976, when HUD standards went into effect. 'Manufactured home' refers to units built after that date. Insurers treat them somewhat differently, and older pre-HUD units are harder and more expensive to insure because of the construction differences. If you're buying a pre-1976 unit, get the insurance situation sorted out before you close."
  - q: "Does my manufactured home policy cover it if a guest is injured on my property?"
    a: "Liability coverage in a manufactured home policy works similarly to a standard homeowner policy: it covers you if someone is injured on your property and you're found legally responsible, up to your policy limit. Standard limits often start at $100,000, and I'd honestly suggest going higher if you can. An umbrella policy can extend that coverage for relatively low additional cost."
+lastmod: 2026-07-08
 ---
 
 Most people buying a manufactured home have no idea their standard HO-3 homeowner policy won't cover it. I know this because I spent 14 years on the other side of the desk, and I watched it happen over and over again: someone files a claim after a windstorm or a pipe freeze, and the denial letter arrives because the policy they were sold was written for site-built construction. The language is buried, the agent sometimes didn't catch it, and by then it's too late to fix anything.

@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Vs Home Warranty"
+title: "Insurance vs Warranty: Which Protects Your Home"
 date: 2026-06-21T12:04:01.244187+00:00
 draft: false
 description: "Learn the key differences between homeowners insurance and a home warranty so you can decide which coverage best protects your home and budget."
@@ -23,7 +23,7 @@ faqs:
    a: "Usually not for the first few years. New construction typically comes with a builder's warranty (often one year on workmanship, two years on systems, ten years on structural), and appliances carry manufacturer warranties. You're paying for coverage you probably already have. Revisit the question around year four or five when those warranties start expiring."
  - q: "Does homeowners insurance cover foundation problems?"
    a: "Almost never through standard policies. Settling, cracking, and foundation movement are typically excluded as earth movement or gradual deterioration. Flood-related foundation damage may be covered under a separate flood insurance policy, but standard homeowners insurance won't touch most foundation claims. If you're buying in an area with expansive soil or a history of foundation movement, this is a question worth asking your agent in writing before you close."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people buy both without fully understanding either. That's not a knock on you, the insurance industry and the home warranty industry have every incentive to blur the lines. Confused buyers buy more coverage and ask fewer questions. Here's what I tell people who come to me after a claim denial: the confusion usually started on the day they signed up.

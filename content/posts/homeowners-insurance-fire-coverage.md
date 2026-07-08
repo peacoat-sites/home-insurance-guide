@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Fire Coverage"
+title: "Does Your Homeowners Policy Cover Fire Damage?"
 date: 2026-05-23T03:32:50.529878+00:00
 draft: false
 description: "Learn what homeowners insurance fire coverage includes, what it excludes, and how to ensure your home and belongings are fully protected after a fire."
@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just watched the news coverage of a house fire three blocks away, or maybe you smelled smoke last night and it got you thinking. Or perhaps you're sitting down to renew your policy and you're staring at a declarations page that might as well be written in a foreign language. Whatever brought you here, you're asking the right question at the right time: does my homeowners insurance actually cover fire damage, and what does that really mean in practice? The answer is mostly yes, but the word "mostly" is doing a lot of heavy lifting in that sentence, and that's exactly what we need to unpack.
 

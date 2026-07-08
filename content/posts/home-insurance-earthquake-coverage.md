@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Earthquake Coverage"
+title: "Does Your Home Insurance Cover Earthquake Damage?"
 date: 2026-05-28T05:21:50.252769+00:00
 draft: false
 description: "Protect your home from earthquake damage. Learn what earthquake coverage includes, how much it costs, and whether you need it in your area."

@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Wildfire Risk"
+title: "Wildfire Risk: How To Protect Your Home Insurance"
 date: 2026-06-24T12:12:28.616732+00:00
 draft: false
 description: "Learn how wildfire risk affects your home insurance rates, coverage options, and what steps homeowners can take to protect their property and policy."
@@ -23,6 +23,7 @@ faqs:
    a: "Sometimes, yes, though the discount varies a lot by insurer and state. Documented defensible space, Class A roofing, and ember-resistant vents are the most commonly rewarded features. More importantly, mitigation can affect whether standard market carriers will write you a policy at all, which matters more than the premium difference."
  - q: "What does wildfire insurance NOT cover that surprises people?"
    a: "A few things catch people off guard: debris removal costs above the policy sublimit, the cost to meet updated building codes during reconstruction (often requires a separate code upgrade endorsement), landscaping replacement, and additional living expenses once the ALE coverage cap or time limit is reached. Read those specific sections before you assume you're fully covered."
+lastmod: 2026-07-08
 ---
 
 Most people assume their home insurance policy will cover a wildfire. After all, fire is fire, right? I spent 14 years reviewing claims, and I'll be honest: that assumption is getting more people badly hurt financially than almost anything else I saw in that job.

@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Mold Coverage"
+title: "Does Your Homeowners Policy Cover Mold Damage?"
 date: 2026-05-25T07:24:16.279125+00:00
 draft: false
 description: "Learn whether homeowners insurance covers mold damage, what exclusions apply, and how to protect your home and finances with the right policy coverage."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and [water damage is covered](/home-insurance-water-damage-coverage/), so it all works out. I spent 14 years reviewing claims that started exactly that way, and I'll be honest: that assumption gets people into serious financial trouble more often than almost any other coverage gap I've seen.
 

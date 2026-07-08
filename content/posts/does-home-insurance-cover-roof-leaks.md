@@ -1,5 +1,5 @@
 ---
-title: "Does Home Insurance Cover Roof Leaks"
+title: "When Your Roof Leaks: What Home Insurance Covers"
 date: 2026-06-01T15:37:42.612271+00:00
 draft: false
 description: "Find out if home insurance covers roof leaks, what conditions apply, and when claims may be denied. Learn how to protect your home and maximize your coverage."
@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You wake up to a water stain spreading across your bedroom ceiling. Maybe you heard dripping in the night, or maybe you just spotted it on a Sunday morning with coffee in hand, stomach dropping as you realize what you're looking at. Your first thought is almost certainly: *does my homeowner's insurance cover this?* The honest answer is: it depends on what caused the leak, and that distinction matters more than most people realize until they're standing in the middle of a claim denial.
 

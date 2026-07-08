@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Binder"
+title: "Your Insurance Binder: Protection While You Shop"
 date: 2026-07-04T11:14:44.029619+00:00
 draft: false
 description: "A homeowners insurance binder is a temporary proof of coverage document. Learn what it includes, when you need it, and how to get one fast."

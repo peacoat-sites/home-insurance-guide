@@ -1,5 +1,5 @@
 ---
-title: "How To File A Home Insurance Claim"
+title: "File Your Home Insurance Claim in 5 Steps"
 date: 2026-06-02T12:54:01.084167+00:00
 draft: false
 description: "Learn how to file a home insurance claim step by step. We cover documentation, deadlines, and tips to maximize your payout and speed up the process."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners assume filing a claim is the hard part. I'll be honest: after 14 years reviewing claims from the other side of the desk, I can tell you the hard part is everything that happens in the first 48 hours before most people even pick up the phone. The decisions you make in that window, what you say, what you photograph, what you touch, can meaningfully affect whether your claim pays out in full, gets partially denied, or triggers a coverage dispute that drags on for months. I've seen well-documented claims sail through in two weeks. I've also seen legitimate losses turn into six-month fights because the homeowner unknowingly made four small mistakes on day one. This guide is about making sure you're in the first group.
 

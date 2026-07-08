@@ -1,5 +1,5 @@
 ---
-title: "Insurance Policy Declarations Page"
+title: "What Your Home Insurance Declarations Page Really Means"
 date: 2026-06-14T11:48:28.225298+00:00
 draft: false
 description: "Learn what an insurance policy declarations page is, what key information it contains, and why this important document matters for your coverage."
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. I spent 14 years on the other side of that claim, and I can tell you: that one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.
 

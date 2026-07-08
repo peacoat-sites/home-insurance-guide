@@ -1,5 +1,5 @@
 ---
-title: "Loss Of Use Coverage Home Insurance"
+title: "When Your Home Becomes Unlivable: What Loss of Use Covers"
 date: 2026-05-20T22:18:26.716991+00:00
 draft: false
 description: "Learn how loss of use coverage in home insurance pays for temporary living expenses if your home becomes uninhabitable after a covered disaster or damage."
@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your kitchen catches fire on a Tuesday night. By midnight the flames are out, but the smoke is so thick your home isn't livable. You're standing in your driveway at 1 a.m. with your family, nowhere to go. The next morning your insurance company calls and tells you they'll cover the hotel, the meals, the laundry while repairs happen. That's loss of use coverage. And if you've never read that section of your policy, you probably don't know what you actually have.
 

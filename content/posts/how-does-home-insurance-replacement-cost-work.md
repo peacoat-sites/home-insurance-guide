@@ -1,5 +1,5 @@
 ---
-title: "How Does Home Insurance Replacement Cost Work"
+title: "Why Your Home's Replacement Cost Matters More Than You Think"
 date: 2026-06-12T12:48:17.329478+00:00
 draft: false
 description: "Learn how home insurance replacement cost coverage works, what it pays out after a loss, and why it differs from actual cash value to protect your home fully."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people find out what "replacement cost" actually means at the worst possible moment: standing in a gutted living room, smoke still in the air, waiting for an adjuster to tell them what they're getting back.
 

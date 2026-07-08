@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance For Older Homes"
+title: "Protecting Older Homes: Insurance Options That Work"
 date: 2026-05-26T02:12:04.896081+00:00
 draft: false
 description: "Discover how homeowners insurance for older homes works, what coverage you need, and how to find affordable rates that protect your vintage or historic property"
@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You buy a charming 1920s Craftsman bungalow, fall in love with the original hardwood floors and built-in cabinetry, and then your insurance renewal notice arrives with a premium that makes your stomach drop. Or worse: you file a claim after a pipe bursts and discover your policy pays only a fraction of the actual repair cost because of something buried in the fine print called "actual cash value." This is one of the most common and painful surprises I saw during my 14 years reviewing claims, and it hits older home owners especially hard.
 

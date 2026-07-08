@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Credit Score Impact"
+title: "Your Credit Score's Hidden Impact On Home Insurance Rates"
 date: 2026-05-25T18:16:05.326947+00:00
 draft: false
 description: "Discover how your credit score affects home insurance rates. Learn why insurers use credit data, how to improve your score, and ways to lower your premium costs"

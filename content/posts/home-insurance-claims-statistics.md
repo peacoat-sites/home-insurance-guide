@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Claims Statistics"
+title: "What Most Home Insurance Claims Get Denied For"
 date: 2026-06-27T11:19:15.055951+00:00
 draft: false
 description: "Explore the latest home insurance claims statistics including common claim types, average payouts, and what homeowners claim most frequently."
@@ -23,7 +23,7 @@ faqs:
    a: "There's no single universal denial rate, and it varies significantly by insurer, region, and claim type. Maintenance exclusions and documentation gaps are the most common reasons for denial. If your claim is denied, you have the right to appeal and, in many states, to request an independent appraisal."
  - q: "Is it worth having a public adjuster help with my claim?"
    a: "For large, complicated claims, often yes. Public adjusters work for you rather than the insurer, and they typically charge 10% to 15% of the final settlement. On a $100,000 claim, that fee can be worth it if they negotiate a significantly higher payout. For a $4,000 roof repair, it usually isn't."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Every year, millions of American homeowners file a claim expecting the process to be straightforward, and millions of them are surprised. I've sat across the desk from enough policyholders to tell you: the surprise is almost never good.

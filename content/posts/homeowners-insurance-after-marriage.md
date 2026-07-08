@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance After Marriage"
+title: "Update Your Homeowners Insurance After Getting Married"
 date: 2026-06-11T13:49:08.894083+00:00
 draft: false
 description: "Getting married? Learn how marriage affects your homeowners insurance, what to update on your policy, and how to potentially save money by bundling coverage."
@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Getting married changes your insurance situation faster than most newlyweds realize. The gap between "we should probably update that" and actually doing it has cost couples real money.
 

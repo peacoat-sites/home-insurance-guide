@@ -1,5 +1,5 @@
 ---
-title: "Vacant Home Insurance"
+title: "Protect Your Empty House: Vacant Home Insurance Guide"
 date: 2026-06-12T12:46:07.763559+00:00
 draft: false
 description: "Protect your empty property with vacant home insurance. Learn what it covers, why standard policies fall short, and how to find the best rates for unoccupied ho"
@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If your house sits empty for more than 30 days, your standard homeowner's policy has probably already stopped covering it. Most people don't find out until they file a claim.
 

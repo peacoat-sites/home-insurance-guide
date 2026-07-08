@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Deductible Explained"
+title: "How Your Insurance Deductible Really Works"
 date: 2026-05-21T07:58:41.357006+00:00
 draft: false
 description: "Learn what a homeowners insurance deductible is, how it works, and how choosing the right amount can lower your premium and protect your finances when filing a "
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A neighbor of mine filed a roof claim after a hailstorm a few years back. She had a standard $1,000 deductible, the damage came in at $4,200, and she walked away expecting a check for $3,200. What she actually got was a letter explaining that her policy had a separate wind and hail deductible equal to 2% of her dwelling coverage, which was insured for $380,000. Her out-of-pocket cost wasn't $1,000. It was $7,600, and the insurer legally owed her nothing at all. She had never heard of a percentage deductible. Nobody explained it when she bought the policy.
 

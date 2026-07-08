@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Bicycle Coverage"
+title: "Your Bike Might Not Be Covered: What Home Insurance Includes"
 date: 2026-07-05T11:23:56.740456+00:00
 draft: false
 description: "Learn how home insurance covers your bicycle, what limits apply, and when a separate policy makes sense to fully protect your bike."

@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Tree Damage"
+title: "Tree Damage and Home Insurance: What's Covered"
 date: 2026-05-19T06:44:51.862036+00:00
 draft: false
 description: "Learn what home insurance covers for tree damage, including fallen trees, debris removal, and when your neighbor's tree damages your property."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You wake up at 2 a.m. to a sound like a cannon going off. A massive oak from your neighbor's yard has just crashed through your roof, and now rain is pouring into your living room while your family stands in the hallway in their pajamas. You grab your phone to call your insurance company, then pause: wait, whose insurance covers this? Yours? Theirs? Does it matter who owns the tree? 
 

@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance For New Construction"
+title: "New Construction Home Insurance: What Builders Miss"
 date: 2026-05-23T11:11:02.589910+00:00
 draft: false
 description: "Protect your newly built home with the right insurance coverage. Learn what new construction home insurance covers, costs, and how to find the best policy for y"

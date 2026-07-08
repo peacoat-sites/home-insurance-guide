@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Loyalty Discount"
+title: "Loyalty Rewards: How Long Homeowners Keep Their Insurer"
 date: 2026-06-26T12:05:13.077420+00:00
 draft: false
 description: "Find out how home insurance loyalty discounts work, how much you can save, and whether staying with your insurer beats switching to a cheaper policy."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and I'd do it before you have quotes in hand. Some insurers will offer a retention discount or match a competitor's rate if they think they're about to lose you. That conversation costs nothing. Whether what they offer is actually good enough is a separate question."
  - q: "How many years do I need to stay for the loyalty discount to kick in?"
    a: "It varies by insurer, but three years is a common threshold for the first tier of loyalty pricing. Some companies have multi-tier structures where discounts increase at five or ten years. The actual discount percentage and when it applies should be explicitly listed in your policy documents or available from your agent."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners assume that staying with the same insurer is rewarded. The company knows you, you've never filed a claim, you've paid on time for years. Surely that loyalty counts for something. I believed that too, for most of my career on the claims side. What I found when I started pulling actual policy data and talking to consumers as an advocate was considerably more uncomfortable.

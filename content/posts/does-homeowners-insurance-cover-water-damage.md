@@ -1,5 +1,5 @@
 ---
-title: "Does Homeowners Insurance Cover Water Damage"
+title: "Water Damage and Homeowners Insurance: What's Covered"
 date: 2026-05-31T11:11:32.534003+00:00
 draft: false
 description: "Learn which types of water damage homeowners insurance covers, what it excludes, and how to file a claim to protect your home and get the compensation you deser"
@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners assume water damage is water damage. A pipe bursts, the ceiling caves in, the floor buckles, and they reach for their insurance card confident that somewhere in that thick policy binder, this mess is covered. What I found after 14 years of reviewing those claims is that this assumption is wrong more often than it's right. The difference between a six-figure payout and a denial letter often comes down to a single word: *sudden*.
 

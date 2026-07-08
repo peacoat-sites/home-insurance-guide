@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Replacement Cost Vs Actual Cash Value"
+title: "Which Home Insurance Payout Do You Actually Need?"
 date: 2026-05-20T17:24:56.191477+00:00
 draft: false
 description: "Home insurance replacement cost vs actual cash value: understand the key differences, how each coverage works, and which option best protects your property."
@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your kitchen burns. Cabinets, appliances, flooring, gone. You'd paid $18,000 for all of it seven years ago. The adjuster's check arrives: $6,400. You're stunned. Everything worked fine until the fire. But your policy said "actual cash value," and depreciation just took the other $11,600. I watched this happen to policyholders during my 14 years adjusting claims. The look on their faces never changed, pure shock followed by justified anger, because nobody explained this choice when they bought the policy.
 

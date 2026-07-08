@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Identity Theft Coverage"
+title: "Does Your Homeowners Policy Cover Identity Theft?"
 date: 2026-05-28T11:55:57.910793+00:00
 draft: false
 description: "Discover how homeowners insurance identity theft coverage protects you financially. Learn what's covered, policy limits, and whether you need additional protect"
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-08
 ---
 Picture this: you get a call from a collections agency about a $14,000 medical debt you've never heard of. Someone used your Social Security number at a hospital three states away. You've spent the last six months disputing it, filed a police report, written letters you never thought you'd have to write, and you're only now discovering that your homeowner's insurance policy had an identity theft rider the whole time. You just never activated it. I've seen this exact situation play out more times than I'd like to count, and the frustration is always the same: the coverage was right there, buried in the endorsements section nobody reads.
 

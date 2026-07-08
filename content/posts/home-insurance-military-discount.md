@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Military Discount"
+title: "Military Home Insurance Discounts Explained"
 date: 2026-06-03T14:09:27.424711+00:00
 draft: false
 description: "Save on home insurance with military discounts. Learn how active duty, veterans, and their families can qualify for exclusive savings and lower their premiums t"
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you're active-duty, a veteran, or a military spouse renewing your homeowner's policy right now, you're probably wondering if there's a discount waiting for you. Short answer: sometimes yes, sometimes it's buried deep in the fine print, and sometimes what gets marketed as a "military discount" is really just good branding. After 14 years reviewing claims, I've seen the full range. I want to help you actually get something out of this, not just feel good about clicking a button labeled "military savings."
 

@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Water Damage Coverage"
+title: "Water Damage Claims: What Your Home Insurance Covers"
 date: 2026-05-20T22:48:34.225915+00:00
 draft: false
 description: "Learn what home insurance water damage coverage includes, what it excludes, and how to file a claim to protect your home and belongings from costly water damage"
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: you come home from a week-long vacation, open your front door, and hear it. That soft, unmistakable sound of running water. You follow it upstairs to the bathroom, where a supply line behind the toilet silently failed sometime on day two. The floor is warped. The ceiling below is sagging. Your hardwood hallway looks like a topographic map, all buckled and rippled. You call your insurance company expecting relief. Then they say it: "That looks like it may have been ongoing. We'll need to investigate before we can confirm coverage." I've watched this exact scenario play out dozens of times. The homeowner did nothing wrong. They still had to fight like hell for their claim. Understanding what your policy actually covers before water touches a single floorboard is the difference between financial disaster and a manageable problem.
 

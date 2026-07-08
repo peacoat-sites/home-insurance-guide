@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Swimming Pool Liability"
+title: "Pool Liability Coverage: What Homeowners Need To Know"
 date: 2026-06-05T12:23:51.208601+00:00
 draft: false
 description: "Discover how a swimming pool affects your home insurance liability coverage, what risks are involved, and how to protect yourself from costly lawsuits and accid"
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A neighbor's kid drowned in a backyard pool outside Columbus, Ohio in 2017. The family who owned the pool thought they had solid homeowner's insurance. They didn't. Their liability limit was $100,000. The lawsuit exceeded $400,000. Their policy had a specific exclusion because they hadn't told their insurer about the pool when it was installed. They lost their home.
 

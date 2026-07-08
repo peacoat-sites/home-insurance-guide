@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Dog Bite Coverage"
+title: "Does Your Homeowners Policy Cover Dog Bite Claims"
 date: 2026-05-21T23:20:45.610012+00:00
 draft: false
 description: "Learn how homeowners insurance covers dog bite claims, what limits apply, breed exclusions to watch for, and how to ensure you have enough liability protection."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-
+lastmod: 2026-07-08
 ---
 You bought your homeowner's policy, paid your premiums faithfully, and assumed your dog was covered. Then someone gets bitten. Maybe it's the neighbor kid who reached through the fence. Maybe it's a delivery driver who got too close to the front door. Maybe it's a family friend who your dog has met a dozen times. Suddenly you're looking at a potential liability claim, and you're realizing you have no idea whether your policy actually covers this. You're not alone. According to the Insurance Information Institute (III), dog bites and dog-related injuries account for more than one-third of all homeowners liability claim dollars paid out in the U.S. each year, with total costs running into the hundreds of millions annually.
 

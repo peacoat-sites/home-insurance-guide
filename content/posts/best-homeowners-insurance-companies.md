@@ -1,5 +1,5 @@
 ---
-title: "Best Homeowners Insurance Companies"
+title: "Top Homeowners Insurance Companies Ranked"
 date: 2026-05-25T17:16:52.107917+00:00
 draft: false
 description: "Discover the best homeowners insurance companies. Compare top providers by coverage, cost, and customer service to find the right policy for your home."
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A pipe bursts. Your kitchen floods. The damage is real, the stress is real, and then your insurer calls to say they'll cover about half of what repairs actually cost.
 

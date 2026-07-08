@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance After Refinancing"
+title: "Why Your Homeowners Policy Needs Updating After Refinancing"
 date: 2026-06-09T12:29:12.570861+00:00
 draft: false
 description: "Refinancing your home? Learn how it affects your homeowners insurance, what updates you may need to make, and how to ensure you stay fully protected after closi"

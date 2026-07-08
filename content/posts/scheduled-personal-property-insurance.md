@@ -1,5 +1,5 @@
 ---
-title: "Scheduled Personal Property Insurance"
+title: "Why Your Valuables Need Scheduled Personal Property Coverage"
 date: 2026-07-07T12:20:36.122150+00:00
 draft: false
 description: "Scheduled personal property insurance protects high-value items like jewelry and art beyond standard policy limits. Learn how it works and what it covers."

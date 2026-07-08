@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Frozen Pipes"
+title: "Does Your Homeowners Policy Cover Frozen Pipes?"
 date: 2026-07-07T12:18:41.108003+00:00
 draft: false
 description: "Learn how home insurance covers frozen pipe damage, what claims are typically denied, and how to protect your home before winter strikes."

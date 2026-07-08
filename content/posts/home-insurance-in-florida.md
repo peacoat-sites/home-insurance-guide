@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance In Florida"
+title: "Florida Home Insurance: What Coverage You Actually Need"
 date: 2026-05-18T04:00:10.696760+00:00
 draft: false
 description: "Discover everything you need to know about home insurance in Florida, including coverage options, average costs, and tips to find the best policy for your needs"
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-08
 ---
 If you've recently opened a homeowner insurance renewal notice in Florida and felt your stomach drop, you're not imagining things. Florida homeowners pay an average premium roughly three times the national average. In some coastal counties, insurers have simply stopped writing new policies altogether. Several major carriers have exited the state entirely in the last few years.
 

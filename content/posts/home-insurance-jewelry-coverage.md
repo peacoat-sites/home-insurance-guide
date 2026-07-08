@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Jewelry Coverage"
+title: "Your Jewelry Is Underinsured: What Home Insurance Really Covers"
 date: 2026-06-13T11:44:53.286643+00:00
 draft: false
 description: "Protect your valuable jewelry with home insurance coverage. Learn what's covered, policy limits, and when to add a rider for extra protection of your precious i"
@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people have no idea their jewelry is barely covered by their home insurance policy. Not as a minor gap. As in, you could lose a $6,000 engagement ring in a house fire and walk away with maybe $1,500. I watched this happen to claimants more times than I can count.
 

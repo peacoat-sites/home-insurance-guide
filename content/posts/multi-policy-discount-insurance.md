@@ -1,5 +1,5 @@
 ---
-title: "Multi-Policy Discount Insurance"
+title: "Bundle Your Policies And Lower Your Home Insurance"
 date: 2026-06-10T12:48:30.791074+00:00
 draft: false
 description: "Save money by bundling your home, auto, and life insurance policies. Learn how multi-policy discounts work and how to maximize your savings with top insurers."
@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people stumble on the multi-policy discount the way they stumble on a lot of things about insurance: by accident, usually years after they've already overpaid. A coworker mentions it. A new agent brings it up during a quote. Or you finally read your renewal notice closely and notice you're paying $340 a year more than your neighbor for almost identical coverage.
 

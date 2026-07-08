@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Lender Insurance Requirements"
+title: "What Your Lender Really Requires in Home Insurance"
 date: 2026-06-08T13:57:23.096632+00:00
 draft: false
 description: "Discover what insurance coverage mortgage lenders require before approving your home loan, including homeowners, PMI, and flood insurance essentials for borrowe"
@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your mortgage approval came through, and now there's a five-page insurance requirements document sitting in your email. Nobody explained this part. You're staring at terms like "dwelling coverage equal to replacement cost" and "loss payee endorsement" and wondering if your current homeowner's policy even qualifies, or whether you need to buy something entirely different before closing.
 

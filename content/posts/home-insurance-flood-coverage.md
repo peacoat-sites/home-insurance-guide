@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Flood Coverage"
+title: "Does Your Home Insurance Cover Flood Damage?"
 date: 2026-05-18T21:04:54.471287+00:00
 draft: false
 description: "Protect your home from flood damage. Learn about flood insurance coverage, what's included, costs, and how to choose the right policy for your property."
@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your basement fills with two feet of water after a heavy rainstorm. You call your insurance company, relieved that you've been paying your homeowners premium for years. Then comes the gut punch: "I'm sorry, but flood damage isn't covered under your policy." That call happens thousands of times every year. After 14 years reviewing claims, I can tell you that flood exclusions are one of the most consistently misunderstood gaps in residential insurance, and they catch good, responsible homeowners completely off guard.
 

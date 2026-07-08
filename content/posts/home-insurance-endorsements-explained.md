@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Endorsements Explained"
+title: "Add Coverage Without Buying a New Policy"
 date: 2026-07-04T11:16:58.462114+00:00
 draft: false
 description: "Learn how home insurance endorsements can customize your policy to fill coverage gaps and better protect your home, belongings, and finances."
@@ -23,7 +23,7 @@ faqs:
     a: "There's no universal answer, but water backup coverage and personal property replacement cost coverage are the two I'd push almost every homeowner toward reviewing seriously. After that, it depends on your property, assets, and risk profile."
   - q: "Will adding endorsements trigger a policy review or make me harder to insure?"
     a: "Adding endorsements doesn't typically trigger underwriting scrutiny by itself. Scheduling high-value items might prompt an appraisal requirement, but that's routine, not a red flag. If you're worried about this, ask your agent directly before making changes."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners file fewer than one claim per decade. That means for years at a stretch, your policy is just a document sitting in a drawer. You're probably not thinking about it until something goes wrong. And that's exactly when you discover that the standard policy you bought didn't actually cover the thing that just happened.

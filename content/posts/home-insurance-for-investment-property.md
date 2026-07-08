@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance For Investment Property"
+title: "Investment Property Insurance: What You Must Know"
 date: 2026-05-27T06:05:01.431863+00:00
 draft: false
 description: "Home insurance for investment property protects your rental or vacation property from damage and liability. Compare coverage options and rates today."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You buy a rental property, feel good about the investment, and assume your regular homeowners insurance policy has you covered. Then a tenant leaves the water running, walks out the door, and causes $40,000 in water damage. You file a claim. The insurer denies it. Why? Because you were using a homeowners policy on a property you don't occupy, and the insurer considers that a material misrepresentation. The claim is void. The loss is yours.
 

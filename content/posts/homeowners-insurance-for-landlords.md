@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance For Landlords"
+title: "Landlord Insurance: Protection Beyond Standard Homeowners"
 date: 2026-06-27T11:16:59.591951+00:00
 draft: false
 description: "Discover why standard homeowners insurance falls short for landlords and what coverage you actually need to protect your rental property and income."
@@ -23,7 +23,7 @@ faqs:
    a: "Landlord policies generally run 15% to 25% more than comparable homeowners coverage, though costs vary considerably by location, property type, and coverage limits. The gap is real but not enormous, and it reflects the legitimately different risk profile. Shopping multiple insurers is worth your time."
  - q: "My tenant wants to know if they're covered under my policy. What do I tell them?"
    a: "They're not. Your landlord policy covers the structure and your liability as the property owner. The tenant's belongings and their own personal liability are entirely separate. Tell them they need renters insurance, and consider making it a lease requirement. Renters insurance is inexpensive (often $15 to $20 a month) and it protects everyone involved when something goes wrong."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've recently bought a rental property, or you're thinking about converting your current home into one, there's a good chance you're staring at your existing homeowners policy wondering whether it still covers you. It might. Partially. And that partial coverage is exactly where the expensive surprises live.

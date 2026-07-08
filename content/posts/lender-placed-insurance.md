@@ -1,5 +1,5 @@
 ---
-title: "Lender Placed Insurance"
+title: "Lender Placed Insurance: Why It Costs More"
 date: 2026-06-10T12:50:30.879801+00:00
 draft: false
 description: "Learn what lender placed insurance is, why banks impose it, how it affects your mortgage, and steps you can take to avoid costly forced coverage on your propert"
@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners don't realize their insurance can be replaced without their permission. Then they get the bill.
 

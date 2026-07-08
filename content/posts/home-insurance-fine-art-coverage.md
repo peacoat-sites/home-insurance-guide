@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Fine Art Coverage"
+title: "Protecting Your Art Collection: What Home Insurance Covers"
 date: 2026-07-03T11:57:43.838928+00:00
 draft: false
 description: "Learn about home insurance fine art coverage options. Protect valuable paintings, sculptures, and collectibles with specialized endorsements and policy limits."
@@ -23,7 +23,7 @@ faqs:
    a: "Depends on the policy. Some insurers will let you choose. Others require their preferred restorer or will split costs if you use someone else. Ask before a claim happens. Get it in writing."
  - q: "What if I buy a new piece of art after my policy is already in effect?"
    a: "Call your agent and schedule it. Most carriers let you add scheduled items anytime. You'll pay a prorated premium for the rest of the policy year. Don't wait until something happens. Unscheduled art that gets damaged during that gap might not be covered."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 I spent 14 years watching claims get denied over fine art. Not because the art was damaged. Because the owner never actually disclosed it to the insurer. Or disclosed it wrong. And after all that, you'd think I'd have a simple answer for people: get separate coverage. But it's messier than that, and I want to show you exactly where the gaps are and how to avoid them.

@@ -1,5 +1,5 @@
 ---
-title: "What Is Loss Of Use Coverage Explained"
+title: "Why Loss of Use Coverage Matters for Homeowners"
 date: 2026-06-30T12:03:26.650333+00:00
 draft: false
 description: "Loss of use coverage pays for temporary housing and living expenses when your home becomes uninhabitable. Learn how it works and what it covers."
@@ -23,7 +23,7 @@ faqs:
    a: "You have the right to dispute that determination. Ask for the adjuster's habitability assessment in writing and request an itemized explanation. You can hire a public adjuster or an independent inspector to counter their assessment. If it becomes a formal dispute, your policy likely includes an appraisal or mediation clause. The NAIC consumer portal is a good starting point for understanding your state-specific rights."
  - q: "Does loss of use coverage pay my mortgage while I'm displaced?"
    a: "No. Your mortgage is an obligation you carry regardless of whether you're living in the home. Loss of use covers the additional costs of living elsewhere, not your baseline housing debt. This surprises a lot of people, and honestly, it's one of the most common misconceptions I heard during my claims years."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners couldn't tell you what loss of use coverage actually pays for. I know because I spent 14 years on the other side of those calls, watching people discover the hard way that "Additional Living Expenses" on their declarations page wasn't quite what they thought it was.

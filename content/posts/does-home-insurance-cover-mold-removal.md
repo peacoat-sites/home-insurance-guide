@@ -1,5 +1,5 @@
 ---
-title: "Does Home Insurance Cover Mold Removal"
+title: "Mold Damage: What Your Home Insurance Actually Covers"
 date: 2026-06-19T13:27:43.924470+00:00
 draft: false
 description: "Find out if home insurance covers mold removal, what policies typically include, and how to file a claim for mold damage in your house."
@@ -23,7 +23,7 @@ faqs:
    a: "This is a separate issue from your homeowner's policy, which generally won't cover pre-existing mold. You might have a claim against the home inspector for professional negligence, or against the seller if there's evidence they knew and concealed it. Talk to an attorney, not your insurer, on this one."
  - q: "Will making a mold claim raise my premiums?"
    a: "Potentially, yes. Water and mold claims are among the claim types that can flag a property as higher risk. Some insurers will raise your rate or, in states that permit it, non-renew a policy after a significant water damage claim. It's worth doing the math on remediation cost versus your deductible and potential premium impact before you file, especially for smaller claims."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your neighbor calls in a panic. They found black mold behind their washing machine, called their insurer, and got told the damage wasn't covered. Now they're staring at a $4,000 remediation quote with no help on the way. I've seen this exact situation play out hundreds of times, and the frustration is completely legitimate, because the rules around mold coverage are genuinely confusing, written in policy language that seems designed to obscure rather than inform.

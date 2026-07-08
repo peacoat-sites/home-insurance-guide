@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Sewer Backup Coverage"
+title: "Does Your Homeowners Policy Cover Sewer Backup?"
 date: 2026-06-18T12:46:17.687060+00:00
 draft: false
 description: "Learn how home insurance sewer backup coverage works, what it covers, policy limits, and how to add this essential endorsement to protect your home."
@@ -23,7 +23,7 @@ faqs:
    a: "They're related but distinct. Sewer backup is raw sewage or drainage coming up through your lines. Sump pump failure is groundwater or accumulated water that the pump couldn't remove, which then floods your basement. Most water backup endorsements cover both, but the policy language varies. Ask specifically about both scenarios, and ask whether power outage-related pump failures are included."
  - q: "Can I be denied a claim if I didn't maintain my sump pump?"
    a: "Yes. Insurers can deny or reduce claims if they can demonstrate negligence or lack of maintenance contributed to the loss. A sump pump with a dead battery backup, visible corrosion, or no maintenance history is a claim vulnerability. Test yours twice a year, replace the battery backup annually, and keep a simple record of when you did it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your standard homeowner's policy doesn't cover sewer backup. Not as a default. Not buried in the fine print as a reduced benefit. It flat-out excludes it, and if you've never been told that directly, you've been failed by whoever sold you your policy.
 

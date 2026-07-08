@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Coverage Limits Guide"
+title: "Coverage Limits That Actually Protect Your Home"
 date: 2026-05-18T13:45:36.283483+00:00
 draft: false
 description: "Learn how home insurance coverage limits work, what factors affect them, and how to choose the right amount to fully protect your home and belongings."

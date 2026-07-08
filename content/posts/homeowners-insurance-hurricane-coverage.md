@@ -1,5 +1,5 @@
 ---
-title: "Homeowners Insurance Hurricane Coverage"
+title: "Does Your Homeowners Policy Cover Hurricane Damage?"
 date: 2026-06-20T11:47:30.984727+00:00
 draft: false
 description: "Learn what homeowners insurance covers for hurricane damage, including wind, rain, and flooding, plus how to protect your home and file a claim."
@@ -23,7 +23,7 @@ faqs:
    a: "For many homeowners, especially those with homes valued above $250,000, private flood insurance is worth a serious look. NFIP caps building coverage at $250,000 and doesn't always include additional living expenses. Private policies can offer higher limits and additional features, though pricing varies significantly by location and risk. Get quotes from both."
  - q: "What if my neighbor's tree falls on my house during a hurricane?"
    a: "Your homeowners policy covers the damage to your home regardless of where the tree came from, assuming wind is the cause. Your neighbor isn't liable unless their negligence (a dead, obviously diseased tree they ignored) contributed to the damage. That's a harder case to make than most people expect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most homeowners in hurricane-prone states think they have hurricane coverage. They don't. What they have is wind coverage with a hurricane-shaped hole in it, and they find out the hard way when they file a claim and get handed a number far smaller than they expected.

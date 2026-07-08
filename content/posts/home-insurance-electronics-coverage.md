@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Electronics Coverage"
+title: "Your Electronics Deserve Real Coverage at Home"
 date: 2026-06-08T13:59:17.909338+00:00
 draft: false
 description: "Protect your TVs, laptops, and gadgets with home insurance electronics coverage. Learn what's covered, what's excluded, and how to maximize your policy today."
@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A reader emailed me last month after her basement flooded. Her 75-inch Samsung QLED, two gaming consoles, and a Sonos surround system she'd spent three years building sat in four inches of water. Total loss. Her homeowner's policy paid exactly zero dollars for any of it.
 

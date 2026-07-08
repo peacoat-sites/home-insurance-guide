@@ -1,5 +1,5 @@
 ---
-title: "Water Leak Sensor Insurance Discount"
+title: "Water Leak Sensors: How They Cut Your Insurance Costs"
 date: 2026-06-06T11:13:57.065304+00:00
 draft: false
 description: "Save money on home insurance with a water leak sensor. Discover how smart leak detectors can qualify you for valuable discounts and prevent costly water damage."
@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners have no idea their insurer might cut their premium just for plugging in a $20 sensor. I didn't either, until a claim I reviewed back in 2011 changed how I thought about water damage entirely.
 

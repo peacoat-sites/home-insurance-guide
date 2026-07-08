@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Shopping Mistakes To Avoid"
+title: "5 Home Insurance Mistakes That Cost Homeowners"
 date: 2026-06-18T12:44:07.675560+00:00
 draft: false
 description: "Avoid costly home insurance shopping mistakes with these expert tips. Compare coverage, read the fine print, and find the best policy for your home."
@@ -23,7 +23,7 @@ faqs:
    a: "Usually not, or only up to very low sublimits. Business property, including expensive equipment or inventory stored at home, typically requires a separate endorsement or a business owner's policy. If you work from home and own equipment worth more than a few hundred dollars, ask your agent specifically."
  - q: "What's the difference between a claims-made and occurrence policy for homeowners?"
    a: "Standard homeowner policies are occurrence-based, meaning they cover losses that happen while the policy is active, regardless of when you file. This matters most if you discover damage (like hidden mold) after switching carriers. Know which policy type you have before you cancel or switch."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people spend more time picking a Netflix subscription than they do shopping for home insurance. I know that sounds harsh, but after 14 years reviewing claims, I watched it play out constantly: policyholders who'd grabbed the cheapest quote online, signed whatever the agent sent over, and then called us genuinely shocked when we explained why their $40,000 claim was only paying out $11,000. That gap isn't bad luck. It's predictable. Almost entirely avoidable.
 

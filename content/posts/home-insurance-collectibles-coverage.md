@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Collectibles Coverage"
+title: "Protecting Your Collectibles: What Home Insurance Covers"
 date: 2026-06-03T14:11:20.563387+00:00
 draft: false
 description: "Protect your valuable collectibles with the right home insurance coverage. Learn what policies cover, coverage limits, and how to insure rare items properly."

@@ -1,5 +1,5 @@
 ---
-title: "Ho-3 Policy Explained"
+title: "What Your HO-3 Policy Actually Covers"
 date: 2026-06-15T15:33:56.013544+00:00
 draft: false
 description: "Learn what an HO-3 homeowners insurance policy covers, including dwelling, personal property, and liability protections explained simply."
@@ -23,7 +23,7 @@ faqs:
    a: "Be cautious. Insurers sometimes suggest limits that satisfy mortgage requirements without actually covering a full rebuild. Get an independent replacement cost estimate or ask your agent to run a replacement cost calculator. Being underinsured on Coverage A is one of the most painful things I watched happen to people after major losses."
  - q: "Does the HO-3 cover my home-based business?"
    a: "Generally, no. Business equipment has a very low sub-limit under standard policies, and business liability isn't covered at all. If you run any kind of business from home, even part-time, ask specifically about a home business endorsement or a separate business owner's policy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners have an HO-3 policy and couldn't tell you what that means. Not because they're careless, but because no one ever explained it clearly. I'll fix that.
 
