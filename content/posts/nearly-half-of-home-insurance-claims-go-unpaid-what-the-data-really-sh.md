@@ -12,7 +12,7 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 slug: "nearly-half-of-home-insurance-claims-go-unpaid-what-the-data-really-sh"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've been following the news this week, you might have seen the headlines and felt something between alarm and a grim sense of confirmation. The Wall Street Journal published an analysis on May 30, 2026, finding that the five largest home insurers in the country, Allstate, Farmers, Liberty Mutual, State Farm, and USAA, paid nothing on 44% of homeowner claims resolved in 2025. That number was 36% a decade ago. And with hurricane season now officially open, the timing couldn't be more pointed.
 
@@ -79,7 +79,7 @@ The data from May 2026 is genuinely alarming, but the response to it shouldn't b
 ## Sources
 
 - [The 5 Biggest Home Insurers Didn't Pay 44% of Claims Last Year](https://www.usnews.com/insurance/homeowners/unpaid-homeowner-insurance-claims-2026) (May 2026)
-- [Florida Has the Highest Home Insurance Nonpayment Rate](https://www.liveinsurancenews.com/florida-homeinsurance-nonpayment/8572777/) (May–June 2026)
+- [Florida Has the Highest Home Insurance Nonpayment Rate](https://www.liveinsurancenews.com/florida-homeinsurance-nonpayment/8572777/) (May-June 2026)
 - [Big Five Home Insurers Didn't Pay Out on Nearly Half of Claims](https://finance.yahoo.com/sectors/healthcare/articles/big-five-home-insurers-didnt-pay-out-on-nearly-half-of-claims-last-year-analysis-says-224514190.html) (May 31, 2026)
 - [71% of U.S. Homeowners Say Their Home Insurance Costs Have Gone Up](https://www.pewresearch.org/short-reads/2026/05/06/71-of-u-s-homeowners-say-their-home-insurance-costs-have-gone-up/) (May 6, 2026)
 - [42% of Homeowners Say Insurance Costs Have Gone Up 'A Lot'](https://www.cnbc.com/2026/05/27/homeowners-insurance-premiums.html) (May 27, 2026)

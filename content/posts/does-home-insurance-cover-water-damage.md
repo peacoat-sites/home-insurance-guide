@@ -23,6 +23,7 @@ faqs:
     a: "Likely yes, and there's a second concern worth knowing: multiple claims can lead to non-renewal. A single claim may raise your premium at renewal. Two claims within two to three years can flag your property as high-risk. In some markets today, that makes you harder to insure in the standard market. Talk to your agent about whether a small claim is worth filing versus paying out of pocket."
   - q: "Does home insurance cover a sump pump failure?"
     a: "Not under a standard HO-3 policy. Water that enters because a sump pump failed is typically treated as water backup or flood, both of which require separate coverage. A water backup and sump pump failure endorsement, which usually costs $40 to $100 per year, is the coverage you'd need. Many homeowners in flood-prone areas or with finished basements should strongly consider it."
+lastmod: 2026-07-08
 ---
 
 Most homeowners don't find out what their policy actually covers until they're standing in a soaked basement at 11pm, watching the water rise. You might be wondering right now, maybe after a scare, maybe before buying a policy, or maybe because a neighbor just got a claim denied, whether home insurance has you covered if water damages your home. The honest answer: sometimes yes, often partially, and in some cases not even close. Let me walk you through exactly how this works.
@@ -54,7 +55,7 @@ Let me be as specific as I can here, because vague summaries don't help you when
 | Sewage/drain backup | No (unless you have the endorsement) | One of the most common surprise denials |
 | Flooding (rising groundwater, storm surge) | No | Requires a separate NFIP or private flood policy |
 | Ice dam causing interior water damage | Varies by state/policy | Some policies cover resulting damage; the dam itself usually isn't |
-| Mold from a covered water event | Sometimes | Many policies cap mold remediation at $5,000–$10,000 |
+| Mold from a covered water event | Sometimes | Many policies cap mold remediation at $5,000-$10,000 |
 | Plumbing leak inside a wall (slow, ongoing) | No | Classified as gradual damage or maintenance failure |
 | Water heater failure (sudden rupture) | Yes, usually | The heater itself may not be covered, but resulting damage is |
 
@@ -126,8 +127,8 @@ Worked example: A homeowner in Minnesota discovered water in his basement after 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

@@ -23,7 +23,7 @@ faqs:
     a: "This is where claims get complicated. If there's evidence the pipe had been leaking slowly over weeks or months (staining, mold, soft drywall near the pipe), some insurers will argue this was a maintenance issue rather than a sudden loss and deny or reduce the claim. Document when you first noticed the problem and be clear in your claim report that the loss was unexpected."
   - q: "Is there any coverage if the damage happened in a detached garage or outbuilding?"
     a: "It depends on whether your policy extends to 'other structures' and whether that structure had any heat source. Detached garages are often covered under an Other Structures provision, but the same preventable-damage exclusions apply. An unheated garage with no insulation bursting a pipe in January is a tough claim. Check whether your Other Structures limit (typically 10% of dwelling coverage) is adequate for what you'd lose."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Every February, I'd open a new stack of claims and know, without even looking at the first page, that frozen pipes would dominate the pile. It was that predictable. Homeowners calling in furious, confused, sometimes in tears because they'd come home to inches of standing water in their kitchen or a ceiling that had buckled overnight. And the question that came up in almost every single call: "This is covered, right?"
@@ -138,8 +138,8 @@ A home inventory app, like the [National Association of Insurance Commissioners'
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

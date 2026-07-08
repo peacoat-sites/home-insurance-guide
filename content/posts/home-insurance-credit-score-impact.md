@@ -23,7 +23,7 @@ author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
-
+lastmod: 2026-07-08
 ---
 Most people know a bad credit score will tank their car loan interest rate. Far fewer realize it can tack hundreds of dollars onto their home insurance bill every year, sometimes more than a speeding ticket or a prior claim would cost. I spent years reviewing claims for an insurer, and I'll admit I didn't fully grasp how aggressively the industry weaponized credit data until I switched sides and started seeing what my clients actually paid. The gap between a policyholder with excellent credit and one with poor credit, for the exact same house and coverage, can be genuinely shocking.
 
@@ -34,7 +34,7 @@ Most people know a bad credit score will tank their car loan interest rate. Far 
  <div class="vm-head">Credit Tier Premium Impact Comparison</div>
  <div class="vm-body">
  <p class="vm-intro">This table shows how credit-based insurance scores typically translate to annual premium differences for the same $300,000 home with identical coverage.</p>
- <table><thead><tr><th>Credit Tier</th><th>Typical Insurance Score Range</th><th>Estimated Annual Premium</th><th>Cost vs. Excellent Credit</th><th>Monthly Difference</th></tr></thead><tbody><tr><td>Excellent</td><td>776–997</td><td>$1,450</td><td>Baseline</td><td>$0</td></tr><tr><td>Good</td><td>626–775</td><td>$1,740</td><td>+$290 (+20%)</td><td>+$24</td></tr><tr><td>Fair</td><td>501–625</td><td>$2,175</td><td>+$725 (+50%)</td><td>+$60</td></tr><tr><td>Poor</td><td>300–500</td><td>$2,755</td><td>+$1,305 (+90%)</td><td>+$109</td></tr></tbody><tfoot><tr><td colspan="5"><em>Figures are illustrative national averages; actual premiums vary by insurer, state, and individual risk factors. States including California, Maryland, and Massachusetts restrict or prohibit credit-based insurance scoring.</em></td></tr></tfoot></table>
+ <table><thead><tr><th>Credit Tier</th><th>Typical Insurance Score Range</th><th>Estimated Annual Premium</th><th>Cost vs. Excellent Credit</th><th>Monthly Difference</th></tr></thead><tbody><tr><td>Excellent</td><td>776-997</td><td>$1,450</td><td>Baseline</td><td>$0</td></tr><tr><td>Good</td><td>626-775</td><td>$1,740</td><td>+$290 (+20%)</td><td>+$24</td></tr><tr><td>Fair</td><td>501-625</td><td>$2,175</td><td>+$725 (+50%)</td><td>+$60</td></tr><tr><td>Poor</td><td>300-500</td><td>$2,755</td><td>+$1,305 (+90%)</td><td>+$109</td></tr></tbody><tfoot><tr><td colspan="5"><em>Figures are illustrative national averages; actual premiums vary by insurer, state, and individual risk factors. States including California, Maryland, and Massachusetts restrict or prohibit credit-based insurance scoring.</em></td></tr></tfoot></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

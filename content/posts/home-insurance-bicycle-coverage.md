@@ -23,7 +23,7 @@ faqs:
     a: "Often yes, but this is genuinely uncertain territory. Some insurers apply motorized vehicle exclusions to e-bikes, which can result in a denied claim. Always ask your insurer directly, get the answer in writing, and consider a standalone e-bike policy if you want certainty."
   - q: "Will filing a bicycle claim raise my home insurance rates?"
     a: "It can. Insurers track claims history, and even small paid claims can affect your premium at renewal. Before filing, calculate whether the payout (after your deductible and any sublimit) is large enough to justify the potential rate impact. For claims under $500, it usually isn't."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most cyclists I've talked to assume their bike is covered under their homeowner's policy, full stop. They're not entirely wrong. But they're not entirely right either, and the gap between those two things can cost you a $3,000 bike and a very frustrating phone call with a claims rep.
@@ -141,8 +141,8 @@ This matters more than people expect. Proving ownership is a real hurdle in bike
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

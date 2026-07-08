@@ -12,7 +12,7 @@ author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 slug: "california-fair-plan-rates-jump-298-this-fall"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you're a California homeowner currently insured through the FAIR Plan, you might be wondering whether that renewal notice sitting on your counter is going to cost you a lot more this fall. The short answer is yes, very likely. And if you're trying to figure out what to do before October 15, 2026, when the new rates take effect, you're not alone and you're not behind. But you do need to understand what's actually changing, because some of the numbers being thrown around are alarming in ways that require a little context.
@@ -68,11 +68,11 @@ The FAIR Plan rate hike is real and it's going to hurt. But the worst outcome is
 
 ## Sources
 
-- [California Department of Insurance – Make It FAIR Act Press Release](https://www.insurance.ca.gov/0400-news/0100-press-releases/2026/release005-2026.cfm) (2026)
-- [California FAIR Plan Rates Rising 29% in 2026: What Homeowners Should Do Next – Cal-Society Insurance](https://www.calsociety.com/blog/california-fair-plan-rates-rising-2026-homeowners-options/) (June 2026)
-- [California Home Insurance Shake-Up – ShawnClaycomb.com](https://shawnclaycomb.com/blog/california-home-insurance-shakeup) (May 21, 2026)
-- [What Newsom's New Laws Mean for the California FAIR Plan – Heffins Insurance](https://www.heffins.com/what-newsoms-new-laws-mean-for-the-california-fair-plan/) (October 2025)
-- [US Home Insurance Prices Set to Keep Rising With Severe Weather – Insurance Journal](https://www.insurancejournal.com/news/national/2026/03/18/862372.htm) (March 18, 2026)
+- [California Department of Insurance, Make It FAIR Act Press Release](https://www.insurance.ca.gov/0400-news/0100-press-releases/2026/release005-2026.cfm) (2026)
+- [California FAIR Plan Rates Rising 29% in 2026: What Homeowners Should Do Next, Cal-Society Insurance](https://www.calsociety.com/blog/california-fair-plan-rates-rising-2026-homeowners-options/) (June 2026)
+- [California Home Insurance Shake-Up, ShawnClaycomb.com](https://shawnclaycomb.com/blog/california-home-insurance-shakeup) (May 21, 2026)
+- [What Newsom's New Laws Mean for the California FAIR Plan, Heffins Insurance](https://www.heffins.com/what-newsoms-new-laws-mean-for-the-california-fair-plan/) (October 2025)
+- [US Home Insurance Prices Set to Keep Rising With Severe Weather, Insurance Journal](https://www.insurancejournal.com/news/national/2026/03/18/862372.htm) (March 18, 2026)
 - [Assembly Insurance Committee Oversight Hearing: The California FAIR Plan (Background PDF)](https://ains.assembly.ca.gov/system/files/2026-01/1.28.26-fair-plan-background-final.pdf) (January 28, 2026)
 
 ## Helpful Resources
@@ -96,7 +96,7 @@ The FAIR Plan rate hike is real and it's going to hurt. But the worst outcome is
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 

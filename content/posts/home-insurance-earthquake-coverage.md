@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-
+lastmod: 2026-07-08
 ---
 Your house just survived a 5.8-magnitude earthquake. The walls are standing, but a load-bearing chimney has collapsed, your foundation has visible cracks, and the gas line inside one wall has sheared. You call your insurance company, relieved that you've been paying premiums faithfully for years. Then you hear four words that will haunt you: "Earthquake damage isn't covered."
 
@@ -170,7 +170,7 @@ Earthquake coverage is one of those decisions you have to make before you need i
 
 ### Do I need earthquake insurance?
 
-You need it if you're in a moderate or high-risk seismic zone, your home's replacement cost exceeds your liquid savings, or you couldn't absorb a 15–20% deductible on your dwelling value. You may skip it if you're in a low-hazard zone, own your home outright with substantial savings, or your home is newer wood-frame construction in a stable area.
+You need it if you're in a moderate or high-risk seismic zone, your home's replacement cost exceeds your liquid savings, or you couldn't absorb a 15-20% deductible on your dwelling value. You may skip it if you're in a low-hazard zone, own your home outright with substantial savings, or your home is newer wood-frame construction in a stable area.
 
 ### What's the difference between earthquake endorsement and standalone earthquake insurance?
 
