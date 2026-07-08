@@ -3,7 +3,7 @@ title: "Home Insurance Bundling Discount"
 date: 2026-05-25T11:06:06.334517+00:00
 draft: false
 description: "Get discounts by bundling home insurance with auto, life, or other policies. Learn how combining coverage can save you money on premiums today."
-image: "https://images.pexels.com/photos/7735632/pexels-photo-7735632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7735632.jpg"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "bundling", "discount"]
 slug: "home-insurance-bundling-discount"

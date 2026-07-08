@@ -3,7 +3,7 @@ title: "Escrow And Home Insurance"
 date: 2026-06-04T12:24:46.014037+00:00
 draft: false
 description: "Learn how escrow accounts work with home insurance, how lenders collect payments, and what homeowners should know to manage their coverage and costs effectively"
-image: "https://images.pexels.com/photos/32045959/pexels-photo-32045959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32045959.jpg"
 categories: ["Cost Factors"]
 tags: ["escrow", "home", "insurance"]
 slug: "escrow-and-home-insurance"

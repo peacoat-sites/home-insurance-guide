@@ -3,7 +3,7 @@ title: "Home Insurance Loyalty Discount"
 date: 2026-06-26T12:05:13.077420+00:00
 draft: false
 description: "Find out how home insurance loyalty discounts work, how much you can save, and whether staying with your insurer beats switching to a cheaper policy."
-image: "https://images.pexels.com/photos/7877191/pexels-photo-7877191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7877191.jpg"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "loyalty", "discount"]
 author: "Kevin Park"

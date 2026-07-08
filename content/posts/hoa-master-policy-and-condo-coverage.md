@@ -3,7 +3,7 @@ title: "HOA Master Policy And Condo Coverage"
 date: 2026-06-11T13:46:59.811268+00:00
 draft: false
 description: "Learn how HOA master policies and condo insurance work together, what each covers, and how to close coverage gaps to fully protect your unit and belongings."
-image: "https://images.pexels.com/photos/36578404/pexels-photo-36578404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36578404.jpg"
 categories: ["Property Types"]
 tags: ["master", "policy", "condo", "coverage"]
 slug: "hoa-master-policy-and-condo-coverage"

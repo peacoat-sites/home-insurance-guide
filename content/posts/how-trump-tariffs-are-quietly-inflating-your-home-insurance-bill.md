@@ -3,7 +3,7 @@ title: "How Trump Tariffs Are Quietly Inflating Your Home Insurance Bill"
 date: 2026-06-23T12:29:26.094011+00:00
 draft: false
 description: "Rising Trump tariffs on steel, lumber, and imports are driving up home rebuild costs, forcing insurers to raise premiums. Learn how to protect your wallet."
-image: "https://images.pexels.com/photos/15080257/pexels-photo-15080257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15080257.jpg"
 categories: ["trending"]
 tags: ["trump", "tariffs", "quietly", "inflating", "your"]
 author: "Kevin Park"

@@ -3,7 +3,7 @@ title: "Manufactured Home Coverage"
 date: 2026-07-01T12:26:32.679363+00:00
 draft: false
 description: "Learn what manufactured home coverage protects, what it excludes, and how to find the right policy to safeguard your mobile or manufactured home."
-image: "https://images.pexels.com/photos/12861862/pexels-photo-12861862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12861862.jpg"
 categories: ["Property Types"]
 tags: ["manufactured", "home", "coverage"]
 author: "Laura Martinez"

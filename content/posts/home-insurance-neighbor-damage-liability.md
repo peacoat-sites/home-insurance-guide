@@ -3,7 +3,7 @@ title: "Home Insurance Neighbor Damage Liability"
 date: 2026-06-17T13:34:30.669627+00:00
 draft: false
 description: "Learn how home insurance handles neighbor damage liability, what your policy covers, and steps to take when your property causes harm to a neighbor."
-image: "https://images.pexels.com/photos/6292348/pexels-photo-6292348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6292348.jpg"
 categories: ["Liability"]
 tags: ["home", "insurance", "neighbor", "damage", "liability"]
 author: "Carl Brooks"

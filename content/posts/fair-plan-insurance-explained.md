@@ -3,7 +3,7 @@ title: "Fair Plan Insurance Explained"
 date: 2026-06-29T13:59:31.963777+00:00
 draft: false
 description: "Learn how FAIR plan insurance works, who qualifies, what it covers, and when its the right choice for high-risk homeowners who cant get standard coverage."
-image: "https://images.pexels.com/photos/7735626/pexels-photo-7735626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7735626.jpg"
 categories: ["Special Coverage"]
 tags: ["fair", "plan", "insurance", "explained"]
 author: "Mark Thompson"

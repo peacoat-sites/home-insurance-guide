@@ -3,7 +3,7 @@ title: "Landlord Insurance Vs Homeowners"
 date: 2026-06-21T12:05:42.823441+00:00
 draft: false
 description: "Compare landlord insurance vs homeowners insurance to find the right coverage for your property. Learn key differences, costs, and when you need each."
-image: "https://images.pexels.com/photos/31424880/pexels-photo-31424880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31424880.jpg"
 categories: ["Property Types"]
 tags: ["landlord", "insurance", "homeowners"]
 author: "Laura Martinez"

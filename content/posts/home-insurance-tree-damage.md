@@ -3,7 +3,7 @@ title: "Home Insurance Tree Damage"
 date: 2026-05-19T06:44:51.862036+00:00
 draft: false
 description: "Learn what home insurance covers for tree damage, including fallen trees, debris removal, and when your neighbor's tree damages your property."
-image: "https://images.pexels.com/photos/5494026/pexels-photo-5494026.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5494026.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "tree", "damage"]
 slug: "home-insurance-tree-damage"

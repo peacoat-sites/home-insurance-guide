@@ -3,7 +3,7 @@ title: "Homeowners Insurance At Closing"
 date: 2026-06-09T12:30:54.707671+00:00
 draft: false
 description: "Learn what homeowners insurance at closing means, why lenders require it, and how to get covered before your closing date to avoid delays on your new home purch"
-image: "https://images.pexels.com/photos/8293750/pexels-photo-8293750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293750.jpg"
 categories: ["Shopping Tips"]
 tags: ["homeowners", "insurance", "closing"]
 slug: "homeowners-insurance-at-closing"

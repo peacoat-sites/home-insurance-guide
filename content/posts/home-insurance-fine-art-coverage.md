@@ -3,7 +3,7 @@ title: "Home Insurance Fine Art Coverage"
 date: 2026-07-03T11:57:43.838928+00:00
 draft: false
 description: "Learn about home insurance fine art coverage options. Protect valuable paintings, sculptures, and collectibles with specialized endorsements and policy limits."
-image: "https://images.pexels.com/photos/36764902/pexels-photo-36764902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36764902.jpg"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "fine", "coverage"]
 author: "Kevin Park"

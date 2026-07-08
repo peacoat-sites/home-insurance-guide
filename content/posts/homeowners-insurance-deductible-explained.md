@@ -3,7 +3,7 @@ title: "Homeowners Insurance Deductible Explained"
 date: 2026-05-21T07:58:41.357006+00:00
 draft: false
 description: "Learn what a homeowners insurance deductible is, how it works, and how choosing the right amount can lower your premium and protect your finances when filing a "
-image: "https://images.pexels.com/photos/8962468/pexels-photo-8962468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8962468.jpg"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "deductible", "explained"]
 slug: "homeowners-insurance-deductible-explained"

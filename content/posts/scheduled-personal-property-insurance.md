@@ -3,7 +3,7 @@ title: "Scheduled Personal Property Insurance"
 date: 2026-07-07T12:20:36.122150+00:00
 draft: false
 description: "Scheduled personal property insurance protects high-value items like jewelry and art beyond standard policy limits. Learn how it works and what it covers."
-image: "https://images.pexels.com/photos/261679/pexels-photo-261679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/261679.jpg"
 categories: ["Personal Property"]
 tags: ["scheduled", "personal", "property", "insurance"]
 author: "Diana Foster"

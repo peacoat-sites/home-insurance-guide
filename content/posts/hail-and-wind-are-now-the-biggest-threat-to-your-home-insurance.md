@@ -3,7 +3,7 @@ title: "Hail and Wind Are Now the Biggest Threat to Your Home Insurance"
 date: 2026-07-05T11:22:11.670393+00:00
 draft: false
 description: "Discover why hail and wind damage have surpassed other risks to become the leading cause of home insurance claims and what it means for your premiums."
-image: "https://images.pexels.com/photos/4170459/pexels-photo-4170459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4170459.jpg"
 categories: ["trending"]
 tags: ["hail", "wind", "biggest", "threat", "your"]
 author: "Diana Foster"

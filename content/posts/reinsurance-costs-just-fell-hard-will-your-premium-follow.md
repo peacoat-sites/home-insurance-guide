@@ -3,7 +3,7 @@ title: "Reinsurance Costs Just Fell Hard. Will Your Premium Follow?"
 date: 2026-06-16T14:50:41.236996+00:00
 draft: false
 description: "Reinsurance costs are dropping sharply. Find out what this means for your insurance premium and whether savings will actually be passed on to policyholders."
-image: "https://images.pexels.com/photos/34134977/pexels-photo-34134977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34134977.jpg"
 categories: ["trending"]
 tags: ["reinsurance", "costs", "just", "fell", "hard."]
 author: "Kevin Park"

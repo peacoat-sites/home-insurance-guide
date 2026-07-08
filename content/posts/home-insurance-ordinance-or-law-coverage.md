@@ -3,7 +3,7 @@ title: "Home Insurance Ordinance Or Law Coverage"
 date: 2026-05-27T00:52:55.017393+00:00
 draft: false
 description: "Learn what ordinance or law coverage means for home insurance, why standard policies may fall short, and how this add-on protects you during rebuilds or repairs"
-image: "https://images.pexels.com/photos/8830265/pexels-photo-8830265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8830265.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "ordinance", "coverage"]
 slug: "home-insurance-ordinance-or-law-coverage"

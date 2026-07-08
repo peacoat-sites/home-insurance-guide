@@ -3,7 +3,7 @@ title: "Insurance Policy Declarations Page"
 date: 2026-06-14T11:48:28.225298+00:00
 draft: false
 description: "Learn what an insurance policy declarations page is, what key information it contains, and why this important document matters for your coverage."
-image: "https://images.pexels.com/photos/7821475/pexels-photo-7821475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821475.jpg"
 categories: ["Coverage Basics"]
 tags: ["insurance", "policy", "declarations", "page"]
 slug: "insurance-policy-declarations-page"

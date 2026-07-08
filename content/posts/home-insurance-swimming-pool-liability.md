@@ -3,7 +3,7 @@ title: "Home Insurance Swimming Pool Liability"
 date: 2026-06-05T12:23:51.208601+00:00
 draft: false
 description: "Discover how a swimming pool affects your home insurance liability coverage, what risks are involved, and how to protect yourself from costly lawsuits and accid"
-image: "https://images.pexels.com/photos/33560232/pexels-photo-33560232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33560232.jpg"
 categories: ["Liability"]
 tags: ["home", "insurance", "swimming", "pool", "liability"]
 slug: "home-insurance-swimming-pool-liability"

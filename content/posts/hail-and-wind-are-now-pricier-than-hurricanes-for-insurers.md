@@ -3,7 +3,7 @@ title: "Hail and Wind Are Now Pricier Than Hurricanes for Insurers"
 date: 2026-07-02T11:59:30.444967+00:00
 draft: false
 description: "Discover why hail and wind storms now cost insurers more than hurricanes, and what this costly shift in weather-related claims means for your home insurance pre"
-image: "https://images.pexels.com/photos/32394146/pexels-photo-32394146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32394146.jpg"
 categories: ["trending"]
 tags: ["hail", "wind", "pricier", "than", "hurricanes"]
 author: "Mark Thompson"

@@ -3,7 +3,7 @@ title: "Best Homeowners Insurance Companies"
 date: 2026-05-25T17:16:52.107917+00:00
 draft: false
 description: "Discover the best homeowners insurance companies. Compare top providers by coverage, cost, and customer service to find the right policy for your home."
-image: "https://images.pexels.com/photos/7821467/pexels-photo-7821467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821467.jpg"
 categories: ["Shopping Tips"]
 tags: ["best", "homeowners", "insurance", "companies"]
 slug: "best-homeowners-insurance-companies"

@@ -3,7 +3,7 @@ title: "Best Home Insurance For New Homeowners"
 date: 2026-06-01T15:35:01.404841+00:00
 draft: false
 description: "Discover the best home insurance for new homeowners. Compare top providers, coverage options, and tips to protect your investment and find affordable rates toda"
-image: "https://images.pexels.com/photos/8293754/pexels-photo-8293754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293754.jpg"
 categories: ["policies"]
 tags: ["best", "home", "insurance", "homeowners"]
 slug: "best-home-insurance-for-new-homeowners"

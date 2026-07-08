@@ -3,7 +3,7 @@ title: "Home Insurance Frozen Pipes"
 date: 2026-07-07T12:18:41.108003+00:00
 draft: false
 description: "Learn how home insurance covers frozen pipe damage, what claims are typically denied, and how to protect your home before winter strikes."
-image: "https://images.pexels.com/photos/36495158/pexels-photo-36495158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36495158.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "frozen", "pipes"]
 author: "Mark Thompson"

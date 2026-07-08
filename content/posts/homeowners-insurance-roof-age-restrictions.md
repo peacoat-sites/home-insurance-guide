@@ -3,7 +3,7 @@ title: "Homeowners Insurance Roof Age Restrictions"
 date: 2026-06-22T15:13:37.082404+00:00
 draft: false
 description: "Learn how roof age affects your homeowners insurance coverage, eligibility, and premiums. Find out what restrictions insurers impose and how to protect your hom"
-image: "https://images.pexels.com/photos/19089540/pexels-photo-19089540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19089540.jpg"
 categories: ["Cost Factors"]
 tags: ["homeowners", "insurance", "roof", "restrictions"]
 author: "Mark Thompson"

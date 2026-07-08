@@ -3,7 +3,7 @@ title: "Home Insurance After Refinancing"
 date: 2026-06-09T12:29:12.570861+00:00
 draft: false
 description: "Refinancing your home? Learn how it affects your homeowners insurance, what updates you may need to make, and how to ensure you stay fully protected after closi"
-image: "https://images.pexels.com/photos/7489119/pexels-photo-7489119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7489119.jpg"
 categories: ["Life Events"]
 tags: ["home", "insurance", "after", "refinancing"]
 slug: "home-insurance-after-refinancing"

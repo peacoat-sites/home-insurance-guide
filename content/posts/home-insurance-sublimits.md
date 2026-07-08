@@ -3,7 +3,7 @@ title: "Home Insurance Sublimits"
 date: 2026-07-02T12:01:22.606720+00:00
 draft: false
 description: "Learn how home insurance sublimits cap payouts for valuables, jewelry, and electronics. Discover how to protect your belongings beyond standard policy limits."
-image: "https://images.pexels.com/photos/29799518/pexels-photo-29799518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29799518.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "sublimits"]
 author: "Diana Foster"

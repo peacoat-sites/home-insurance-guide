@@ -3,7 +3,7 @@ title: "Homeowners Insurance Dog Bite Coverage"
 date: 2026-05-21T23:20:45.610012+00:00
 draft: false
 description: "Learn how homeowners insurance covers dog bite claims, what limits apply, breed exclusions to watch for, and how to ensure you have enough liability protection."
-image: "https://images.pexels.com/photos/7788856/pexels-photo-7788856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7788856.jpg"
 categories: ["Liability"]
 tags: ["homeowners", "insurance", "bite", "coverage"]
 slug: "homeowners-insurance-dog-bite-coverage"

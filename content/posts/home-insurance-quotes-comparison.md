@@ -3,7 +3,7 @@ title: "Home Insurance Quotes Comparison"
 date: 2026-05-27T03:28:25.011678+00:00
 draft: false
 description: "Compare home insurance quotes easily and find the best coverage at the lowest price. Save money today by reviewing multiple insurers side by side in minutes."
-image: "https://images.pexels.com/photos/29034871/pexels-photo-29034871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29034871.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "quotes", "comparison"]
 slug: "home-insurance-quotes-comparison"

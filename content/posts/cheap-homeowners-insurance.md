@@ -3,7 +3,7 @@ title: "Cheap Homeowners Insurance"
 date: 2026-05-25T08:38:16.784270+00:00
 draft: false
 description: "Get the cheapest homeowners insurance rates without sacrificing coverage. Compare top providers, discover money-saving tips, and find the best policy for your b"
-image: "https://images.pexels.com/photos/5661019/pexels-photo-5661019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5661019.jpg"
 categories: ["Shopping Tips"]
 tags: ["cheap", "homeowners", "insurance"]
 slug: "cheap-homeowners-insurance"

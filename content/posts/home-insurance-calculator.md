@@ -3,7 +3,7 @@ title: "Home Insurance Calculator"
 date: 2026-05-24T21:10:24.979688+00:00
 draft: false
 description: "Calculate your home insurance costs instantly with our free online tool. Get personalized quotes based on your home's value, location, and coverage needs."
-image: "https://images.pexels.com/photos/4386326/pexels-photo-4386326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4386326.jpg"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "calculator"]
 slug: "home-insurance-calculator"

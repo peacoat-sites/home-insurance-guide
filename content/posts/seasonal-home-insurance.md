@@ -3,7 +3,7 @@ title: "Seasonal Home Insurance"
 date: 2026-06-05T12:21:32.426204+00:00
 draft: false
 description: "Protect your home year-round with seasonal home insurance. Discover coverage options, costs, and tips to safeguard your property against seasonal risks and weat"
-image: "https://images.pexels.com/photos/11849370/pexels-photo-11849370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11849370.jpg"
 categories: ["Property Types"]
 tags: ["seasonal", "home", "insurance"]
 slug: "seasonal-home-insurance"

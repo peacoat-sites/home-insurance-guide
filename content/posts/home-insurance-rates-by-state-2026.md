@@ -1,6 +1,6 @@
 ---
 title: "Home Insurance Rates by State 2026: Why Florida Costs 17× More Than Hawaii"
-image: "https://images.pexels.com/photos/5849574/pexels-photo-5849574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5849574.jpg"
 description: "Complete state-by-state homeowners insurance rate comparison. See why Florida averages $10,240/year vs. Hawaii $750. Breakdown of credit score, roof age, and location impacts on your premium."
 author: "Mark Thompson"
 author_slug: "mark-thompson"

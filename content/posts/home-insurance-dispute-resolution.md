@@ -3,7 +3,7 @@ title: "Home Insurance Dispute Resolution"
 date: 2026-06-06T11:15:50.368358+00:00
 draft: false
 description: "Learn how to resolve home insurance disputes effectively. Discover your rights, key steps to take, and expert tips to reach a fair settlement with your insurer."
-image: "https://images.pexels.com/photos/7433862/pexels-photo-7433862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7433862.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "dispute", "resolution"]
 slug: "home-insurance-dispute-resolution"

@@ -3,7 +3,7 @@ title: "Reinsurance Rates Just Fell Sharply. Will Your Premium Follow?"
 date: 2026-06-28T11:29:30.752193+00:00
 draft: false
 description: "Reinsurance rates are dropping sharply, but will policyholders see lower premiums? Learn how reinsurance market shifts impact your insurance costs and what to e"
-image: "https://images.pexels.com/photos/5849553/pexels-photo-5849553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5849553.jpg"
 categories: ["trending"]
 tags: ["reinsurance", "rates", "just", "fell", "sharply."]
 author: "Diana Foster"

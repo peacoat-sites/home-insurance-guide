@@ -3,7 +3,7 @@ title: "Home Insurance Collectibles Coverage"
 date: 2026-06-03T14:11:20.563387+00:00
 draft: false
 description: "Protect your valuable collectibles with the right home insurance coverage. Learn what policies cover, coverage limits, and how to insure rare items properly."
-image: "https://images.pexels.com/photos/4155254/pexels-photo-4155254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4155254.jpg"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "collectibles", "coverage"]
 slug: "home-insurance-collectibles-coverage"

@@ -3,7 +3,7 @@ title: "Homeowners Insurance Hurricane Coverage"
 date: 2026-06-20T11:47:30.984727+00:00
 draft: false
 description: "Learn what homeowners insurance covers for hurricane damage, including wind, rain, and flooding, plus how to protect your home and file a claim."
-image: "https://images.pexels.com/photos/35541054/pexels-photo-35541054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35541054.jpg"
 categories: ["Special Coverage"]
 tags: ["homeowners", "insurance", "hurricane", "coverage"]
 author: "Mark Thompson"

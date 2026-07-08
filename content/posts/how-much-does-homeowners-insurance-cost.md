@@ -3,7 +3,7 @@ title: "How Much Does Homeowners Insurance Cost"
 date: 2026-05-28T03:59:19.501456+00:00
 draft: false
 description: "Find out how much homeowners insurance costs on average, what factors affect your rate, and tips to help you save money on your annual premium."
-image: "https://images.pexels.com/photos/31651009/pexels-photo-31651009.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31651009.jpg"
 categories: ["Coverage Basics"]
 tags: ["much", "does", "homeowners", "insurance", "cost"]
 slug: "how-much-does-homeowners-insurance-cost"

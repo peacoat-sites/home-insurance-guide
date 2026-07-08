@@ -3,7 +3,7 @@ title: "Home Insurance Military Discount"
 date: 2026-06-03T14:09:27.424711+00:00
 draft: false
 description: "Save on home insurance with military discounts. Learn how active duty, veterans, and their families can qualify for exclusive savings and lower their premiums t"
-image: "https://images.pexels.com/photos/7983768/pexels-photo-7983768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7983768.jpg"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "military", "discount"]
 slug: "home-insurance-military-discount"

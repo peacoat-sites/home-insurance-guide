@@ -3,7 +3,7 @@ title: "Condo Insurance Explained"
 date: 2026-06-24T12:14:18.583980+00:00
 draft: false
 description: "Learn what condo insurance covers, what it excludes, and how much you need to protect your unit, belongings, and liability from unexpected costs."
-image: "https://images.pexels.com/photos/3167175/pexels-photo-3167175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3167175.jpg"
 categories: ["Property Types"]
 tags: ["condo", "insurance", "explained"]
 author: "Carl Brooks"

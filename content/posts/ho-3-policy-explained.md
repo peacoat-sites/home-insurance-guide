@@ -3,7 +3,7 @@ title: "Ho-3 Policy Explained"
 date: 2026-06-15T15:33:56.013544+00:00
 draft: false
 description: "Learn what an HO-3 homeowners insurance policy covers, including dwelling, personal property, and liability protections explained simply."
-image: "https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/357514.jpg"
 categories: ["Coverage Basics"]
 tags: ["ho-3", "policy", "explained"]
 author: "Mark Thompson"

@@ -3,7 +3,7 @@ title: "Home Insurance For Investment Property"
 date: 2026-05-27T06:05:01.431863+00:00
 draft: false
 description: "Home insurance for investment property protects your rental or vacation property from damage and liability. Compare coverage options and rates today."
-image: "https://images.pexels.com/photos/18082448/pexels-photo-18082448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18082448.jpg"
 categories: ["Property Types"]
 tags: ["home", "insurance", "investment", "property"]
 slug: "home-insurance-for-investment-property"

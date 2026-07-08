@@ -3,7 +3,7 @@ title: "Your Wildfire Risk Score Now Has to Be Disclosed"
 date: 2026-06-19T13:25:36.298693+00:00
 draft: false
 description: "Learn how wildfire risk scores work, why they must now be disclosed to homebuyers, and what this means for insurance, property values, and your purchasing decis"
-image: "https://images.pexels.com/photos/12027849/pexels-photo-12027849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12027849.jpg"
 categories: ["trending"]
 tags: ["your", "wildfire", "risk", "score", "disclosed"]
 author: "Laura Martinez"

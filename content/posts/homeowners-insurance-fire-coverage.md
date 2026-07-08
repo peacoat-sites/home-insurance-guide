@@ -3,7 +3,7 @@ title: "Homeowners Insurance Fire Coverage"
 date: 2026-05-23T03:32:50.529878+00:00
 draft: false
 description: "Learn what homeowners insurance fire coverage includes, what it excludes, and how to ensure your home and belongings are fully protected after a fire."
-image: "https://images.pexels.com/photos/11490333/pexels-photo-11490333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11490333.jpg"
 categories: ["Coverage Basics"]
 tags: ["homeowners", "insurance", "fire", "coverage"]
 slug: "homeowners-insurance-fire-coverage"

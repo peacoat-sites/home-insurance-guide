@@ -3,7 +3,7 @@ title: "Homeowners Insurance After Marriage"
 date: 2026-06-11T13:49:08.894083+00:00
 draft: false
 description: "Getting married? Learn how marriage affects your homeowners insurance, what to update on your policy, and how to potentially save money by bundling coverage."
-image: "https://images.pexels.com/photos/36730579/pexels-photo-36730579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36730579.jpg"
 categories: ["Life Events"]
 tags: ["homeowners", "insurance", "after", "marriage"]
 slug: "homeowners-insurance-after-marriage"

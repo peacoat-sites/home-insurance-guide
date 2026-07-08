@@ -3,7 +3,7 @@ title: "Home Insurance Endorsements Explained"
 date: 2026-07-04T11:16:58.462114+00:00
 draft: false
 description: "Learn how home insurance endorsements can customize your policy to fill coverage gaps and better protect your home, belongings, and finances."
-image: "https://images.pexels.com/photos/34135038/pexels-photo-34135038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34135038.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "endorsements", "explained"]
 author: "Mark Thompson"

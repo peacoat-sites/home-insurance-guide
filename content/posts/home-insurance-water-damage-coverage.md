@@ -3,7 +3,7 @@ title: "Home Insurance Water Damage Coverage"
 date: 2026-05-20T22:48:34.225915+00:00
 draft: false
 description: "Learn what home insurance water damage coverage includes, what it excludes, and how to file a claim to protect your home and belongings from costly water damage"
-image: "https://images.pexels.com/photos/5146920/pexels-photo-5146920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5146920.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "water", "damage", "coverage"]
 slug: "home-insurance-water-damage-coverage"

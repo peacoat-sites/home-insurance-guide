@@ -5,7 +5,7 @@ draft: false
 description: "Here is a meta description within the 140-155 character range:
 
 Discover why home insurance premiums are rising while coverage shrinks and learn how to protect "
-image: "https://images.pexels.com/photos/31024345/pexels-photo-31024345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31024345.jpg"
 categories: ["trending"]
 tags: ["paying", "more", "home", "insurance", "covered"]
 author: "Mark Thompson"

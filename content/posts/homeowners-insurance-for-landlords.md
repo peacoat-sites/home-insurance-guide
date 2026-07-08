@@ -3,7 +3,7 @@ title: "Homeowners Insurance For Landlords"
 date: 2026-06-27T11:16:59.591951+00:00
 draft: false
 description: "Discover why standard homeowners insurance falls short for landlords and what coverage you actually need to protect your rental property and income."
-image: "https://images.pexels.com/photos/12127809/pexels-photo-12127809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12127809.jpg"
 categories: ["Property Types"]
 tags: ["homeowners", "insurance", "landlords"]
 author: "Carl Brooks"

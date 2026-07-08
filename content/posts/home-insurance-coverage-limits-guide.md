@@ -3,7 +3,7 @@ title: "Home Insurance Coverage Limits Guide"
 date: 2026-05-18T13:45:36.283483+00:00
 draft: false
 description: "Learn how home insurance coverage limits work, what factors affect them, and how to choose the right amount to fully protect your home and belongings."
-image: "https://images.pexels.com/photos/19640440/pexels-photo-19640440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19640440.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "coverage", "limits", "guide"]
 slug: "home-insurance-coverage-limits-guide"

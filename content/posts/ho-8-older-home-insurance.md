@@ -3,7 +3,7 @@ title: "Ho-8 Older Home Insurance"
 date: 2026-06-25T12:12:57.217914+00:00
 draft: false
 description: "HO-8 older home insurance protects historic and aging homes at replacement cost. Learn what it covers, who needs it, and how to compare policies."
-image: "https://images.pexels.com/photos/12965109/pexels-photo-12965109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12965109.jpg"
 categories: ["Coverage Basics"]
 tags: ["ho-8", "older", "home", "insurance"]
 author: "Diana Foster"

@@ -3,7 +3,7 @@ title: "California FAIR Plan Rates Jump 29.8% This Fall"
 date: 2026-07-06T13:38:44.686912+00:00
 draft: false
 description: "California FAIR Plan insurance rates are rising 29.8% this fall. Learn what this means for homeowners, why rates are climbing, and how to protect your coverage."
-image: "https://images.pexels.com/photos/33802507/pexels-photo-33802507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33802507.jpg"
 categories: ["trending"]
 tags: ["california", "fair", "plan", "rates", "jump"]
 author: "Carl Brooks"

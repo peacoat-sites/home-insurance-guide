@@ -3,7 +3,7 @@ title: "Home Insurance For First Time Buyers"
 date: 2026-05-18T12:47:17.847300+00:00
 draft: false
 description: "Buying your first home? Discover everything you need to know about home insurance for first time buyers, including costs, coverage types and how to find the bes"
-image: "https://images.pexels.com/photos/36729675/pexels-photo-36729675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36729675.jpg"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "first", "time", "buyers"]
 slug: "home-insurance-for-first-time-buyers"

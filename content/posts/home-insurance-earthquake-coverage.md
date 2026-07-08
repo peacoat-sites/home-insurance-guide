@@ -3,7 +3,7 @@ title: "Home Insurance Earthquake Coverage"
 date: 2026-05-28T05:21:50.252769+00:00
 draft: false
 description: "Protect your home from earthquake damage. Learn what earthquake coverage includes, how much it costs, and whether you need it in your area."
-image: "https://images.pexels.com/photos/15823381/pexels-photo-15823381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15823381.jpg"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "earthquake", "coverage"]
 slug: "home-insurance-earthquake-coverage"

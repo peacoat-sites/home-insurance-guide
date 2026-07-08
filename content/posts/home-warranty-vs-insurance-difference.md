@@ -3,7 +3,7 @@ title: "Home Warranty Vs Insurance Difference"
 date: 2026-06-28T11:31:32.084940+00:00
 draft: false
 description: "Learn the key differences between home warranty and home insurance so you can choose the right protection for your home and budget."
-image: "https://images.pexels.com/photos/7641834/pexels-photo-7641834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7641834.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "warranty", "insurance", "difference"]
 author: "Kevin Park"

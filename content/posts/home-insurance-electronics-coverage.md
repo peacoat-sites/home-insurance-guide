@@ -3,7 +3,7 @@ title: "Home Insurance Electronics Coverage"
 date: 2026-06-08T13:59:17.909338+00:00
 draft: false
 description: "Protect your TVs, laptops, and gadgets with home insurance electronics coverage. Learn what's covered, what's excluded, and how to maximize your policy today."
-image: "https://images.pexels.com/photos/12709580/pexels-photo-12709580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12709580.jpg"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "electronics", "coverage"]
 slug: "home-insurance-electronics-coverage"

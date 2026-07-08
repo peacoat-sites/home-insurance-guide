@@ -3,7 +3,7 @@ title: "Home Insurance Garage Door Coverage"
 date: 2026-06-23T12:27:21.658353+00:00
 draft: false
 description: "Learn what home insurance covers for garage doors, from storm damage to break-ins, and how to file a claim or add extra protection to your policy."
-image: "https://images.pexels.com/photos/17158676/pexels-photo-17158676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17158676.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "garage", "door", "coverage"]
 author: "Diana Foster"

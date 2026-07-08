@@ -3,7 +3,7 @@ title: "Home Insurance Wildfire Risk"
 date: 2026-06-24T12:12:28.616732+00:00
 draft: false
 description: "Learn how wildfire risk affects your home insurance rates, coverage options, and what steps homeowners can take to protect their property and policy."
-image: "https://images.pexels.com/photos/29693624/pexels-photo-29693624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29693624.jpg"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "wildfire", "risk"]
 author: "Laura Martinez"

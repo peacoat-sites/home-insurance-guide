@@ -3,7 +3,7 @@ title: "Nearly Half of Home Insurance Claims Go Unpaid: What the Data Really Sho
 date: 2026-06-30T12:05:44.586787+00:00
 draft: false
 description: "Nearly half of home insurance claims go unpaid. Discover what the data really reveals, why insurers deny claims, and how to protect yourself from costly rejecti"
-image: "https://images.pexels.com/photos/7736044/pexels-photo-7736044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7736044.jpg"
 categories: ["trending"]
 tags: ["nearly", "half", "home", "insurance", "claims"]
 author: "Kevin Park"

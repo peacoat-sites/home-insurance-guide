@@ -3,7 +3,7 @@ title: "Home Insurance Sewer Backup Coverage"
 date: 2026-06-18T12:46:17.687060+00:00
 draft: false
 description: "Learn how home insurance sewer backup coverage works, what it covers, policy limits, and how to add this essential endorsement to protect your home."
-image: "https://images.pexels.com/photos/28447775/pexels-photo-28447775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28447775.jpg"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "sewer", "backup", "coverage"]
 author: "Kevin Park"

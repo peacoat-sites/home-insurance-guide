@@ -3,7 +3,7 @@ title: "Homeowners Insurance Mold Coverage"
 date: 2026-05-25T07:24:16.279125+00:00
 draft: false
 description: "Learn whether homeowners insurance covers mold damage, what exclusions apply, and how to protect your home and finances with the right policy coverage."
-image: "https://images.pexels.com/photos/28552619/pexels-photo-28552619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28552619.jpg"
 categories: ["Claims"]
 tags: ["homeowners", "insurance", "mold", "coverage"]
 slug: "homeowners-insurance-mold-coverage"

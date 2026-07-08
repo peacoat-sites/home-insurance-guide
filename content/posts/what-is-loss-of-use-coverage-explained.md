@@ -3,7 +3,7 @@ title: "What Is Loss Of Use Coverage Explained"
 date: 2026-06-30T12:03:26.650333+00:00
 draft: false
 description: "Loss of use coverage pays for temporary housing and living expenses when your home becomes uninhabitable. Learn how it works and what it covers."
-image: "https://images.pexels.com/photos/27920274/pexels-photo-27920274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27920274.jpg"
 categories: ["coverage"]
 tags: ["what", "loss", "coverage", "explained"]
 author: "Diana Foster"

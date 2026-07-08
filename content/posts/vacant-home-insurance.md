@@ -3,7 +3,7 @@ title: "Vacant Home Insurance"
 date: 2026-06-12T12:46:07.763559+00:00
 draft: false
 description: "Protect your empty property with vacant home insurance. Learn what it covers, why standard policies fall short, and how to find the best rates for unoccupied ho"
-image: "https://images.pexels.com/photos/32556923/pexels-photo-32556923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32556923.jpg"
 categories: ["Property Types"]
 tags: ["vacant", "home", "insurance"]
 slug: "vacant-home-insurance"

@@ -3,7 +3,7 @@ title: "How To File A Home Insurance Claim"
 date: 2026-06-02T12:54:01.084167+00:00
 draft: false
 description: "Learn how to file a home insurance claim step by step. We cover documentation, deadlines, and tips to maximize your payout and speed up the process."
-image: "https://images.pexels.com/photos/4792288/pexels-photo-4792288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4792288.jpg"
 categories: ["claims"]
 tags: ["file", "home", "insurance", "claim"]
 slug: "how-to-file-a-home-insurance-claim"

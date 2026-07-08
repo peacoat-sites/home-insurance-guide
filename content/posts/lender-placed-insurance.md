@@ -3,7 +3,7 @@ title: "Lender Placed Insurance"
 date: 2026-06-10T12:50:30.879801+00:00
 draft: false
 description: "Learn what lender placed insurance is, why banks impose it, how it affects your mortgage, and steps you can take to avoid costly forced coverage on your propert"
-image: "https://images.pexels.com/photos/8441820/pexels-photo-8441820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441820.jpg"
 categories: ["Cost Factors"]
 tags: ["lender", "placed", "insurance"]
 slug: "lender-placed-insurance"

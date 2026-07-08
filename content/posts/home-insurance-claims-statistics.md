@@ -3,7 +3,7 @@ title: "Home Insurance Claims Statistics"
 date: 2026-06-27T11:19:15.055951+00:00
 draft: false
 description: "Explore the latest home insurance claims statistics including common claim types, average payouts, and what homeowners claim most frequently."
-image: "https://images.pexels.com/photos/7731335/pexels-photo-7731335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731335.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "claims", "statistics"]
 author: "Mark Thompson"

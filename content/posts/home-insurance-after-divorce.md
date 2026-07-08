@@ -3,7 +3,7 @@ title: "Home Insurance After Divorce"
 date: 2026-07-01T12:28:33.671133+00:00
 draft: false
 description: "Learn how divorce affects your home insurance and what steps to take to protect your property and coverage during and after the separation process."
-image: "https://images.pexels.com/photos/7876038/pexels-photo-7876038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7876038.jpg"
 categories: ["Life Events"]
 tags: ["home", "insurance", "after", "divorce"]
 author: "Carl Brooks"

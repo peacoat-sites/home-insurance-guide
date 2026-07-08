@@ -3,7 +3,7 @@ title: "Appraisal Clause Home Insurance"
 date: 2026-07-06T13:36:12.970080+00:00
 draft: false
 description: "Learn how the appraisal clause in home insurance resolves disputes over claim amounts, saving you time and money when you disagree with your insurer."
-image: "https://images.pexels.com/photos/7736029/pexels-photo-7736029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7736029.jpg"
 categories: ["Claims"]
 tags: ["appraisal", "clause", "home", "insurance"]
 author: "Laura Martinez"

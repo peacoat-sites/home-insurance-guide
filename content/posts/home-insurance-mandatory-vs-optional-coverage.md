@@ -3,7 +3,7 @@ title: "Home Insurance Mandatory Vs Optional Coverage"
 date: 2026-05-25T03:05:17.076057+00:00
 draft: false
 description: "Discover which home insurance coverages are legally required and which are optional. Learn how to protect your home and finances with the right policy choices."
-image: "https://images.pexels.com/photos/7641853/pexels-photo-7641853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7641853.jpg"
 categories: ["Coverage Basics"]
 tags: ["home", "insurance", "mandatory", "optional", "coverage"]
 slug: "home-insurance-mandatory-vs-optional-coverage"

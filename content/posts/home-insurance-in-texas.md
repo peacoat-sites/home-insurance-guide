@@ -3,7 +3,7 @@ title: "Home Insurance In Texas"
 date: 2026-05-22T10:24:28.593810+00:00
 draft: false
 description: "Protect your Texas home with the right insurance coverage. Compare top providers, costs, and policy options to find the best home insurance in Texas for your ne"
-image: "https://images.pexels.com/photos/33282813/pexels-photo-33282813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33282813.jpg"
 categories: ["State Guides"]
 tags: ["home", "insurance", "texas"]
 slug: "home-insurance-in-texas"

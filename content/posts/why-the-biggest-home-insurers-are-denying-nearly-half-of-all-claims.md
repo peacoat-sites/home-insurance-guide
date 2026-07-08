@@ -3,7 +3,7 @@ title: "Why the Biggest Home Insurers Are Denying Nearly Half of All Claims"
 date: 2026-06-26T12:07:27.800811+00:00
 draft: false
 description: "Discover why major home insurers are rejecting nearly half of all claims, what reasons they use, and how homeowners can protect themselves from costly denials."
-image: "https://images.pexels.com/photos/7430700/pexels-photo-7430700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7430700.jpg"
 categories: ["trending"]
 tags: ["biggest", "home", "insurers", "denying", "nearly"]
 author: "Laura Martinez"

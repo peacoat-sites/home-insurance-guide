@@ -3,7 +3,7 @@ title: "Homeowners Insurance Detached Garage Coverage"
 date: 2026-06-15T15:35:56.180062+00:00
 draft: false
 description: "Learn how homeowners insurance covers your detached garage, what damages are included, policy limits, and how to get the right amount of protection."
-image: "https://images.pexels.com/photos/15461302/pexels-photo-15461302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15461302.jpg"
 categories: ["Property Types"]
 tags: ["homeowners", "insurance", "detached", "garage", "coverage"]
 author: "Diana Foster"

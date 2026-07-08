@@ -3,7 +3,7 @@ title: "Nearly Half of Home Insurance Claims Pay Out Nothing"
 date: 2026-06-25T12:10:41.001948+00:00
 draft: false
 description: "Nearly half of home insurance claims result in zero payout. Find out why insurers reject so many claims and how to protect yourself from being left out of pocke"
-image: "https://images.pexels.com/photos/7736030/pexels-photo-7736030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7736030.jpg"
 categories: ["trending"]
 tags: ["nearly", "half", "home", "insurance", "claims"]
 author: "Mark Thompson"

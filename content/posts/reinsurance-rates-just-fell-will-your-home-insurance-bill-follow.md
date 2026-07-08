@@ -3,7 +3,7 @@ title: "Reinsurance Rates Just Fell. Will Your Home Insurance Bill Follow?"
 date: 2026-06-29T13:57:32.054924+00:00
 draft: false
 description: "Reinsurance rates are dropping, but will homeowners see lower premiums? Learn how reinsurance impacts your home insurance costs and what to expect next."
-image: "https://images.pexels.com/photos/30704827/pexels-photo-30704827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30704827.jpg"
 categories: ["trending"]
 tags: ["reinsurance", "rates", "just", "fell.", "will"]
 author: "Carl Brooks"

@@ -3,7 +3,7 @@ title: "Home Insurance Umbrella Policy"
 date: 2026-05-19T07:40:50.095874+00:00
 draft: false
 description: "Discover how a home insurance umbrella policy adds extra liability protection beyond standard coverage, safeguarding your assets from costly lawsuits and unexpe"
-image: "https://images.pexels.com/photos/8470057/pexels-photo-8470057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8470057.jpg"
 categories: ["Special Coverage"]
 tags: ["home", "insurance", "umbrella", "policy"]
 slug: "home-insurance-umbrella-policy"

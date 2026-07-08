@@ -3,7 +3,7 @@ title: "Home Insurance Shopping Mistakes To Avoid"
 date: 2026-06-18T12:44:07.675560+00:00
 draft: false
 description: "Avoid costly home insurance shopping mistakes with these expert tips. Compare coverage, read the fine print, and find the best policy for your home."
-image: "https://images.pexels.com/photos/8441817/pexels-photo-8441817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441817.jpg"
 categories: ["Shopping Tips"]
 tags: ["home", "insurance", "shopping", "mistakes", "avoid"]
 author: "Diana Foster"

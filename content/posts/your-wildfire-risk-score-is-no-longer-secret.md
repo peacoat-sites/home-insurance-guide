@@ -3,7 +3,7 @@ title: "Your Wildfire Risk Score Is No Longer Secret"
 date: 2026-06-20T11:49:54.128713+00:00
 draft: false
 description: "Discover how wildfire risk scores are now accessible to homeowners, what your score means for insurance rates, and steps you can take to reduce your property's "
-image: "https://images.pexels.com/photos/29693628/pexels-photo-29693628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29693628.jpg"
 categories: ["trending"]
 tags: ["your", "wildfire", "risk", "score", "longer"]
 author: "Diana Foster"

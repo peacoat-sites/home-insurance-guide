@@ -3,7 +3,7 @@ title: "Home Insurance Hail Damage Claim"
 date: 2026-06-04T12:22:46.951352+00:00
 draft: false
 description: "Learn how to file a home insurance hail damage claim successfully. Discover tips on documenting damage, working with adjusters, and maximizing your payout."
-image: "https://images.pexels.com/photos/18631466/pexels-photo-18631466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18631466.jpg"
 categories: ["Claims"]
 tags: ["home", "insurance", "hail", "damage", "claim"]
 slug: "home-insurance-hail-damage-claim"

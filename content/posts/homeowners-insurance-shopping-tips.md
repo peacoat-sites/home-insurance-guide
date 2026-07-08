@@ -3,7 +3,7 @@ title: "Homeowners Insurance Shopping Tips"
 date: 2026-05-18T10:39:59.895262+00:00
 draft: false
 description: "Discover essential homeowners insurance shopping tips to find the best coverage at competitive rates. Compare policies, understand your needs, and save money to"
-image: "https://images.pexels.com/photos/8441777/pexels-photo-8441777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441777.jpg"
 categories: ["Shopping Tips"]
 tags: ["homeowners", "insurance", "shopping", "tips"]
 slug: "homeowners-insurance-shopping-tips"

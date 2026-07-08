@@ -3,7 +3,7 @@ title: "Home Insurance Bicycle Coverage"
 date: 2026-07-05T11:23:56.740456+00:00
 draft: false
 description: "Learn how home insurance covers your bicycle, what limits apply, and when a separate policy makes sense to fully protect your bike."
-image: "https://images.pexels.com/photos/33789298/pexels-photo-33789298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33789298.jpg"
 categories: ["Personal Property"]
 tags: ["home", "insurance", "bicycle", "coverage"]
 author: "Kevin Park"
