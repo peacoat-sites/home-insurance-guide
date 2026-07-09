@@ -3,7 +3,8 @@ title: "Home Replacement Cost Calculator: How Much Dwelling Coverage Do You Need
 hide_title: true
 date: 2026-06-10
 slug: "home-replacement-cost-calculator"
-author: "Dana Holloway"
+author: "Carl Brooks"
+author_slug: "carl-brooks"
 categories: ["Home Insurance Basics"]
 description: "Use our free home replacement cost calculator to estimate how much dwelling coverage your homeowners insurance policy should carry."
 image: "https://images.pexels.com/photos/7680696/pexels-photo-7680696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
