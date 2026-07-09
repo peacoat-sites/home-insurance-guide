@@ -3,6 +3,9 @@ title: "Average Home Insurance Cost by State (2025)"
 date: 2026-01-01
 draft: false
 description: "What homeowners pay for insurance in every U.S. state. See how your state compares, why the gap between cheapest and priciest is nearly 10x, and what drives it."
+author: "Mark Thompson"
+author_slug: "mark-thompson"
+author_title: "Former Insurance Agent"
 ---
 
 The difference in home insurance costs across the country is staggering. The most expensive states pay close to ten times what the cheapest ones do, for coverage on a similar home. If your premium jumped this year, the table below is the fastest way to see whether you're paying a normal rate for where you live or getting overcharged.
