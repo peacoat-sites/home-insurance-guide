@@ -5,7 +5,8 @@ description: "Compare the long-term cost of different home insurance deductibles
 date: 2026-06-10
 slug: "home-insurance-deductible-calculator"
 categories: ["Home Insurance Basics"]
-author: "Dana Holloway"
+author: "Laura Martinez"
+author_slug: "laura-martinez"
 image: ""
 faqs:
   - question: "How much can I save by raising my home insurance deductible?"

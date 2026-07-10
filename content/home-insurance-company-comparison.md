@@ -3,7 +3,8 @@ title: "Best Home Insurance Companies 2024: Side-by-Side Carrier Comparison"
 hide_title: true
 date: 2026-06-10
 slug: "best-home-insurance-companies"
-author: "Dana Holloway"
+author: "Diana Foster"
+author_slug: "diana-foster"
 categories: ["Insurance Carriers"]
 description: "Compare the top home insurance companies by J.D. Power rating, AM Best financial strength, average premium, and key features to find the right fit."
 image: "https://images.pexels.com/photos/19744812/pexels-photo-19744812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
