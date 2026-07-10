@@ -1,0 +1,21 @@
+{
+  "question": "Have you compared home insurance quotes this year?",
+  "options": [
+    {
+      "label": "No, auto-renewed",
+      "votes": 384
+    },
+    {
+      "label": "Yes, but stayed",
+      "votes": 219
+    },
+    {
+      "label": "Yes, and switched",
+      "votes": 143
+    },
+    {
+      "label": "Shopping right now",
+      "votes": 102
+    }
+  ]
+}
