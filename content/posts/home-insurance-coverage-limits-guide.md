@@ -154,17 +154,6 @@ I've seen people believe they had true guaranteed replacement cost only to disco
 
 Getting your limits right isn't thrilling work. It doesn't feel urgent until suddenly it does. But spending an hour on your declarations page, requesting a replacement cost update, and identifying the sub-limits that apply to your valuables is one of the smartest financial moves you can make as a homeowner. Talk to a licensed insurance professional or contact your state's insurance department if you have questions about your specific policy. The details matter, and you're the only one who'll make sure they're right.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)** (~$80), Protects documents and valuables from fire and water damage.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, a top way to qualify for insurance discounts.
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)** (~$100), HD video surveillance and two-way communication, many insurers offer discounts for this.
-
-*Photo: [Taylor Thompson](https://www.pexels.com/@taylor-thompson-865581658) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -174,8 +163,6 @@ Getting your limits right isn't thrilling work. It doesn't feel urgent until sud
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -192,4 +179,3 @@ Getting your limits right isn't thrilling work. It doesn't feel urgent until sud
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
-

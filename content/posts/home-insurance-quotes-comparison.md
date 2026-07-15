@@ -110,24 +110,11 @@ Finally, if a quote comes from an unfamiliar company at dramatically lower rates
 
 The real point of comparing quotes isn't winning a negotiation with an insurance company. It's knowing exactly what's protected and what isn't before a claim happens, so you're not blindsided at the worst possible moment. Take an hour, do it right, and talk with a licensed independent agent if any piece of your coverage feels unclear. That hour is worth it in ways you'll hopefully never have to learn firsthand.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-
-
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

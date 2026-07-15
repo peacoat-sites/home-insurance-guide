@@ -81,28 +81,8 @@ I'd encourage every Colorado homeowner with a property in a wildfire-adjacent ar
 - [Grit Insurance: Wildfire Insurance in the West ,  Colorado, Utah, and Idaho 2026](https://gritinsurance.com/blog/wildfire-insurance-colorado-utah-idaho-2026) (July 2026)
 - [Colorado General Assembly: HB25-1182 Full Text](https://leg.colorado.gov/bills/hb25-1182) (Effective July 1, 2026)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-
-
-*Photo: [Quang Vuong](https://www.pexels.com/@quang-vuong-724225078) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) — Hardwired interconnected smoke and CO detector — when one alarm sounds, all alarms in the house sound.
-

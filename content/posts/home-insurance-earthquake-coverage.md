@@ -135,14 +135,6 @@ If a quake damages your home and you have earthquake coverage, your first hours 
 
 Earthquake coverage is one of those decisions you have to make before you need it, and the window can close fast. The combination of widespread misconceptions about what standard policies cover, high percentage-based deductibles, and geographic risk that extends well beyond California creates a situation where millions of homeowners are carrying a financial exposure they don't fully understand. Take the time to check your seismic risk, run the numbers on your dwelling's replacement cost, and talk to a licensed insurance professional in your state before you decide. A small amount of homework now can mean the difference between recovering from a disaster and being buried by one.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [III, Earthquake Insurance Overview](https://www.iii.org/article/earthquake-insurance-and-coverage), confirms standard policies exclude earthquakes, coverage statistics
@@ -156,15 +148,6 @@ Earthquake coverage is one of those decisions you have to make before you need i
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 
 ---
 

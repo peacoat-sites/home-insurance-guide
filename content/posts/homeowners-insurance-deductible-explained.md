@@ -113,14 +113,6 @@ Adding a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home&t
 
 The deductible is the single number on your policy that most directly determines how much a disaster will cost you out of pocket, and it's probably the least explained concept in homeowner insurance conversations. Read your declarations page today. Calculate your percentage deductibles in actual dollars. Make sure your emergency reserves match your real exposure. If something doesn't make sense, ask your agent to explain it in writing. An independent insurance consultant or licensed public adjuster can review your policy without a financial interest in selling you anything. Getting this right before the storm hits is the only time it's easy.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [III, Understanding homeowners insurance deductibles](https://www.iii.org/article/understanding-your-homeowners-insurance-deductible), Explains deductible types and how they work
@@ -129,12 +121,3 @@ The deductible is the single number on your policy that most directly determines
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.

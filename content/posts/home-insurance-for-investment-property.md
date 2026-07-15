@@ -128,18 +128,6 @@ For water leak detection specifically, placing [smart water sensors](https://www
 
 Owning rental property is one of the more effective ways to build long-term wealth. The insurance piece isn't where you want to cut corners or make assumptions. A denied claim on a $60,000 loss because you had the wrong policy type is exactly the kind of outcome that's 100% preventable with a single conversation with your insurer before anything goes wrong. Get the right policy, document everything, and review your coverage limits every year. The investment is worth protecting properly.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)

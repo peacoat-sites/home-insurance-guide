@@ -84,18 +84,6 @@ One practical move: build a home inventory before you need it. Apps like Encircl
 
 Pull your declarations page out right now if you haven't looked at it in a while. Check those coverage amounts against what it would actually cost to rebuild your home today. If the numbers feel off, call your agent this week. The worst time to discover a coverage gap is during a claim.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Insurance Information Institute](https://www.iii.org/)

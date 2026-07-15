@@ -126,23 +126,11 @@ Read the "Typically Excluded" column as your list of questions to ask your agent
 
 The gap between what you assume your policy covers and what it actually covers is where real financial losses happen. Most people don't discover that gap by reading their policy. They discover it during the worst week of the year, standing in a ruined kitchen or a flooded basement. A one-hour audit with your declarations page and the questions raised here is worth your time, and considerably cheaper than the alternative.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-
-*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

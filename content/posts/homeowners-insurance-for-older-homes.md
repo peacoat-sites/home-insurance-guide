@@ -121,8 +121,6 @@ Use this before signing anything. If you can't answer a question, that's a red f
 
 Owning an older home is genuinely different from owning new construction, and your insurance strategy needs to reflect that. The coverage gaps are real, the exclusions are real, and the consequences of getting it wrong show up at the worst possible moment. Take the time to read your policy, ask hard questions, and if you're unsure whether your coverage is adequate, consider a consultation with an independent insurance agent who specializes in older or historic properties. It's the kind of investment that costs almost nothing upfront and can make an enormous difference when you actually need it.
 
-## Recommended Resources
-
 ## Sources
 
 - [Insurance Information Institute (III)](https://www.iii.org/)

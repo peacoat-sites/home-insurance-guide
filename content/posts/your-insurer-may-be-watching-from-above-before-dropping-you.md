@@ -81,27 +81,8 @@ The satellite isn't going away. What changes is whether you have any rights once
 - [Insurance Companies Using Aerial Imagery to Determine If They'll Renew Home Coverage](https://www.npr.org/2025/05/28/nx-s1-5400372/insurance-companies-using-aerial-imagery-to-determine-if-theyll-renew-home-coverage) (May 28, 2025)
 - [Changes Coming to Home and Auto Insurance in 2026](https://www.thezebra.com/resources/car-insurance/insurance-law-changes/) (January 14, 2026)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-
-
-*Photo: [Get Lost Mike](https://www.pexels.com/@michaelgaultphotos) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-

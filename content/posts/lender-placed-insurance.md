@@ -78,20 +78,6 @@ If you have an escrow account, [review your annual escrow statement](/escrow-and
 
 The [Insurance Institute for Business and Home Safety](https://ibhs.org/) has guidance on what lenders typically require in terms of coverage levels, which is useful if you're shopping for a new policy and want to make sure you're buying enough to satisfy your servicer from the start.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [map of state insurance department contacts](https://www.naic.org/state_web_map.htm)

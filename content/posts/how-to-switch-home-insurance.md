@@ -131,14 +131,6 @@ Switching home insurance is simple, but a few avoidable errors can turn a smooth
 
 Switching home insurance doesn't require a special occasion, a frustrating renewal increase, or a major life event. It requires a clear comparison, the right sequence of steps, and enough attention to make sure your coverage doesn't slip in the process. If you haven't compared rates in three or more years, the exercise alone is worth the two hours it takes. You might find your current insurer is competitive. Or you might find out you've been overpaying for coverage that still has gaps. Either way, you'll know. Consulting with an independent insurance agent who represents multiple carriers can give you a broader picture than any single insurer's quotes, and it's always a reasonable step before making changes to something as significant as your home coverage.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), Explains coverage types and policy terms
@@ -151,12 +143,3 @@ Switching home insurance doesn't require a special occasion, a frustrating renew
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

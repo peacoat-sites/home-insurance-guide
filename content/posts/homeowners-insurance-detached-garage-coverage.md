@@ -87,15 +87,6 @@ Add a water leak sensor near any plumbing in the garage. Small investment, poten
 
 Don't wait for your renewal to look at this. Call your agent this week, ask specifically what your Coverage B limit is, and ask what it would cost to increase it. That conversation takes ten minutes and could save you from the phone call I described at the top of this article.
 
-## Helpful Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)** (~$45), A durable safe for protecting important documents and valuable items stored in your garage.
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)** (~$16), Sends phone notifications if water's detected near your garage plumbing or foundation.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, often qualifies you for insurance discounts.
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no replacement needed for a decade.
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -103,8 +94,6 @@ Don't wait for your renewal to look at this. Call your agent this week, ask spec
 *Photo: [Jason Dsouza](https://www.pexels.com/@jason-dsouza-55234749) via Pexels*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -121,4 +110,3 @@ Don't wait for your renewal to look at this. Call your agent this week, ask spec
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

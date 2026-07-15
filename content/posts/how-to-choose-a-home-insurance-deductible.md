@@ -101,14 +101,6 @@ One practical move: keep a solid home inventory. A [home inventory app](https://
 
 The deductible isn't a throwaway line item. It's the floor of your financial exposure every time something goes wrong with your home, and in some years, something will. Take twenty minutes before your next renewal to actually run the numbers. Know what every deductible on your policy is, in dollars. Match it to what you can realistically fund. Then make the decision you can live with when the adjuster shows up.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [III, Understanding Homeowners Insurance Deductibles](https://www.iii.org/article/understanding-your-homeowners-insurance-deductible), Explains deductible types and how they affect premiums
@@ -119,12 +111,3 @@ The deductible isn't a throwaway line item. It's the floor of your financial exp
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.

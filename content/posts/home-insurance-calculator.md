@@ -119,20 +119,6 @@ The further you get from a real human with local knowledge, the less you should 
 
 A home insurance calculator is a tool, not a verdict. It gives you a place to start the conversation, not a place to end it. Use it to get oriented, then push further: talk to your agent, get a local contractor's perspective, and make sure the endorsements on your policy cover what the calculator can't see. The few hours you spend doing this properly are worth far more than the false confidence of a 45-second estimate.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)

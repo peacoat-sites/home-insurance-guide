@@ -82,8 +82,6 @@ Also worth asking: what is my deductible for wind and hail versus my standard de
 
 If reading this made you realize you haven't actually looked at your declarations page in a few years, that's the right place to start. Not with a phone call to your agent, not with a quote comparison tool. Just read what you're actually paying for right now. You might be surprised by what's there, and what's missing.
 
-## Recommended Resources
-
 ## Sources
 
 - [Encircle](https://encircle.com/)

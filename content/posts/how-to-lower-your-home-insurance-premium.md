@@ -113,21 +113,11 @@ For anyone who's gone years without inventorying their possessions, a home inven
 
 The core of all this is that your insurer knows a lot more about what affects your pricing than the average policyholder does, and the imbalance of information costs people money every year. That gap is closeable. A two-hour conversation with your agent, a systematic check of your coverage against your current situation, and a willingness to shop the market periodically won't guarantee savings but they'll put the odds in your favor. And if there's one thing I learned spending 14 years on the claims side, it's that understanding your policy before something goes wrong is almost always worth the effort.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

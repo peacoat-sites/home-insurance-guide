@@ -131,21 +131,11 @@ Also look up your [state's department of insurance](https://www.naic.org/state_w
 
 Here's the actual takeaway: a security system discount can be meaningful, but only if you choose right, document correctly, and verify the credit lands on your policy. Don't buy hoping the discount pays for it. Buy because it protects your family, then make sure you collect every dollar you've earned. A 15-minute call with your insurer before you sign a monitoring contract is worth more than a year of guessing.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

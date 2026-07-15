@@ -105,23 +105,11 @@ Water leak sensors are worth mentioning. A [good water leak sensor](https://www.
 
 The claims process rewards preparation more than most people expect. Adjusters see hundreds of claims; the ones resolved fairly and quickly are almost always the ones where the homeowner documented thoroughly, stayed organized, and asked the right questions. You don't need to be combative. You need to be informed. There's a significant difference, and that difference, in my experience, is usually worth several thousand dollars.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-
-*Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

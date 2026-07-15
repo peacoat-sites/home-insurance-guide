@@ -126,23 +126,11 @@ For older homes especially, the gap between insured value and actual replacement
 
 The claims process rewards preparation and attention to detail. Document your property now, before anything happens. A fireproof document safe like those available on [Amazon](https://www.amazon.com/s?k=fireproof+document+safe) can protect your policy documents, receipts, and home inventory in the event of a fire. *(This site may earn a commission on qualifying purchases.)* Understand your policy's actual cash value versus replacement cost provisions. Know your deductible. And when something does go wrong, slow down, document carefully, and don't let urgency push you into accepting a settlement that doesn't cover your actual loss. The insurer has done this thousands of times. With the right preparation, you can hold your own.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-- **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

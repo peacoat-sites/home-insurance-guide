@@ -84,20 +84,6 @@ Adding replacement cost coverage for personal property is usually not expensive,
 
 Your policy is a contract, and like any contract, the details matter more than the general impression it gives. The time to read it carefully, ask about replacement cost valuations, and push back if something doesn't make sense is before anything goes wrong. Not after.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-
-*Photo: [D Goug](https://www.pexels.com/@d-goug-211350543) via Pexels*
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Insurance Information Institute](https://www.iii.org/)

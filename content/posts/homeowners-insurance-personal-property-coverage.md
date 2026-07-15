@@ -127,14 +127,6 @@ Don't let price alone drive the decision. A policy that's $200 a year cheaper bu
 
 Personal property coverage is quieter than the big-ticket items like your home's structure or your liability umbrella. But it's where the day-to-day reality of a loss actually lands. Most people don't lose their whole house. They lose a room full of belongings. They lose a stolen laptop or a flooded basement. Getting this piece of your policy right, choosing replacement cost, understanding your sub-limits, building your inventory, it takes a few hours and could protect tens of thousands of dollars. Your state insurance department can help if you have disputes about how a claim was handled or want to verify that a carrier is licensed. The work is worth doing before you ever need it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -147,12 +139,3 @@ Personal property coverage is quieter than the big-ticket items like your home's
 - [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), Consumer guide on policy components and coverage types
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.

@@ -108,14 +108,6 @@ Shopping for cheap homeowners insurance isn't wrong. Paying less for the same pr
 
 Read the declarations page. Understand what ACV versus RCV means for your specific home. Check whether water backup is included. Look up your carrier's complaint ratio at the NAIC before you finalize anything. Cheap insurance that actually pays your claim is a win. Cheap insurance that leaves you arguing with an adjuster over depreciation while living in a hotel is just deferred expense. You deserve to know the difference before you need to find out the hard way. As always, consulting with a licensed insurance professional in your state is the best way to get advice specific to your home and situation.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Insurance Information Institute, Understanding Homeowners Insurance](https://www.iii.org/article/understanding-homeowners-insurance), explains coverage types, limits, and common policy gaps
@@ -125,12 +117,3 @@ Read the declarations page. Understand what ACV versus RCV means for your specif
 *Photo: [Get Lost Mike](https://www.pexels.com/@michaelgaultphotos) via Pexels*
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.

@@ -92,19 +92,9 @@ Major renovations since your last policy update, like a kitchen remodel, finishe
 
 A detailed home inventory is one of the most overlooked things a homeowner can do. Solid home inventory apps let you photograph and catalog your belongings and improvements. Storing physical copies of your policy, deed, and appraisals in a fireproof document safe [like this one](https://www.amazon.com/s?k=fireproof+document+safe) is a basic step that pays enormous dividends when you actually need those documents mid-claim.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
 
 ## Sources
 

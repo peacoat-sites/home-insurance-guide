@@ -91,20 +91,6 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 A vacant home is a risk you can manage, but not with a policy designed for a home that's lived in. The good news is that the fix is usually straightforward: notify your insurer, get the right product in place, and take a few basic steps to protect the property. The hard part is knowing you need to do it in the first place. Now you do.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-
-*Photo: [Aysegul Aytoren](https://www.pexels.com/@aysegul-aytoren-46790226) via Pexels*
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [Insurance Information Institute](https://www.iii.org/)

@@ -116,23 +116,11 @@ Finally, don't assume your insurer will volunteer information about coverage gap
 
 Dwelling coverage is the most important number on your homeowner's policy, and it's also the one most likely to be wrong. Rising construction costs, unreported renovations, and coverage limits set years ago have quietly left millions of homeowners underinsured. A 30-minute review of your policy, an independent rebuild estimate, and a conversation with your agent about extended replacement cost coverage could be the difference between a disaster that sets you back temporarily and one that costs you years of financial stability. A qualified insurance professional or licensed public adjuster in your state can help you read the fine print before you ever need to file a claim. Don't wait for the fire to figure out where the gaps are.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-
-*Photo: [Felix Lauster](https://www.pexels.com/@felix-lauster-343083) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -81,23 +81,11 @@ If you're worried about a neighbor's tree, send a polite written notice. Not agg
 
 Most people don't spend five minutes thinking about neighbor damage liability until they're already in the middle of a claim. But a $25 conversation with your insurance agent at renewal, asking specifically about your liability limits and how your policy handles tree and fence disputes, is genuinely worth your time. Ask them to walk you through a scenario. See if they can answer it clearly. If they can't, that tells you something too.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-
-*Photo: [Harrison Haines](https://www.pexels.com/@harrisonhaines) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

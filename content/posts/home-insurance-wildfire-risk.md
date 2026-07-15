@@ -85,24 +85,11 @@ If you're in a wildfire-risk area, ask your agent specifically: do I have extend
 
 The honest summary is that wildfire coverage hasn't failed homeowners because it doesn't exist. It's failed them because of limits that don't match reality, gaps in what's included, and insurers quietly exiting markets where the math no longer works for them. None of that is spelled out in the brochure. Know what your policy actually says, run a current replacement cost estimate, and do it before fire season, not during it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-
-
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -119,4 +106,3 @@ The honest summary is that wildfire coverage hasn't failed homeowners because it
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

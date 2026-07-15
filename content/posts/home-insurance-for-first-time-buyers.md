@@ -112,14 +112,6 @@ If your home is more than 20 years old, consider having the plumbing and electri
 
 Buying your first home is genuinely exciting. Dealing with insurance paperwork probably isn't how you envisioned spending that time. But getting this right once, before anything goes wrong, is far easier than fighting a coverage dispute after a loss. Read your policy. Ask questions. Talk to a licensed independent insurance agent who can explain the trade-offs in your specific situation. If something in your policy language doesn't make sense, your state's insurance department can often clarify what's required and what's negotiable. You don't have to be an expert. You just have to know enough to ask the right questions.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), Explains HO-3 policy structure, coverage types, and common exclusions
@@ -132,12 +124,3 @@ Buying your first home is genuinely exciting. Dealing with insurance paperwork p
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25), Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.

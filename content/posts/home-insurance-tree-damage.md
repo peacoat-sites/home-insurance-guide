@@ -137,14 +137,3 @@ Tree damage claims are genuinely manageable if you know the rules going in. The 
 
 - [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance), Explains dwelling coverage and liability for tree damage claims
 - [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), Consumer guide on what standard homeowner policies cover
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)** (~$180), Fireproof and waterproof document storage to keep your insurance paperwork and home inventory safe from disaster.
-- **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)** (~$350), Larger fire-resistant filing cabinet for storing multiple years of insurance documents and home records.
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)** (~$400), High-quality wireless cameras to document your property before and after storm events, useful for claims documentation.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, can qualify you for insurance discounts.
-
-*Photo: Homeowner documenting tree damage with smartphone after severe storm*

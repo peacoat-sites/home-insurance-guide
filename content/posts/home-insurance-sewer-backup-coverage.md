@@ -72,23 +72,11 @@ Also worth doing while you're at it: install a water leak sensor near your floor
 
 One practical step that actually reduces your risk: get your lateral sewer line scoped by a plumber if your home is more than 30 years old. This costs $150 to $300 and will show you exactly whether tree roots or deterioration are already setting up your next claim. If they are, you can address it proactively. If they aren't, you've got documented evidence that your line was in good condition, which matters in a claim dispute.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-
-*Photo: [Helena Jankovičová Kováčová](https://www.pexels.com/@helen1) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

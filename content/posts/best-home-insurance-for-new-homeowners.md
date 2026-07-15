@@ -135,43 +135,6 @@ Rates also shift year to year in ways that aren't obvious. Many states have seen
 
 The goal isn't to find the cheapest policy. It's to find the policy that actually pays when something goes wrong. Read what you buy, ask direct questions about what's excluded, and revisit it every year. Your home is almost certainly the largest asset you own. Treat the coverage accordingly.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-
-### Coverage Gap Checklist: What Should I Prioritize First?
-
-Add sewer/drain backup coverage immediately. It's the highest ROI endorsement at $50-$150 annually and prevents some of the most expensive claims. Then add flood insurance if you're within 500 feet of any water or have a basement. Both are cheap insurance against catastrophic costs.
-
-### Do I Really Need Replacement Cost Coverage?
-
-Yes. Actual cash value will disappoint you. After depreciation, a three-year-old roof or laptop gets paid out at a fraction of replacement cost. New homeowners always regret choosing ACV. The premium difference between RCV and ACV is typically small enough that it's not worth the risk.
-
-### How Often Should I Review My Policy?
-
-Every year at renewal, minimum. Your life changes faster than you think. Kitchen renovation, expensive new equipment, starting a business from home, buying collectibles. Each one shifts your coverage needs. Rates also fluctuate for reasons outside your control, so annual shopping is the only way to catch overpricing.
-
-### What's the Difference Between HO-3 and HO-5 Coverage?
-
-An HO-3 covers your dwelling on open perils (almost everything) but your belongings on named perils (only specific causes). An HO-5 covers both on open perils, meaning your stuff gets the same broad protection as your walls. The HO-5 costs $100-$300 more annually but matters if you own high-value items outside jewelry and art.
-
-### Should I Bundle Home and Auto Insurance?
-
 ## Sources
 
 - [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)

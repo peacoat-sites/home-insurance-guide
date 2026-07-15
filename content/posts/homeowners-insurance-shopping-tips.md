@@ -95,12 +95,6 @@ I've watched homeowners make the same errors repeatedly. Knowing them in advance
 
 The policy you buy now is the one you'll be living with when something actually goes wrong. Spend a few extra hours on the front end: compare carefully, read what you're buying, and ask hard questions before you sign. If you're starting from scratch and feeling overwhelmed, our guide to [homeowners insurance for first-time buyers](/home-insurance-for-first-time-buyers/) is a practical starting point. This is one area where doing the homework yourself, and consulting a licensed professional for your specific situation, is always worth the time.
 
-## Helpful Resources
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
 ## Sources
 
 - [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)

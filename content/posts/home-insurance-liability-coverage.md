@@ -100,23 +100,11 @@ In my experience, the homeowners most likely to be underinsured for liability ar
 
 Your liability coverage is the part of your policy that protects your financial future, not just your stuff. It's worth treating it with more attention than the premium line at the bottom of your declarations page. Read the exclusions. Know your limits. Consider an umbrella policy before you need it, not after a claim has already been filed. And if anything in your policy is unclear, talk to a licensed insurance professional who can explain exactly what you have. The cost of that conversation is nothing compared to the cost of finding out the hard way.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-- **[Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)**
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-
-*Photo: [Darya Sannikova](https://www.pexels.com/@myatezhny39) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

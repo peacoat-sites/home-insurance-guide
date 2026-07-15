@@ -138,26 +138,7 @@ The NAIC maintains a directory of state insurance departments at [naic.org/state
 
 Water damage is genuinely one of the most complicated coverage areas in personal lines insurance, and the gap between what people expect and what policies actually deliver is wide enough to cause real financial harm. The best time to understand your coverage is before anything goes wrong, which means reading your policy, asking specific questions about exclusions, and adding endorsements that match your actual risk. If you're already dealing with a claim, consider consulting a public adjuster or an attorney who specializes in insurance disputes before you accept a denial as final. Your state's insurance department, accessible through [naic.org](https://www.naic.org/state_web_map.htm), can also help you understand your rights and file a complaint if you believe a claim was mishandled. You have more options than most insurers will tell you about.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)**
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
 ## Sources & References
 
 - [III, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance), Explains standard HO-3 policy coverage and exclusions
 - [NAIC, Homeowners Insurance Guide](https://content.naic.org/consumer/homeowners-insurance.htm), Consumer guide on what homeowners policies typically cover
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.

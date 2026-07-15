@@ -89,28 +89,8 @@ Colorado homeowners have something real now, a right to information and a path t
 - [Colorado's New Wildfire Rules Are Now in Effect](https://www.arrowhomeinspectionsinc.com/post/colorado-s-new-wildfire-rules-are-now-in-effect-what-homeowners-and-agents-need-to-know) (July 2026)
 - [Wildfire Insurance in the West: Colorado, Utah, and Idaho 2026](https://gritinsurance.com/blog/wildfire-insurance-colorado-utah-idaho-2026) (July 2026)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)**
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-- **[Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)**
-
-
-*Photo: [Tom Fisk](https://www.pexels.com/@tomfisk) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) — Hardwired interconnected smoke and CO detector — when one alarm sounds, all alarms in the house sound.
-

@@ -109,14 +109,6 @@ Independent agents work with multiple carriers and can genuinely shop your cover
 
 Shopping for homeowners insurance with only price and brand reputation in mind is how people get blindsided at exactly the moment they need help most. The company that answers your call at 2 a.m. after a fire, sends a fair adjuster quickly, and pays your claim without months of fighting is worth more than any five-star review or low introductory rate. Ask the hard questions before you buy. Read the exclusions before you sign. If you're ever uncertain, consult a licensed public adjuster or independent insurance attorney. Your home is likely your largest asset. The policy protecting it deserves more than a five-minute price comparison.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [NAIC, Consumer Information](https://content.naic.org/consumer.htm), complaint data and insurer lookup tools for consumers
@@ -126,12 +118,3 @@ Shopping for homeowners insurance with only price and brand reputation in mind i
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

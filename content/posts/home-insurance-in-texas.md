@@ -93,23 +93,11 @@ Raising your deductible on the non-wind portion of your policy is another option
 
 Texas home insurance isn't something you should buy on autopilot. The policy form, the deductible structure, the flood gap, the roof settlement method: these details determine whether your coverage actually works when you need it. Take an hour before your next renewal to sit down with your declarations page and actually read what you're paying for. If something is unclear, ask your agent to explain it in writing. The people who come out of major claims in decent shape are almost always the ones who understood their policy before the storm, not after.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-- **[Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)**
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-
-*Photo: [HRK Gallery](https://www.pexels.com/@hrk-gallery-245057798) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

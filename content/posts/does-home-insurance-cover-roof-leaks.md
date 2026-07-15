@@ -127,26 +127,7 @@ Some insurers have also moved toward "functional replacement cost" for roofs, wh
 
 Roof leaks sit in one of the most genuinely complicated corners of home insurance, where the line between "covered storm damage" and "uncovered wear and tear" can be frustratingly blurry. The clearest thing I can tell you is this: document your home's condition proactively, understand what caused the damage before you file, and don't accept a denial without reading the specific exclusion they're citing. A consultation with a licensed public adjuster or your state's insurance commissioner can be invaluable when a claim feels wrong. You don't have to accept the first answer you get, but you do need to understand the rules of the conversation.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)**
-- **[First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)**
-- **[Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
 ## Sources & References
 
 - [Insurance Information Institute, Homeowners Insurance Basics](https://www.iii.org/article/homeowners-insurance-basics), explains peril-based coverage and what standard policies cover
 - [III, How to File a Home Insurance Claim](https://www.iii.org/article/how-file-home-insurance-claim), supports claims process and documentation guidance
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
