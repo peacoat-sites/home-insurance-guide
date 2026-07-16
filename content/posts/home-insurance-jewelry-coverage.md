@@ -111,3 +111,13 @@ Scheduled coverage is an endorsement added to your homeowner policy. You manage 
 
 
 Mysterious disappearance means the piece went missing with no known cause: a ring slipped off at the beach, an earring fell down a drain, a necklace clasp broke and the chain vanished. Your base policy doesn't cover this unless you've added scheduled coverage or a mysterious disappearance endorsement.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
+
