@@ -5,3 +5,8 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 duplicate-topic merges
+/nearly-half-of-home-insurance-claims-pay-out-nothing/ /nearly-half-of-home-insurance-claims-now-pay-out-nothing/ 301
+/homeowners-insurance-vs-home-warranty/ /home-insurance-vs-home-warranty-explained/ 301
+/home-warranty-vs-insurance-difference/ /home-insurance-vs-home-warranty-explained/ 301
