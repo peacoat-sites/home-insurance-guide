@@ -19,7 +19,7 @@ faqs:
    a: "Yes. Bundling (home + auto) averages 18% savings, about $448/year on a $2,490 policy. This is the single biggest discount most people leave on the table."
  - q: "Do I need separate flood insurance?"
    a: "If you&#x2019;re in a FEMA flood zone with a government-backed mortgage, yes, it&#x2019;s mandatory. Even if not mandatory, coastal or river-adjacent homes should consider it ($400-$3,000/year depending on risk)."
-categories: ["Homeowners Insurance", "Insurance Costs", "State-by-State Rates"]
+categories: ["Cost Factors"]
 keywords: ["homeowners insurance rates by state", "home insurance cost", "cheapest homeowners insurance", "most expensive insurance states", "credit score impact insurance"]
 featured_depth: true
 ---

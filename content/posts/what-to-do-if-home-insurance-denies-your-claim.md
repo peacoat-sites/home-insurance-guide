@@ -4,7 +4,7 @@ date: 2026-07-10T12:19:35.504056+00:00
 draft: false
 description: "A denied home insurance claim isn't the end. Learn how to appeal, file a complaint, or hire a public adjuster to fight back and get what you're owed."
 image: "/img/heroes/7731329.jpg"
-categories: ["Filing a Claim"]
+categories: ["Claims"]
 tags: ["what", "home", "insurance", "denies", "your"]
 author: "Kevin Park"
 author_slug: "kevin-park"

@@ -4,7 +4,7 @@ date: 2026-07-10T12:17:24.914913+00:00
 draft: false
 description: "Learn how to file a home insurance claim for water damage step by step, avoid costly mistakes, and maximize your payout before the 14-day deadline."
 image: "/img/heroes/8089155.jpg"
-categories: ["Filing a Claim"]
+categories: ["Claims"]
 tags: ["file", "home", "insurance", "claim", "water"]
 author: "Diana Foster"
 author_slug: "diana-foster"

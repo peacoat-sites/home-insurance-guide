@@ -4,7 +4,7 @@ date: 2026-06-19T13:27:43.924470+00:00
 draft: false
 description: "Find out if home insurance covers mold removal, what policies typically include, and how to file a claim for mold damage in your house."
 image: "/img/heroes/17374615.jpg"
-categories: ["claims"]
+categories: ["Claims"]
 tags: ["does", "home", "insurance", "cover", "mold"]
 author: "Carl Brooks"
 author_slug: "carl-brooks"
