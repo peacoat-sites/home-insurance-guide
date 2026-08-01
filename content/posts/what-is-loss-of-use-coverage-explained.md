@@ -121,7 +121,7 @@ She hadn't filed taxes showing the income yet because she'd just started renting
 
 ## The Practical Steps When You File
 
-Don't wait until you have a pile of receipts to organize. Start a running log the day you're displaced: date, what you spent, why it's displacement-related, what you normally would have spent. A simple spreadsheet works. So does a [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=hie-20) if you're already using one to document possessions.
+Don't wait until you have a pile of receipts to organize. Start a running log the day you're displaced: date, what you spent, why it's displacement-related, what you normally would have spent. A simple spreadsheet works. So does a [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) if you're already using one to document possessions.
 
 Keep your pre-loss spending data. Bank statements, credit card statements, three months back. Your adjuster will use them to establish your baseline costs. If you can't show what you normally spent, you can't prove what's "additional."
 

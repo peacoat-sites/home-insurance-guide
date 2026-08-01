@@ -55,7 +55,7 @@ Okay, fair point: some older homes genuinely can't qualify for an HO-3 or HO-5. 
 
 In those cases, an HO-8 isn't a scam. It's the only real option, and having it beats the alternative. What matters is knowing what you're getting and documenting what you have.
 
-Document everything. I mean obsessively. A room-by-room [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/) is a good starting point, but for an older home you should be photographing and describing specific architectural details, materials, and finishes that you'd want replaced in kind. Store copies off-site or in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=homed09-20) (the site may earn a commission on that link). If you ever file a claim and want to argue that your 1940s hex tile bathroom deserves more than vinyl sheet replacement, that documentation is your only leverage.
+Document everything. I mean obsessively. A room-by-room [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/) is a good starting point, but for an older home you should be photographing and describing specific architectural details, materials, and finishes that you'd want replaced in kind. Store copies off-site or in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (the site may earn a commission on that link). If you ever file a claim and want to argue that your 1940s hex tile bathroom deserves more than vinyl sheet replacement, that documentation is your only leverage.
 
 ## Theft Coverage: The Quiet Limitation
 
@@ -69,7 +69,7 @@ First, get your home up to code where you can. Replacing knob-and-tube wiring is
 
 Second, ask about endorsements. Some insurers will add an "extended replacement cost" or "law and ordinance" endorsement to an HO-8. Law and ordinance coverage is especially worth asking about because older homes often trigger building code upgrades when more than 50% of the structure is damaged, and those upgrades come out of your pocket without that endorsement.
 
-Third, shop every year. The HO-8 market is more competitive than it used to be, and your home's risk profile changes as you update systems. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=homed09-20) near your water heater and washing machine costs under $30 and some insurers will note it favorably (the site may earn a commission). Small things add up when underwriters are on the fence.
+Third, shop every year. The HO-8 market is more competitive than it used to be, and your home's risk profile changes as you update systems. A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) near your water heater and washing machine costs under $30 and some insurers will note it favorably (the site may earn a commission). Small things add up when underwriters are on the fence.
 
 ---
 
@@ -106,7 +106,7 @@ Because there's a real market for it. Older homes represent a large share of exi
 - [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
 - [Insurance Institute for Business and Home Safety (IBHS)](https://ibhs.org/)
 - [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/)
-- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=homed09-20)
+- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
 - [IBHS has specific guidance on electrical upgrades and fire risk reduction for older homes](https://ibhs.org/)
 
 

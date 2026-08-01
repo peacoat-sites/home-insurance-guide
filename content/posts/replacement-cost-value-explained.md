@@ -101,7 +101,7 @@ A few things I never saw adequately disclosed at the point of sale:
 
 **Separate coverage for personal property.** Your dwelling RCV covers the structure. Your personal property coverage is often set at 50-70% of dwelling value by default, but it may use ACV for your belongings unless you specifically add an RCV endorsement for contents too. A 10-year-old couch on ACV is worth almost nothing. Confirm which method applies to your stuff.
 
-**The home inventory you never made.** If you suffer a total loss and need to claim personal property, you'll need to itemize everything. From memory. Under stress. I've watched people lose thousands simply because they couldn't document what they owned. A home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=youraffiliateid-20) or even just a slow walk-through video stored in the cloud takes two hours and could recover real money. (The site may earn a commission on linked products.)
+**The home inventory you never made.** If you suffer a total loss and need to claim personal property, you'll need to itemize everything. From memory. Under stress. I've watched people lose thousands simply because they couldn't document what they owned. A home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or even just a slow walk-through video stored in the cloud takes two hours and could recover real money. (The site may earn a commission on linked products.)
 
 **Worked example:**
 

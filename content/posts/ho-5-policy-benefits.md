@@ -100,7 +100,7 @@ If you rent out your home, you need a different form entirely (DP-3 or similar).
 
 Here's who I'd tell to look hard at HO-5 without hesitation: anyone with a home music studio, camera or video equipment over $5,000, a wine collection, art purchases, jewelry beyond what they've already scheduled, or a home office full of equipment they actually use. Also: anyone who's ever been in a claims dispute and lost. You paid the premium every month for years. The HO-5 at least puts you in a better negotiating position when something goes sideways.
 
-A practical step I always recommend: before renewing, run a home inventory. Seriously. Use an app like Encircle or even the free NAIC Home Inventory app, photograph everything in every room, and store it somewhere other than your house (cloud, a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=iii-20) at minimum). That inventory is what makes any personal property claim, HO-3 or HO-5, actually payable at a fair amount. Without it, you're negotiating from memory against someone with a spreadsheet. *(The site may earn a commission on the safe link.)*
+A practical step I always recommend: before renewing, run a home inventory. Seriously. Use an app like Encircle or even the free NAIC Home Inventory app, photograph everything in every room, and store it somewhere other than your house (cloud, a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) at minimum). That inventory is what makes any personal property claim, HO-3 or HO-5, actually payable at a fair amount. Without it, you're negotiating from memory against someone with a spreadsheet. *(The site may earn a commission on the safe link.)*
 
 ## Sources
 

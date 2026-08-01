@@ -104,9 +104,9 @@ Ask your agent these specific questions:
 
 That last one is sneaky. Standard liability coverage usually excludes business activities. If you have clients visit your home office, some carriers won't pay a slip-and-fall claim. I've seen that one surprise people badly.
 
-If you keep paper copies of policy documents, a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=siteref-20) rated for fire and water is worth the $60–$120. (Full disclosure: the site may earn a commission on that link.) Separately, I'd strongly suggest running a home inventory before adding scheduled property riders. Apps like Encircle or the III's free Know Your Stuff tool make the process significantly less painful, and having dated photos with serial numbers is the single biggest claim-processing accelerator I saw in my adjuster years.
+If you keep paper copies of policy documents, a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) rated for fire and water is worth the $60–$120. (Full disclosure: the site may earn a commission on that link.) Separately, I'd strongly suggest running a home inventory before adding scheduled property riders. Apps like Encircle or the III's free Know Your Stuff tool make the process significantly less painful, and having dated photos with serial numbers is the single biggest claim-processing accelerator I saw in my adjuster years.
 
-[Water leak sensors](https://www.amazon.com/s?k=smart+water+leak+sensor&tag=siteref-20) near your water heater, washing machine, and basement floor are a $30–$60 investment that can stop a sewer-related or appliance failure before it becomes a five-figure claim. Worth mentioning alongside the insurance side of things. (Commission disclosure applies here too.)
+[Water leak sensors](https://www.amazon.com/s?k=smart+water+leak+sensor&tag=contentportfo-20) near your water heater, washing machine, and basement floor are a $30–$60 investment that can stop a sewer-related or appliance failure before it becomes a five-figure claim. Worth mentioning alongside the insurance side of things. (Commission disclosure applies here too.)
 
 ## Sources
 

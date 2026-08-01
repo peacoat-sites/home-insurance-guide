@@ -104,7 +104,7 @@ Attic insulation and ventilation are the two legitimate long-term fixes. The Dep
 
 For the short term, roof de-icing cables (also called heat tape) can be installed along eaves for roughly $50 to $150 worth of materials for a standard home. They're not a permanent solution and they do add to your electric bill in cold months, but they can prevent dam formation during a bad week.
 
-A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=hie-20) placed in your attic near the eaves can catch early infiltration before it becomes a ceiling collapse. Worth the $30. (The site may earn a commission on that link.) A [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=hie-20) to document your belongings before any loss is equally worth the hour it takes to set up.
+A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed in your attic near the eaves can catch early infiltration before it becomes a ceiling collapse. Worth the $30. (The site may earn a commission on that link.) A [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) to document your belongings before any loss is equally worth the hour it takes to set up.
 
 Real scenario: a homeowner in Wisconsin added $800 in blown-in attic insulation in fall 2023, bringing the attic to R-52. The following two winters, with comparable snowfall to the previous five years, produced zero ice dams. His neighbor, with the original R-19 insulation, filed a $14,000 claim last winter. That math is not subtle.
 

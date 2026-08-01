@@ -115,7 +115,7 @@ The appraisal clause is one of the few structural levers policyholders actually 
 
 One thing I don't have great data on: how often appraisal awards end up above vs. below the midpoint between the two original estimates. I've seen it go both ways. Anyone claiming a clear pattern without solid industry data is guessing.
 
-Keeping a detailed [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=youraffiliatetag) (the site may earn a commission on purchases made through links like this) strengthens your position in any valuation dispute, not just appraisal. If you can document what you had and what it cost, the argument about replacement value becomes much harder for an insurer to dodge.
+Keeping a detailed [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) (the site may earn a commission on purchases made through links like this) strengthens your position in any valuation dispute, not just appraisal. If you can document what you had and what it cost, the argument about replacement value becomes much harder for an insurer to dodge.
 
 ---
 

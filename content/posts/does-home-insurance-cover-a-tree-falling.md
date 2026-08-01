@@ -94,7 +94,7 @@ When I was reviewing claims, incomplete photo documentation was one of the most 
 
 Then check your policy declarations page for your deductible amount and whether you have "tree removal" or "debris removal" coverage listed under Additional Coverages. Your state's insurance department, easily found through the [NAIC's state map](https://www.naic.org/state_web_map.htm), can also tell you what's required to be covered in your state, which varies more than people expect.
 
-A few things worth having before disaster strikes: a [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=yoursiteid-20) to document your belongings, a [waterproof document safe](https://www.amazon.com/s?k=waterproof+document+safe&tag=yoursiteid-20) for your policy documents, and honestly, a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=yoursiteid-20) near areas where a compromised roof could lead to interior water intrusion. (The site may earn a commission on those links.)
+A few things worth having before disaster strikes: a [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) to document your belongings, a [waterproof document safe](https://www.amazon.com/s?k=waterproof+document+safe&tag=contentportfo-20) for your policy documents, and honestly, a [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) near areas where a compromised roof could lead to interior water intrusion. (The site may earn a commission on those links.)
 
 As of July 2026, most major insurers have online claim portals that let you upload photos directly. Use them. The timestamped uploads create an evidentiary record you'll want.
 

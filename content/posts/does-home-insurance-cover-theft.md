@@ -89,7 +89,7 @@ Here's the step-by-step that actually matters, from someone who processed hundre
 
 **Step 2: Document what's missing immediately.** Walk through the house with your phone and record everything. Narrate as you go. The timestamp matters.
 
-**Step 3: Pull your home inventory.** You have one, right? If not, this is the moment you'll regret it. Apps like [Encircle](https://www.amazon.com/s?k=home+inventory+app) or a simple spreadsheet in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=yourchosentag-20) *(note: this site may earn a commission from qualifying purchases)* are the single most useful preparation for any property claim.
+**Step 3: Pull your home inventory.** You have one, right? If not, this is the moment you'll regret it. Apps like [Encircle](https://www.amazon.com/s?k=home+inventory+app) or a simple spreadsheet in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) *(note: this site may earn a commission from qualifying purchases)* are the single most useful preparation for any property claim.
 
 **Step 4: Gather purchase receipts, appraisals, credit card statements.** Anything that proves you owned the item and establishes its value. Serial numbers help significantly for electronics.
 

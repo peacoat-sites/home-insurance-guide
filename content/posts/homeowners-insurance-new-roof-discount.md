@@ -104,7 +104,7 @@ One more thing worth knowing: if you're replacing a roof after a claim, the cloc
 
 A proper home inventory, kept updated, is something insurers always tell you to do and almost no one does. Apps like Encircle or the NAIC's free myHOME app let you document your roof replacement with photos, receipts, and contractor info in one place. Worth doing the day your roofers finish, before the job site gets cleaned up.
 
-If you want an extra layer of protection against water intrusion from a failing roof before your next replacement, [water leak sensors placed in attic spaces](https://www.amazon.com/s?k=water+leak+sensor+wifi&tag=yourtag-20) can catch problems early. (Disclosure: the site may earn a commission on purchases through that link.) Not a substitute for a good roof, but useful during those years when your roof is aging into the higher-risk zone.
+If you want an extra layer of protection against water intrusion from a failing roof before your next replacement, [water leak sensors placed in attic spaces](https://www.amazon.com/s?k=water+leak+sensor+wifi&tag=contentportfo-20) can catch problems early. (Disclosure: the site may earn a commission on purchases through that link.) Not a substitute for a good roof, but useful during those years when your roof is aging into the higher-risk zone.
 
 ---
 

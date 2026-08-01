@@ -78,7 +78,7 @@ A few things to know about appraisals:
 - Receipts alone often aren't sufficient for higher-value items.
 - For items purchased recently, a sales receipt plus a gemological certificate (for diamonds, a GIA cert) is usually accepted without a separate appraisal.
 
-I also recommend building a home inventory, not just for scheduled items but for everything. Apps like Encircle or even a simple video walkthrough stored in cloud backup work fine. For irreplaceable documents related to high-value items (appraisals, certificates, provenance), a fireproof document safe like the [SentrySafe SFW123GDC](https://www.amazon.com/dp/B00MSEG0O8?tag=example-20) (around $80 to $100 at major retailers) is worth keeping on hand. (This site may earn a commission from affiliate links.)
+I also recommend building a home inventory, not just for scheduled items but for everything. Apps like Encircle or even a simple video walkthrough stored in cloud backup work fine. For irreplaceable documents related to high-value items (appraisals, certificates, provenance), a fireproof document safe like the [SentrySafe SFW123GDC](https://www.amazon.com/dp/B00MSEG0O8?tag=contentportfo-20) (around $80 to $100 at major retailers) is worth keeping on hand. (This site may earn a commission from affiliate links.)
 
 ## The Perils Question: Broader Than You Think
 
