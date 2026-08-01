@@ -148,3 +148,10 @@ Dwelling coverage is the most important number on your homeowner's policy, and i
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
 
+## Sources and References
+
+This guide draws on independent insurance authorities and regulators:
+
+- [Cornell Legal Information Institute: Insurance](https://www.law.cornell.edu/wex/insurance)
+- [FEMA: National Flood Insurance Program](https://www.floodsmart.gov/)
+- [Insurance Information Institute](https://www.iii.org/)

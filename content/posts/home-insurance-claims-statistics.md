@@ -120,3 +120,10 @@ A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=content
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 
+## Sources and References
+
+This guide draws on independent insurance authorities and regulators:
+
+- [Insurance Information Institute](https://www.iii.org/)
+- [National Association of Insurance Commissioners (NAIC)](https://content.naic.org/)
+- [Cornell Legal Information Institute: Insurance](https://www.law.cornell.edu/wex/insurance)
