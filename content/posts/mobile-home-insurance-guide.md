@@ -31,9 +31,7 @@ Mobile [home insurance](/home-insurance-mandatory-vs-optional-coverage/) is not 
 
 Let me walk you through what I've seen, what insurers don't advertise, and what you should pin down before you renew.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Mobile home insurance typically costs $700–$1,500/year, significantly more per dollar of coverage than site-built home policies.</li><li style="margin:5px 0">Standard HO-3 homeowner policies do NOT cover mobile/manufactured homes ,  you need a specific MH policy form.</li><li style="margin:5px 0">Most policies pay actual cash value by default; you must request replacement cost coverage in writing.</li><li style="margin:5px 0">If your home is in a mobile home park, your land lease agreement may impose additional insurance requirements your base policy doesn't meet.</li><li style="margin:5px 0">"Trip collision" coverage ,  for moving the home ,  is a separate rider most people forget until the truck is already hired.</li></ul></div>
-
 
 ## What You're Actually Buying
 
@@ -46,8 +44,6 @@ The thing I'd want everyone to read slowly is this: most MH policies default to 
 ## What a Policy Should Cover (and What It Often Skips)
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A solid MH policy covers the physical structure, attached structures like decks and carports, personal belongings inside, liability if someone gets hurt on your property, and additional living expenses while your home is being repaired. That's the baseline.
 
@@ -77,10 +73,6 @@ As of July 2026, premiums vary widely depending on the state, the home's age and
 | Older home (20+ years), ACV only | $700–$1,100 | Fewer carriers willing to write it |
 
 These are ranges drawn from industry experience, not guarantees. Your actual quote will depend on your specific home and location. The National Association of Insurance Commissioners publishes annual data on premium averages by state if you want to calibrate your own quote against a benchmark ([NAIC](https://www.naic.org/)).
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual MH insurance premium by state (sample)</div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">$1,480</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$820</span></div><div class="sc-row"><span class="sc-label">North Carolina</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$1,050</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$790</span></div><div class="sc-src">Source: Industry data, July 2026</div></div>
-
 
 ## Three Real Claim Scenarios
 
@@ -125,7 +117,6 @@ And get your personal property documented. A [water leak sensor](https://www.ama
 - III Issue Brief on Windstorm Insurance in Coastal States (current as of 2026): Documents the carve-out of wind/hail coverage in high-risk states
 
 ---
-
 
 *Photo: [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885) via Pexels*
 

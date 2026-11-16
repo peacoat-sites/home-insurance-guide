@@ -31,9 +31,7 @@ I'll be honest: I didn't fully appreciate how aggressively insurers apply vacanc
 
 What surprised me was how common the underlying situations are. A job relocation that takes longer than expected. An inherited property that can't sell in a slow market. Snowbird homeowners who stretch their winter trip by a few extra weeks. A renovation that ran over schedule. These aren't rare edge cases. They happen constantly, and the [coverage gap](/home-insurance-coverage-gap/) they create is real.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowner policies typically void coverage after 30-60 consecutive days of vacancy.</li><li style="margin:5px 0">Unoccupied home insurance (also called vacant home insurance) fills this gap, usually at 1.5x to 3x the cost of a standard policy.</li><li style="margin:5px 0">"Unoccupied" and "vacant" are legally different terms with different coverage implications, your insurer uses both.</li><li style="margin:5px 0">Most vacant property policies exclude vandalism, water damage, and glass breakage unless you pay extra riders.</li><li style="margin:5px 0">Proactive steps (regular inspections, water shutoff, security cameras) can meaningfully reduce your premium.</li></ul></div>
-
 
 ## The Difference Between "Vacant" and "Unoccupied" (It's Not Semantic)
 
@@ -48,8 +46,6 @@ Here's where it gets tricky: your policy's definition of "vacant" may not match 
 ## Why Standard Coverage Fails (And When)
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The 30-to-60-day vacancy window isn't random. It reflects underwriter judgment about when a property's risk profile meaningfully shifts. After that window closes, most standard policies either void coverage entirely or reduce it to a named-perils shell that covers almost nothing useful.
 
@@ -85,10 +81,6 @@ The pricing varies considerably by property characteristics, location, and how m
 | Builder's risk / renovation policy | $2,000 to $6,000+ | Structure under construction | Contents, completed work varies |
 
 *Ranges reflect national averages as of July 2026 and will vary significantly by state, property value, and insurer. Always get at least three quotes.*
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical annual vacant home insurance cost by property value</div><div class="sc-row"><span class="sc-label">$150K home</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$1,100</span></div><div class="sc-row"><span class="sc-label">$300K home</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$1,950</span></div><div class="sc-row"><span class="sc-label">$500K home</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$2,800</span></div><div class="sc-row"><span class="sc-label">$750K home</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$3,900</span></div><div class="sc-row"><span class="sc-label">$1M home</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,200</span></div><div class="sc-src">Source: Industry underwriting estimates, July 2026</div></div>
-
 
 ## How to Actually Get This Coverage
 
@@ -127,7 +119,6 @@ Worked example: A renovation project in Austin ran four months over schedule. Th
 - State insurance department bulletins: Most states publish guidance on specialty coverage requirements; search "[your state] department of insurance vacant property"
 
 ---
-
 
 *Photo: [Plato Terentev](https://www.pexels.com/@plato-terentev-3804555) via Pexels*
 

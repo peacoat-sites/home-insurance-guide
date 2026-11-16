@@ -31,9 +31,7 @@ Here's the part that used to make my job interesting, and not in a good way: ice
 
 Before I get into the mechanics of what's covered and what isn't, let's be direct about the core issue: ice dam coverage hinges almost entirely on how your insurer classifies the damage, which category it falls into, and what your specific policy says about "gradual damage" versus "sudden and accidental" loss. The difference can be thousands of dollars.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ice dams cause over $1 billion in U.S. property damage annually; most policies cover interior water damage but not the ice dam itself.</li><li style="margin:5px 0">"Gradual damage" exclusions are the #1 reason ice dam claims get partially or fully denied.</li><li style="margin:5px 0">Dwelling coverage (Coverage A) handles interior water damage; roof repair coverage depends on how the damage is classified.</li><li style="margin:5px 0">Flood insurance does NOT cover ice dam damage, it's a separate peril entirely.</li><li style="margin:5px 0">Document everything before any cleanup: photos, timestamps, and a written timeline protect your claim.</li></ul></div>
-
 
 ## What Actually Causes Ice Dams (And Why It Matters for Coverage)
 
@@ -47,8 +45,6 @@ This is not hypothetical. I personally reviewed dozens of ice dam claims where t
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Standard HO-3 policies (the most common homeowner form) generally cover ice dam damage through two separate buckets:
 
 **Dwelling Coverage (Coverage A):** This is where interior damage lands. Damaged drywall, ruined insulation, warped flooring, peeling paint. If water got in and damaged the structure of your home, Coverage A typically responds. The III confirms that water damage from ice dams is generally covered under this provision as a sudden and accidental loss, assuming your policy doesn't have a specific exclusion.
@@ -58,10 +54,6 @@ Standard HO-3 policies (the most common homeowner form) generally cover ice dam 
 What's almost never covered: the cost to remove the ice dam itself. Hiring a company to steam or chip the ice off your eaves runs $400 to $1,200 depending on roof size and severity. That's your money, not the insurer's.
 
 What's definitely not covered by standard homeowner insurance: any damage classified as flooding. Groundwater or snowmelt entering through a foundation is a flood claim, and that requires a separate NFIP or private flood policy. I don't have good numbers on how often this confusion causes claim denials, but I've seen it happen more than once.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical ice dam claim components: what's usually covered vs. not</div><div class="sc-row"><span class="sc-label">Interior water damage (drywall, insulation)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">78 % of cla</span></div><div class="sc-row"><span class="sc-label">Roof repair from ice damage</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">52 % of cla</span></div><div class="sc-row"><span class="sc-label">Ice dam removal cost</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">8 % of cla</span></div><div class="sc-row"><span class="sc-label">Attic mold remediation</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">41 % of cla</span></div><div class="sc-row"><span class="sc-label">Damaged personal property inside</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">67 % of cla</span></div><div class="sc-src">Source: Insurance Information Institute / industry adjuster experience</div></div>
-
 
 These percentages are rough industry estimates based on claim outcome data and adjuster experience, not a formal study. Actual outcomes vary by policy, insurer, and how well the claim is documented.
 
@@ -117,7 +109,6 @@ Real scenario: a homeowner in Wisconsin added $800 in blown-in attic insulation 
 - ISO HO-3 Policy Form (current as of July 2026): The standard homeowner policy form used by most major U.S. insurers; specific provisions referenced in this article apply to this form.
 
 ---
-
 
 *Photo: [Sara Nichole Photography](https://www.pexels.com/@sara-nichole-photography-2154961031) via Pexels*
 

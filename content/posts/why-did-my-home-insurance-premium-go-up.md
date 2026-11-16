@@ -47,8 +47,6 @@ Let's start with the forces your insurer won't volunteer in the renewal letter.
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Now the stuff that actually is about your house and your history.
 
 A claims history is the most obvious one. File two claims in three years and your premium will reflect it, often for five years or more. One thing I saw repeatedly as an adjuster: homeowners who called to report a problem and then decided not to file a claim still sometimes saw premium movement, because the inquiry itself was logged. Ask your insurer directly whether a "first notice of loss" that didn't result in a paid claim appears on your loss history. Request your CLUE report (that's the Comprehensive Loss Underwriting Exchange) annually at LexisNexis; it's free and it's what underwriters actually see.
@@ -73,10 +71,6 @@ Here's a general picture of what's driving average premium increases across diff
 | Roof age (20+ years) | 10-40% surcharge or coverage restriction | Older homes with original roofs |
 
 These are ranges drawn from industry reporting and my own professional experience, not guarantees for any specific policy. Your insurer's math is their own.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average homeowner premium by state (2026)</div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,200</span></div><div class="sc-row"><span class="sc-label">Louisiana</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$3,900</span></div><div class="sc-row"><span class="sc-label">Oklahoma</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">$3,300</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$2,800</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">$1,900</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">$1,400</span></div><div class="sc-row"><span class="sc-label">Oregon</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">$1,250</span></div><div class="sc-src">Source: Insurance Information Institute, 2026 estimates</div></div>
-
 
 Florida's number there is not a typo. Several major carriers have exited that market entirely.
 
@@ -115,7 +109,6 @@ One thing I regret not telling homeowners sooner during my adjuster years: conta
 - IBHS (Insurance Institute for Business & Home Safety): Research on home fortification measures and their relationship to insurable risk.
 
 ---
-
 
 ---
 

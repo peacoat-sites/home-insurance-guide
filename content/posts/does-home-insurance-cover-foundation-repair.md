@@ -31,9 +31,7 @@ That number isn't invented. The Foundation Repair Association estimates that fou
 
 Here's what actually determines coverage, and how to read your policy before you need it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowner policies almost never cover foundation settling, soil movement, or gradual cracking.</li><li style="margin:5px 0">Sudden, accidental events (burst pipe flooding a foundation, fire, vehicle impact) may trigger coverage, but the bar is high.</li><li style="margin:5px 0">Earth movement exclusions are near-universal; they apply even without an earthquake.</li><li style="margin:5px 0">Separate flood insurance (NFIP or private) is required for water-driven foundation damage.</li><li style="margin:5px 0">A professional structural assessment before filing a claim can be the difference between $0 and full payment.</li></ul></div>
-
 
 ## Why the Default Answer Is No
 
@@ -48,8 +46,6 @@ I reviewed hundreds of foundation-related claims during my time adjusting. The d
 ## When Coverage Actually Applies
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 It does happen. Rarely, but it happens, and knowing the exact scenarios matters.
 
@@ -70,10 +66,6 @@ Two enormous coverage gaps live here, and they catch people completely unprepare
 Standard HO-3 policies exclude flood damage. Period. If your basement foundation is cracking because water is saturating the soil around it after repeated flood events, you're looking at NFIP (National Flood Insurance Program) territory, or a private flood policy. NFIP coverage for building damage tops out at $250,000 as of this year, which sounds like a lot until your foundation repair quote comes in at $180,000 and you realize the adjuster is allocating only a portion to the foundation itself.
 
 Earthquake exclusions are equally universal in standard policies. California, Oregon, Washington, and parts of the central U.S. face meaningful seismic risk, and separate earthquake insurance is the only answer. CEA (California Earthquake Authority) policies include [dwelling coverage](/home-insurance-dwelling-coverage/), but deductibles are typically 10-25% of the dwelling limit, meaning on a $600,000 home, you're absorbing $60,000 to $150,000 before the policy pays anything.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average foundation repair cost by region (2026 estimates)</div><div class="sc-row"><span class="sc-label">Texas/Oklahoma</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$14,800</span></div><div class="sc-row"><span class="sc-label">Midwest</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$6,200</span></div><div class="sc-row"><span class="sc-label">Southeast</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">$7,900</span></div><div class="sc-row"><span class="sc-label">Pacific Coast</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">$11,400</span></div><div class="sc-row"><span class="sc-label">Northeast</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$8,300</span></div><div class="sc-src">Source: Foundation Repair Association, 2026 industry survey</div></div>
-
 
 ## What Your Policy Language Actually Says
 
@@ -115,7 +107,6 @@ Scenario: Homeowner in Phoenix installs a leak sensor near the main supply line 
 - [California Earthquake Authority (CEA)](https://www.earthquakeauthority.com/): Earthquake policy structure, deductible ranges, and dwelling coverage limits
 
 ---
-
 
 *Photo: [Carsten  Busch](https://www.pexels.com/@carsten-busch-904667880) via Pexels*
 

@@ -43,8 +43,6 @@ The "fire" name comes from the 1943 New York Standard Fire Policy, which was the
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I want to slow down, because this is where people get hurt.
 
 **DP-1** is a named-peril policy covering a short list of causes: fire, lightning, and internal explosion. Some carriers add windstorm, hail, smoke, vandalism, and a few others as endorsements, but the base form is brutally narrow. It almost always pays on an actual cash value (ACV) basis, meaning depreciation gets subtracted from your claim payment. A 15-year-old roof that burns? You might get 40 cents on the dollar. I've seen this play out dozens of times. The landlord expected a check for $28,000 and got $11,400.
@@ -80,10 +78,6 @@ According to the [Insurance Information Institute](https://www.iii.org/), fire a
 
 The National Fire Protection Association (NFPA) reported that one- and two-family dwellings account for the majority of residential structure fire losses in the U.S. annually. And the ISO (Insurance Services Office) dwelling program data consistently shows that landlord properties have higher average claim severity than owner-occupied homes, partly because unoccupied or tenant-occupied homes sometimes go longer before damage is discovered.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average Dwelling Fire Claim Payout by Loss Type</div><div class="sc-row"><span class="sc-label">Fire &amp; Lightning</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$84,200</span></div><div class="sc-row"><span class="sc-label">Wind &amp; Hail</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">$12,800</span></div><div class="sc-row"><span class="sc-label">Water &amp; Freezing</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">$11,000</span></div><div class="sc-row"><span class="sc-label">Theft</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$4,300</span></div><div class="sc-row"><span class="sc-label">Liability (DP+rider)</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$28,600</span></div><div class="sc-src">Source: III Industry Data / ISO Dwelling Program Estimates, 2025</div></div>
-
-
 That fire figure ($84,200 average) is why ACV vs. RCV matters so much. On an $84,000 claim, a 30% depreciation haircut is $25,200 you're absorbing yourself.
 
 ## Three Real-World Scenarios
@@ -109,7 +103,6 @@ If you've got multiple rentals, it's worth maintaining a home inventory with doc
 - III / ISO Joint Loss Data (2025): Average claim payouts by peril type for residential dwelling policies
 
 ---
-
 
 ---
 

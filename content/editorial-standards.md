@@ -3,7 +3,7 @@ title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "How Home Insurance Clear researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Home Insurance Clear researches, writes, fact-checks, and maintains every article, our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
 # Editorial Policy – Home Insurance Clear
