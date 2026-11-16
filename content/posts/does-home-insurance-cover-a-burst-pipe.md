@@ -27,7 +27,7 @@ faqs:
 
 Three inches of standing water in a finished basement. That's what a homeowner in suburban Ohio had when a copper supply line let go behind his drywall on a February night in 2023. He called his insurer first thing in the morning, fully expecting coverage. They paid for some of it. Not all of it. The gap nearly cost him $18,000 out of pocket, and the reason came down to a single word buried in his policy: "maintenance."
 
-I've seen this exact scenario play out more times than I can count. Burst pipes are one of the most common homeowner insurance claims in the country, and they're also one of the most misunderstood. People assume that because water damage looks dramatic and feels sudden, it's automatically covered. Sometimes it is. Sometimes it isn't. And the difference between those two outcomes usually has nothing to do with how bad the damage was.
+Burst pipes are one of the most common homeowner insurance claims in the country, and they're also one of the most misunderstood. People assume that because water damage looks dramatic and feels sudden, it's automatically covered. Sometimes it is. Sometimes it isn't. And the difference between those two outcomes usually has nothing to do with how bad the damage was.
 
 So let me walk you through how this actually works, where the traps are, and what you can do right now so you're not the person getting a partial check when you needed a full one.
 
@@ -44,8 +44,6 @@ Here's something I didn't fully appreciate until I was sitting on the other side
 ## The Coverage Breakdown: What Gets Paid and What Doesn't
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me put the major scenarios side by side, because this is genuinely where confusion lives.
 
@@ -66,8 +64,6 @@ That middle row about tear-out coverage trips people up constantly. Your policy 
 
 ## The Part Nobody Reads: Vacancy Clauses
 
-If there's one coverage gap that genuinely shocked me when I started reviewing claims, this was it.
-
 Most homeowner policies contain a clause that suspends or significantly limits coverage if the home has been vacant for more than 30 to 60 consecutive days. The exact threshold depends on your insurer and your state. If your pipes burst while you're snowbirding in Florida for the winter and you've been gone 45 days, your insurer may argue that the vacant home exclusion applies. Some policies define "vacant" differently from "unoccupied," but that distinction doesn't always save you.
 
 I've reviewed claims where the homeowner's only mistake was being away for a long weekend when a slow freeze developed into a burst. That's a different situation and typically covered. The risk spikes when homes are empty for extended periods without anyone checking in. The National Association of Insurance Commissioners has documented this as a recurring consumer complaint, because people buy policies assuming they're covered year-round without reading that clause.
@@ -76,11 +72,9 @@ If you're going to be away for more than a month, two things: tell your insurer 
 
 ## What Actually Happens After You File the Claim
 
-A reader named Linda from Minnesota emailed me last spring after her basement pipe let go during an ice storm. She did everything right: she called her insurer within hours, documented the damage with photos and video before the cleanup crew arrived, and kept every receipt. Her claim was paid, but it took longer than she expected, and the initial estimate was $4,200 lower than the final settlement after she pushed back on the personal property valuation.
+For example, if a basement pipe fails during an ice storm, calling the insurer within hours and documenting damage with photos and video before cleanup begins protects your claim. Keeping receipts and pushing back on initial estimates that seem low can also affect the final settlement.
 
 That gap is common, and it's not necessarily bad faith. It's often an initial estimate built on incomplete information that gets corrected when you document more thoroughly.
-
-Here's the rough sequence of what happens, based on what I've seen on the claims side:
 
 You report the claim. The insurer opens a file and assigns an adjuster. You'll likely be told to mitigate further damage immediately (stop the water, call a plumber, begin drying). Do not wait for adjuster approval to do this. Failure to mitigate can be used against you.
 
@@ -104,11 +98,11 @@ Those two outcomes are not a fluke. They reflect a real pattern.
 
 This part I feel strongly about, because prevention is genuinely where the math works in your favor.
 
-Water leak sensors are inexpensive and legitimately useful. I tested a few models in my own house and settled on placing them under sinks, near the water heater, and behind the washing machine. A basic sensor from a brand like Govee or Honeywell Home runs $15 to $35 and will alert your phone if it detects moisture. (The site may earn a small commission if you purchase through affiliate links.) That's not insurance. It's the thing that keeps you from needing insurance.
+Water leak sensors are inexpensive and useful. Place them under sinks, near the water heater, and behind the washing machine. A basic sensor from a brand like Govee or Honeywell Home runs $15 to $35 and will alert your phone if it detects moisture. (The site may earn a small commission if you purchase through affiliate links.) That's not insurance. It's the thing that keeps you from needing insurance.
 
 If you haven't done a home inventory, do it now. Walk through every room, film everything, note serial numbers and purchase prices on electronics and appliances. Apps like Encircle or even the NAIC's own free home inventory resources can help you organize this. A claim without documentation is a claim that gets low-balled.
 
-And one thing most people never do: call your insurer before something happens and ask them directly what your pipe coverage includes. Ask about vacancy clauses. Ask about tear-out coverage. Ask whether you have RCV or ACV on personal property. Record the date, the rep's name, and what they told you. I've seen that kind of documentation change a claim outcome.
+Call your insurer before something happens and ask them directly what your pipe coverage includes. Ask about vacancy clauses. Ask about tear-out coverage. Ask whether you have RCV or ACV on personal property. Record the date, the rep's name, and what they told you. That documentation can be important if you need to file a claim.
 
 ## Sources
 
@@ -118,7 +112,6 @@ And one thing most people never do: call your insurer before something happens a
 - [IRC (Insurance Research Council)](https://www.insurance-research.org/): Research on claim settlement patterns and consumer outcomes in property insurance.
 
 ---
-
 
 ---
 

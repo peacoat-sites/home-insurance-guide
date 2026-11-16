@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 2 a.m., water pouring through your ceiling. Your laptop's ruined. Your couch is soaked. You call your landlord, who calls their insurer, and you learn a brutal truth: their policy covers the building. It covers nothing you own. If you don't have renters insurance, you're paying out of pocket for everything.
 
-I've watched this exact scenario play out dozens of times while reviewing claims, and it never gets easier to explain to someone who didn't know the gap existed.
+This gap in coverage is a common source of confusion when claims arise.
 
 Home insurance and renters insurance look related on the surface, but they solve fundamentally different problems. Confusing them is one of the most common and costly mistakes people make.
 
@@ -37,7 +37,7 @@ Home insurance, technically called an HO-3 policy, protects the structure you ow
 
 Renters insurance, usually an HO-4 policy, starts from the opposite assumption: you don't own the building, so the building isn't your responsibility. What you do own is everything inside it. Your clothes, electronics, furniture, cookware. Renters insurance protects that personal property and adds liability protection in case someone gets hurt in your space.
 
-Here's the part that matters: your landlord's building policy doesn't cover your stuff. Period. That policy protects the landlord's asset. You are not their asset. I cannot stress this enough because I've watched people learn it the hard way, sometimes after losing everything in a fire or flood.
+Your landlord's building policy doesn't cover your stuff. That policy protects the landlord's asset, not yours. Renters who discover this gap after a fire or flood often find themselves with no coverage for personal belongings.
 
 ## The Three Pillars Both Policies Share (and Where They Diverge)
 

@@ -31,7 +31,6 @@ That's not unusual. That's actually standard.
 
 Most homeowner's policies are built around the assumption that your personal property consists of furniture, appliances, and clothes. The moment you start accumulating things with serious collector value, whether that's sports cards, vintage watches, coins, comic books, first-edition books, wine, or signed memorabilia, you've quietly outgrown the protection a standard policy offers. The problem is nobody tells you this at renewal time.
 
-
 <div class="value-module">
  <div class="vm-head">Coverage Gaps by Collectible Type</div>
  <div class="vm-body">
@@ -57,11 +56,11 @@ If you have items worth real money, the only reliable solution is scheduling the
 
 Scheduled coverage is genuinely better in almost every way compared to relying on your base policy. You get agreed value, meaning if your 1952 Bowman Mickey Mantle is insured for $60,000, that's what you get paid without depreciation arguments. Coverage typically extends to accidental breakage, which matters enormously for ceramics, glass, vintage electronics, and fragile paper items. Most floaters cover mysterious disappearance too.
 
-The cost varies depending on the item category, your location, and your insurer. A ballpark figure I've seen often is roughly $1 to $2 per $100 of value annually for many collectibles, though specialty items like [fine art](/home-insurance-fine-art-coverage/) or wine can run higher. So a $10,000 collection might cost you an extra $100 to $200 a year. That's genuinely not much.
+The cost varies depending on the item category, your location, and your insurer. Rates typically run roughly $1 to $2 per $100 of value annually for many collectibles, though specialty items like [fine art](/home-insurance-fine-art-coverage/) or wine can run higher. So a $10,000 collection might cost you an extra $100 to $200 a year. That's genuinely not much.
 
 Getting items scheduled requires documentation. For most collectibles, you'll want a written appraisal from a credentialed appraiser. For sports cards, a grading certificate from PSA, BGS, or SGC is standard. For coins, PCGS or NGC certification. For vintage instruments or memorabilia, a professional appraisal in writing. Some insurers will accept recent auction records or dealer invoices for items with clear market comparables. Ask specifically what they'll accept before you spend money on an appraisal.
 
-Here's the thing most people don't realize: your scheduled value needs to be updated. A card graded PSA 9 that was worth $2,000 in 2018 might be worth $12,000 today. If you haven't updated the scheduled value, you're insured for $2,000. Set a calendar reminder to reassess high-value items every two or three years, or any time the market shifts noticeably.
+Your scheduled value needs to be updated. A card graded PSA 9 that was worth $2,000 in 2018 might be worth $12,000 today. If you haven't updated the scheduled value, you're insured for $2,000. Set a calendar reminder to reassess high-value items every two or three years, or any time the market shifts noticeably.
 
 ## Specialty Insurers Are Worth Knowing About
 
@@ -71,7 +70,7 @@ These companies focus specifically on collectibles, fine art, and high-value per
 
 ## The Documentation Problem (This Is Where Claims Fall Apart)
 
-I've seen more claims denied or underpaid for documentation failures than for coverage gaps. If you have a collectible worth more than $500 and you can't prove what it is, what condition it is, and what it's worth, you're going to have a bad time at claim time.
+Claims are more often denied or underpaid for documentation failures than for coverage gaps. If you have a collectible worth more than $500 and you can't prove what it is, what condition it is, and what it's worth, you're going to have a bad time at claim time.
 
 A home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or even a simple walk-through video stored off-site can be enough for lower-value items. For anything significant, you want written third-party documentation. Keep digital copies of appraisals, grading certificates, purchase receipts, and auction confirmations in cloud storage and in a fireproof document safe. A physical document that burns in the same fire that destroyed your collection is useless.
 

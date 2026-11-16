@@ -32,15 +32,11 @@ As noted by Colorado Senate Democrats in their June 2026 joint release on the la
 
 > **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I want to be direct about the stakes here, because the numbers are not subtle.
 
 Colorado premiums roughly doubled between 2020 and 2025. That alone would be jarring. But some homeowners near Idaho Springs saw a single renewal jump from $4,677 to $34,600. That's a 740% increase in one year. And according to Insurify's projections, Colorado homeowners are looking at an additional 33% average hike in 2026. The state already ranks sixth most expensive in the country, with average annual premiums around $4,072 for $300,000 in dwelling coverage.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Colorado avg. annual premium vs. projected 2026 increase</div><div class="sc-row"><span class="sc-label">2020 baseline (est.)</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$2,036</span></div><div class="sc-row"><span class="sc-label">2025 average</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$4,072</span></div><div class="sc-row"><span class="sc-label">2026 projected</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,416</span></div><div class="sc-src">Source: Insurify / Live Insurance News 2026</div></div>
-
 
 Against that backdrop, a secret score driving your rate isn't a minor inconvenience. It's potentially the difference between keeping your home insured and losing coverage entirely. Live Insurance News reported in July 2026 that the law is now considered the most specific and actionable wildfire risk-score consumer protection statute in the country. States like Arizona, Utah, New Mexico, Wyoming, and Montana have no equivalent rights for their policyholders.
 
@@ -48,7 +44,7 @@ Against that backdrop, a secret score driving your rate isn't a minor inconvenie
 
 You might be wondering: what actually goes into these scores, and is there anything I can do about mine?
 
-Wildfire risk models pull from a mix of factors, some outside your control and some very much within it. Location, slope, surrounding vegetation, and regional fire history are largely fixed. But insurers are also supposed to be weighing property-specific factors, and this is where the law creates real leverage.
+Wildfire risk models pull from a mix of factors, some outside your control and some very much within it. Location, slope, surrounding vegetation, and regional fire history are largely fixed. But insurers are also supposed to be weighing property-specific factors, and this is where the law matters.
 
 | Mitigation Action | What It Addresses | Covered Under HB25-1182 Discount Requirement |
 |---|---|---|

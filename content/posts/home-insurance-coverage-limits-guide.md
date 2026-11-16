@@ -42,12 +42,9 @@ This happens constantly. Insurance companies don't make a big deal about it. But
 
 **"My homeowners policy covers everything that happens to my house"**: Most homeowners assume their standard policy is an all-encompassing safety net. Reality check: according to the National Association of Insurance Commissioners, floods and earthquakes, two of the most common natural disasters in the U.S., are explicitly excluded from standard homeowners policies. A 2023 Insurance Information Institute study found that only 12% of homeowners in flood-prone areas carry flood insurance, leaving 88% financially exposed. Similarly, the U.S. Geological Survey reports that earthquake insurance is purchased by fewer than 5% of homeowners in seismic zones, despite significant risk. Your standard policy also typically excludes damage from poor maintenance, wear-and-tear, and certain weather events like hail damage (depending on your state). Before assuming you're covered, check your policy's exclusions page, it's often longer than the coverage section.
 
-
 **"My homeowners policy covers everything that happens to my house"**: Most homeowners assume a standard policy is a catch-all for disaster. Reality check: According to the National Association of Insurance Commissioners, flood damage alone is excluded from 99% of standard homeowners policies, yet it's the #1 cause of property damage claims. Earthquakes, sinkholes, and poor maintenance damage are also routinely denied. The Insurance Information Institute reports that nearly 1 in 4 homeowners discovered their damage *wasn't* covered only after filing a claim. Your policy covers named perils (fire, theft, wind), not everything. That's why 39% of homeowners are underinsured, according to CoreLogic data.
 
-
 **"My homeowners insurance covers everything"**: Most homeowners believe their standard policy protects against all disasters. Reality check: The National Association of Insurance Commissioners found that 60% of homeowners are underinsured, and standard policies explicitly exclude earthquakes, floods, and wear-and-tear damage. A 2023 Insurance Information Institute study revealed that after Hurricane Ian, nearly 40% of claimants faced denial or partial denial due to coverage gaps, not negligence, but exclusions buried in policy language. Floods alone require separate coverage; earthquakes need endorsements. Your "all-in" policy is actually a carefully curated list of what *isn't* covered.
-
 
 A coverage limit is the maximum dollar amount your insurer will pay for a covered loss. Simple enough. Except it isn't.
 
@@ -148,7 +145,7 @@ Two endorsements get sold without much clarity.
 
 **Guaranteed replacement cost** (sometimes called "extended replacement cost," though definitions vary) is stronger. The insurer promises to pay actual rebuilding costs, even if they exceed your limit. Not every insurer offers it. Not every home qualifies. Some versions cap the extra coverage at a percentage rather than offering unlimited protection. Read the endorsement itself, not the marketing summary.
 
-I've seen people believe they had true guaranteed replacement cost only to discover their version had a 25% cap. The word "guaranteed" in an insurance endorsement should always make you read the actual policy language.
+A homeowner might believe they have true guaranteed replacement cost only to discover their version had a 25% cap. The word "guaranteed" in an insurance endorsement should always prompt a careful reading of the actual policy language.
 
 ---
 
@@ -171,7 +168,6 @@ Getting your limits right isn't thrilling work. It doesn't feel urgent until sud
 - [Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)
 - [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
 - [Taylor Thompson](https://www.pexels.com/@taylor-thompson-865581658)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

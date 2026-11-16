@@ -58,7 +58,7 @@ Before your renewal, it's worth pulling out your current policy and reading exac
 
 ## What to Do Before October 15
 
-You might be wondering whether this is the moment to go back to the private market. Honestly, it depends on your ZIP code and your property's risk profile, and that's a conversation worth having with a licensed independent broker, not a captive agent who only represents one carrier. An independent broker can shop across multiple carriers and tell you whether any private options have reopened in your area since 2025.
+You might be wondering whether this is the moment to go back to the private market. It depends on your ZIP code and your property's risk profile, and that's a conversation worth having with a licensed independent broker, not a captive agent who only represents one carrier. An independent broker can shop across multiple carriers and tell you whether any private options have reopened in your area since 2025.
 
 If you're staying on the FAIR Plan, get your renewal notice the moment it arrives and read the coverage section, not just the premium total. Compare your new dwelling coverage limit against current construction costs in your area. After inflation and recent supply chain effects on building materials, many older FAIR Plan policies are significantly underinsured, which would only become apparent after a loss.
 

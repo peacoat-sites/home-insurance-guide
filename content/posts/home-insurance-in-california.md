@@ -37,7 +37,7 @@ Insurers priced risk based on historical data, and the historical data stopped b
 
 So they left. Or they stopped writing new policies. Or they quietly started non-renewing existing customers in high-risk areas.
 
-What most people don't realize is that this isn't just a problem for homes in fire-prone foothills. I've seen claims from clients in suburban neighborhoods who were dropped because their zip code overlapped with a fire risk zone, even when their specific street had minimal exposure. The risk models are blunt instruments.
+What most people don't realize is that this isn't just a problem for homes in fire-prone foothills. Insurance companies sometimes drop coverage in suburban neighborhoods where a zip code overlaps with a fire risk zone, even when a specific street has minimal exposure. The risk models are blunt instruments.
 
 The practical consequence for you: finding coverage is harder, slower, and more expensive than it was even three years ago. If you're shopping right now, plan for sticker shock. If you're renewing, read every piece of mail your insurer sends, because a non-renewal notice has a response deadline, usually 60 days, and missing it leaves you scrambling.
 
@@ -61,7 +61,7 @@ Extended replacement cost coverage is the provision that allows your insurer to 
 
 Guaranteed replacement cost is a higher-tier provision that covers full rebuild costs regardless of the policy limit. It's harder to find in California right now, but worth asking about if you're comparison shopping.
 
-One more thing to check: your Additional Living Expenses (ALE) coverage, also called Coverage D. If you have to evacuate or your home becomes uninhabitable after a covered loss, ALE covers your temporary housing, meals above your normal food costs, storage, and similar expenses. I've worked claims where families spent 18 months in temporary housing while their home was rebuilt. Your ALE limit matters.
+One more thing to check: your Additional Living Expenses (ALE) coverage, also called Coverage D. If you have to evacuate or your home becomes uninhabitable after a covered loss, ALE covers your temporary housing, meals above your normal food costs, storage, and similar expenses. Rebuilding a home can take well over a year, during which temporary housing, meals, and storage costs add up quickly. Your ALE limit matters.
 
 ## Practical Steps to Protect Yourself Right Now
 

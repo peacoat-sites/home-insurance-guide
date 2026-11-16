@@ -33,17 +33,15 @@ Here's the short version before we get into the weeds. FORTIFIED Home is a volun
 
 There are three tiers: Bronze, Silver, and Gold. You earn them in order, and each one builds on the last.
 
-Bronze is the entry point, and it's almost entirely about the roof. We're talking sealed roof deck (a secondary water barrier beneath the shingles), enhanced roof-to-wall connections, and impact-resistant shingles rated to specific wind or hail standards. The specific product requirements are more granular than most contractors realize. I've seen homeowners get tripped up because their roofer used shingles that met the general Class 4 impact rating but didn't appear on the IBHS-approved products list. Small detail, big problem. It voids the designation.
+Bronze is the entry point, and it's almost entirely about the roof. We're talking sealed roof deck (a secondary water barrier beneath the shingles), enhanced roof-to-wall connections, and impact-resistant shingles rated to specific wind or hail standards. The specific product requirements are more granular than most contractors realize. A common mistake is using shingles that meet the general Class 4 impact rating but don't appear on the IBHS-approved products list. This small detail voids the designation.
 
 Silver adds protections for the connections between your roof and walls, and between your walls and foundation. Gold, the top tier, also requires windows, doors, and garage doors to meet impact and pressure standards. Gold is essentially the full storm-hardening package.
 
-One thing that surprised me when I first went through the technical documentation: the inspector who verifies FORTIFIED work isn't your contractor. It's an independent IBHS-certified evaluator. That separation matters enormously. I reviewed enough claims to know that contractor self-certification is worth roughly what you pay for it.
+The inspector who verifies FORTIFIED work isn't your contractor. It's an independent IBHS-certified evaluator. That separation matters because it removes the conflict of interest that contractor self-certification creates.
 
 ## The Insurance Premium Impact (Where It Gets Interesting)
 
 > **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where the program either makes sense or doesn't, depending on your state.
 
@@ -74,7 +72,7 @@ That third scenario is the one people don't talk about enough. The FORTIFIED des
 
 ## Finding a Contractor and Inspector (The Part Where People Stumble)
 
-The IBHS maintains a directory of FORTIFIED-certified contractors and evaluators at disastersafety.org. I'd suggest using it as a starting list, not a final endorsement. When I was on the claims side, credentialing meant less than I wished it did. Ask your contractor specifically how many FORTIFIED projects they've completed and request contact information for two or three of those homeowners. Then actually call.
+The IBHS maintains a directory of FORTIFIED-certified contractors and evaluators at disastersafety.org. Use it as a starting list, not a final endorsement. Ask your contractor specifically how many FORTIFIED projects they've completed and request contact information for two or three of those homeowners. Then actually call.
 
 The inspector is the gatekeeper. After work is complete, the IBHS-certified evaluator comes out, checks the installation against the standard, and if everything passes, the homeowner receives a certificate and the property gets logged in the IBHS database. Your insurer should be able to verify the designation directly. If they ask you to submit the certificate yourself and just take your word for it, push back. Ask them to check the IBHS registry. That verification step is how you avoid paying for a designation that doesn't actually lower your premium.
 
@@ -88,9 +86,7 @@ The research is somewhat narrower on Silver and Gold performance, since those de
 
 Your state insurance department may have local data on claim frequency and severity for FORTIFIED vs. non-FORTIFIED homes. The [National Association of Insurance Commissioners member directory](https://www.naic.org/state_web_map.htm) can point you to your state's department, and a few states have started publishing this breakdown in their annual market reports. Worth requesting.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. annual premium reduction by FORTIFIED tier (Alabama coastal)</div><div class="sc-row"><span class="sc-label">No designation</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Bronze</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">$520</span></div><div class="sc-row"><span class="sc-label">Silver</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$780</span></div><div class="sc-row"><span class="sc-label">Gold</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,100</span></div><div class="sc-src">Source: IBHS published data and AL Dept. of Insurance reports</div></div>
-
 
 ## Sources
 
@@ -101,7 +97,6 @@ Your state insurance department may have local data on claim frequency and sever
 - [Louisiana Department of Insurance](https://www.ldi.la.gov/): Insurer participation requirements and FORTIFIED incentive mandates as updated through 2026.
 
 ---
-
 
 ---
 

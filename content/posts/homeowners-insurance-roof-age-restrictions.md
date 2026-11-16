@@ -44,13 +44,11 @@ The first is a hard eligibility cutoff. Your roof hits a certain age, they won't
 
 The second approach is a coverage downgrade. The insurer will cover you, but they'll switch your roof from replacement cost value (RCV) to actual cash value (ACV). That's the one that really stings. With RCV, if a storm destroys your roof, you get a new roof. With ACV, you get what the roof was worth the day before the storm, minus depreciation. On a 17-year-old roof, that could mean you're handed $4,000 to $6,000 while a new roof installation runs $15,000 to $25,000 depending on pitch, size, and materials. You cover the gap yourself.
 
-The third approach, less common but worth knowing, is a required inspection before binding. Some insurers will accept older roofs but send an inspector first. That inspector's report can trigger a cancellation notice, a surcharge, or an ultimatum: replace the roof within 30 to 60 days or we're [non-renewing you](/homeowners-insurance-surcharges/). I've seen homeowners blindsided by this after a perfectly routine renewal cycle.
+The third approach, less common but worth knowing, is a required inspection before binding. Some insurers will accept older roofs but send an inspector first. That inspector's report can trigger a cancellation notice, a surcharge, or an ultimatum: replace the roof within 30 to 60 days or we're [non-renewing you](/homeowners-insurance-surcharges/). This can blindside homeowners who expected a routine renewal.
 
 ## Why This Has Gotten Stricter
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 It wasn't always this aggressive. I started in claims in the early 2010s, and back then a 25-year-old roof wasn't automatically disqualifying. What changed was a string of severe hail and wind seasons, followed by a wave of inflated roofing claims, many of them driven by aggressive storm-chasing contractors who knew how to work the system. Insurers got burned badly in states like Texas and Colorado, and they responded by tightening underwriting. Aggressively.
 
@@ -90,7 +88,6 @@ The most direct fix, and sometimes the most economical one when you factor in ev
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -104,7 +101,6 @@ The most direct fix, and sometimes the most economical one when you factor in ev
 - [home fortification guides](https://ibhs.org/)
 - [NAIC's state map](https://www.naic.org/state_web_map.htm)
 - [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

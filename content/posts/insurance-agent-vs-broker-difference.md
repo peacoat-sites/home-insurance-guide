@@ -31,9 +31,7 @@ I spent 14 years on the claims side of this industry, and I watched the confusio
 
 The agent vs. broker distinction sounds like insider jargon. It's not. It's the difference between someone who's legally obligated to the insurance company and someone who's supposed to be working on your behalf. Those are not the same thing.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Captive agents represent one insurer only; independent agents typically represent 10-20 carriers.</li><li style="margin:5px 0">Brokers have a legal duty to the client; captive agents have a legal duty to their insurer.</li><li style="margin:5px 0">Brokers may charge a separate broker fee ($25-$150 is common) that agents generally don't.</li><li style="margin:5px 0">Neither brokers nor agents can guarantee a quote is final until the insurer completes underwriting.</li><li style="margin:5px 0">For complex properties (older homes, high-value contents, non-standard builds), a broker usually finds better coverage.</li></ul></div>
-
 
 ## Who an Agent Is Actually Working For
 
@@ -47,11 +45,9 @@ What most people don't realize is that both types of agents are compensated by c
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A broker doesn't hold an appointment with a specific carrier the way an agent does. Instead, they're licensed to shop the market on your behalf and present options from multiple insurers. The legal obligation runs to you, the client, not to an insurer.
 
-In practice, this means a broker will put together a coverage analysis, identify gaps, and compare actual policy language across carriers, not just price. I've seen brokers catch things like ACV ([actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/)) vs. replacement cost on roof coverage that clients had no idea they were carrying. That one distinction alone can mean a difference of tens of thousands of dollars on a claim.
+In practice, this means a broker will put together a coverage analysis, identify gaps, and compare actual policy language across carriers, not just price. A broker might catch things like ACV ([actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/)) vs. replacement cost on roof coverage that policyholders may not realize they're carrying. That one distinction alone can mean a difference of tens of thousands of dollars on a claim.
 
 There's a tradeoff, though. Brokers often charge a broker fee. As of 2026, I see these ranging from about $25 on the low end to $150 or more for complex properties. That fee is usually disclosed upfront, but not always prominently. Ask about it before you assume the quote you're getting is all-in.
 
@@ -84,7 +80,7 @@ That last row matters more than people think. A broker places business with a ca
 
 When you sit down with someone to buy a homeowner policy, ask this directly: "Are you a captive agent, an independent agent, or a broker?" Then ask: "Who are you legally representing in this transaction?"
 
-I thought for a long time that agents would be offended by this. They're not. The ones who know what they're doing will answer clearly and confidently. The ones who get evasive? That tells you something too.
+They're not. The ones who know what they're doing will answer clearly and confidently. The ones who get evasive? That tells you something too.
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) maintains a licensing lookup tool where you can verify whether someone in your state holds an agent or broker license. Use it. Takes two minutes. The [Insurance Information Institute (III)](https://www.iii.org/) also has plain-language breakdowns of these distinctions if you want to dig further before your next conversation.
 
@@ -98,7 +94,6 @@ One more thing: a good home inventory protects you regardless of who sells you t
 - [III Homeowners Insurance Report (2025)](https://www.iii.org/): Annual data on homeowner premium trends and coverage gap statistics
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

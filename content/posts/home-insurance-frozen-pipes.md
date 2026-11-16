@@ -48,7 +48,7 @@ That word "sudden" is doing a lot of work in that sentence.
 
 What most people don't realize is that insurers aren't paying for damage that developed slowly or that you could have prevented. This is where I saw the vast majority of denied claims, and it's not always obvious where the line falls. An adjuster reviewing your claim will look for evidence of whether the damage was truly sudden or whether conditions existed that you should have addressed.
 
-The specific exclusion language varies by carrier, but most policies include something like: coverage does not apply if the home was left unoccupied without adequate heat, or if the homeowner failed to take reasonable steps to prevent freezing. That's intentionally vague, which gives adjusters room to maneuver. I've seen claims denied because a homeowner turned the thermostat down to 50°F while on vacation (the pipe that burst was in an exterior wall with poor insulation, and 50°F wasn't enough). I've also seen similar claims paid because the homeowner had a neighbor checking the house every two days.
+The specific exclusion language varies by carrier, but most policies include something like: coverage does not apply if the home was left unoccupied without adequate heat, or if the homeowner failed to take reasonable steps to prevent freezing. That's intentionally vague, which gives adjusters room to maneuver. Claims may be denied if a thermostat is set too low during vacancy (50°F may not prevent freezing in exterior walls with poor insulation), but approved if the homeowner arranges regular check-ins, such as a neighbor visiting every two days.
 
 The distinguishing factor is almost always documentation of your precautions.
 
@@ -56,13 +56,11 @@ The distinguishing factor is almost always documentation of your precautions.
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where people get into real trouble. If you leave your home for an extended period, especially in winter, your standard policy may not have you covered the way you think.
 
 Most policies define "vacancy" as 30 to 60 consecutive days without an occupant. After that threshold, many insurers apply a vacancy exclusion that either reduces or eliminates coverage for frozen pipe damage entirely. You'd need a separate vacancy endorsement or a standalone vacant home policy to maintain protection. These exist, but they cost extra and most people don't think to ask about them until it's too late.
 
-I reviewed one claim years ago where a couple had spent four months at their Florida condo every winter for years and never had an issue. Then one January, a cold snap hit their primary home in Ohio, a pipe in the basement froze and burst, and about $40,000 in damage resulted. The adjuster found the home had been vacant for 61 days. One day over the threshold. Coverage was denied. The couple genuinely didn't know the exclusion existed.
+Vacancy thresholds in exclusion language are strict: a home vacant for just one day over the stated limit can result in a denied claim, even if the homeowner was unaware of the exclusion.
 
 That situation stuck with me. $40,000. One day.
 
@@ -74,13 +72,13 @@ Let's say a pipe does burst. Here's what tends to produce the best outcome:
 
 **Stop the water first.** Know where your main shutoff is before you ever need it. Every minute matters when it comes to limiting the spread of damage.
 
-**Document everything immediately.** Photos and video before any cleanup. This is non-negotiable. I've seen claims reduced or complicated because homeowners cleaned up first and then called. Adjusters need to see the extent of the damage as it was.
+**Document everything immediately.** Photos and video before any cleanup. This is non-negotiable. Claims may be reduced or complicated if homeowners clean up before calling their insurer. Adjusters need to see the extent of the damage as it was.
 
 **Call your insurer the same day.** Most policies have a requirement to report claims "promptly." Delaying can create unnecessary complications.
 
 **Keep all receipts.** Emergency plumber visits, hotel stays if you have to leave the home, restoration company invoices. Your policy may have Additional Living Expenses coverage that reimburses you while repairs happen.
 
-One scenario I've watched play out well: Homeowner in Minnesota discovers a burst pipe in their utility room on a Monday morning, shuts off the water, takes 20 minutes of video before calling anyone, then calls the insurer. Adjuster visits Wednesday. Claim processed for $18,500 covering pipe repair, drywall replacement, and damaged water heater. Payment issued within three weeks. The documentation made it clean.
+For example, when a homeowner discovers a burst pipe, shuts off the water, documents the damage with video before calling anyone, and then calls the insurer, the claims process can proceed smoothly. A well-documented claim can cover pipe repair, drywall replacement, and a damaged water heater, with payment issued within three weeks.
 
 Compare that to a similar situation where the homeowner called a restoration company first, who ripped out the damaged materials before any adjuster visit. That claim took four months to resolve and ended up at $11,000 because the insurer couldn't independently verify the original scope of damage.
 
@@ -96,7 +94,7 @@ For claims well above your deductible, say $8,000 or more, file confidently and 
 
 ## Prevention That Actually Changes Your Risk
 
-The [IBHS home fortification guides](https://ibhs.org/) have specific cold-weather recommendations worth bookmarking, and they're free. But from a claims perspective, here's what I've seen actually make a difference when it comes time to evaluate whether someone took "reasonable precautions":
+The [IBHS home fortification guides](https://ibhs.org/) have specific cold-weather recommendations worth bookmarking, and they're free. From a claims perspective, these steps actually make a difference when it comes time to evaluate whether someone took "reasonable precautions":
 
 Keep your thermostat at 55°F minimum when you're away, even in an interior you think is well-insulated. Open cabinet doors under sinks on exterior walls during extreme cold so warmer air can circulate. Know which pipes run through unconditioned spaces like garages, crawl spaces, or uninsulated attics, because those are your highest-risk pipes and often the first to go.
 
@@ -115,7 +113,6 @@ A home inventory app, like the [National Association of Insurance Commissioners'
 - U.S. Census Bureau American Housing Survey: Data on housing stock age and cold-climate exposure across U.S. regions
 
 ---
-
 
 ---
 

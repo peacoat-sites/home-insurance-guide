@@ -25,10 +25,9 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 lastmod: 2026-07-08
 ---
-Most condo owners I've spoken with assume they're fully covered because their HOA pays for insurance. That assumption has cost people tens of thousands of dollars. I've seen the claims. I know exactly how this plays out.
+Many condo owners assume they're fully covered because their HOA pays for insurance. This assumption can be costly, sometimes resulting in tens of thousands of dollars in uncovered losses.
 
 I'll be honest: the relationship between an HOA master policy and your individual condo insurance is one of the most genuinely confusing areas in all of personal lines coverage. Not because the concepts are complicated, but because almost nobody explains it clearly, and the marketing language on both sides makes it worse. Let me try to give you the real version.
-
 
 <div class="value-module">
  <div class="vm-head">Coverage Gap Checklist by Policy Type</div>
@@ -43,7 +42,7 @@ I'll be honest: the relationship between an HOA master policy and your individua
 
 Your HOA carries a master policy. It covers the building structure, common areas, and liability in shared spaces, sometimes more. The premiums come straight out of your HOA dues, which is probably why so many owners think they're automatically covered. But that policy was written to protect the association and the building, not you specifically.
 
-Here's what surprised me when I started pulling apart these policies as a claims adjuster: the coverage scope varies wildly depending on one term buried in the declarations page, whether the master policy is "bare walls-in" or "all-in" (sometimes called "all-inclusive").
+Coverage scope varies widely depending on one term buried in the declarations page: whether the master policy is "bare walls-in" or "all-in" (sometimes called "all-inclusive").
 
 Bare walls-in means the HOA policy covers the structure to the unfinished interior surfaces. The drywall itself might be covered, but your flooring, cabinets, countertops, light fixtures, appliances? That's all on you. All-in goes further, typically covering original fixtures and sometimes even improvements made by previous owners. The difference in what you'd owe out-of-pocket after a kitchen fire can run into six figures.
 

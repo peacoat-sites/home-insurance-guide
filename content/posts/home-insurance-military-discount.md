@@ -25,7 +25,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 lastmod: 2026-07-08
 ---
-If you're active-duty, a veteran, or a military spouse renewing your homeowner's policy right now, you're probably wondering if there's a discount waiting for you. Short answer: sometimes yes, sometimes it's buried deep in the fine print, and sometimes what gets marketed as a "military discount" is really just good branding. After 14 years reviewing claims, I've seen the full range. I want to help you actually get something out of this, not just feel good about clicking a button labeled "military savings."
+If you're active-duty, a veteran, or a military spouse renewing your homeowner's policy right now, you're probably wondering if there's a discount waiting for you. Short answer: sometimes yes, sometimes it's buried deep in the fine print, and sometimes what gets marketed as a "military discount" is really just good branding. Military discounts vary widely in what they cover and how much they save. It's worth checking the fine print rather than assuming a discount label delivers real savings.
 
 Here's what I tell people who come to me confused: the discount itself is rarely the most important part of the conversation.
 
@@ -58,7 +58,7 @@ Can you maintain coverage while deployed without a vacancy exclusion kicking in?
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) published guidance specifically for servicemembers on insurance rights and what to watch for during active duty, including state-level protections you probably don't know about. Spend 20 minutes reading it.
 
-One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a [landlord policy](/best-homeowners-insurance-companies/) (sometimes called a dwelling fire policy). I've seen military families learn this after a tenant causes damage and the claim gets denied. The premium difference is real. So is the coverage gap.
+One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a [landlord policy](/best-homeowners-insurance-companies/) (sometimes called a dwelling fire policy). Damage caused by tenants can trigger claim denials under a standard homeowner's policy. The premium difference is real. So is the coverage gap.
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -82,7 +82,7 @@ When you're buying insurance under deadline pressure, you're comparing prices. T
 
 Most lenders will roll your homeowners insurance premium into your monthly escrow payment going forward, collecting a portion each month so they can pay the next annual premium on your behalf. This is standard, but there's a wrinkle worth knowing.
 
-At closing, you've already paid the first full year out of pocket. The lender will then start collecting escrow for year two immediately. That means in the first year of homeownership, you're effectively prepaying insurance twice in cash flow terms. Your closing disclosure should show this; it's not a scam, it's just the float the lender wants to hold. Still, it surprises a lot of buyers.
+At closing, you've already paid the first full year out of pocket. The lender will then start collecting escrow for year two immediately. That means in the first year of homeownership, you're effectively prepaying insurance twice in cash flow terms. Your closing disclosure should show this. The lender is building up a reserve to cover future payments, which is a standard practice in the mortgage process.
 
 Also: if your escrow account pays your renewal premium and you decide to switch insurers after year one, you'll need to coordinate the cancellation and refund carefully. Your old insurer sends the refund to you; your lender's escrow account is short. It's manageable but it requires attention. Check with [your state's insurance department](https://www.naic.org/state_web_map.htm) if you run into a dispute about how refunds were handled.
 

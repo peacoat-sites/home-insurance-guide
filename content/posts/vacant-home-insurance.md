@@ -55,7 +55,7 @@ What doesn't usually change is your liability coverage (if someone is injured on
 | Pest damage | | ✓ |
 | Deferred maintenance losses | | ✓ |
 
-A standalone vacant home policy replaces your standard policy during the period the home is empty. It's not a rider you add; it's a separate product, and it's more expensive than regular coverage, often 50 to 150 percent more per year for a comparable dwelling limit. That wide range exists because pricing depends heavily on how long the property has been empty, the location, whether it's winterized, whether you're doing renovations, and the home's condition.
+A standalone vacant home policy replaces your standard policy during the period the home is empty. A vacant home policy is a separate product, not a rider you add to your standard policy, and it costs more than regular coverage, often 50 to 150 percent more per year for a comparable dwelling limit. That wide range exists because pricing depends heavily on how long the property has been empty, the location, whether it's winterized, whether you're doing renovations, and the home's condition.
 
 Coverage under a good vacant home policy typically includes:
 
@@ -71,7 +71,7 @@ Renovation-specific policies exist too, sometimes called "[builder's risk](/home
 
 ## How Long Do You Actually Need It?
 
-People think they'll only need this for a couple months. Then the contractor disappears for six weeks, or the estate takes longer to settle, or the buyer's financing falls through twice. I've seen "temporary" vacancies stretch to 18 months.
+Many assume they'll need this coverage for just a couple months. A planned short vacancy can easily extend if a contractor delays, an estate settles slowly, or a sale's financing falls through, and such "temporary" vacancies can stretch to 18 months.
 
 Get a policy that allows month-to-month extension, or at minimum, a 12-month policy with pro-rated cancellation if you sell or re-occupy sooner. Some carriers write these at three-month, six-month, or 12-month terms. Don't lock yourself into a term shorter than you realistically need, because a coverage gap of even a few weeks can cost you everything.
 
@@ -98,7 +98,6 @@ A vacant home is a risk you can manage, but not with a policy designed for a hom
 - [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
 - [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

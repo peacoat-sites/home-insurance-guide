@@ -25,7 +25,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 lastmod: 2026-07-08
 ---
-You're sitting at the closing table, pen in hand, when the title company asks for proof of homeowner's insurance. You thought you had more time. You grab the first policy you found online, pay for it, and move on. Six months later, a pipe bursts in your wall, causes $40,000 in damage, and your adjuster tells you that your policy's water damage sub-limit is $10,000. Nobody told you that was buried in the fine print. I've watched this exact scenario play out dozens of times. The real problem isn't that first-time buyers are careless. It's that the insurance industry actively obscures what you're actually buying.
+A common scenario: someone buys a policy quickly to meet closing deadlines, only to discover months later that a water damage claim is capped at a sub-limit far below the actual cost of repairs. The coverage limit may have been buried in the fine print. Homeowner's insurance policies can be difficult to parse, and coverage limits aren't always obvious from a quick reading.
 
 ## What Home Insurance Actually Covers (And What It Doesn't)
 
@@ -71,7 +71,7 @@ This is where things get real. Standard HO-3 policies have named exclusions, and
 
 ## How to Choose the Right Coverage Amount
 
-Underinsurance is one of the most common problems I've seen. People buy a policy, set it, and forget it for years. Meanwhile, construction costs change, they renovate the kitchen, they install a new HVAC system, and the dwelling coverage never catches up.
+Underinsurance is common. A policy bought years ago may not reflect current construction costs or home improvements like a new kitchen or HVAC system.
 
 **Step 1: Get a replacement cost estimate, not a market value estimate.** These are different numbers. Your home might sell for $350,000 in today's market, but rebuilding it from the foundation up might cost $280,000 or $420,000 depending on your location, construction type, and local labor costs. Ask your insurer about their replacement cost estimator and make sure the number is based on your home's actual square footage, materials, and features.
 

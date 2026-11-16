@@ -55,7 +55,7 @@ Some insurers bundle these components; others let you select limits independentl
 
 Anyone whose home is more than 15 years old. But that's only the easy answer.
 
-Building codes get updated constantly. The International Building Code sees major revisions every three years. Local jurisdictions adopt those changes on their own schedules, which means a home built in 2005 could already be two or three code cycles behind. I've seen claims on homes less than 20 years old where code upgrades added 20% to reconstruction costs.
+Building codes get updated constantly. The International Building Code sees major revisions every three years. Local jurisdictions adopt those changes on their own schedules, which means a home built in 2005 could already be two or three code cycles behind. On homes less than 20 years old, code upgrades can add 20% to reconstruction costs.
 
 Older homes carry even more exposure. Knob-and-tube wiring, cast-iron plumbing, single-pane windows, inadequate insulation, missing anchor bolts on foundations, no arc-fault circuit interrupters. Each of those deficiencies is a potential code upgrade trigger when you file a major claim.
 

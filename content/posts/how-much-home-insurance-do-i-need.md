@@ -75,7 +75,7 @@ Common surprises here: fences get expensive fast in large yards. In-ground pools
 
 Coverage C insures your belongings. Everything inside: furniture, appliances, clothes, electronics, kitchen contents. Standard limits hover between 50% to 70% of your dwelling coverage. That sounds sufficient until you actually count what you own.
 
-I've watched clients catalog their homes room by room and routinely hit $80,000 to $120,000 in value for a three-bedroom house before they've even counted tools, jewelry, or art. Most people drastically underestimate this.
+Many homeowners catalog their homes room by room and routinely find $80,000 to $120,000 in value for a three-bedroom house before they've even counted tools, jewelry, or art. Most people drastically underestimate this.
 
 Two critical details:
 
@@ -91,7 +91,7 @@ Two critical details:
 
 **Coverage D: [Loss of Use](/what-is-loss-of-use-coverage-explained/).** If your home becomes unlivable after a covered loss, this pays for hotel rooms, rentals, and other reasonable living expenses while you're rebuilding. Standard limits run 20-30% of your dwelling coverage. Do the math for your area. Rebuilding a total loss takes 14 months, easy, in a busy market. If a comparable rental runs $3,000 monthly, you need at least $42,000 just for housing. Add meals out, storage, laundry. The standard limit often works, but in expensive cities it doesn't.
 
-**Coverage E: Liability.** This pays if someone slips on your property and sues. Your dog bites a neighbor's kid. Standard policies offer $100,000. That's the bare minimum, not the target. A serious injury lawsuit blows through $100,000 in medical bills alone. Most experts recommend $300,000 minimum. If you have real assets, stack a personal umbrella policy on top of your home and auto coverage. Umbrella policies are often shockingly affordable for the protection.
+**Coverage E: Liability.** This pays if someone slips on your property and sues. Your dog bites a neighbor's kid. Standard policies offer $100,000. That's the bare minimum, not the target. A serious injury lawsuit blows through $100,000 in medical bills alone. A $300,000 minimum is generally recommended. If you have real assets, stack a personal umbrella policy on top of your home and auto coverage. Umbrella policies are often quite affordable for the protection.
 
 ---
 
@@ -148,7 +148,6 @@ Your home insurance policy is a contract. Every word either protects you or it d
 - [Water leak detectors](https://www.amazon.com/s?k=water+leak+detector&tag=contentportfo-20)
 - [Insurance Institute for Business and Home Safety (IBHS)](https://ibhs.org/)
 - [Your state's insurance department](https://www.naic.org/state_web_map.htm)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

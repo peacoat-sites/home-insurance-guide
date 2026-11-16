@@ -44,13 +44,11 @@ The Insurance Information Institute ([III](https://www.iii.org/)) breaks down en
 
 > **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You'll hear a lot about scheduled [personal property](/homeowners-insurance-personal-property-coverage/) endorsements, and they genuinely deserve the attention. Your base policy covers personal property, but usually with sub-limits on categories like jewelry (often $1,500 or $2,500), firearms (often $2,500), and electronics. If you own a $7,000 engagement ring and it falls down a drain while you're washing dishes, you're going to collect maybe $1,500 and fight for the rest. A scheduled endorsement lists the item specifically, usually after an appraisal, and covers it for that appraised value.
 
 Worked example: A homeowner in Phoenix had her diamond earrings stolen from a hotel room during travel. Her base policy had a $1,500 jewelry sublimit, and theft away from home was further restricted. Her scheduled personal property endorsement, which she'd added for $180/year, covered the earrings at their appraised value of $6,200. Net difference: $4,700.
 
-The second one people consistently underestimate is water backup and sump overflow. Standard HO-3 policies exclude water damage that originates from below or from sewer backups. This is not a gray area. If your sump pump fails during a heavy storm and water floods your finished basement, the base policy likely won't touch it. Water backup endorsements typically run $50 to $200 per year depending on coverage limits, and in my experience reviewing claims, the payout frequency for this one makes it worth serious consideration for anyone with a basement or finished lower level.
+The second one people consistently underestimate is water backup and sump overflow. Standard HO-3 policies exclude water damage that originates from below or from sewer backups. This is not a gray area. If your sump pump fails during a heavy storm and water floods your finished basement, the base policy likely won't touch it. Water backup endorsements typically run $50 to $200 per year depending on coverage limits. Given the frequency of claims paid under this coverage, it's worth serious consideration for anyone with a basement or finished lower level.
 
 Worked example: A homeowner in suburban Chicago skipped the water backup endorsement because it felt redundant with flood insurance. During a heavy rain event, her sump failed and flooded the basement. Flood insurance doesn't cover sump backup (a nuance that trips people up constantly). No endorsement, no coverage. The remediation bill: $34,000.
 
@@ -72,7 +70,7 @@ Identity theft restoration endorsements are also worth scrutinizing. Some are ge
 
 ## Replacement Cost vs. Actual Cash Value: The Endorsement You Might Not Know You Need
 
-This is where I made a costly assumption myself when I first bought my own home. I assumed "replacement cost coverage" on my dwelling automatically applied to my personal property. It doesn't, not always. Many base policies cover personal property at actual cash value, meaning depreciated value. A five-year-old couch that cost you $1,200 might be worth $300 by the insurer's calculation. A personal property replacement cost endorsement changes the valuation method so you'd receive enough to buy a comparable new couch.
+A common assumption is that "replacement cost coverage" on a dwelling automatically applies to personal property. It doesn't, not always. Many base policies cover personal property at actual cash value, meaning depreciated value. A five-year-old couch that cost you $1,200 might be worth $300 by the insurer's calculation. A personal property replacement cost endorsement changes the valuation method so you'd receive enough to buy a comparable new couch.
 
 The premium difference is usually modest, often 10 to 15% more on the personal property portion of your premium. For most households with any significant furniture, appliances, or electronics, the replacement cost endorsement on personal property is worth carrying. Current pricing (as of July 2026) varies by insurer and region, but you're often looking at $20 to $75 added to your annual premium for this change.
 
@@ -88,7 +86,6 @@ Worked example: A homeowner lost most of her furniture and appliances in a kitch
 - [ISO HO-3 Policy Form](https://www.verisk.com/insurance/brands/iso/): The standardized policy form used as the basis for most U.S. homeowner policies; reviewing this helps consumers understand what base coverage actually includes.
 
 ---
-
 
 ---
 

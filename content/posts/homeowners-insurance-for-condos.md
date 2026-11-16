@@ -57,7 +57,7 @@ An HO-6 policy is built specifically for condo owners. It covers your personal p
 
 **Personal property:** Standard stuff, same as any renters or homeowners policy. Furniture, electronics, clothes, kitchenware. Know your limits, especially on high-value items. Most policies cap jewelry coverage at $1,500 to $2,000 unless you add a scheduled personal property rider.
 
-**Liability:** This one gets overlooked. If your guest slips and falls, or your washing machine overflows and damages the unit below yours, liability coverage is what protects you. A $100,000 limit is the common default. Honestly, that's often not enough. Bump it to $300,000 if you can. The premium difference is usually small.
+**Liability:** This one gets overlooked. If your guest slips and falls, or your washing machine overflows and damages the unit below yours, liability coverage is what protects you. A $100,000 limit is the common default. That's often not enough. Bump it to $300,000 if you can. The premium difference is usually small.
 
 **Loss of use:** Pays for temporary housing if your unit becomes uninhabitable after a covered loss. Don't skip this.
 

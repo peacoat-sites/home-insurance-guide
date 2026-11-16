@@ -53,13 +53,11 @@ Here's where it gets more complicated. Water that enters your home because wind 
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the one that genuinely shocked homeowners more than anything else. In most coastal states from Texas to Maine, your policy contains a separate hurricane deductible. It's not the $1,000 or $2,500 flat deductible you're used to. It's a percentage, typically 1% to 5% of your home's insured value, and it triggers the moment a named storm is declared by the National Weather Service.
 
 On a $400,000 home, a 2% hurricane deductible means you're paying $8,000 out of pocket before your insurer covers anything. A 5% deductible means $20,000.
 
-What surprised me was how often the deductible trigger language differed by state and insurer. Some policies activate the hurricane deductible when a hurricane watch is issued for your county. Some require a warning. Some use a "hurricane season deductible" that applies to any wind event during a specific window, regardless of whether it was a named storm. I've seen policies where a bad tropical storm in August triggered the hurricane deductible even though the event never officially became a hurricane.
+Deductible trigger language varies significantly by state and insurer. Some policies activate the hurricane deductible when a hurricane watch is issued for your county. Some require a warning. Some use a "hurricane season deductible" that applies to any wind event during a specific window, regardless of whether it was a named storm. For example, a strong tropical storm in August could trigger the hurricane deductible even though the event never officially became a hurricane.
 
 Read the trigger language carefully. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) has published consumer guides on hurricane deductibles that are worth the 20 minutes it takes to read them. Your [state insurance department](https://www.naic.org/state_web_map.htm) will also have state-specific rules about when and how these deductibles can be applied.
 
@@ -81,7 +79,6 @@ Document your home before hurricane season. Serial numbers on appliances, receip
 
 ---
 
-
 ---
 
 If you're in a coastal state and you haven't actually read your policy declarations page in the last year, that's the one concrete thing I'd push you to do this week. Not to scare you. Because knowing what you actually have, before a storm, is the only way to fix the gaps while there's still time.
@@ -99,7 +96,6 @@ If you're in a coastal state and you haven't actually read your policy declarati
 - [state insurance department](https://www.naic.org/state_web_map.htm)
 - [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
 - [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

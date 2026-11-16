@@ -29,11 +29,9 @@ Most people shopping for homeowner's insurance don't think twice about listing t
 
 Here's what actually happens: you buy a policy, you sign the application, somewhere on page four there's a question about "potentially dangerous animals," and you either miss it, misread it, or assume your well-behaved Rottweiler doesn't count. Then your dog nips a delivery driver, and you learn very quickly that your insurer knew something you didn't.
 
-The breed question in homeowner's insurance is genuinely complicated, and I'll be honest, the industry's approach to it is inconsistent enough that even I've been surprised by which dogs trigger exclusions at which companies.
-
+The breed question in homeowner's insurance is genuinely complicated. The industry's approach to it is inconsistent enough that which dogs trigger exclusions varies significantly by company.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Many insurers maintain breed restriction lists that can void liability coverage or cancel your policy outright.</li><li style="margin:5px 0">Pit bulls, Rottweilers, German Shepherds, and Dobermans appear on restriction lists most often, but lists vary widely by insurer.</li><li style="margin:5px 0">Dog bites cost insurers roughly $1.1 billion annually according to industry data, which is why underwriters care so much.</li><li style="margin:5px 0">Some states limit an insurer's ability to deny coverage based solely on breed; check your state's rules before assuming you're unprotected.</li><li style="margin:5px 0">Disclosing your dog honestly on the application is the only way to know where you actually stand before a claim happens.</li></ul></div>
-
 
 ## Why Insurers Care (And Why the Number Surprises People)
 
@@ -47,9 +45,7 @@ That said, the execution is often sloppy and sometimes genuinely unfair to respo
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's the part no insurer's marketing department will spell out for you. Most major carriers maintain an internal list of breeds that trigger underwriting scrutiny. These lists are not standardized, not publicly posted, and not consistent even across agents at the same company. I've seen two policyholders with identical dogs get opposite answers from the same insurer depending on who picked up the phone.
+Most major carriers maintain an internal list of breeds that trigger underwriting scrutiny. These lists are not standardized, not publicly posted, and not consistent even across agents at the same company. Two policyholders with identical dogs may get opposite answers from the same insurer depending on which agent handles the call.
 
 The breeds that appear most often across restriction lists, based on industry practice as of August 2026:
 
@@ -65,7 +61,7 @@ The breeds that appear most often across restriction lists, based on industry pr
 | Siberian Husky | Moderate | Varies widely by insurer |
 | Great Dane | Low to Moderate | Usually covered, sometimes flagged by size |
 
-A few things that table can't show you: "mixed breed" is a minefield. If your dog is visually identified as a pit bull mix by an adjuster after a claim, some insurers will treat it as one. I've seen this happen. The classification often comes down to a photo and an adjuster's subjective read.
+"Mixed breed" classification is a minefield. If your dog is visually identified as a pit bull mix by an adjuster after a claim, some insurers will treat it as one. The classification often comes down to a photo and an adjuster's subjective read.
 
 Worked example: A reader in suburban Atlanta had a Cane Corso that her insurer had never asked about specifically. She'd listed "large mixed breed" on her application. Dog bit a neighbor's kid at a birthday party. Adjuster came out, took one look, pulled the breed exclusion clause, and denied the $47,000 liability claim. She had no coverage she thought she had. Her honest description might have flagged the issue upfront, or it might not, but the vague answer cost her the chance to find out.
 
@@ -89,15 +85,13 @@ First, be completely honest on your application. I know that feels counterintuit
 
 Second, call multiple insurers. The breed lists are not uniform. An insurer that won't touch your dog might be right next door to one that will, at a modest surcharge. Independent insurance agents who work with multiple carriers are genuinely useful here because they can shop your specific situation without you having to call a dozen companies yourself.
 
-Third, ask specifically about umbrella policies. Some homeowners get standard liability from one carrier (with a breed exclusion) and purchase a separate personal liability umbrella from a specialty insurer that doesn't restrict breeds. This isn't a guaranteed path and takes real underwriter buy-in, but I've seen it work.
+Ask specifically about umbrella policies. Some homeowners get standard liability from one carrier (with a breed exclusion) and purchase a separate personal liability umbrella from a specialty insurer that doesn't restrict breeds. This isn't a guaranteed path and requires underwriter approval, but it can be an option.
 
 Fourth, look at what behavioral documentation can do. Canine Good Citizen certification from the American Kennel Club, obedience training records, a trainer's letter, proof of professional socialization work. None of this guarantees coverage, but some underwriters will treat it as a mitigating factor. The [IBHS home fortification guides](https://ibhs.org/) also cover property security measures that can sometimes factor into broader risk assessments for difficult-to-underwrite properties. It's a marginal tool, but worth knowing about.
 
 One practical thing that helps your position in any claim: maintain solid documentation of your home and belongings, including records of your dog's training and vet history. A home inventory app like Encircle (free on iOS and Android) can store photos and records in one place. And if you're in a situation where a claim is plausible, a basic [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) to store your policy paperwork, vet records, and training certificates in one spot is a small investment that matters when things move fast. (Note: the site may earn a commission on that link.)
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. dog bite claim cost over time (industry estimates)</div><div class="sc-row"><span class="sc-label">2016</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$33,230</span></div><div class="sc-row"><span class="sc-label">2018</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$39,000</span></div><div class="sc-row"><span class="sc-label">2020</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">$50,425</span></div><div class="sc-row"><span class="sc-label">2022</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">$54,000</span></div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$58,000</span></div><div class="sc-src">Source: Insurance Information Institute, 2026</div></div>
-
 
 ## Sources
 
@@ -108,7 +102,6 @@ One practical thing that helps your position in any claim: maintain solid docume
 - [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/): Epidemiological data on dog bite injuries and demographic risk factors
 
 ---
-
 
 *Photo: [Blanco Studio](https://www.pexels.com/@blanco-studio-2147970603) via Pexels*
 

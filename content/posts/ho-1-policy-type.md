@@ -27,13 +27,11 @@ faqs:
 
 Most homeowners I talked to during my adjuster years had never heard of an HO-1 policy. That's not an accident. By the time I was processing claims in the mid-2000s, HO-1 policies had already been discontinued by most major insurers across the country, quietly shelved because even the companies selling them knew the coverage was too thin to be practical. And yet people still ask about them, still sometimes find them offered in hard-to-insure markets, and still make the mistake of thinking "basic" means "good enough."
 
-Here's the number that stopped me cold when I first dug into this: an HO-1 policy typically covers only 11 [named perils](/homeowners-insurance-named-perils-vs-open-perils/), compared to the 16 covered by the standard HO-3 that most Americans carry today. That gap doesn't sound dramatic until you realize the missing five perils include things like falling objects, weight of ice and snow, and accidental discharge of water from plumbing. Translation: if a pipe bursts in January and floods your kitchen, an HO-1 says that's your problem.
+An HO-1 policy typically covers only 11 [named perils](/homeowners-insurance-named-perils-vs-open-perils/), compared to the 16 covered by the standard HO-3 that most Americans carry today. That gap doesn't sound dramatic until you realize the missing five perils include things like falling objects, weight of ice and snow, and accidental discharge of water from plumbing. Translation: if a pipe bursts in January and floods your kitchen, an HO-1 says that's your problem.
 
-I'll be honest, I thought the HO-1 was purely a historical footnote until a reader named Patricia from rural Mississippi emailed me last spring. She'd been offered one by a regional carrier after two non-renewals, and she wanted to know if it was worth taking. That conversation is what sent me back into the research.
-
+The HO-1 is sometimes offered by carriers to applicants with claims history or non-renewals. Understanding when it might be offered and what it actually covers is worth knowing.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">HO-1 covers only 11 named perils; HO-3 covers 16, including water damage from plumbing.</li><li style="margin:5px 0">Most major insurers stopped offering HO-1 policies years ago; it survives mainly in high-risk or rural markets.</li><li style="margin:5px 0">HO-1 does NOT cover theft in some versions, a detail many buyers miss entirely.</li><li style="margin:5px 0">Premiums are lower, but the coverage-to-cost ratio is often worse than upgrading to HO-2 or HO-3.</li><li style="margin:5px 0">If an HO-1 is your only option, a separate umbrella or endorsement policy is worth pricing immediately.</li></ul></div>
-
 
 ## What an HO-1 Actually Covers
 
@@ -46,8 +44,6 @@ I processed a claim once where a family had an HO-2 (one step up) and their dish
 ## The Peril Comparison You Actually Need
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This table compares what each basic form covers. As of August 2026, these are the standard industry definitions as tracked by the [Insurance Information Institute (III)](https://www.iii.org/):
 
@@ -73,9 +69,7 @@ This table compares what each basic form covers. As of August 2026, these are th
 
 HO-3 is the form that covers your house's structure on an "open perils" basis, meaning everything is covered unless specifically excluded. That's the meaningful leap from HO-2 to HO-3, and it's why HO-3 dominates the market. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) reports that HO-3 policies account for the substantial majority of homeowner policies in force today in the U.S.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Perils covered by homeowner policy type</div><div class="sc-row"><span class="sc-label">HO-1</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">11 perils</span></div><div class="sc-row"><span class="sc-label">HO-2</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">16 perils</span></div><div class="sc-row"><span class="sc-label">HO-3 (structure)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">18 perils</span></div><div class="sc-src">Source: Insurance Information Institute (III), 2026</div></div>
-
 
 ## Why HO-1 Still Exists at All
 
@@ -107,7 +101,6 @@ Patricia in Mississippi accepts HO-1 for one year while working on claim history
 - [III "Homeowners Insurance Basics"](https://www.iii.org/article/homeowners-insurance-basics): Overview of covered perils across HO policy forms.
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

@@ -55,7 +55,7 @@ Lenders require, at minimum:
 
 What lenders do *not* typically require: coverage for your personal belongings, flood insurance (though this changes if your property sits in a FEMA-designated Special Flood Hazard Area), or loss of use coverage. Some lenders in coastal or high-wildfire zones will require specific endorsements. Read your mortgage agreement, not just the insurance certificate.
 
-One trap I've watched homeowners fall into: lender-placed insurance, also called "force-placed" coverage. If you let your policy lapse, the lender buys a policy on your behalf and charges it to your escrow. That policy protects the lender's investment, not yours. Personal property, liability, and loss of use are typically not included. The premium is often double what you'd pay on the open market. Don't let that happen.
+A common trap is lender-placed insurance, also called "force-placed" coverage. If you let your policy lapse, the lender buys a policy on your behalf and charges it to your escrow. That policy protects the lender's investment, not yours. Personal property, liability, and loss of use are typically not included. The premium is often double what you'd pay on the open market. Don't let that happen.
 
 ---
 
@@ -139,7 +139,6 @@ The gap between what you assume your policy covers and what it actually covers i
 - [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
 - [Alena Darmel](https://www.pexels.com/@a-darmel)
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

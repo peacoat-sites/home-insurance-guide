@@ -27,13 +27,11 @@ faqs:
 
 Most people find out what their policy actually covers at the worst possible moment: standing in a gutted kitchen, smoke smell still in the walls, waiting on a claims adjuster who's about to deliver news they weren't prepared for.
 
-I've seen it happen dozens of times. A homeowner files a claim after a fire or burst pipe, fully expecting the insurer to hand them enough money to restore what they had. Instead they get a check that covers maybe 60 cents on the dollar. The conversation that follows is painful, and honestly, it's almost always preventable. The culprit, nine times out of ten, is a misunderstanding of four words that appear somewhere in every homeowners policy: *[actual cash value](/actual-cash-value-explained/)* and *replacement cost*.
+A common scenario: a homeowner files a claim after a fire or burst pipe, fully expecting the insurer to cover restoration costs. Instead they receive a check that covers maybe 60 cents on the dollar. This gap is almost always preventable. The culprit, nine times out of ten, is a misunderstanding of four words that appear somewhere in every homeowners policy: *[actual cash value](/actual-cash-value-explained/)* and *replacement cost*.
 
 These aren't just insurance jargon. They represent two fundamentally different promises your insurer is making to you, and the gap between them can be tens of thousands of dollars.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Actual cash value (ACV) pays what your property was worth at the time of loss, after depreciation.</li><li style="margin:5px 0">Replacement cost value (RCV) pays what it costs to buy or rebuild the same item new today.</li><li style="margin:5px 0">The gap between ACV and RCV on a 10-year-old roof can easily exceed $8,000–$15,000 on a mid-size home.</li><li style="margin:5px 0">Replacement cost coverage typically costs 10–15% more in annual premium, which usually pays for itself after one significant claim.</li><li style="margin:5px 0">Check whether your policy applies RCV or ACV separately to your dwelling, personal property, and detached structures.</li></ul></div>
-
 
 ## What "Actual Cash Value" Really Means
 
@@ -48,8 +46,6 @@ What most people don't realize is that depreciation schedules vary by insurer an
 ## Replacement Cost Coverage: The Real Promise
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 RCV coverage pays the actual cost to replace or rebuild with materials of similar kind and quality, without deducting for age or wear. That's the core difference. You're not being paid for what you *had*. You're being paid for what it costs to have it *again*.
 
@@ -81,7 +77,7 @@ Many standard policies cover the dwelling structure under RCV but default [perso
 
 Read the declarations page. Find the section labeled "Coverage C" or "Personal Property." Look for the words "replacement cost" or "actual cash value." If you're not sure what you have, call your agent and ask directly: "Does my personal property coverage pay replacement cost or actual cash value?" Don't let them answer with marketing language. Push for a yes or no on that specific question. [Your state's insurance department](https://www.naic.org/state_web_map.htm) can also help you understand what disclosures insurers are required to provide in your state.
 
-One practical step that costs nothing: create a home inventory. Film a slow walkthrough of every room, open drawers, show model numbers on appliances. Store that video off-site or in cloud storage. When I was processing claims, homeowners with good documentation recovered significantly more, faster, because there was nothing to dispute. If you want a more organized version, apps like Encircle or the III's free [Know Your Stuff](https://www.iii.org/knowyourstuff) tool work well. (Some people keep physical documents in a fireproof safe like the [AmazonBasics document safe](https://www.amazon.com/s?k=document+safe+fireproof) -- the site may earn a commission on that link.)
+One practical step that costs nothing: create a home inventory. Film a walkthrough of every room, open drawers, and show model numbers on appliances. Store that video off-site or in cloud storage. Homeowners with good documentation tend to recover more and settle claims faster, since there's less to dispute. If you want a more organized version, apps like Encircle or the III's free [Know Your Stuff](https://www.iii.org/knowyourstuff) tool work well. (Some people keep physical documents in a fireproof safe like the [AmazonBasics document safe](https://www.amazon.com/s?k=document+safe+fireproof) -- the site may earn a commission on that link.)
 
 ## Extended and Guaranteed Replacement Cost
 
@@ -89,7 +85,7 @@ One more layer worth knowing about, especially in areas where construction costs
 
 Extended replacement cost adds a buffer, typically 25–50%, above your policy's dwelling coverage limit. So if your home is insured for $350,000 but rebuilding costs $420,000 after a major loss, an extended RCV rider at 25% would cover up to $437,500. Guaranteed replacement cost takes it further, promising to cover full rebuild costs regardless of the limit, though this coverage has become harder to find and pricier since regional building material costs spiked.
 
-Worth getting? Honestly, I'd say yes to extended RCV for most homeowners, especially if you bought your policy more than two years ago and haven't had a coverage review since. Construction costs have moved enough in recent years that many existing policy limits are quietly undercovered. The average home rebuild cost per square foot has risen sharply in many markets. A policy that looked adequate in 2022 may be short today.
+Worth getting? Extended RCV makes sense for most homeowners, especially if you bought your policy more than two years ago and haven't had a coverage review since. Construction costs have moved enough in recent years that many existing policy limits are quietly undercovered. The average home rebuild cost per square foot has risen sharply in many markets. A policy that looked adequate in 2022 may be short today.
 
 Worked example: A homeowner in coastal North Carolina carried $280,000 in dwelling coverage, which matched the purchase price. After a hurricane, the actual rebuild quote came in at $367,000, in part due to material and labor shortages. She had a 25% extended RCV rider, which covered up to $350,000. She was still short $17,000. Without the rider, she'd have been $87,000 short. The rider didn't fully save her, but it meaningfully reduced the gap.
 
@@ -102,7 +98,6 @@ Worked example: A homeowner in coastal North Carolina carried $280,000 in dwelli
 - NAIC 2025 Homeowners Insurance Report: Aggregate data on coverage gaps, ACV vs. RCV policy distribution
 
 ---
-
 
 *Photo: [Serhii Bondarchuk](https://www.pexels.com/@serhii-bondarchuk-216200266) via Pexels*
 

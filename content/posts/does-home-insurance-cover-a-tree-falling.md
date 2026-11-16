@@ -31,27 +31,21 @@ Here's what I tell people in that moment: take a breath, take photos of everythi
 
 I spent 14 years reviewing homeowner claims at a national insurer. Tree claims were some of the most common calls we got, and also some of the most misunderstood. People assumed their policy covered everything. Other people assumed nothing. Both groups were usually wrong.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">If a tree falls on your house, other structure, or personal property, dwelling coverage typically pays for damage repair minus your deductible.</li><li style="margin:5px 0">Removal of the tree itself is usually covered only if it hit a covered structure ,  not if it's just lying in your yard.</li><li style="margin:5px 0">A neighbor's tree that falls on your property is your claim, not theirs (with one important exception).</li><li style="margin:5px 0">"Acts of God" are generally covered by standard HO-3 policies; dead or neglected trees can complicate that.</li><li style="margin:5px 0">Most policies cap tree removal costs around $500–$1,000 per tree; read your declarations page carefully.</li></ul></div>
-
 
 ## What standard coverage actually does
 
 A standard HO-3 homeowner policy covers your dwelling (the house itself), attached structures, other structures (detached garage, fence, shed), and [personal property](/scheduled-personal-property-insurance/). If a tree falls and damages any of those things, your dwelling or other structures coverage kicks in for the repair costs, minus your deductible.
 
-So a tree lands on your roof, collapses a section of rafters, and ruins the contents of the room below. That's a legitimate claim. The repair to the roof and structural damage falls under Coverage A (dwelling). Damaged furniture or appliances inside fall under Coverage C (personal property). This is pretty clean, and in my experience, these claims are usually paid without significant dispute.
+So a tree lands on your roof, collapses a section of rafters, and ruins the contents of the room below. That's a legitimate claim. The repair to the roof and structural damage falls under Coverage A (dwelling). Damaged furniture or appliances inside fall under Coverage C (personal property). These claims are typically paid without significant dispute.
 
 Here's where people get surprised: if the tree just falls in your yard, doesn't hit anything covered, and you want it removed, most policies won't pay a dime for that. The tree removal benefit is tied to the structural damage. The tree hit your fence? Then the fence repair and the cost to remove the tree to make that repair possible are covered. Tree fell harmlessly in your side yard? Call an arborist and [pay out](/nearly-half-of-home-insurance-claims-now-pay-out-nothing/) of pocket. Removal for a large mature tree can run anywhere from $800 to over $2,500 depending on size and location, so that distinction matters.
 
-One more thing most people don't know until they're reading their Explanation of Benefits after a claim: even when tree removal IS covered, most policies cap it at $500 to $1,000 per tree, regardless of the actual cost. That gap is real. I've seen claims where the tree removal alone was $1,800 and the homeowner got a check for $500. They weren't happy. That cap is usually buried in the policy's "Additional Coverages" section.
+One more thing most people don't know until they're reading their Explanation of Benefits after a claim: even when tree removal IS covered, most policies cap it at $500 to $1,000 per tree, regardless of the actual cost. That gap is real. For example, tree removal alone might cost $1,800 while the policy pays only $500. That cap is usually buried in the policy's "Additional Coverages" section.
 
 ## The dead tree question
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-This is where claims get complicated, and honestly, where I've seen insurers push back hardest.
 
 If a healthy tree falls on your house during a windstorm, that's a covered peril, no argument. But if you had a dead or visibly diseased tree in your yard, and your neighbor or an arborist had warned you about it, and it eventually falls and damages your roof, some insurers will deny or reduce the claim on the grounds of negligence or lack of maintenance.
 
@@ -65,9 +59,9 @@ Let me clear this up because I get this question constantly: when your neighbor'
 
 You'd only be able to pursue your neighbor if you could prove they were negligent, meaning they knew the tree was dead or dangerous, you notified them (ideally in writing), and they failed to act. Even then, you'd typically file with your own insurer first, and they'd pursue subrogation against the neighbor's [liability coverage](/home-insurance-liability-coverage/). That process takes months and isn't guaranteed.
 
-I've seen homeowners refuse to file with their own insurer because they were convinced it was "the neighbor's fault." Meanwhile the water damage from a compromised roof got worse every week. File your claim first. Liability arguments come later.
+A common mistake is delaying a claim while sorting out fault. Water damage from a compromised roof worsens over time. File your claim first. Liability arguments come later.
 
-Real scenario that mirrors what I've seen dozens of times: A windstorm drops a neighbor's oak tree onto a garage roof, causing $14,000 in structural damage. The homeowner had a $1,000 deductible. They filed with their own insurer, got $13,000 in repairs covered, and the insurer pursued the neighbor's liability policy for partial reimbursement. Total out-of-pocket for the homeowner: the $1,000 deductible.
+For example, a windstorm drops a neighbor's oak tree onto a garage roof, causing $14,000 in structural damage. The homeowner has a $1,000 deductible. They file with their own insurer, get $13,000 in repairs covered, and the insurer pursues the neighbor's liability policy for partial reimbursement. The homeowner's out-of-pocket cost is the $1,000 deductible.
 
 ## How coverage plays out across different scenarios
 
@@ -90,7 +84,7 @@ One note on the car: this trips people up every time. A tree falls on your vehic
 
 The first 30 minutes after a tree hits your home matter more than most people realize. Before you move anything or let a contractor touch the damage, document everything on your phone. Every angle of the tree. Every piece of damage, inside and outside. The point of contact. The root ball if it came up.
 
-When I was reviewing claims, incomplete photo documentation was one of the most common reasons we had to send a field adjuster, which delayed payment by one to three weeks. Good photos speed everything up.
+Incomplete photo documentation often requires a field adjuster visit, which can delay payment by one to three weeks. Good photos speed everything up.
 
 Then check your policy declarations page for your deductible amount and whether you have "tree removal" or "debris removal" coverage listed under Additional Coverages. Your state's insurance department, easily found through the [NAIC's state map](https://www.naic.org/state_web_map.htm), can also tell you what's required to be covered in your state, which varies more than people expect.
 
@@ -106,7 +100,6 @@ As of July 2026, most major insurers have online claim portals that let you uplo
 - [USDA Forest Service Urban Tree Risk Assessment Guidelines](https://www.fs.usda.gov/): Framework arborists and insurers use when evaluating pre-existing tree hazard conditions
 
 ---
-
 
 *Photo: [Onanini](https://www.pexels.com/@onanini) via Pexels*
 

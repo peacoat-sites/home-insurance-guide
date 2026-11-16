@@ -31,9 +31,7 @@ Thirty-seven days into my career reviewing claims, a condo owner named Gerald ca
 
 Here's what I want you to walk away knowing, before we go deeper:
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Your HOA's master policy likely stops at the bare walls, floors, and ceiling (bare studs, concrete, drywall excluded).</li><li style="margin:5px 0">"Walls-in" (HO-6) coverage protects your unit's interior: fixtures, flooring, cabinets, appliances, and improvements.</li><li style="margin:5px 0">Two master policy types exist: "bare walls" and "all-in." Knowing yours changes everything about what you need to buy.</li><li style="margin:5px 0">Loss assessment coverage is a separate, critical add-on most condo owners skip and later regret.</li><li style="margin:5px 0">Review your HOA's CC&amp;Rs and master policy declarations page every time you renew ,  they change.</li></ul></div>
-
 
 ## The Two Master Policy Types (And Why This Is the First Question to Ask)
 
@@ -51,15 +49,13 @@ I once had a policyholder in a Chicago high-rise who had a beautiful kitchen ren
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Your HO-6 policy is doing a few different jobs at once, and most people only think about one of them.
 
 The property coverage part protects your unit's interior against covered perils: fire, water damage from a burst pipe, vandalism, and similar events. This includes your flooring, cabinets, countertops, built-in appliances, light fixtures, and any improvements you've made since you moved in. It also covers your [personal property](/homeowners-insurance-personal-property-coverage/), though that's a separate sublimit you should check. Clothing, furniture, electronics: those live under the personal property section, not the dwelling coverage.
 
 Then there's liability. If someone slips in your unit, or if your washing machine floods the unit below yours, you need personal liability coverage. This is where Gerald's situation got complicated. He had some liability coverage, but the limit was $100,000, and between repair costs and the neighbor's temporary housing expenses, it wasn't enough.
 
-Loss of use coverage is the quiet hero nobody talks about. If your unit becomes uninhabitable after a covered loss, this covers your hotel bills and additional living expenses while repairs happen. In a major city, that can run $150 to $300 per night easily. I've seen claims where loss of use costs exceeded the repair costs because the building's shared systems (elevators, HVAC, plumbing stacks) took months to fix.
+Loss of use coverage is often overlooked but valuable. If your unit becomes uninhabitable after a covered loss, this covers your hotel bills and additional living expenses while repairs happen. In a major city, that can run $150 to $300 per night easily. Loss of use costs can exceed repair costs when shared building systems like elevators, HVAC, or plumbing stacks require months to fix.
 
 And then there's loss assessment coverage, which I want to spend a moment on because it's genuinely misunderstood.
 
@@ -115,7 +111,6 @@ Worked example three: A high-rise unit in Miami, bare-walls HOA policy, 750 squa
 - Your state's insurance department consumer guide: Most state departments publish condo-specific guides explaining master policy types; find yours through the NAIC state map.
 
 ---
-
 
 ---
 

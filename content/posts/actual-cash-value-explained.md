@@ -31,9 +31,7 @@ So if you're here because you just got a claim settlement that seemed way too lo
 
 Here's the short version before we go deeper: actual cash value is what your stuff is worth *right now*, factoring in age and wear. Not what it costs to replace it. That gap, between what something costs to replace versus what the insurer pays you, can run into thousands of dollars on a single claim. Understanding this before you buy a policy is one of the most financially protective things you can do.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Actual cash value (ACV) = replacement cost minus depreciation, not what you paid or what it costs to buy new.</li><li style="margin:5px 0">On a 7-year-old roof, ACV payout can be 40–60% less than what a new roof actually costs today.</li><li style="margin:5px 0">Upgrading from ACV to replacement cost coverage typically adds $150–$400/year to your premium.</li><li style="margin:5px 0">Personal property is often defaulted to ACV coverage even on "good" policies, unless you opt up.</li><li style="margin:5px 0">Depreciation schedules vary by insurer and item type; you can and should ask for the breakdown in writing.</li></ul></div>
-
 
 ## What "Depreciation" Actually Means on a Claim
 
@@ -46,8 +44,6 @@ I remember the first claim I ever reviewed involving a flooded basement and a cl
 ## How ACV Compares to Replacement Cost Coverage
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I see the most confusion, and honestly, where the insurance industry does the least to help consumers make informed choices.
 
@@ -86,15 +82,13 @@ Even people who know they have "good" homeowner's insurance often have ACV cover
 
 The [IBHS home fortification guides](https://ibhs.org/) focus on physical resilience, but they also indirectly address this: homes that meet certain construction standards sometimes qualify for better coverage terms, including RCV on roofs that would otherwise be ACV-capped.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">ACV vs. RCV payout gap by roof age (18,500 new roof cost)</div><div class="sc-row"><span class="sc-label">5 years old</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$13,875</span></div><div class="sc-row"><span class="sc-label">10 years old</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$9,250</span></div><div class="sc-row"><span class="sc-label">15 years old</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$4,625</span></div><div class="sc-row"><span class="sc-label">Replacement Cost (any age)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$18,500</span></div><div class="sc-src">Source: Industry depreciation schedules, 2026</div></div>
-
 
 ## A Practical Note on Disputing the Payout
 
 If you've received an ACV settlement that feels wrong, you have recourse. Request the depreciation schedule in writing. Insurers are required to provide this in most states. Line by line, you can challenge specific depreciation rates if they don't reflect real-world conditions (a metal roof, for example, depreciates differently than asphalt shingles, and an adjuster running a flat rate doesn't always account for that).
 
-Your state's insurance department, linked through the [NAIC state regulator directory](https://www.naic.org/state_web_map.htm), can tell you what dispute rights you have and whether your insurer's depreciation methodology is consistent with state guidelines. I've seen claims increase by 20–30% after a homeowner filed a formal dispute with supporting contractor estimates. It takes work. But it's your money.
+Your state's insurance department, linked through the [NAIC state regulator directory](https://www.naic.org/state_web_map.htm), can tell you what dispute rights you have and whether your insurer's depreciation methodology is consistent with state guidelines. Claims often increase by 20–30% after a homeowner files a formal dispute with supporting contractor estimates. It takes work. But it's your money.
 
 One more thing to do before any loss happens: build a home inventory. A simple video walkthrough of every room, narrated with approximate ages and purchase prices, stored somewhere offsite (cloud storage, a [fireproof document safe like the SentrySafe SFW123GDC](https://www.amazon.com/s?k=fireproof+document+safe+sentrysafe), or a trusted family member's home) can dramatically speed up the claims process and help you dispute depreciation calculations. *(Affiliate disclosure: this site may earn a commission on purchases through links.)*
 
@@ -107,7 +101,6 @@ One more thing to do before any loss happens: build a home inventory. A simple v
 - Weiss Ratings Insurance Reports (2025): Comparative analysis of policy language across major national homeowner's insurers
 
 ---
-
 
 *Photo: [Stephen Andrews](https://www.pexels.com/@stephentcandrews) via Pexels*
 

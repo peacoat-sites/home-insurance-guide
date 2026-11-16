@@ -69,7 +69,7 @@ Think in tiers:
 
 One important caveat: don't count on savings you know you'll need for something else. If your emergency fund is also your "replace the HVAC next year" fund, it's not really available for a deductible.
 
-I've seen clients try to finesse this by assuming they'll never file a claim. Most of them are right. The ones who are wrong tend to get hit with expensive claims, not cheap ones. Roof damage, fire, major water intrusion. Those events rarely cost $800.
+A common mistake is assuming you'll never file a claim. Most homeowners never do. But those who do file claims tend to face expensive ones, not cheap ones. Roof damage, fire, major water intrusion. Those events rarely cost $800.
 
 ## A Practical Framework for Choosing Your Number
 
@@ -91,7 +91,7 @@ Use this process before your next renewal:
 
 This is the part most insurance guides skip: your deductible choice affects whether you should file a claim at all, and filing the wrong claims has its own cost.
 
-Insurers track claim history. Multiple claims in a short window can trigger a rate increase or, in some cases, non-renewal. I've watched homeowners file a $1,400 claim with a $1,000 deductible, collect $400, and then face a premium increase that costs them more over the next three years than the $400 they recovered. The math on that trade is terrible.
+Insurers track claim history. Multiple claims in a short window can trigger a rate increase or, in some cases, non-renewal. Filing a $1,400 claim with a $1,000 deductible nets only $400, but a resulting premium increase over three years can easily exceed that recovery. The math on that trade is unfavorable.
 
 A useful rule of thumb: if your repair estimate is less than twice your deductible, seriously consider paying out of pocket. The premium and relationship consequences of a small claim often outweigh the benefit.
 

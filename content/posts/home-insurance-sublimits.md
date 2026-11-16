@@ -54,8 +54,6 @@ Standard sublimit amounts vary by insurer, but based on my years reviewing polic
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Jewelry is the one that generates the most shock. A single engagement ring bought today can easily run $8,000 to $20,000. A modest collection built over decades can hit six figures. Standard sublimits cover almost none of that in a theft scenario. (Damage from, say, a house fire might be treated differently depending on the cause of loss, but theft is where sublimits hit hardest.)
 
 I watched a claim come through once where a woman had inherited her grandmother's jewelry, a mix of estate pieces she'd had appraised at roughly $34,000. Her policy's jewelry theft sublimit was $2,500. She had no scheduled endorsement. She received $2,500. I had to deliver that news. It doesn't get easier.
@@ -74,7 +72,7 @@ Claim filed. Adjuster applies sublimits. Jewelry covered up to $2,500. Cash cove
 
 Scheduling, also called a "[scheduled personal property endorsement](/home-insurance-endorsements-explained/)" or a "floater," is the answer for high-value items. You get each item appraised, submit that to your insurer, and pay an additional premium to have it covered at full appraised value, often with no deductible and broader coverage (including mysterious disappearance, which standard policies don't cover).
 
-I'll be honest: I assumed for years that scheduling jewelry was automatically expensive. When I finally ran the numbers on my own policy after switching to advocacy work, I was covering a ring worth about $7,000 under a standard policy with a $2,500 jewelry sublimit. Adding it as a scheduled item cost me an additional $9 per month. That's $108 a year to fully cover something worth $7,000. That math is almost always worth doing.
+Many people assume that scheduling jewelry is automatically expensive. The cost often turns out to be modest. For example, scheduling a $7,000 ring as a separate item might cost only $9 per month. That's $108 a year to fully cover something worth $7,000. That math is almost always worth doing.
 
 For items you want to track and value accurately before scheduling them, a home inventory is non-negotiable. Apps like Sortly (free tier available, premium around $99/year) make this genuinely manageable. Go room by room, photograph everything, record serial numbers. Keep the file somewhere that isn't your house: a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) works for physical copies, or cloud backup for digital. (Affiliate disclosure: as an Amazon associate, this site may earn a commission on qualifying purchases.)
 
@@ -100,7 +98,6 @@ One more thing worth knowing: sublimits can often be raised incrementally even w
 - NAIC Homeowners Insurance Report (2025): Annual data on homeowners market trends, coverage gaps, and premium comparisons by state.
 
 ---
-
 
 ---
 

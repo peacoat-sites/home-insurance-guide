@@ -27,13 +27,11 @@ faqs:
 
 Most landlords I talked to over the years thought their homeowner's policy covered their rental. Almost none of them were right.
 
-That's not a knock on landlords. The insurance industry doesn't exactly go out of its way to explain the gap. Standard homeowner's policies (HO-3 forms, which cover most American homes) are written specifically for owner-occupied dwellings. The moment you hand keys to a tenant, that coverage starts to wobble. In some cases, it disappears entirely on the date of the lease. I've seen claims denied on that basis, and watched people absorb losses that would have cost maybe $300 a year to protect against.
+That's not a knock on landlords. The insurance industry doesn't exactly go out of its way to explain the gap. Standard homeowner's policies (HO-3 forms, which cover most American homes) are written specifically for owner-occupied dwellings. The moment you hand keys to a tenant, that coverage starts to wobble. In some cases, it disappears entirely on the date of the lease. Claims can be denied on that basis, leaving landlords to absorb losses that would have cost maybe $300 a year to protect against.
 
 If you're renting out a property right now, or thinking about it, here's what you need to understand before something goes wrong.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowner's policies typically don't cover rental activity ,  you need a separate landlord or dwelling fire policy.</li><li style="margin:5px 0">Landlord policies cover the structure and your lost rental income, but NOT your tenant's belongings ,  they need renters insurance.</li><li style="margin:5px 0">Loss of rental income coverage usually pays 12-18 months of rent if the property becomes uninhabitable due to a covered event.</li><li style="margin:5px 0">Umbrella liability policies ($1M in coverage often runs $150-$300/year) are one of the highest-value add-ons for landlords.</li><li style="margin:5px 0">Short-term rentals (Airbnb, VRBO) require yet another layer of coverage ,  neither standard nor landlord policies fully cover them.</li></ul></div>
-
 
 ## What a Landlord Policy Actually Covers
 
@@ -49,8 +47,6 @@ One thing almost nobody tells you about landlord policies: they typically exclud
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's how the main coverage options compare. This table reflects general industry ranges as of July 2026, not quotes from any specific insurer.
 
 | Coverage Type | Best For | Avg. Annual Cost (per $250K dwelling) | Tenant Property Covered? | Loss of Rent Included? |
@@ -61,7 +57,7 @@ Here's how the main coverage options compare. This table reflects general indust
 | Short-Term Rental Policy | Airbnb/VRBO hosts | $1,500-$3,000+ | Limited | Sometimes |
 | Commercial Property Policy | Multi-unit buildings (5+ units) | Varies widely | No | Optional add-on |
 
-A quick word on DP-1 vs. DP-3: the "1" form covers only named perils explicitly listed in the policy. The "3" form covers all perils except those explicitly excluded. That difference is enormous in practice. I've watched DP-1 claims get denied because the specific cause of damage wasn't on the named list. For most landlords, DP-3 is worth the extra cost.
+A quick word on DP-1 vs. DP-3: the "1" form covers only named perils explicitly listed in the policy. The "3" form covers all perils except those explicitly excluded. That difference is enormous in practice. DP-1 claims can be denied if the specific cause of damage isn't on the named list. For most landlords, DP-3 is worth the extra cost.
 
 ## Lost Rental Income: The Coverage People Skip and Then Regret
 
@@ -99,7 +95,6 @@ For your own peace of mind, consider keeping a current home inventory of any app
 - [Consumer Federation of America](https://consumerfed.org): Advocacy and analysis on insurance coverage gaps and consumer rights in property insurance.
 
 ---
-
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 

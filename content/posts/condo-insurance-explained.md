@@ -52,8 +52,6 @@ Read your HOA's CC&Rs (the governing documents) before you assume anything. Ask 
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A standard [HO-6 policy](/homeowners-insurance-for-condos/) (that's the insurance industry form number for condo coverage) has four main components.
 
 **Dwelling coverage (Coverage A)** pays for damage to the interior of your unit, from your walls inward. This is where the "bare walls in" vs. "all in" distinction becomes actionable: if your HOA only covers bare walls, your HO-6 dwelling coverage needs to pick up everything from the drywall surface in. If your HOA has "all in," you may need less dwelling coverage, but you still need some for improvements you've made.
@@ -80,7 +78,7 @@ Most people buy "actual cash value" personal property coverage without realizing
 
 Replacement cost value coverage pays what it actually costs to replace the item with something comparable today. The premium difference is real but usually modest. For most condo owners, it's the right call.
 
-The contrarian take I'll stand behind: building out a detailed home inventory is more important than agonizing over which insurer you pick. I've seen more claims shortchanged because the owner couldn't document what they owned than for any other reason. Apps like the NAIC's free home inventory tool, or even just a slow video walkthrough of every room uploaded to cloud storage, can make a $40,000 claim go smoothly instead of turning into a fight. A fireproof document safe for your policy documents and receipts doesn't hurt either. [Document safes on Amazon](https://www.amazon.com/s?k=fireproof+document+safe). *(Note: this site may earn a commission.)*
+The contrarian take I'll stand behind: building out a detailed home inventory is more important than agonizing over which insurer you pick. Claims are often shortchanged when the owner can't document what they owned. Apps like the NAIC's free home inventory tool, or even just a slow video walkthrough of every room uploaded to cloud storage, can make a $40,000 claim go smoothly instead of turning into a fight. A fireproof document safe for your policy documents and receipts doesn't hurt either. [Document safes on Amazon](https://www.amazon.com/s?k=fireproof+document+safe). *(Note: this site may earn a commission.)*
 
 ## What to Actually Check Before You Buy or Renew
 
@@ -98,7 +96,6 @@ One thing worth checking with the NAIC: your insurer's complaint ratio. It's pub
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -112,7 +109,6 @@ One thing worth checking with the NAIC: your insurer's complaint ratio. It's pub
 - [Document safes on Amazon](https://www.amazon.com/s?k=fireproof+document+safe)
 - [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

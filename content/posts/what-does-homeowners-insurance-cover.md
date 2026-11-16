@@ -118,7 +118,7 @@ You don't need to wait for a claim to find out if you're underinsured.
 
 ---
 
-Homeowners insurance is a contract, and contracts reward people who read them. You don't need to become a policy expert, but you do need to know your limits, your deductibles, and the few exclusions most likely to affect your specific home and location. Talk with a licensed independent agent, not just the renewal auto-pay cycle, at least once a year. I've seen too many people discover they were underinsured at exactly the moment they could least afford to be.
+Homeowners insurance is a contract, and contracts reward people who read them. You don't need to become a policy expert, but you do need to know your limits, your deductibles, and the few exclusions most likely to affect your specific home and location. Talk with a licensed independent agent, not just the renewal auto-pay cycle, at least once a year. Being underinsured creates serious financial risk when you need coverage most.
 
 ## Sources & References
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your neighbor slips on your icy front steps, breaks her wrist, and ends up with $18,000 in medical bills and six weeks of lost wages. You're a good person. You feel terrible. You also have a homeowner's policy. Now here's the question that will keep you up at night until you actually read that policy: does your liability coverage actually protect you from what comes next?
 
-Most people have no idea what their liability coverage does, what it won't touch, and how thin their limits really are. I spent 14 years reviewing claims from the inside, and the liability section is where I saw people get blindsided more than anywhere else in the policy. Not because insurers are being sneaky, exactly, but because the marketing materials lead people to believe they're covered for "accidents," full stop. The reality is far more specific than that.
+Most people have no idea what their liability coverage does, what it won't touch, and how thin their limits really are. People often get blindsided by the liability section because marketing materials suggest coverage for "accidents" broadly. But coverage is actually far more specific than that.
 
 ## What Liability Coverage Actually Is (and What It's Not)
 
@@ -58,7 +58,7 @@ The fix is usually one of two things. You can increase your base liability limit
 
 ## What Liability Coverage Excludes (The Part Nobody Reads)
 
-Here's where I've seen the most genuine shock from homeowners. The exclusions in the liability section of a standard policy are specific and significant.
+The exclusions in the liability section of a standard policy are specific and significant.
 
 **Business activity.** If you run a business from home, even a side gig where you have clients or customers on your property, a standard homeowner's policy likely won't cover liability arising from that activity. A client trips on your front porch while dropping off work? Your insurer may deny that claim. You need a [home business endorsement](/home-insurance-endorsements-explained/) or a separate business policy.
 
@@ -94,7 +94,7 @@ If you rent out a room, list your home on a short-term rental platform, have a p
 
 Short-term rental platforms have their own host protection programs, but those have significant gaps and conditions. If you're renting your home even occasionally, ask your insurer whether your policy covers bodily injury claims from paying guests. Many standard policies don't. You may need a landlord policy, a short-term rental endorsement, or a standalone vacation rental policy.
 
-In my experience, the homeowners most likely to be underinsured for liability are the ones who added income-generating activity to their property without updating their coverage. The policy they bought five years ago was right for how they were using their home then. It may not be right now.
+Homeowners often become underinsured for liability when they add income-generating activity to their property without updating coverage. A policy that was right five years ago may not fit how the home is used now.
 
 ---
 
@@ -113,7 +113,6 @@ Your liability coverage is the part of your policy that protects your financial 
 - [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
 - [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)
 - [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

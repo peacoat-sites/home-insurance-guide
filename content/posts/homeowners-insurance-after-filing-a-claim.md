@@ -50,7 +50,7 @@ There's no universal formula here. I want to be straight with you about that. Pr
 
 The type of claim matters enormously. Weather-related claims, like wind damage from a named storm, are often treated differently from what insurers call "attritional" losses: plumbing failures or accidental fires. A hurricane isn't your fault, but a pipe that burst because it wasn't insulated might indicate a maintenance issue.
 
-Frequency matters even more than size. One significant claim often has less impact than two small ones in three years. I've seen cases where a homeowner filed two claims, each under $3,000, and ended up non-renewed. The insurer's position was that claim frequency indicated elevated ongoing risk. It feels unfair. But it's how the math works on their end.
+Frequency matters even more than size. One significant claim often has less impact than two small ones in three years. Claim frequency can indicate elevated ongoing risk to an insurer, which can result in non-renewal even for smaller claims.
 
 If you want to understand exactly how increases are calculated and what thresholds to watch, our [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) breaks down the underwriting logic in a way that's genuinely useful for planning.
 
@@ -108,7 +108,7 @@ Bundling your home and auto insurance with the same carrier is another lever. Yo
 
 And keep a detailed home inventory. If you ever file another claim, a documented inventory speeds up settlement and reduces disputes. Apps like Encircle or Sortly make this easy. A [fireproof document safe on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) is also worth having for your policy documents and receipts (commission disclosure applies).
 
-The honest truth is that insurance companies are in the business of managing risk, not absorbing it. Filing a claim is your right, and a good policy should pay when you need it. But understanding what happens after you file gives you real leverage. You can make smarter decisions about when to claim, how to shop when your record isn't clean, and how to position yourself as a lower-risk homeowner over time.
+Insurance companies are in the business of managing risk, not absorbing it. Filing a claim is your right, and a good policy should pay when you need it. Understanding what happens after you file helps you make informed decisions. You can make smarter decisions about when to claim, how to shop when your record isn't clean, and how to position yourself as a lower-risk homeowner over time.
 
 ---
 

@@ -25,15 +25,13 @@ faqs:
     a: "It can. Older homes with outdated plumbing or electrical systems are sometimes excluded from certain discount programs, or the insurer may require an inspection first. Homes built before 1980 are worth flagging with your agent before you buy equipment."
 ---
 
-Forty percent. That's the discount ceiling some insurers will actually quote you if your home is decked out with qualifying smart devices. I've seen the internal pricing models. I've sat in the meetings where underwriters talk about risk reduction data. And I'll tell you honestly: most homeowners are leaving real money on the table not because the discounts don't exist, but because nobody ever told them how to ask for them.
+Forty percent. That's the discount ceiling some insurers will quote for homes equipped with qualifying smart devices. Most homeowners don't claim these discounts not because they don't exist, but because they don't know to ask for them.
 
 You might be wondering whether this applies to your policy, your insurer, your ZIP code. Fair questions. The answer is almost always "it depends," which I know is frustrating to hear. So let me give you the real picture, not the marketing version.
 
 Smart home discounts are genuinely available from most major carriers today, but they're inconsistently advertised, unevenly applied, and buried under eligibility conditions that vary by state. What one insurer calls a "connected home discount" for a $35 [water leak sensor](/water-leak-sensor-insurance-discount/), another insurer doesn't acknowledge at all. As of August 2026, this space is still maturing, and that actually works in your favor if you know where to push.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Smart home discounts range from about 2% to 15% per device category, with whole-home setups earning up to 40% at some carriers.</li><li style="margin:5px 0">Water leak sensors offer the highest ROI relative to cost, often paying for themselves in premium savings within 8 months.</li><li style="margin:5px 0">Most discounts require professional monitoring contracts, not just device ownership.</li><li style="margin:5px 0">You must proactively request these discounts, carriers rarely apply them automatically at renewal.</li><li style="margin:5px 0">Stacking multiple device discounts is possible, but your total discount is usually capped (commonly around 20-25%).</li></ul></div>
-
 
 ## Where the money actually hides
 
@@ -51,8 +49,6 @@ Security systems are third, and honestly, this is where the marketing noise gets
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Discount ranges vary by carrier and state, but here's a realistic composite picture based on what I observed across years of working with pricing teams and what's currently reported by the major carriers and independent research groups as of 2026:
 
 | Device Category | Typical Discount Range | Monitoring Required? | Estimated Device Cost | Avg. Payback Period |
@@ -66,9 +62,7 @@ Discount ranges vary by carrier and state, but here's a realistic composite pict
 
 That payback period column is the one I'd stare at. Water sensors are almost always the fastest return, which matches everything I saw during my time reviewing claims.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical smart home discount by device type (% off annual premium)</div><div class="sc-row"><span class="sc-label">Whole-home water shutoff</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Monitored smoke/CO</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">7%</span></div><div class="sc-row"><span class="sc-label">Monitored security system</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">5%</span></div><div class="sc-row"><span class="sc-label">Leak sensors only</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">3%</span></div><div class="sc-row"><span class="sc-label">Smart thermostat</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">2%</span></div><div class="sc-src">Source: Insurance Information Institute and carrier rate filings, 2026</div></div>
-
 
 ## The stacking question (and the cap nobody mentions)
 
@@ -99,7 +93,6 @@ One more thing I'd add: if you're renovating or building new, the [IBHS home for
 - III Report, "Homeowners and Renters Insurance" (2025): Claim frequency and severity breakdowns by peril, used for water damage statistics cited above
 
 ---
-
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

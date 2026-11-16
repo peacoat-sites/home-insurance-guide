@@ -18,9 +18,7 @@ The national headlines say [home insurance](/home-insurance-electronics-coverage
 
 This matters most if your renewal lands [this fall](/california-fair-plan-rates-jump-298-this-fall/). The market looks better in the aggregate, but averages flatten out a story that's actually about geography, carrier strategy, and a few underwriting shifts that don't get advertised. Understanding what's actually driving the numbers, and where the hidden gaps are, is worth more than any headline before you sign off on another year of coverage.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">National approved rate increases fell to just 1.8% through July 2026, but six states still saw double-digit hikes.</li><li style="margin:5px 0">A record 11.7% of renewing homeowners got a premium decrease in H1 2026, up from 4.9% in 2024.</li><li style="margin:5px 0">Available quotes per homeowner jumped 27% year-over-year, giving you real shopping leverage right now.</li><li style="margin:5px 0">In 15 states, homeowners now pay more for insurance than property taxes.</li><li style="margin:5px 0">Rate relief in states like Minnesota and Colorado (down from ~17% to under 2%) is real but not universal.</li></ul></div>
-
 
 ## The Fragmentation Is the Story
 
@@ -28,17 +26,13 @@ Six states, including California, Florida, and New Jersey, still posted double-d
 
 S&P attributes part of the national slowdown not to insurers suddenly feeling generous, but to "non-rate actions." That's the industry's polite phrase for raising deductibles, tightening eligibility by property age, and shrinking coverage quietly rather than raising the premium number that gets attention. Your policy might show a modest rate increase while your actual financial exposure grew, because your wind or hail deductible went from 1% to 2% of your home's insured value. On a $400,000 home, that's a $4,000 shift in what you'd [pay out](/nearly-half-of-home-insurance-claims-now-pay-out-nothing/) of pocket after a storm. It doesn't show up in the rate filing headline.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">National effective approved homeowners rate change</div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">13.6%</span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:46%"></span></span><span class="sc-val">6.3%</span></div><div class="sc-row"><span class="sc-label">2026 (through July)</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">1.8%</span></div><div class="sc-src">Source: S&amp;P Global Market Intelligence, August 2026</div></div>
-
 
 ## Competition Is Returning, but Not Everywhere
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's the genuinely good news: carriers are coming back into markets they fled. Matic's mid-year report, published August 6, 2026 and drawing on 3 million quotes, found that available quotes per homeowner jumped 27% year-over-year and are up 74% from the 2024 low. More carriers competing for your business means you have actual leverage at renewal for the first time in several years.
+Carriers are coming back into markets they fled. Matic's mid-year report, published August 6, 2026 and drawing on 3 million quotes, found that available quotes per homeowner jumped 27% year-over-year and are up 74% from the 2024 low. More carriers competing for your business means better options at renewal.
 
 The result: a record 11.7% of renewing homeowners saw their premium decrease in the first half of 2026. That's up from 4.9% in 2024. Still a minority, but a meaningfully larger one. If you're in a state that's seeing carrier re-entry and you haven't shopped your policy in two or three years, you may be overpaying simply through inertia.
 

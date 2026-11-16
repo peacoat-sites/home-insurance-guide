@@ -31,9 +31,7 @@ About two-thirds of American homes are underinsured. That's not a scare tactic. 
 
 Here's what I want you to actually understand by the time you finish reading this: replacement cost value (RCV) is not what your house is worth on Zillow, and it's not what you paid for it. It's what it would cost to rebuild it from the ground up, today, using current labor and materials prices. That number can be startlingly higher than any figure you've seen elsewhere, and whether your policy uses it matters enormously.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Replacement cost value (RCV) pays to rebuild your home at today's labor and material prices, not depreciated value.</li><li style="margin:5px 0">About 2 in 3 American homes are underinsured, often because owners confuse market value with rebuilding cost.</li><li style="margin:5px 0">ACV (actual cash value) policies subtract depreciation before paying out, a 15-year-old roof may get you almost nothing.</li><li style="margin:5px 0">Construction costs have climbed sharply; policies not updated in 3+ years are almost certainly underinsured as of 2026.</li><li style="margin:5px 0">Extended or guaranteed replacement cost riders offer meaningful protection if you can afford the premium bump.</li></ul></div>
-
 
 ## RCV vs. ACV: The Difference That Decides Your Claim
 
@@ -53,19 +51,17 @@ The catch people miss: even RCV policies usually pay ACV first, then release the
 | Rebuilding cost overruns covered? | No | Usually no (up to coverage limit) | Yes (extended: 20-50% over; guaranteed: full cost) |
 | Best for | Tight budgets, older homes near end of life | Most homeowners | Homes in high-inflation/supply-crunch markets |
 
-The premium difference is real but often overstated in the selling. I've seen homeowners decline RCV to save $180 a year, then face a $40,000 shortfall after a fire. That math doesn't hold up.
+The premium difference is real but often overstated in the selling. Homeowners who decline RCV to save $180 a year may face a $40,000 shortfall after a fire. That math doesn't hold up.
 
 ## How Replacement Cost Is Actually Calculated
 
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll admit I got this wrong early in my career. I assumed the insurer's estimate was basically the home's tax-assessed value plus some multiplier. It isn't.
 
 Proper dwelling replacement cost calculation starts with square footage and multiplies by local construction cost per square foot, then adjusts for things like: roof type and pitch, foundation type, quality of finishes, custom features, number of bathrooms, garage type, and local labor markets. In rural Montana versus suburban New Jersey, the same 1,800-square-foot house might have wildly different rebuild costs.
 
-Insurers use tools like CoreLogic's 360Value platform or Marshall & Swift data (both industry standards) to estimate this. The problem is those estimates are only as good as the information provided, and if your agent entered your home's square footage wrong or marked it as "average" finishes when you have hardwood floors and custom tile, the estimate is off. I've seen that specific error result in undercoverage of $60,000-plus.
+Insurers use tools like CoreLogic's 360Value platform or Marshall & Swift data (both industry standards) to estimate this. The problem is those estimates are only as good as the information provided. If your agent entered your home's square footage wrong or marked it as "average" finishes when you have hardwood floors and custom tile, the estimate is off and could result in undercoverage of $60,000-plus.
 
 **Worked example:**
 
@@ -73,9 +69,7 @@ Sarah, a homeowner in suburban Columbus, bought her house in 2019 for $285,000. 
 
 Construction material costs are not subtle. The National Association of Home Builders reported that softwood lumber prices alone saw multi-year volatility that added roughly $14,000-18,000 to the cost of a typical new single-family home. Labor shortages in skilled trades have compounded this in most markets. As of July 2026, rebuild costs in many metro areas are 25-40% higher than they were in 2019. If your [coverage limits](/home-insurance-coverage-limits-guide/) haven't been reviewed since before the pandemic, the gap is probably larger than you want to think about.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated avg. rebuild cost per sq ft by region (2026)</div><div class="sc-row"><span class="sc-label">Northeast</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">$210</span></div><div class="sc-row"><span class="sc-label">Southeast</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">$148</span></div><div class="sc-row"><span class="sc-label">Midwest</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$142</span></div><div class="sc-row"><span class="sc-label">Southwest</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">$165</span></div><div class="sc-row"><span class="sc-label">West Coast</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$235</span></div><div class="sc-src">Source: CoreLogic / Marshall &amp; Swift regional data, 2026</div></div>
-
 
 These are averages. Custom finishes, accessibility features, or unusual structural elements can push any of these numbers meaningfully higher.
 
@@ -101,7 +95,7 @@ A few things I never saw adequately disclosed at the point of sale:
 
 **Separate coverage for personal property.** Your dwelling RCV covers the structure. Your personal property coverage is often set at 50-70% of dwelling value by default, but it may use ACV for your belongings unless you specifically add an RCV endorsement for contents too. A 10-year-old couch on ACV is worth almost nothing. Confirm which method applies to your stuff.
 
-**The home inventory you never made.** If you suffer a total loss and need to claim personal property, you'll need to itemize everything. From memory. Under stress. I've watched people lose thousands simply because they couldn't document what they owned. A home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or even just a slow walk-through video stored in the cloud takes two hours and could recover real money. (The site may earn a commission on linked products.)
+**The home inventory you never made.** If you suffer a total loss and need to claim personal property, you'll need to itemize everything. Many people lose thousands in claims simply because they couldn't document what they owned. A home inventory app like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) or even just a slow walk-through video stored in the cloud takes two hours and could recover real money. (The site may earn a commission on linked products.)
 
 **Worked example:**
 
@@ -116,7 +110,6 @@ A couple in Phoenix suffered a kitchen fire that spread to two rooms. Total pers
 - Federal Reserve Bank regional surveys: Labor cost and construction market tightness data used to contextualize regional rebuild cost variation.
 
 ---
-
 
 *Photo: [Serkan  Gönültaş](https://www.pexels.com/@serkangonultas) via Pexels*
 

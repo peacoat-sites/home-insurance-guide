@@ -68,7 +68,7 @@ Step one: notify your insurer in writing the moment your system is installed. Do
 
 Step two: get a certificate of installation. Most professional installers provide this automatically. It shows the system type, the monitoring company's name, and the UL status. Your insurer wants this document. Without it, you'll get a "self-reported" discount, which is always lower.
 
-Step three: verify your monitoring company's UL listing yourself. The UL Product iQ database is online and searchable. Don't take the sales rep's word for it. I've seen regional companies claim UL certification that applied only to their equipment, not their central monitoring station, which is the part that actually matters for insurance.
+Step three: verify your monitoring company's UL listing yourself. The UL Product iQ database is online and searchable. Don't take the sales rep's word for it. Some regional companies claim UL certification that applied only to their equipment, not their central monitoring station, which is the part that actually matters for insurance.
 
 Step four: call your insurer and ask directly. "Do you have a discount schedule for security systems? What certification or documentation do I need for your highest tier?" Write down who you spoke to and when. This matters if there's a dispute at renewal.
 
@@ -82,7 +82,7 @@ I handled a claim where a homeowner switched from a UL-listed monitoring company
 
 Your insurer's rating of your home is based on the setup you disclosed. If that changes, tell them.
 
-DIY systems like SimpliSafe and Ring Alarm are professionally monitored options with UL-listed stations available. But whether your specific carrier credits them the same way as a traditionally installed ADT or Brinks system varies wildly. I've seen carriers give full professional-install discounts for DIY systems with proper documentation, and I've seen others categorically refuse. Ask before you buy.
+DIY systems like SimpliSafe and Ring Alarm are professionally monitored options with UL-listed stations available. But whether your specific carrier credits them the same way as a traditionally installed ADT or Brinks system varies. Some carriers give full professional-install discounts for DIY systems with proper documentation, while others categorically refuse. Ask before you buy.
 
 ## Your Local Fire Rating and Why You're Probably Ignoring It
 

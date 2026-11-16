@@ -31,23 +31,19 @@ Here's what I tell people: the answer is more complicated than insurers tend to 
 
 The short version is that most homeowner policies require you to file "promptly" or "within a reasonable time." In practice, that typically means somewhere between 30 days and two years, depending on your state, your insurer, and the specific language in your policy. But that range is almost useless on its own, because the real deadline risk isn't usually at the outer edge. It's in the middle, where damage is documented poorly, evidence disappears, and your insurer gains leverage.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most policies require "prompt" filing; in practice, 30 days to 2 years depending on state and policy language.</li><li style="margin:5px 0">Waiting even a few weeks can give insurers grounds to reduce or deny claims based on "failure to mitigate."</li><li style="margin:5px 0">Your policy's exact wording controls, not what an agent verbally told you.</li><li style="margin:5px 0">Natural disasters often trigger state-mandated deadline extensions; check your state's insurance commissioner site.</li><li style="margin:5px 0">The statute of limitations for suing your insurer (if they wrongfully deny) is separate and usually 1-6 years.</li></ul></div>
-
 
 ## "Promptly" Is a Loaded Word
 
 I spent 14 years reading the word "promptly" in policy language, and I can tell you it is one of the most strategically vague terms in the insurance industry. It sounds like a reasonable request. It functions like a trap.
 
-When your policy says you must report a loss "promptly" or "as soon as practicable," your insurer gets to argue later what that means. I've seen carriers deny claims filed six weeks after a loss on the grounds that the delay allowed damage to worsen. I've also seen them approve claims filed three months out, no problem. The difference usually came down to documentation: did the policyholder take photos the day of the loss? Did they call a contractor? Was there any paper trail showing they weren't just sitting on the damage?
+When your policy says you must report a loss "promptly" or "as soon as practicable," your insurer gets to argue later what that means. Carriers may deny claims filed weeks after a loss if the delay allowed damage to worsen, while approving others filed months later. The difference usually comes down to documentation: photos taken the day of the loss, calls to contractors, and a paper trail showing prompt action all support your claim.
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) has pushed for clearer disclosure standards, but state-level enforcement varies enormously. Your best protection is your own records, not a vague statutory promise.
 
 ## The Actual Timelines, by Situation
 
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Different loss types carry very different practical windows. Here's how they generally break down as of August 2026:
 
@@ -105,7 +101,6 @@ The [IBHS home fortification guides](https://ibhs.org/) also include documentati
 - United Policyholders ([uphelp.org](https://uphelp.org/)): Nonprofit consumer advocacy organization with state-specific guidance on claim filing deadlines and disaster extensions.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

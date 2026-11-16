@@ -22,7 +22,7 @@ The reason this is the defining consumer-rights fight in home insurance right no
 
 ## The Technology Got Way Ahead of the Regulation
 
-I'll be honest, when I was reviewing claims in the 2010s, aerial imagery was something we occasionally used to verify a roof after a storm. It was supplemental. What surprised me was how completely the industry flipped that around. The imagery is now often the primary trigger for underwriting action, and the AI doing the analysis doesn't always get it right.
+Aerial imagery has shifted from a supplemental tool for verifying roofs after storms to a primary trigger for underwriting action in many cases. The AI analyzing this imagery doesn't always get it right.
 
 Homeowners have reported non-renewals citing overhanging branches classified as structural hazards, and shadows that an AI algorithm misread as actual damage, according to reporting from AgencyHeight in March 2026. Those are not edge cases. That's a fundamental accuracy problem with a system that carries real financial consequences for real people.
 
@@ -31,8 +31,6 @@ Meanwhile, insurers are simultaneously moving away from ZIP-code-level pricing t
 ## What the New Laws Actually Require (and Where They Apply)
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The clearest breakthrough so far is a new law that took effect July 1, 2026. According to Nearmap's state regulation tracker, updated May 14, 2026, insurers issuing non-renewals based on aerial imagery must now provide date-stamped photos taken within the past 12 months, a formal appeals process, and a minimum 60-day remediation window before they can drop coverage.
 

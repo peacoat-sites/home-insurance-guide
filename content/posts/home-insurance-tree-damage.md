@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You wake up at 2 a.m. to a sound like a cannon going off. A massive oak from your neighbor's yard has just crashed through your roof, and now rain is pouring into your living room while your family stands in the hallway in their pajamas. You grab your phone to call your insurance company, then pause: wait, whose insurance covers this? Yours? Theirs? Does it matter who owns the tree? 
 
-This exact scenario plays out thousands of times every year. I've seen it from both sides of the desk, and the confusion people feel at that moment is completely understandable. Most homeowners don't read the fine print until they're standing in a room with a tree in it.
+When a neighbor's tree falls and damages a house, homeowners often discover they misunderstood their coverage. Most homeowners don't read the fine print until they're standing in a room with a tree in it.
 
 Let me walk you through how this actually works.
 
@@ -35,9 +35,9 @@ Let me walk you through how this actually works.
 
 Here's the answer that surprises almost everyone: it almost never matters whose tree it was. What matters is what the tree hit.
 
-If your neighbor's tree falls and damages your house, your homeowner's insurance policy is what you file a claim against, not theirs. Your policy covers damage to your structure. Their policy covers damage to their structure. This is the general rule across the industry, and I've watched more than a few neighbor disputes get ugly because one party assumed the other's insurance would handle everything. It usually won't.
+If your neighbor's tree falls and damages your house, your homeowner's insurance policy is what you file a claim against, not theirs. Your policy covers damage to your structure. Their policy covers damage to their structure. This is the general rule across the industry. Disputes can turn ugly when one party assumes the other's insurance will handle everything. It usually won't.
 
-There is one narrow exception. If your neighbor's tree was clearly dead, visibly rotting, or leaning dangerously, and you sent them written notice asking them to remove it before it fell, you may have a case for their liability coverage to kick in. "May have" is doing a lot of work in that sentence. You'd need documentation: dated letters, photos, anything showing they knew about the hazard and ignored it. Even then, their liability insurer will push back. I've seen claims like this succeed, but they take time and persistence.
+There is one narrow exception. If your neighbor's tree was clearly dead, visibly rotting, or leaning dangerously, and you sent them written notice asking them to remove it before it fell, you may have a case for their liability coverage to kick in. "May have" is doing a lot of work in that sentence. You'd need documentation: dated letters, photos, anything showing they knew about the hazard and ignored it. Even then, their liability insurer will push back. These claims can succeed, but they typically take time and persistence.
 
 The practical takeaway: if a tree falls and hits your house, call your own insurer first. Don't wait to sort out tree ownership.
 

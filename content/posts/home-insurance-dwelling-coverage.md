@@ -25,7 +25,7 @@ author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 lastmod: 2026-07-08
 ---
-Most homeowners think their house is fully covered the moment they sign the dotted line. Then a fire destroys their kitchen, and reality hits: their dwelling coverage limit was set four years ago based on a rough online estimate, construction costs have jumped 40% since then, and they're now staring at a $90,000 gap between what the insurer will pay and what it actually costs to rebuild. I've watched this scenario play out more times than I care to count. Dwelling coverage is the spine of your homeowner's policy, and most people don't truly understand how it works until something goes wrong.
+Most homeowners think their house is fully covered the moment they sign the dotted line. A common scenario: a fire destroys the kitchen, and the homeowner discovers their dwelling coverage limit was set four years ago based on a rough online estimate, construction costs have jumped 40% since then, and there's now a $90,000 gap between what the insurer will pay and what it actually costs to rebuild. Dwelling coverage is the spine of your homeowner's policy, and most people don't truly understand how it works until something goes wrong.
 
 ## What Dwelling Coverage Actually Covers (And What It Doesn't)
 
@@ -65,7 +65,7 @@ When you renew, ask directly: "Is my dwelling limit based on replacement cost, a
 
 Insurers calculate your recommended dwelling limit using a replacement cost estimator, or RCE. Square footage, construction type, roofing materials, local labor costs, sometimes special features like vaulted ceilings or custom tile, all of that goes in. The problem is these estimates are only as good as the data you feed them.
 
-Two problems show up over and over in my experience. First, homeowners underreport their home's details when they buy the policy. They say the kitchen is "standard" when it actually has high-end cabinetry and stone countertops. That mismatch means the insurer's estimate is built on incomplete information. Second, policies get renewed year after year without anyone checking whether the limits still make sense. The Insurance Information Institute emphasizes that homeowners should review their coverage limits annually, especially after making renovations or additions, to prevent coverage gaps from quietly growing.
+Two common problems emerge. First, homeowners underreport their home's details when they buy the policy. They say the kitchen is "standard" when it actually has high-end cabinetry and stone countertops. That mismatch means the insurer's estimate is built on incomplete information. Second, policies get renewed year after year without anyone checking whether the limits still make sense. The Insurance Information Institute emphasizes that homeowners should review their coverage limits annually, especially after making renovations or additions, to prevent coverage gaps from quietly growing.
 
 Renovations are a major culprit. You spend $60,000 finishing a basement or $40,000 updating a kitchen. You don't tell your insurer. Your dwelling limit doesn't budge. Now you have a significant asset that isn't reflected in your coverage. Some policies include an inflation guard endorsement, which automatically bumps your dwelling limit each year by a percentage tied to construction cost indexes. If yours doesn't have one, add it, or at minimum, manually review your limit every year.
 
@@ -129,7 +129,6 @@ Dwelling coverage is the most important number on your homeowner's policy, and i
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
 - [Felix Lauster](https://www.pexels.com/@felix-lauster-343083)
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

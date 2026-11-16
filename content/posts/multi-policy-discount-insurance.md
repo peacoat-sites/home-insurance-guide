@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people stumble on the multi-policy discount the way they stumble on a lot of things about insurance: by accident, usually years after they've already overpaid. A coworker mentions it. A new agent brings it up during a quote. Or you finally read your renewal notice closely and notice you're paying $340 a year more than your neighbor for almost identical coverage.
 
-Here's what I tell frustrated people: [bundling your home and auto](/home-insurance-bundling-discount/) with one insurer is one of the most consistently real discounts in personal insurance. Not gimmicky. Real, the kind where insurers actually price it into their underwriting models and you can verify it on paper. I've seen it knock 10% to 25% off combined premiums, though it varies hard by state, carrier, and what coverage you're carrying.
+[Bundling your home and auto](/home-insurance-bundling-discount/) with one insurer is one of the most consistently solid discounts in personal insurance. Insurers price it into their underwriting models, and you can verify the savings on paper. Discounts typically range from 10% to 25% off combined premiums, though the amount varies by state, carrier, and coverage selections.
 
 There's a trap version though. Let me make sure you know the difference before you call anyone.
 
@@ -78,7 +78,7 @@ Auto and home get all the attention. A few others matter.
 
 Umbrella liability is probably the most underused. An umbrella policy sits above your home and auto liability limits and typically costs $150 to $300 a year for $1 million in coverage, depending on your state and risk. Most carriers require you to hold underlying home and auto with them to write an umbrella. That's a real bundling dependency, not just a discount incentive, and it's often worth structuring your coverage around.
 
-Renters insurance paired with auto works if you don't own a home. Renters policies run $12 to $20 a month in most markets, and the bundled auto discount often exceeds the renters cost itself. I've seen situations where adding renters essentially paid for itself through the auto discount alone.
+Renters insurance paired with auto works if you don't own a home. Renters policies run $12 to $20 a month in most markets, and the bundled auto discount often exceeds the renters cost itself.
 
 Boat, motorcycle, and RV policies sometimes bundle too, but the discounts are spotty. Ask. Don't assume.
 

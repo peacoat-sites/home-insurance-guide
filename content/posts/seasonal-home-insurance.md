@@ -25,7 +25,7 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 lastmod: 2026-07-08
 ---
-Most homeowners renew their insurance policy every year without reading it. They get the bill, they pay it, they move on. I did this myself for the first few years I owned my house, and I was working in claims at the time. That's how easy it is to ignore.
+Most homeowners renew their insurance policy every year without reading it. They get the bill, they pay it, they move on. It's easy to overlook this step.
 
 Here's the problem: your home's risk profile changes dramatically across the seasons, and your policy almost certainly doesn't adjust with it. The coverage that felt adequate in May can leave you genuinely exposed by December. Understanding that gap, and knowing how to close it before something goes wrong, is what this article is actually about.
 
@@ -74,7 +74,7 @@ While you're at it, water leak sensors placed near your water heater, washing ma
 
 ## The question most people forget to ask
 
-Every time you make an improvement to your home, your coverage should probably be updated. New roof, finished basement, added bathroom, major kitchen renovation: all of these increase the replacement value of your home and should be reflected in your dwelling coverage. I've seen claims where a homeowner spent $80,000 finishing their basement, never told their insurer, and then got a payout that didn't come close to covering the loss because their coverage limits were set before that improvement existed.
+Every time you make an improvement to your home, your coverage should probably be updated. New roof, finished basement, added bathroom, major kitchen renovation: all of these increase the replacement value of your home and should be reflected in your dwelling coverage. For example, a homeowner who spends $80,000 finishing a basement but doesn't notify their insurer may receive a payout that falls short of covering the loss, since coverage limits won't reflect that improvement.
 
 Also worth asking: what is my deductible for wind and hail versus my standard deductible? In many coastal and storm-prone states, these are separate, and the wind/hail deductible is often expressed as a percentage of your home's insured value, not a flat dollar amount. On a $400,000 home with a 2% wind deductible, you're covering the first $8,000 of any wind claim yourself.
 
@@ -89,7 +89,6 @@ If reading this made you realize you haven't actually looked at your declaration
 - [Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,8 +27,6 @@ lastmod: 2026-07-08
 ---
 Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild, and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
 
-I've seen that call happen dozens of times. The homeowner is stunned every single time.
-
 This is the gap nobody warns you about before you buy a policy, and it costs people real money. So let's get into the actual mechanics of how detached garage coverage works, where it routinely falls short, and what to do about it before you need to file a claim.
 
 ## How Your Policy Actually Treats a Detached Garage
@@ -73,7 +71,7 @@ A few situations come up constantly that throw people off.
 
 **Earthquake and flood.** Neither is covered under a standard HO-3 for the main dwelling or for other structures. This catches people in California and Gulf Coast states especially hard. If a flood takes out your detached garage, your homeowners policy won't help. That's a separate NFIP or private flood policy, and even then, detached structures have their own coverage rules under the NFIP. Check with your state's insurance department (you can find yours through [NAIC's state map](https://www.naic.org/state_web_map.htm)) if you're not sure what's available in your area.
 
-**Attached vs. detached.** If your garage is attached to the house by a shared wall or roof, it falls under Coverage A (your dwelling) and benefits from the full dwelling limit. The attached/detached distinction matters a lot. I've seen policies incorrectly categorized at binding, and it usually doesn't get caught until a claim.
+**Attached vs. detached.** If your garage is attached to the house by a shared wall or roof, it falls under Coverage A (your dwelling) and benefits from the full dwelling limit. The attached/detached distinction matters a lot. Policies are sometimes incorrectly categorized at binding, and the error often goes unnoticed until a claim.
 
 ## How to Actually Fix the Gap
 
@@ -102,7 +100,6 @@ Don't wait for your renewal to look at this. Call your agent this week, ask spec
 - [NAIC's state map](https://www.naic.org/state_web_map.htm)
 - [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
 - [Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

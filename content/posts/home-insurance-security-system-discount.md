@@ -119,7 +119,7 @@ The stronger case for a security system isn't the discount at all. It's that pre
 
 Whether or not you get a meaningful discount, a security system is only half the job. The piece most homeowners completely skip is documenting what's inside the house.
 
-I've seen total-loss claims where the homeowner couldn't remember or prove what they owned. Adjusters aren't trying to shortchange you, but they can only pay for losses you document. No proof of that $2,000 TV? It becomes a fight.
+Adjusters can only pay for losses you document. Without proof of what you owned, a claim can become difficult to settle. A $2,000 TV with no documentation may not be fully covered.
 
 Fix it simply and free: use a home inventory app, spend an afternoon filming every room, open drawers, capture electronics serial numbers, save receipts. Store that video somewhere that survives a fire: cloud account, email, or a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) for papers (disclosure: this site may earn a commission on qualifying purchases). Free apps like the NAIC's home inventory app work great for this.
 
@@ -144,7 +144,6 @@ Here's the actual takeaway: a security system discount can be meaningful, but on
 - [Insurance Institute for Business & Home Safety (IBHS)](https://ibhs.org/)
 - [state's department of insurance](https://www.naic.org/state_web_map.htm)
 - [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

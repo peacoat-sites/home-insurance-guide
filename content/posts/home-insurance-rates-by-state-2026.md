@@ -190,7 +190,7 @@ Why aren't you getting $910? Because "base rate" doesn't account for your insure
 ## Your Action Plan
 
 1. **Get 3 quotes.** Different carriers = 20-50% variance for identical coverage.
- 
+
  *But here's what nobody tells you:* After you've shopped and found the lowest rate, you still might not be able to get it. In Florida, California, and Louisiana, many low-cost carriers literally aren't accepting new business. You can have the best quote, but they'll tell you "we're closed to new customers." It's infuriating and it's real. Before celebrating a low quote, confirm the carrier is actually accepting new applications in your zip code.
 
 2. **Bundle with auto.** 18% savings is automatic money.
@@ -205,7 +205,7 @@ Why aren't you getting $910? Because "base rate" doesn't account for your insure
 
 Full transparency: I've got solid data on rates by state and the big rate factors (credit, roof, location). But a few gaps where I can't give you confident guidance:
 
-- **Actual conversion rates** for how much a roof replacement actually saves. I've seen "$1,000-$2,000/year" thrown around, but I don't have access to carrier data that compares identical homes before/after roof work. Your savings will vary wildly based on your carrier and current age of roof.
+- **Actual conversion rates** for how much a roof replacement actually saves. You'll see estimates like "$1,000-$2,000/year" quoted online, though carriers don't typically publish data comparing identical homes before and after roof replacement. Your savings will vary wildly based on your carrier and current age of roof.
 
 - **Titer testing ROI.** I mentioned it as an option for seniors with prior reactions, but I don't have great data on how many people actually use it or whether the $40-80 per test actually saves money over 3 years (depends on reaction risk, which is individual).
 

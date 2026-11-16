@@ -39,7 +39,7 @@ A dented metal roof that's lost its protective coating? Cosmetic, per some adjus
 
 Pull out your actual declarations page right now if you're in a hail-prone area and search for "cosmetic damage exclusion" or "market value exclusion." If it's in there, you're playing a different game than you might think.
 
-One more thing about policy language: your deductible. A lot of policies issued after 2008 have a separate wind/hail deductible expressed as a percentage of your dwelling coverage, not a flat dollar amount. One percent of a $400,000 home is $4,000. Two percent is $8,000. I've seen homeowners discover this mid-claim when they expected to pay $1,000 and found out the real number was triple that.
+One more thing about policy language: your deductible. A lot of policies issued after 2008 have a separate wind/hail deductible expressed as a percentage of your dwelling coverage, not a flat dollar amount. One percent of a $400,000 home is $4,000. Two percent is $8,000. It's easy to miss this detail and discover mid-claim that your out-of-pocket cost is much higher than expected.
 
 ---
 

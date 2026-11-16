@@ -52,7 +52,7 @@ When a carrier wants to win your business on price, they don't typically say "we
 
 **Actual cash value vs. replacement cost.** This one kills people. Actual cash value (ACV) means the insurer pays what your damaged property is worth today, after depreciation. Replacement cost (RCV) means they pay what it costs to actually replace it. A 10-year-old roof on an ACV policy? The insurer depreciates it heavily. You might get $4,000 toward a $14,000 reroof. With RCV, you'd get the full $14,000 minus your deductible. Budget policies frequently default to ACV on both the structure and contents. Read those two lines before you sign anything.
 
-**Water backup coverage.** Standard homeowners policies don't cover damage from a sewer or drain that backs up into your home. That's a separate endorsement, typically $50 to $150 a year, and it's often the first thing stripped from a discounted policy. In my experience reviewing claims, water-related losses make up a massive share of homeowner filings, and water backup claims are among the most contentious because the base policy exclusion is so clear.
+**Water backup coverage.** Standard homeowners policies don't cover damage from a sewer or drain that backs up into your home. That's a separate endorsement, typically $50 to $150 a year, and it's often the first thing stripped from a discounted policy. Water-related losses make up a significant share of homeowner filings, and water backup claims are among the most contentious because the base policy exclusion is so clear.
 
 **Extended replacement cost.** Construction costs spike after regional disasters because labor and materials get expensive fast. Extended replacement cost coverage adds a buffer, often 25% to 50% above your Coverage A limit, to account for that surge. Cheap policies rarely include it. You may think you have enough coverage and still come up short.
 
@@ -94,7 +94,7 @@ The claims handling row matters more than most buyers realize. A policy that pay
 
 ## The Documents You Need Before You Ever File a Claim
 
-I've seen claims fall apart not because coverage was absent, but because the homeowner couldn't prove what they owned. This is fixable right now, before anything happens.
+Claims often fall apart not because coverage was absent, but because the homeowner couldn't prove what they owned. This is fixable right now, before anything happens.
 
 A home inventory is the most underused protection in insurance. If your home burns down, can you list every item in it? Can you prove what you paid? Most people can't. A detailed home inventory (photos, video, serial numbers, receipts) turns a disputed contents claim into a straightforward one.
 

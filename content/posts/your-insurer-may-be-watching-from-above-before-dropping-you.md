@@ -14,7 +14,7 @@ slug: "your-insurer-may-be-watching-from-above-before-dropping-you"
 affiliate_disclosure: true
 ---
 
-Somewhere between your last renewal and this one, an algorithm looked down at your roof from orbit, flagged something it didn't like, and sent your insurer a report. You never met an inspector. Nobody knocked. And now you have 30 days to find new coverage.
+Between renewals, insurers may use satellite imagery and other data to assess your property without an in-person inspection. If this assessment leads to non-renewal, you typically have 30 days to find new coverage.
 
 This is not a hypothetical. It's the dominant underwriting story of 2026, and it's happening faster than regulators can respond.
 
@@ -31,8 +31,6 @@ Shadows get misread as damage. Tarps from a previous repair, patched years ago, 
 ## What Policyholders Don't Know Could Cost Them
 
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Most homeowners have no idea this is happening until they get a non-renewal notice. Insurers are generally not required to show you the images, explain the scoring model, or give you a meaningful chance to respond with current evidence. That information asymmetry is the core of the fight now playing out in state capitals.
 
@@ -51,7 +49,7 @@ Colorado's law, effective this month, takes a different angle. It doesn't restri
 
 ## What You Can Actually Do Right Now
 
-Legislation is slow. Your renewal date isn't. If you're in a state without meaningful protection yet, the leverage has to come from you.
+Legislation is slow. Your renewal date isn't. If you're in a state without meaningful consumer protections yet, you may need to take action on your own.
 
 First, get ahead of it. Request your current insurer's underwriting file. Some states require they provide it; others don't, but asking costs nothing and sometimes works. What you want to know: has any imagery been used in your risk evaluation, and if so, what does it show? Agency Height's March 2026 reporting on non-renewals documents that many homeowners only learn aerial imagery was a factor after they've already been dropped.
 

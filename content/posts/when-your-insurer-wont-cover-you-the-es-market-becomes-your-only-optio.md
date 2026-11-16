@@ -20,9 +20,7 @@ That's changed. Fast.
 
 Surplus lines homeowners policies in California alone surpassed 300,000 in 2025, a level the Claims Journal described in April 2026 as "without precedent." Meanwhile, RT Specialty's June 2026 personal lines market update clocked residential E&S submissions rising 63.3% in Texas and 60.9% in California year-over-year. These aren't niche numbers. They signal a structural realignment in who gets to buy standard insurance and who gets pushed into a parallel, costlier system.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Surplus lines HO policies in California topped 300,000 in 2025, a record with no historical comparison.</li><li style="margin:5px 0">E&amp;S submissions for residential properties rose 63.3% in Texas and 60.9% in California in 2026.</li><li style="margin:5px 0">E&amp;S market share jumped from under 2% to roughly 16% of policies in CA, FL, and TX in two years.</li><li style="margin:5px 0">E&amp;S policies cost more and carry fewer consumer protections than standard admitted coverage.</li><li style="margin:5px 0">Total surplus lines premiums hit $90.3 billion across 15 states through year-end 2025.</li></ul></div>
-
 
 ## The E&S Market Isn't What It Used to Be
 
@@ -35,8 +33,6 @@ The reason ordinary homes are landing in E&S now isn't primarily wildfire proxim
 ## What You're Actually Giving Up
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The gap between admitted and E&S coverage isn't just price. It's structural.
 
@@ -57,9 +53,7 @@ Policy form variability is the other trap. An admitted homeowners policy in most
 
 According to Matic's December 2025 analysis, E&S products accounted for roughly 16% of their placed policies in California, Florida, and Texas by year-end 2025, up from under 2% in 2023. That's a near-tenfold increase in market share in two years. And those policyholders [are paying](/you-are-paying-more-for-home-insurance-but-covered-for-less/) for it, both in premium and in reduced protections.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Residential E&amp;S submission growth (2026 YoY)</div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">63.3%</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">60.9%</span></div><div class="sc-src">Source: RT Specialty, June 2026</div></div>
-
 
 Total surplus lines premiums across 15 stamping-office states hit $90.3 billion through year-end 2025, up 7.8% year-over-year according to WSIA data reported by Insurance Business in January 2026. That growth is slowing slightly from the torrid pace of 2022-2023, but the residential personal lines segment is bucking the moderation trend. The homes segment is still accelerating.
 
@@ -75,7 +69,7 @@ Second, read the exclusions list before the [declarations page](/insurance-polic
 
 Third, ask your agent explicitly: is this carrier admitted in my state or not? Agents are required to disclose this, but they don't always volunteer it. If they can't answer cleanly, that's a problem.
 
-Fourth, check whether your state's FAIR plan is still a viable backstop. California's FAIR plan has expanded coverage limits in recent years, and while it's not a great policy, it's admitted and guaranty-fund-protected. In some cases it's a better choice than a weak E&S carrier, even at a comparable price.
+Fourth, check whether your state's FAIR plan is still a viable backstop. State FAIR plans typically offer admitted coverage with guaranty-fund protection. Coverage limits vary by state and have changed over time. In some cases it's a better choice than a weak E&S carrier, even at a comparable price.
 
 The situation in 2026 doesn't have an easy fix. Admitted carriers aren't coming back to markets they've exited until their reinsurance economics change, and that's a multi-year story at best. What homeowners can control is whether they understand what they're buying when they end up in E&S, because the policy sitting in your email inbox may not cover what you think it does. Consulting an independent insurance agent, and if significant coverage questions arise, an insurance attorney or public adjuster, is worth the time before you bind.
 

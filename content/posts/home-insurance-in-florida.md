@@ -33,7 +33,7 @@ So if you're sitting there wondering whether you're overpaying, underinsured, or
 
 Florida isn't just a difficult insurance market. It's a fundamentally different one.
 
-The combination of hurricane exposure, flooding risk, litigation history, and reinsurance costs has created a market that operates by its own rules. When I was reviewing claims, properties in Florida almost always had more exclusions, higher deductibles, and more conditional language than comparable homes in Ohio or Colorado. That's not arbitrary. It reflects real risk that gets priced into every line of every policy.
+The combination of hurricane exposure, flooding risk, litigation history, and reinsurance costs has created a market that operates by its own rules. Properties in Florida typically have more exclusions, higher deductibles, and more conditional language than comparable homes in Ohio or Colorado. That's not arbitrary. It reflects real risk that gets priced into every line of every policy.
 
 The Florida insurance market has been destabilized repeatedly by catastrophic hurricane seasons, roof damage litigation abuse (which the state legislature has worked to address in recent reforms), and the rising cost of reinsurance, which is essentially the insurance that insurers buy for themselves. When reinsurance costs spike after a major hurricane season, your renewal premium goes up even if your house was never touched.
 
@@ -51,7 +51,7 @@ But the exclusions are where Florida policies diverge sharply from what people e
 
 **Hurricane deductibles aren't like regular deductibles.** This one catches people off guard every single time. In Florida, your hurricane deductible is typically a percentage of your home's insured value, not a flat dollar amount. A 2% hurricane deductible on a $400,000 home means you're paying $8,000 out of pocket before your insurer covers a cent of hurricane damage. Some policies go as high as 5%. Read the declarations page carefully and do the actual math.
 
-**Roof age and condition matter enormously.** Many Florida insurers now limit coverage for roofs over a certain age, or they'll only pay actual cash value (depreciated value) rather than replacement cost for an older roof. I've seen clients receive checks that covered less than half of a new roof because their policy had shifted to actual cash value for any roof over 15 years old. Ask specifically: does my policy pay replacement cost or actual cash value for the roof?
+**Roof age and condition matter enormously.** Many Florida insurers now limit coverage for roofs over a certain age, or they'll only pay actual cash value (depreciated value) rather than replacement cost for an older roof. A policy that shifts to actual cash value for any roof over 15 years old can result in a check that covers less than half of a new roof's cost. Ask specifically: does my policy pay replacement cost or actual cash value for the roof?
 
 ## Citizens Insurance: The Safety Net That Comes With Strings
 

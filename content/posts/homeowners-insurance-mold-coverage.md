@@ -25,19 +25,19 @@ author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
 lastmod: 2026-07-08
 ---
-You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and [water damage is covered](/home-insurance-water-damage-coverage/), so it all works out. I spent 14 years reviewing claims that started exactly that way, and I'll be honest: that assumption gets people into serious financial trouble more often than almost any other coverage gap I've seen.
+You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and [water damage is covered](/home-insurance-water-damage-coverage/), so it all works out. This assumption commonly leads to serious financial trouble because of how policies actually define mold coverage.
 
 ## Why Mold Coverage Is Almost Never What You Think
 
-Here's the thing that trips people up. Standard homeowners insurance policies don't categorize mold as its own peril. Instead, mold coverage depends entirely on *what caused the mold*. The policy covers it only if it's a direct result of a covered event. And that's where everything gets complicated.
+The key issue is this: Standard homeowners insurance policies don't categorize mold as its own peril. Instead, mold coverage depends entirely on *what caused the mold*. The policy covers it only if it's a direct result of a covered event. And that's where everything gets complicated.
 
 A pipe bursts. Water floods your basement. You call a restoration company within 48 hours. The mold starting to grow in that damp drywall? Likely covered, because it's a direct consequence of a sudden, accidental covered loss. Now change one detail: that pipe had a [slow drip for six months](/home-insurance-frozen-pipes/) that you didn't notice. Same mold, same wall, completely different outcome. The insurer's position will almost certainly be that you had a maintenance issue, and maintenance issues are explicitly excluded from virtually every standard homeowners policy on the market.
 
-What struck me when I started looking at this more closely was how much of the language is designed to feel reassuring while actually being quite narrow. The phrase "sudden and accidental" is doing a lot of heavy lifting in most policies, and most homeowners don't realize how strictly adjusters interpret it.
+Much of the policy language is designed to feel reassuring while actually being quite narrow. The phrase "sudden and accidental" is doing a lot of heavy lifting in most policies, and most homeowners don't realize how strictly adjusters interpret it.
 
 ## The Three Buckets: Covered, Gray Area, and Almost Never
 
-When I was reviewing claims, I mentally sorted mold situations into three categories. This isn't an official industry framework, just a practical way to think about how claims actually get evaluated.
+Mold situations break down into three categories based on how claims are typically evaluated. This isn't an official industry framework, just a practical way to think about how claims actually get evaluated.
 
 **The covered cases** are tied to an undeniable sudden event: a burst pipe, an appliance supply line that failed catastrophically, a storm that blew water through a damaged roof. If there's a clear date of loss, an obvious cause, and you responded quickly, you're in the best position. Even then, the coverage applies to the resulting damage, not necessarily the mold remediation itself unless your policy includes specific mold coverage language.
 
@@ -47,7 +47,7 @@ When I was reviewing claims, I mentally sorted mold situations into three catego
 
 ## How Much Mold Coverage Do Standard Policies Actually Provide?
 
-I'll be honest: this part frustrated me when I was researching it. The answer is genuinely inconsistent, and not in your favor.
+The answer is genuinely inconsistent, and not in your favor.
 
 Some insurers include a mold coverage sublimit as a standard feature. This might be $5,000 or $10,000, and it sounds meaningful until you get a remediation estimate. Professional mold remediation in a medium-sized area can cost significantly more than that depending on your region, the materials affected, and whether there's structural damage. Remediation involving HVAC systems or structural framing gets expensive fast.
 

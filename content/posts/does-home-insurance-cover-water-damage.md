@@ -34,15 +34,13 @@ Here's the framework that determines almost every water damage claim outcome. St
 
 A pipe bursts in your wall on a Tuesday morning? Covered, typically, under the dwelling coverage portion of your policy. Your dishwasher supply line fails and floods the kitchen? Usually covered. A storm drives rain through a window that breaks? Often covered under the "wind and rain" peril.
 
-What's not covered is just as important. Gradual damage, meaning water that's been leaking slowly for weeks or months, is almost universally excluded. Insurers call this "wear and tear" or "lack of maintenance," and they mean it. I've seen claims denied because a claims examiner found mineral buildup and corrosion on a failed pipe fitting, which suggested the leak had been slowly weeping for a long time before it became obvious. The homeowner genuinely didn't know. Didn't matter.
+What's not covered is just as important. Gradual damage, meaning water that's been leaking slowly for weeks or months, is almost universally excluded. Insurers call this "wear and tear" or "lack of maintenance," and they mean it. Claims are often denied when evidence suggests a leak has been slow and prolonged. For example, mineral buildup and corrosion on a pipe fitting can indicate weeks or months of gradual water loss, even if the homeowner wasn't aware of it.
 
-This is the category where I've watched people get blindsided most often: a slow leak under a bathroom vanity that eventually warps the subfloor. The water damage is real and expensive. The claim gets denied. The homeowner is furious and brokenhearted. The policy language, if you go back and read it, actually supports the insurer's position.
+A common scenario involves a slow leak under a bathroom vanity that warps the subfloor. The water damage is real and expensive, but the claim gets denied because the policy language supports excluding gradual damage.
 
 ## What's Covered, What's Not, and the Gray Zones
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me be as specific as I can here, because vague summaries don't help you when you're actually filing a claim.
 
@@ -83,7 +81,7 @@ Some things worth doing:
 
 A water leak sensor placed under sinks, near the water heater, and behind the washing machine is a $15 to $25 investment that can catch a leak before it becomes a claim. (You can find them on Amazon; the site may earn a small commission if you buy through our links.) The [Insurance Institute for Business & Home Safety (IBHS)](https://ibhs.org/) has detailed home fortification and maintenance guides that include specific water intrusion prevention steps, and they're free.
 
-Maintain a home inventory. If you do have a covered water loss that damages personal property, your claim will move faster and settle higher if you have documentation. There are dedicated apps for this, including apps like Encircle and iDocuHome, and using one takes maybe two hours to photograph your belongings and store the records in the cloud. I've seen claims where the homeowner couldn't remember what was in a flooded storage room and lost thousands of dollars in settlement value as a result.
+Maintain a home inventory. If you do have a covered water loss that damages personal property, your claim will move faster and settle higher if you have documentation. There are dedicated apps for this, including apps like Encircle and iDocuHome, and using one takes maybe two hours to photograph your belongings and store the records in the cloud. Without documentation, homeowners may struggle to remember what was damaged in a flooded area and lose thousands of dollars in settlement value.
 
 Also: know where your main water shutoff is. Right now. Go find it if you don't. A burst pipe in winter can dump hundreds of gallons into your home in the time it takes to find a shutoff. This is the thing every plumber tells you and most people ignore.
 
@@ -91,7 +89,7 @@ Also: know where your main water shutoff is. Right now. Go find it if you don't.
 
 When you file a water damage claim, an adjuster gets assigned. Depending on the severity, it might be a desk adjuster handling it remotely, or a field adjuster who actually comes to your home. They're looking for evidence of when and how the damage occurred, whether it qualifies as sudden and accidental, whether you took reasonable steps to prevent further damage after discovering it (most policies require this), and whether any exclusions apply.
 
-One thing that trips people up: your duty to mitigate. Once you know about water damage, you're expected to take reasonable steps to stop it from getting worse. That might mean turning off the water supply, calling a mitigation company to extract standing water, or tarping a damaged roof. If you don't, the insurer can reduce your claim payout for the portion of damage they argue resulted from your inaction. I've seen this applied aggressively on claims where homeowners waited several days before calling anyone.
+One thing that trips people up: your duty to mitigate. Once you know about water damage, you're expected to take reasonable steps to stop it from getting worse. That might mean turning off the water supply, calling a mitigation company to extract standing water, or tarping a damaged roof. If you don't, the insurer can reduce your claim payout for the portion of damage they argue resulted from your inaction. This can be applied aggressively, especially when homeowners wait several days before taking action.
 
 Worked example: A homeowner in Minnesota discovered water in his basement after a pipe froze and burst. He was out of town and didn't find out for four days. By the time mitigation crews arrived, mold had started to develop. The insurer covered the structural water damage: $22,000. But they reduced the mold remediation claim, originally $11,000, by 40% citing delayed mitigation. Final mold payout: $6,600. Action taken: the homeowner contested the reduction and ultimately settled at $8,900. But the delay cost him real money.
 
@@ -104,7 +102,6 @@ Worked example: A homeowner in Minnesota discovered water in his basement after 
 - HO-3 Special Form Policy Language (ISO standard form): The Insurance Services Office standard policy form that most HO-3 policies are based on, available through licensed agents for review.
 
 ---
-
 
 ---
 

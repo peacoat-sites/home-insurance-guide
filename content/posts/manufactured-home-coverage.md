@@ -36,25 +36,23 @@ Here's what most people don't realize: a manufactured home isn't just a "cheaper
 
 Because of the construction differences (lighter framing, different anchoring systems, more wind vulnerability in many cases), insurers price and write manufactured home policies differently. The coverage form is typically called an MH policy or a "Mobilehome Policy" depending on the carrier, and it has its own endorsements, exclusions, and quirks that standard homeowner policies don't share.
 
-If you try to insure a manufactured home on a standard HO-3, one of two things happens: either the carrier catches it at underwriting and corrects it, or nobody catches it and you're uninsured in any meaningful way when a claim comes in. I've seen the second scenario more times than I care to count.
+If you try to insure a manufactured home on a standard HO-3, one of two things happens: either the carrier catches it at underwriting and corrects it, or nobody catches it and you're uninsured in any meaningful way when a claim comes in. This second scenario happens more often than many realize.
 
 ## What a Manufactured Home Policy Actually Covers (and What It Doesn't)
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A well-written manufactured home policy covers the structure itself, your personal property, liability, and additional living expenses if you're displaced by a covered loss. That part looks familiar. But there are specific gaps that catch owners off guard.
 
 **Wind and hail.** This is the big one. Many manufactured home policies in high-risk states include wind and hail exclusions as standard, or they charge a separate, significantly higher deductible for those perils. If you're in tornado country or along the Gulf Coast, read this section of your policy first. Don't assume wind is covered at the same deductible as fire.
 
-**Replacement cost vs. actual cash value.** Older manufactured homes depreciate fast. A policy that pays actual cash value (ACV) on a 1998 double-wide might yield $18,000 after depreciation on a home that costs $75,000 to replace. I have seen this specific scenario play out, and the homeowner thought they were fully covered. They weren't. Always ask explicitly whether you're getting replacement cost coverage, and if you are, verify whether it applies to both the structure and contents.
+**Replacement cost vs. actual cash value.** Older manufactured homes depreciate fast. A policy that pays actual cash value (ACV) on a 1998 double-wide might yield $18,000 after depreciation on a home that costs $75,000 to replace. A homeowner with this type of policy might believe they're fully covered, but they may not be. Always ask explicitly whether you're getting replacement cost coverage, and if you are, verify whether it applies to both the structure and contents.
 
 **The HUD/title issue.** If your home has been titled as real property (meaning it's on a permanent foundation and the title has been retired through your county), some insurers will write it on a standard homeowner form. If it's still on personal property title, you need the manufactured home form. This distinction trips people up constantly because it affects both your insurance and your mortgage options.
 
 **Trip collision coverage.** If your home was recently transported or if you ever move it, standard coverage won't apply during transit. Some manufactured home policies offer an endorsement for this. Most owners don't know to ask.
 
-One specific scenario I think about: A reader emailed me in early 2025 after her family purchased a 2003 manufactured home in central Texas. They had a policy in place. Thunderstorm came through, significant roof damage. When the adjuster came out, the payout offer was based on ACV with a 2% wind deductible on the insured value. On a $65,000 insured home, that's a $1,300 deductible before depreciation even factors in. Scenario → she called her agent to dispute the depreciation schedule → after documentation showing recent roof upgrades, they recovered about $4,200 more than the initial offer, but it took six weeks of back-and-forth.
+For example, suppose a manufactured home is insured for $65,000 under an ACV policy with a 2% wind deductible. A storm causes roof damage, and the adjuster's initial payout is based on ACV with a $1,300 deductible before depreciation. Documentation of recent roof upgrades could recover roughly $4,200 more than the initial offer, though the dispute process can take around six weeks of back-and-forth.
 
 That's not unusual. That's Tuesday.
 
@@ -97,7 +95,6 @@ One more worked example worth knowing: A couple in Florida purchased a 1997 manu
 - Consumer Federation of America, "Protecting Manufactured Housing Consumers" report: Analysis of coverage gaps and policyholder outcomes in manufactured home insurance markets
 
 ---
-
 
 ---
 

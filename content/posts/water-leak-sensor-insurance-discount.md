@@ -79,7 +79,7 @@ You can do that for under $100 total with basic passive sensors. WiFi-connected 
 
 If you want to go further, pair your sensor setup with a [document safe](https://www.amazon.com/s?k=fireproof+waterproof+document+safe&tag=contentportfo-20) where you keep printed copies of your policy and a home inventory. Speaking of home inventory: if you don't have one, a free app like Encircle or the National Association of Insurance Commissioners' free app makes this way less painful than it sounds. (Disclosure: commission link above.)
 
-One thing worth doing before you buy any sensor: check whether your insurer requires a specific brand or certification. A few carriers have started specifying devices that integrate with a central monitoring service rather than just a standalone app alert. Buying the wrong device and then trying to claim a discount is a frustrating loop I've seen homeowners go through more than once.
+One thing worth doing before you buy any sensor: check whether your insurer requires a specific brand or certification. A few carriers have started specifying devices that integrate with a central monitoring service rather than just a standalone app alert. Buying the wrong device and then trying to claim a discount can create a frustrating situation, so verify compatibility before purchasing.
 
 ## Sources & References
 

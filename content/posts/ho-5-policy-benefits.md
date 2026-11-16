@@ -31,31 +31,27 @@ If you're reading this because you're shopping for coverage, or because you just
 
 The HO-5 is the broadest standard homeowner policy form available. It applies open perils coverage to both your dwelling AND your personal property. That second part is where the real difference lives, and I'll explain why in a moment.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">HO-5 covers personal property on an open perils basis, the only standard form to do so.</li><li style="margin:5px 0">Under open perils, the insurer must prove a loss is excluded; under named perils, you must prove it's covered.</li><li style="margin:5px 0">HO-5 typically costs 10-15% more than an HO-3, but denial rates on personal property claims are measurably lower.</li><li style="margin:5px 0">Replacement cost value (RCV) on contents is standard in most HO-5 policies, not an add-on.</li><li style="margin:5px 0">High-value items (jewelry, art, electronics) benefit most from HO-5's broader coverage trigger.</li></ul></div>
-
 
 ## The Burden of Proof Shift Nobody Talks About
 
-Here's the thing that took me years inside a claims department to fully appreciate. The practical difference between an HO-3 and an HO-5 isn't written in the coverage section. It's hidden in who carries the burden when something goes wrong.
+The practical difference between an HO-3 and an HO-5 isn't written in the coverage section. It's hidden in who carries the burden when something goes wrong.
 
 With a named perils policy on personal property (which is what the HO-3 gives you for contents), you have to demonstrate that the cause of your loss was one of the listed perils: fire, theft, windstorm, and so on. If you can't clearly establish the cause, your claim can be denied. I watched this happen constantly with mysterious disappearances, with cracked jewelry, with electronics that just stopped working after a storm. The adjuster's job, frankly, was to find the gap.
 
 With an HO-5, the burden flips. The insurer has to point to a specific exclusion in the policy to deny your claim. That's not a small thing. It changes the entire claims negotiation dynamic. According to the Insurance Information Institute, open perils policies result in fewer coverage disputes on personal property claims because the exclusions are finite and specific, while named perils policies leave a lot of gray area about whether a cause qualifies.
 
-I'll be honest: when I was on the adjuster side, HO-5 claims took longer to deny because we actually had to work harder to find the applicable exclusion. That's the experience you're paying for.
+HO-5 claims often take longer to deny because insurers have to work harder to find the applicable exclusion. That's what the higher premium covers.
 
 ## What "Open Perils" Actually Covers (and What It Doesn't)
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 People sometimes think "open perils" means "everything." It doesn't. What it means is: everything except what's specifically excluded. Those exclusions are real and they matter.
 
 Standard HO-5 exclusions include flood (always), earthquake (almost always), intentional acts, normal wear and tear, mechanical breakdown, and government action. Depending on the insurer and the state, you might also see exclusions for mold, pet damage, and power failure. Your state's insurance department (findable through the [National Association of Insurance Commissioners' state map](https://www.naic.org/state_web_map.htm)) can tell you what endorsements are available in your market to patch some of those gaps.
 
-What the HO-5 DOES cover that the HO-3 often misses on personal property: mysterious disappearance (a ring gone from the bathroom, no known cause), accidental breakage of fragile items in many policy versions, and losses where the cause simply can't be determined. That last one is more common than people realize. A reader emailed me last spring about a $4,200 camera lens that was fine on Monday and cracked on Tuesday, no visible impact, no known event. Under an HO-3, that claim was shakiness. Under an HO-5, the insurer would need a specific exclusion to deny it.
+What the HO-5 DOES cover that the HO-3 often misses on personal property: mysterious disappearance (a ring gone from the bathroom, no known cause), accidental breakage of fragile items in many policy versions, and losses where the cause simply can't be determined. That last one is more common than people realize. For example, a camera lens could be fine one day and cracked the next with no visible impact or known event. Under an HO-3, that claim could face denial. Under an HO-5, the insurer would need a specific exclusion to deny it.
 
 A few worked examples show how the distinction plays out:
 
@@ -73,9 +69,7 @@ The premium difference between an HO-3 and HO-5 is real but not dramatic. Indust
 
 Whether that math works in your favor depends heavily on what you own. If your personal property is mostly furniture, standard appliances, and clothing, the gap between forms matters less. If you own high-end electronics, instruments, art, jewelry, or collections of any kind, the HO-5 difference can pay for itself on a single claim.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">HO-3 vs. HO-5: Personal property coverage breadth by loss type</div><div class="sc-row"><span class="sc-label">Theft</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">90 % of cla</span></div><div class="sc-row"><span class="sc-label">Fire/Smoke</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">95 % of cla</span></div><div class="sc-row"><span class="sc-label">Mysterious disappearance</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">15 % of cla</span></div><div class="sc-row"><span class="sc-label">Accidental breakage (fragile)</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">20 % of cla</span></div><div class="sc-row"><span class="sc-label">Unknown cause</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">25 % of cla</span></div><div class="sc-src">Source: Insurance Information Institute and industry claims data</div></div>
-
 
 (The chart above reflects approximate HO-3 named perils [personal property coverage](/homeowners-insurance-personal-property-coverage/) rates by loss type. HO-5 open perils coverage would approach 85-95% across all categories shown, minus applicable exclusions.)
 
@@ -90,7 +84,7 @@ Whether that math works in your favor depends heavily on what you own. If your p
 | Relative annual premium | Baseline | ~10-15% higher |
 | Best fit | Average-risk households | High-value contents, collectors |
 
-The valuation row matters more than most people check. Many HO-3 policies default to [actual cash value](/actual-cash-value-explained/) (ACV) on personal property, meaning depreciation applies. A 4-year-old laptop worth $1,800 new might pay out $600 under ACV. The HO-5 almost universally defaults to replacement cost value (RCV) on contents, which I consider one of its strongest practical advantages. Always verify this on your declarations page; I've seen policies marketed as HO-5 with ACV contents riders buried in the endorsement stack, as of July 2026 this still shows up occasionally with certain regional carriers.
+The valuation row matters more than most people check. Many HO-3 policies default to [actual cash value](/actual-cash-value-explained/) (ACV) on personal property, meaning depreciation applies. A 4-year-old laptop worth $1,800 new might pay out $600 under ACV. The HO-5 almost universally defaults to replacement cost value (RCV) on contents, one of its strongest practical advantages. Always verify this on your declarations page; policies marketed as HO-5 occasionally have ACV contents riders buried in the endorsement stack with certain regional carriers.
 
 ## Who Actually Needs an HO-5
 
@@ -110,7 +104,6 @@ A practical step I always recommend: before renewing, run a home inventory. Seri
 - III Homeowners Insurance Report (current edition): Annual data on average premiums by state and policy type.
 
 ---
-
 
 *Photo: [Expect Best](https://www.pexels.com/@expect-best-79873) via Pexels*
 

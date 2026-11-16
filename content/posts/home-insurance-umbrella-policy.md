@@ -51,7 +51,7 @@ You should seriously consider an umbrella if any of these apply:
 - Your net worth, including home equity and retirement accounts, exceeds your homeowner's liability limit
 - You rent out property on platforms like Airbnb, even occasionally
 
-That last one trips people up constantly. In my experience reviewing claims, short-term rental activity was one of the most common ways people unknowingly voided coverage. Your homeowner's policy may treat paid guests as business use, and your umbrella may follow the same exclusion. Ask explicitly before assuming you're covered.
+That last one trips people up constantly. Short-term rental activity is one of the most common ways people unknowingly void coverage. Your homeowner's policy may treat paid guests as business use, and your umbrella may follow the same exclusion. Ask explicitly before assuming you're covered.
 
 If you have minimal assets and no high-risk activities, an umbrella is less urgent. But liability judgments can attach to future income, not just current assets. That matters if you're building wealth and expect to have significantly more in five years.
 
@@ -78,7 +78,7 @@ Coverage is broader than most people expect. Narrower than most people assume.
 - Owned aircraft in most cases
 - Contracts where you've assumed another party's liability
 
-The exclusions list is where experienced adjusters earn their keep. I've seen claims denied because someone operated a small Etsy business from home and the liability was deemed "business-related." I've seen dog bite claims excluded because the specific breed was listed on an exclusion endorsement the policyholder never read. Read your exclusions before you bind coverage, not after a loss.
+The exclusions list is where experienced adjusters earn their keep. For example, claims can be denied if you operate a business from home and the liability is deemed business-related, or if your dog's breed appears on an exclusion endorsement you didn't know about. Read your exclusions before you bind coverage, not after a loss.
 
 ## How Much Coverage You Actually Need
 

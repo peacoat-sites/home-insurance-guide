@@ -41,7 +41,7 @@ Here's where people get a nasty surprise. Loss of use only kicks in when the rea
 
 What standard policies usually cover: fire, smoke, windstorm, lightning, burst pipes from sudden and accidental causes, vandalism, and certain types of water damage from inside the home. Check your [declarations page](/insurance-policy-declarations-page/) for the section listing covered perils. If your policy says "open perils" or "all-risk," it covers everything except what's explicitly excluded. If it says "named perils," it covers only what's listed.
 
-I've seen people assume their displacement would be covered, then discover the underlying damage wasn't. Loss of use coverage can't stand alone. No coverage for the damage means no coverage for the expenses it creates.
+A common mistake is assuming displacement would be covered, then discovering the underlying damage wasn't. Loss of use coverage can't stand alone. No coverage for the damage means no coverage for the expenses it creates.
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

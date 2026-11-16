@@ -24,13 +24,11 @@ I spent years watching homeowners get blindsided by premium increases that came 
 
 Starting July 1, 2026, your insurer must give you a written wildfire risk score, explain the model behind it, account for any property-specific mitigation you've done (think Class A roofing, ember-resistant vents, defensible space), and give you a formal appeals process if you think the score is wrong. According to Premier Mountain Insurance's breakdown of the law, this is the first time Colorado homeowners have had a legal mechanism to challenge the black-box calculations that have been quietly driving premiums for years.
 
-What most people don't realize is that these models often use satellite imagery and parcel data that hasn't been updated in years. I've seen properties flagged as high-risk even after significant vegetation clearing, because nobody told the model. Under HB 1182, you now have standing to push back with documentation. That's not a small thing.
+These models often rely on satellite imagery and parcel data that hasn't been updated in years. A property could be flagged as high-risk even after significant vegetation clearing, since the model may not reflect recent changes. Under HB 1182, you now have standing to push back with documentation.
 
 ## The Numbers Explain Why This Fight Matters
 
 > **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Colorado premiums are already running more than $1,000 above the national average of $2,948 per year. But the averages don't capture the real pain. One homeowner near Idaho Springs watched their renewal go from $4,677 to $34,600. That's a 740% increase in a single cycle. Not a typo.
 
@@ -43,9 +41,7 @@ The Colorado Division of Insurance has done the work of breaking down what's act
 
 Hail, not wildfire, is the dominant cost driver across much of the state. That matters because Colorado's new Senate Bill 155, the Strengthen Colorado Homes Enterprise, pairs with HB 1182 in a way that's easy to miss. SB 155 creates a grant program funded by a 0.5% fee on insurer premiums to help homeowners harden roofs against both hail and wildfire damage. If you've been putting off a roof upgrade because of the cost, this program deserves your attention before the grant pipeline fills up.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Premium impact by risk factor (Colorado, midpoint estimates)</div><div class="sc-row"><span class="sc-label">Hail (midpoint)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">40%</span></div><div class="sc-row"><span class="sc-label">Wildfire (midpoint)</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">13%</span></div><div class="sc-src">Source: Colorado Division of Insurance</div></div>
-
 
 ## The Moratorium Problem Nobody's Talking About Enough
 

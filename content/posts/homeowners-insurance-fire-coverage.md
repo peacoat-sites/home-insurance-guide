@@ -69,7 +69,7 @@ In my 14 years reviewing claims, the post-fire conversations I dreaded most were
 
 **High-value personal property sublimits.** Most policies cap coverage for specific categories of belongings. Jewelry is often limited to $1,500 for theft and fire combined. Fine art, collectibles, musical instruments, and firearms all have common sublimits. If you have items in these categories worth more than those caps, you need a scheduled personal property endorsement.
 
-**The coverage limit itself.** If it costs $480,000 to rebuild your home and your dwelling coverage limit is $350,000, you're underinsured by $130,000. This is the most common and most painful gap I've seen. Policies don't automatically update to reflect construction cost inflation. An [extended replacement cost endorsement](/home-insurance-extended-replacement-cost/), which pays a percentage above your policy limit if costs exceed it, is something every homeowner should at least ask about.
+**The coverage limit itself.** If it costs $480,000 to rebuild your home and your dwelling coverage limit is $350,000, you're underinsured by $130,000. This is the most common and most painful gap in home insurance coverage. Policies don't automatically update to reflect construction cost inflation. An [extended replacement cost endorsement](/home-insurance-extended-replacement-cost/), which pays a percentage above your policy limit if costs exceed it, is something every homeowner should at least ask about.
 
 ---
 
@@ -79,7 +79,7 @@ The days immediately after a fire are disorienting and exhausting. Knowing what 
 
 **Step 1: Notify your insurer immediately.** Call the claims line as soon as it's safe to do so, ideally within 24 hours. Late notification can complicate your claim even if coverage applies. Get a claim number in writing.
 
-**Step 2: Document everything before any cleanup.** Photograph and video every room, every item, every area of visible damage. If a contractor or cleanup crew starts work before documentation is complete, you lose evidence that supports your claim. I've seen legitimate claims reduced simply because there was no proof of the pre-loss condition.
+**Step 2: Document everything before any cleanup.** Photograph and video every room, every item, every area of visible damage. If a contractor or cleanup crew starts work before documentation is complete, you lose evidence that supports your claim. Legitimate claims can be reduced without proof of the pre-loss condition.
 
 **Step 3: Secure the property.** Your policy requires you to prevent further damage. Board up openings, tarp a damaged roof, take reasonable steps. Save every receipt. These mitigation costs are generally reimbursable.
 

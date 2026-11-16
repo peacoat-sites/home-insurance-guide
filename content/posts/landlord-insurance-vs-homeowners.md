@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 A landlord I'll call Dennis called our advocacy line a few years back, furious. He'd been [renting out a duplex](/home-insurance-for-investment-property/) for six years, had a standard homeowners policy the whole time, and when a kitchen fire gutted the upstairs unit, his insurer denied the claim. The reason: the property wasn't owner-occupied, which meant the homeowners policy was void. He lost over $90,000 in repairs and rental income. His insurer hadn't warned him. His agent hadn't caught it. He just assumed he was covered.
 
-I've seen versions of this story more times than I can count. It's one of the most expensive mistakes property owners make, and it happens because the difference between homeowners insurance and landlord insurance sounds technical and minor until it isn't.
+This is one of the most common and costly mistakes property owners make. It's one of the most expensive mistakes property owners make, and it happens because the difference between homeowners insurance and landlord insurance sounds technical and minor until it isn't.
 
 ## What each policy is actually designed to do
 
@@ -55,9 +55,7 @@ The big four differences:
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's the thing I'd push back on if you told me "my agent handles all that": agents make mistakes, and the burden of having correct coverage ultimately lands on you.
+Agents make mistakes, and the burden of having correct coverage ultimately lands on you.
 
 What most people don't realize is that telling your homeowners insurer you're renting the property doesn't automatically upgrade your policy. Some insurers will quietly cancel you if they find out the property isn't owner-occupied, rather than proactively converting you to the right product. Others will keep accepting your premium and deny the claim later. Neither outcome is acceptable, but both are legal in most states.
 
@@ -83,7 +81,6 @@ One more genuinely useful thing: keep a home inventory of everything inside the 
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -97,7 +94,6 @@ One more genuinely useful thing: keep a home inventory of everything inside the 
 - [NAIC's state insurance department directory](https://www.naic.org/state_web_map.htm)
 - [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
 - [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

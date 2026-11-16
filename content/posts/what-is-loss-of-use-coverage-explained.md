@@ -36,7 +36,7 @@ Here's what it is, straight: loss of use coverage pays the *difference* between 
 
 Loss of use only kicks in when the underlying damage is covered. Seems obvious until your basement floods from groundwater and you realize flood damage isn't covered under a standard HO-3 policy. Same with earthquakes. Same with most sewer backups unless you specifically added that endorsement.
 
-I've seen this go sideways more times than I can count. Homeowner files a loss of use claim after a pipe bursts, insurer discovers the pipe had been leaking slowly for months, labels it "gradual deterioration" instead of sudden damage, and suddenly neither the repair nor the hotel bills are covered. The coverage exists. The trigger just wasn't there.
+A common pitfall: a homeowner files a loss of use claim after a pipe bursts, but the insurer discovers the pipe had been leaking slowly for months, labels it "gradual deterioration" instead of sudden damage, and denies coverage for both the repair and hotel bills. The coverage exists. The trigger just wasn't there.
 
 The categories that typically qualify: fire, windstorm, lightning, vandalism, and sudden accidental water discharge (that burst pipe, not the slow leak). If you're in a high-risk area, check whether your policy explicitly covers the perils you're most likely to face.
 
@@ -45,8 +45,6 @@ The categories that typically qualify: fire, windstorm, lightning, vandalism, an
 ## The Math Most People Get Wrong
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Loss of use doesn't hand you a blank check for a Marriott suite. It covers "additional" expenses. Meaning expenses above your normal cost of living.
 
@@ -99,7 +97,7 @@ Here's where the policy language gets creative. "Additional living expenses" typ
 
 What it doesn't cover: your mortgage (you still pay that), your regular utilities at the damaged home, and anything you'd have spent anyway. Some adjusters will try to exclude pet boarding costs. Push back with policy language. Most HO-3 policies include it under "additional living expenses" if the boarding is reasonably necessary.
 
-One thing I thought was reimbursable for years until I got corrected internally: the cost of meals eaten at your temporary housing. If you're cooking in a furnished apartment with a full kitchen, your grocery bill isn't "additional." If you're in a hotel without a kitchen, the restaurant meals above your normal food budget are. The distinction is real and adjusters will make it.
+A distinction worth knowing: the cost of meals eaten at your temporary housing. If you're cooking in a furnished apartment with a full kitchen, your grocery bill isn't "additional." If you're in a hotel without a kitchen, the restaurant meals above your normal food budget are. The distinction is real and adjusters will make it.
 
 ---
 
@@ -142,7 +140,6 @@ One more thing: notify your insurer immediately when you're displaced, before yo
 - NAIC Consumer's Guide to Home Insurance (2025 edition): Plain-language explanation of standard coverage categories and filing procedures
 
 ---
-
 
 ---
 

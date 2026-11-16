@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your tree just fell on your neighbor's fence. Or maybe their dead oak came down on your garage. Either way, you're standing in the yard staring at splintered wood wondering who pays for what, and you're probably getting two very different stories from two very different insurance agents.
 
-After 14 years of adjusting claims, I've seen this scenario play out hundreds of times. Here's what I'll tell you upfront: the rules are counterintuitive, widely misunderstood, and almost never explained clearly when you're buying your policy.
+The rules around liability coverage are counterintuitive, widely misunderstood, and almost never explained clearly when you're buying your policy.
 
 Let me fix that.
 
@@ -41,7 +41,7 @@ I tell people this is the hardest part to swallow, because it feels unfair. You 
 
 The negligence piece matters enormously. If you sent your neighbor a certified letter six months ago warning them about that rotting oak and they ignored it, you may have a legitimate liability claim against them. Keep documentation. Always. I'd genuinely recommend picking up a fireproof document safe like the [AmazonBasics Fireproof Document Bag](https://www.amazon.com/s?k=fireproof+document+bag) (the site may earn a commission on that link) to store certified mail receipts, photos, written warnings, anything that establishes a timeline.
 
-Without evidence of negligence, most adjusters (including me when I was still doing this work) will simply route the claim through the damaged party's own policy.
+Without evidence of negligence, most adjusters will simply route the claim through the damaged party's own policy.
 
 ## What Your Liability Coverage Actually Does
 
@@ -51,7 +51,7 @@ Your homeowner's liability coverage (the "Coverage E" section of a standard HO-3
 
 Your retaining wall collapses and crushes your neighbor's car. An engineer determines the wall was poorly maintained. Your liability coverage steps in. Most policies carry $100,000 in liability coverage. Many people would be better off with $300,000 or even a separate umbrella policy layered on top, especially if they have significant assets. The [Insurance Information Institute](https://www.iii.org/) has solid guidance on how to size liability limits to your actual net worth, and it's worth reading before your next renewal.
 
-What liability coverage won't do: it won't cover intentional acts. It also won't cover damage to your own property. And it won't substitute for a neighborly conversation. I've watched small claims spiral into litigation over $3,000 of fence damage because two neighbors stopped talking and let lawyers do it instead.
+What liability coverage won't do: it won't cover intentional acts. It also won't cover damage to your own property. And it won't substitute for a neighborly conversation. Small claims can spiral into litigation when communication breaks down and legal costs mount.
 
 One thing I see people get confused about: [your liability coverage](/home-insurance-swimming-pool-liability/) follows you personally, not just your home. If you're doing yardwork and accidentally throw a rock through their window with your mower, that's a liability situation too, not just a property damage claim against your own dwelling coverage.
 
@@ -94,7 +94,6 @@ Most people don't spend five minutes thinking about neighbor damage liability un
 - [Insurance Information Institute](https://www.iii.org/)
 - [NAIC's state map](https://www.naic.org/state_web_map.htm)
 - [Encircle](https://www.amazon.com/s?k=home+inventory+log+book)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

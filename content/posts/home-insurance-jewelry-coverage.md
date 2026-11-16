@@ -51,7 +51,7 @@ The right solution for jewelry worth more than a few hundred dollars is a [sched
 
 What you get in exchange is significant. Scheduled jewelry is typically covered on an "open perils" basis, meaning everything is covered unless specifically excluded. That includes mysterious disappearance. It also usually comes with no deductible, worldwide coverage (so your ring is covered in Paris, not just in your house), and coverage at the agreed or appraised value rather than whatever depreciated amount an adjuster might assign.
 
-The cost is genuinely not bad. Many carriers charge somewhere in the range of $1 to $2 per $100 of appraised value annually, though this varies meaningfully by location, the type of jewelry, and carrier. A $10,000 engagement ring might run you somewhere around $100 to $200 per year to schedule properly. I've seen people balk at that number, then make a claim on an unscheduled ring for $1,500 when the ring was worth $8,000.
+The cost is genuinely not bad. Many carriers charge somewhere in the range of $1 to $2 per $100 of appraised value annually, though this varies meaningfully by location, the type of jewelry, and carrier. A $10,000 engagement ring might run you somewhere around $100 to $200 per year to schedule properly.
 
 To get a piece scheduled, you'll need an appraisal, typically from a certified gemologist. The Gemological Institute of America (GIA) maintains a directory of credentialed appraisers if you need a starting point. Keep the appraisal document somewhere fireproof, like a document safe at home.
 
@@ -108,7 +108,6 @@ Scheduled coverage is an endorsement added to your homeowner policy. You manage 
 - [your state's insurance department](https://www.naic.org/state_web_map.htm)
 - [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20)
 - [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
-
 
 Mysterious disappearance means the piece went missing with no known cause: a ring slipped off at the beach, an earring fell down a drain, a necklace clasp broke and the chain vanished. Your base policy doesn't cover this unless you've added scheduled coverage or a mysterious disappearance endorsement.
 

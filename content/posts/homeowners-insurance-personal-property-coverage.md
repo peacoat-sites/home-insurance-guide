@@ -102,7 +102,7 @@ Here's how to build one:
 
 **Update it annually.** Set a reminder every January. Add new purchases, remove items you no longer own.
 
-I've seen policyholders leave thousands of dollars on the table simply because they couldn't document their losses adequately. Adjusters aren't mind readers. Your inventory is your evidence.
+Policyholders often leave thousands of dollars on the table by failing to document their losses adequately. Adjusters aren't mind readers. Your inventory is your evidence.
 
 If you want to understand how the claims process works from start to finish once a loss happens, the [homeowners insurance claim process](/homeowners-insurance-claim-process/) guide is worth reading.
 

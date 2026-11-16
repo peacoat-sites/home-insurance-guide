@@ -35,7 +35,7 @@ That's why searching for "best homeowners insurance companies" usually fails. Mo
 
 Before anything else, verify that an insurer can actually pay claims, especially after a large regional disaster. That's where AM Best ratings come in. They grade insurers on financial stability, and you want an "A" rating or better. A company rated "B+" might charge less, but if a major hurricane hits and thousands of claims arrive at once, financially weaker insurers can become overwhelmed or insolvent.
 
-The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes a complaint index for every licensed insurer in the country. The average is 1.0. A company scoring 2.5 gets more than twice the expected number of complaints relative to market share. That number tells you far more about actual claims experience than any TV commercial. A company with an AM Best A+ rating and a NAIC complaint ratio of 3.0? I wouldn't trust it with my home.
+The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes a complaint index for every licensed insurer in the country. The average is 1.0. A company scoring 2.5 gets more than twice the expected number of complaints relative to market share. That number tells you far more about actual claims experience than any TV commercial. A company with an AM Best A+ rating and a NAIC complaint ratio of 3.0 warrants caution despite its financial strength rating.
 
 Look up both numbers before requesting a single quote.
 
@@ -105,7 +105,7 @@ Captive agents work for a single company and can only offer that company's produ
 
 Independent agents work with multiple carriers and can genuinely shop your coverage. They're not perfect either. They have carrier relationships that may influence recommendations. But they're far more likely to surface options you wouldn't find alone.
 
-[Your state's insurance department](https://www.naic.org/state_web_map.htm) can tell you whether an agent or company is licensed and whether complaints or disciplinary actions exist against them. Use it. It's free, takes five minutes, and I've seen people avoid genuinely problematic insurers this way.
+[Your state's insurance department](https://www.naic.org/state_web_map.htm) can tell you whether an agent or company is licensed and whether complaints or disciplinary actions exist against them. Use it. It's free and takes five minutes.
 
 Shopping for homeowners insurance with only price and brand reputation in mind is how people get blindsided at exactly the moment they need help most. The company that answers your call at 2 a.m. after a fire, sends a fair adjuster quickly, and pays your claim without months of fighting is worth more than any five-star review or low introductory rate. Ask the hard questions before you buy. Read the exclusions before you sign. If you're ever uncertain, consult a licensed public adjuster or independent insurance attorney. Your home is likely your largest asset. The policy protecting it deserves more than a five-minute price comparison.
 

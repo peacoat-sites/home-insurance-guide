@@ -41,7 +41,7 @@ An **unoccupied** home still contains furniture and [personal property](/homeown
 
 The [Insurance Information Institute](https://www.iii.org/) notes that vacant properties face substantially elevated risk across fire, water damage, and liability compared to occupied homes. That's not marketing language. In my 14 years reviewing claims, vacant property losses were almost always more severe than comparable losses in occupied homes, simply because nobody caught the problem early.
 
-Here's where it gets tricky: your policy's definition of "vacant" may not match the dictionary's. I've seen policies that consider a home "vacant" if it lacks working utilities, even if the owners left furniture behind. Read your actual policy language, not what the agent summarizes over the phone. Ask for the definitions section specifically. The question to ask: "How does this policy define vacant, and what triggering conditions apply to the vacancy clause?"
+Your policy's definition of "vacant" may not match the dictionary's. Some policies consider a home "vacant" if it lacks working utilities, even if the owners left furniture behind. Read your actual policy language, not what the agent summarizes over the phone. Ask for the definitions section specifically. The question to ask: "How does this policy define vacant, and what triggering conditions apply to the vacancy clause?"
 
 ## Why Standard Coverage Fails (And When)
 
@@ -60,7 +60,7 @@ The specific exclusions that kick in fastest are usually:
 
 Fire and structural damage from named perils typically remain covered longer, but even that depends on the carrier. I've reviewed claims where a homeowner assumed [fire coverage](/homeowners-insurance-fire-coverage/) continued during a six-month vacancy and was badly wrong.
 
-Worked example: A reader in Phoenix emailed me last spring after inheriting her mother's home. The estate took nine months to settle. During that time, a pipe failed in the second bathroom. Damage estimate from the contractor: $34,000. Her claim was denied because the standard policy had a 60-day vacancy clause, and the home had been unoccupied for seven months. She'd never been told to get a separate product. Her agent never flagged it. That $34,000 came out of the estate.
+For example, suppose an inherited home sits vacant during a nine-month estate settlement. If a pipe fails during that time, a standard policy with a 60-day vacancy clause would deny a $34,000 damage claim. Without advance notice about vacancy products, owners bear the full cost.
 
 ## What Unoccupied and Vacant Home Insurance Actually Covers
 
@@ -106,7 +106,7 @@ The factors that consistently lower premiums: regular property inspections (many
 
 I used to review inspection checklists submitted by policyholders trying to qualify for lower rates. The ones that worked weren't elaborate. Dated photos of the main shutoffs, the electrical panel, and the entry doors. A signed log showing someone physically walked the property every 30 days. That documentation shifted the carrier's risk calculation visibly.
 
-The research on exactly how much these steps reduce premiums is mixed. I've seen carriers discount 5% for a monitored alarm; I've seen others ignore it entirely. Ask each carrier specifically what credits they offer and what documentation they need. Don't assume.
+Premium discounts for security measures vary by carrier. Some offer 5% for a monitored alarm; others don't. Ask each carrier specifically what credits they offer and what documentation they need. Don't assume.
 
 Worked example: A renovation project in Austin ran four months over schedule. The homeowner had a builder's risk policy, but the contractor paused work for six weeks while waiting on materials. The insurer considered that pause a vacancy trigger. The homeowner hadn't hired anyone to do regular inspections. When a burst pipe caused $19,000 in damage, the carrier partially denied the claim, paying $11,200 based on a shared-fault argument around the inspection gap. A $150 monthly property management check-in would have cost $900 over six months and almost certainly would have caught the problem and preserved the full claim.
 

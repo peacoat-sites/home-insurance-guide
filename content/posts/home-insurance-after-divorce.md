@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most people going through divorce are focused on the house itself. Who keeps it. Who buys out who. What the mortgage looks like going forward. What almost nobody thinks about until something goes wrong: the homeowner's insurance policy quietly sitting in the background, still written the way it was when two people lived there together.
 
-I'll be honest, I didn't think much about this either until I started seeing claim denials pile up in a specific pattern during my time as an adjuster. Divorcing couples would split up, one person would stay in the house, a pipe would burst six months later, and suddenly we're untangling a coverage mess that nobody set up intentionally. The claims weren't denied because of fraud. They were denied, or seriously complicated, because the policy wasn't updated to match reality.
+A common pattern emerges when divorcing couples don't update their policies. One spouse stays in the house, a pipe bursts months later, and the insurer faces a coverage mess nobody created intentionally. The claims often aren't denied because of fraud. They're denied or seriously complicated because the policy wasn't updated to match the new situation.
 
 This is more common than the industry likes to advertise.
 
@@ -36,7 +36,7 @@ This is more common than the industry likes to advertise.
 
 Here's what surprises most people when I explain it: a homeowner's policy is tied to a person and a property. Both. When you and your spouse split, the insurable interest question becomes genuinely complicated, and different insurers handle it differently.
 
-If your policy listed both spouses as named insureds, your ex-spouse technically retains rights under that policy even after moving out. That sounds like a minor legal technicality until you realize it means your ex could potentially file a claim, receive a payout, or make decisions about coverage without your involvement. I've seen this create real friction in post-divorce disputes. One case I reviewed involved a fire that occurred after a couple separated but before the divorce was finalized. Both spouses filed competing claims about who should receive the payout for personal property. The insurer was caught in the middle because nobody had thought to update the named insureds.
+If your policy listed both spouses as named insureds, your ex-spouse technically retains rights under that policy even after moving out. That sounds like a minor legal technicality until you realize it means your ex could potentially file a claim, receive a payout, or make decisions about coverage without your involvement. This can create friction in post-divorce disputes. For example, if a fire occurs after separation but before the divorce is finalized, both spouses might file competing claims about who should receive the payout for personal property. The insurer ends up caught in the middle because nobody updated the named insureds.
 
 The National Association of Insurance Commissioners (NAIC) has noted that life changes like divorce are exactly the moment when policyholders should contact their insurer directly, because coverage gaps created by life transitions are among the most common sources of unexpected claim issues.
 
@@ -44,13 +44,11 @@ The National Association of Insurance Commissioners (NAIC) has noted that life c
 
 > **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This isn't a situation where you wait until the divorce is final. You need to act as soon as you know who's staying in the house.
 
 The spouse keeping the home needs to contact the insurer immediately and clarify the named insured situation. Get your name on the policy as the primary. If the current policy is in your ex's name only, you may need to start a [fresh policy](/home-insurance-after-refinancing/). Don't assume you're covered just because you're living there.
 
-The spouse who leaves needs to understand something critical: the day you move out, your personal property inside that house is likely no longer covered by the homeowner's policy. Renters insurance for your new place is not optional. I've had readers email me genuinely shocked to learn that their laptops, clothing, and furniture sitting in a storage unit after the move were in a coverage gap while they "figured things out."
+The spouse who leaves needs to understand something critical: the day you move out, your personal property inside that house is likely no longer covered by the homeowner's policy. Renters insurance for your new place is not optional. Personal property in storage after a move often falls into a coverage gap during the transition.
 
 A few other pressure points worth addressing directly:
 
@@ -62,7 +60,7 @@ The mortgage lender. If there's a mortgage, your lender has a legal interest in 
 
 ## The Personal Property Problem Nobody Talks About
 
-I thought I understood this part of home insurance pretty well when I was adjusting claims. Then I reviewed a post-divorce claim where a woman was living in the marital home after separation and filed a claim for personal property stolen during a break-in. The policy was still technically in place. But the insured value for personal property was set at 50% of the dwelling coverage (standard for most policies), and that calculation had originally assumed two adults' worth of belongings.
+Here's a common issue in post-divorce claims: a person living in the marital home after separation files a claim for personal property stolen during a break-in. The policy is still technically in place, but the insured value for personal property was set at 50% of the dwelling coverage (standard for most policies), a calculation that originally assumed two adults' worth of belongings.
 
 Her claim settled fine. But her ex-husband's belongings, still physically in the house during the transition period, weren't covered because he had no insurable interest as a non-occupant. The stolen items included several high-value tools he'd stored in the garage. That dispute ended up in the divorce proceedings.
 
@@ -90,7 +88,6 @@ Also worth asking your insurer: does your marital status change your rating? In 
 - III Home Inventory Resources: Free tools and guidance for documenting personal property before or after a life transition.
 
 ---
-
 
 ---
 

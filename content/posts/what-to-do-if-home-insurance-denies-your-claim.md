@@ -43,8 +43,6 @@ The cause-of-loss disputes are the ones I saw most often, and the ones where pol
 
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Don't call and yell. I know it's tempting. It accomplishes nothing, and it can actually complicate things if the call is recorded and you say something that later gets characterized as an admission.
 
 Do this instead:
@@ -53,7 +51,7 @@ Pull your complete policy document. Not just the declarations page with your pre
 
 Write down every date that matters: when the damage occurred, when you reported it, when the adjuster visited, when you received the denial. If there are gaps you can't account for, that's worth noting too.
 
-Request the complete claim file. In most states, you have a legal right to see every document the insurer generated in connection with your claim. The adjuster's notes, the internal photos, any contractor or engineer reports they commissioned. You may be surprised at what's in there. I've seen internal notes that directly contradicted the stated reason for denial. Request this in writing, keep a copy.
+Request the complete claim file. In most states, you have a legal right to see every document the insurer generated in connection with your claim. The adjuster's notes, the internal photos, any contractor or engineer reports they commissioned. Internal notes sometimes directly contradict the stated reason for denial. Request this in writing, keep a copy.
 
 ## Building Your Counter-Argument
 
@@ -111,7 +109,7 @@ A public adjuster is a licensed professional who represents you (not the insurer
 
 An attorney who handles insurance bad faith cases is a different animal. You want one when the insurer has denied a clearly covered claim, delayed unreasonably, or misrepresented your policy terms. Many of these attorneys work on contingency, meaning no upfront cost. They're looking for cases where the insurer behaved improperly, not just cases where there's a dispute. If an insurer took three months to respond, lost your documents, or denied a claim without ever actually sending an adjuster, talk to an attorney.
 
-I thought for years that bad faith claims were rare. Then I started sitting across from people on the advocacy side and realized how often an insurer's behavior crossed a legal line that nobody bothered to identify. If you think something feels wrong beyond just a disagreement about policy language, at least get a free consultation.
+Bad faith claims are more common than many people assume, and an insurer's behavior can sometimes cross a legal line without anyone identifying it. If you think something feels wrong beyond just a disagreement about policy language, at least get a free consultation.
 
 ## Sources
 
@@ -122,7 +120,6 @@ I thought for years that bad faith claims were rare. Then I started sitting acro
 - Your state's Department of Insurance: Searchable online complaint portals and licensed adjuster lookup tools available in all 50 states.
 
 ---
-
 
 ---
 

@@ -25,13 +25,11 @@ faqs:
     a: "In hail-prone states like Texas, Colorado, and Kansas, the answer is usually yes. The upfront cost premium for Class 4 material over standard asphalt is typically $1,500–$4,000 on an average-sized roof, and the insurance discount often pays that back within 3–5 years. In low-hail areas, the math is less clear, and I'd run the numbers with your specific insurer before deciding."
 ---
 
-Up to 40%. That's the discount figure I've seen tossed around in insurance marketing materials for new roofs, and I'll be honest: when I was reviewing claims, I was skeptical every single time a policyholder brought it up expecting automatic savings. The reality is messier, more dependent on fine print, and in some states, a lot more valuable than even that headline number suggests.
+Up to 40%. That's the discount figure common in insurance marketing materials for new roofs. Actual savings depend heavily on fine print, and in some states can be worth significantly more than that headline number.
 
 I spent 14 years on the claims side watching roofs fail in ways that cost insurers serious money. Wind, hail, water intrusion from cracked flashing, ice dams in the Midwest. So I get why insurers care so much about your roof's age and condition. A roof isn't just one component of your home; it's the single biggest factor in whether a claim turns into a $4,000 repair or a $95,000 rebuild. From an underwriting standpoint, a brand-new roof is legitimately lower risk. But whether that translates into a real discount on your premium? That depends on factors your insurer probably hasn't explained clearly.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">New roof discounts range from 5% to 40% depending on insurer, state, and roofing material.</li><li style="margin:5px 0">Impact-resistant (Class 4) roofing can earn the largest discounts, often 20–40% in hail-prone states.</li><li style="margin:5px 0">Discounts are never automatic ,  you must notify your insurer and usually provide documentation.</li><li style="margin:5px 0">Some insurers switch from replacement cost to actual cash value on roofs over 10–15 years old, making a new roof even more financially important.</li><li style="margin:5px 0">The discount calculation is applied to the dwelling coverage portion of your premium, not the total bill.</li></ul></div>
-
 
 ## What the numbers actually look like
 
@@ -50,9 +48,7 @@ Here's what the landscape looks like in practice, based on industry data and my 
 
 The Class 4 impact-resistant discount is where things get genuinely interesting. Texas, Colorado, Kansas, and Nebraska have state-mandated discount requirements, which means insurers operating in those states are legally required to offer a discount for Class 4 rated roofing materials. In Colorado specifically, some carriers are offering discounts north of 30% on the dwelling premium for Class 4 installations, according to the Colorado Division of Insurance. That can translate to hundreds of dollars annually for a mid-sized home.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical new roof discount by material type</div><div class="sc-row"><span class="sc-label">Standard asphalt</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">Class 3 impact-resist.</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">15%</span></div><div class="sc-row"><span class="sc-label">Class 4 impact-resist.</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30%</span></div><div class="sc-row"><span class="sc-label">Metal roofing</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Tile/slate</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">12%</span></div><div class="sc-src">Source: Industry policy schedules, Colorado DOI, Insurance Information Institute, 2026</div></div>
-
 
 What surprised me was how many homeowners I've talked to since leaving the claims side who got a new roof and never saw their premium change at all. Not because the discount doesn't exist. Because they never told their insurer.
 
@@ -60,9 +56,7 @@ What surprised me was how many homeowners I've talked to since leaving the claim
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Discounts are not retroactive and they are rarely automatic. When I was on the claims side, I'd pull policy histories and see roofs replaced two, three years prior with zero update in the underwriting file. The policyholder assumed their agent would find out somehow. They don't. Or didn't.
+Discounts are not retroactive and they are rarely automatic. Roofs replaced years earlier often go unreported to the insurer, leaving the underwriting file unchanged. Agents do not discover this information on their own.
 
 Here's how to actually capture the discount:
 
@@ -80,7 +74,7 @@ I want to linger here because this is the [coverage gap](/home-insurance-coverag
 
 Many policies written today include a provision that covers your roof on an [Actual Cash Value](/home-insurance-replacement-cost-vs-actual-cash-value/) basis rather than Replacement Cost Value once the roof reaches a certain age (often 10 years, sometimes 15). The IBHS home fortification guides are a good reference here; they're explicit about how material age affects both performance and insurability. Under ACV, your insurer depreciates the roof's value. A 15-year-old roof that cost $18,000 to replace might only get you $6,000 in a claim payout after depreciation. You're on the hook for the rest.
 
-A new roof almost always resets your coverage to full replacement cost. That's not just a discount; it's a fundamental change in how your claim would be paid if something goes wrong. The premium discount gets the attention, but the RCV reset is often worth more over the policy's life.
+A new roof almost always resets your coverage to full replacement cost. The coverage reset is often worth more over the policy's life than the premium discount itself.
 
 Scenario: A homeowner in suburban Dallas, 18-year-old roof, ACV endorsement in place. Hailstorm causes total loss. Roof replacement bid: $22,500. After depreciation, insurer pays $7,800. Homeowner is out $14,700 and furious.
 
@@ -117,7 +111,6 @@ If you want an extra layer of protection against water intrusion from a failing 
 - National Association of Insurance Commissioners (NAIC): Consumer guidance on ACV vs. RCV roof coverage provisions
 
 ---
-
 
 *Photo: [Ryan  Stephens](https://www.pexels.com/@rstephens) via Pexels*
 

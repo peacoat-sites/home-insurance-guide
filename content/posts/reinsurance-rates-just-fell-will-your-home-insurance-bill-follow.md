@@ -30,13 +30,11 @@ Now the upstream pressure is easing. The question is how fast, and how much, tha
 
 > **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 If you want to understand where the softening reinsurance market could have its biggest consumer impact, watch Florida. Guy Carpenter reported Florida-specific reinsurance pricing down roughly 15 to 20 percent across many layers at the June 2026 renewals. That improvement is partly structural: Florida insurers posted their strongest underwriting results since Hurricane Ian in 2022, a combination of fewer major storms, legislative reforms reducing litigation abuse, and carriers being more selective about what they write and where.
 
 Florida homeowners spent years watching carriers either exit the state entirely or file for rate increases that regulators rubber-stamped out of necessity. The market was genuinely broken for a while. Some of that damage is still visible, especially in coastal counties where Citizens Property Insurance remains the only option for many. But the reinsurance improvement gives Florida's recovering private market real room to compete on price in ways that simply weren't possible two years ago.
 
-I've seen plenty of market cycles in my time reviewing claims and watching the industry from the inside. What typically happens when reinsurers get comfortable is a lag of six to eighteen months before primary insurers translate those savings into filed rates. Regulators have to approve changes. Actuarial reviews take time. And frankly, if policyholders aren't shopping around, there's limited competitive pressure to pass savings along quickly.
+What typically happens when reinsurers get comfortable is a lag of six to eighteen months before primary insurers translate those savings into filed rates. Regulators have to approve changes. Actuarial reviews take time. And frankly, if policyholders aren't shopping around, there's limited competitive pressure to pass savings along quickly.
 
 ## The Slowdown Is Real, But "Slower Increases" Isn't the Same as Relief
 

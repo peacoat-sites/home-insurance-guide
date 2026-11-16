@@ -51,8 +51,6 @@ Here's the critical thing most policyholders miss: FAIR plans typically cover th
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I want to be direct here because this is where real financial harm happens.
 
 A typical private homeowner's policy bundles dwelling coverage, personal property, liability, and additional living expenses into one package. A FAIR plan almost never does this automatically. You usually get dwelling coverage and not much else unless you actively layer on what's called a "Difference in Conditions" (DIC) policy.
@@ -73,7 +71,7 @@ Getting placed in a FAIR plan usually isn't a choice you make. It's what happens
 
 If you receive a non-renewal notice from your current insurer, that's your first signal. Private market options may still exist, so don't assume FAIR plan is your only option until you've actually shopped. An independent agent (not a captive agent for one company) can usually access multiple carriers and tell you definitively what's available.
 
-The IBHS (Insurance Institute for Business & Home Safety) publishes home fortification guides at [ibhs.org](https://ibhs.org/) that are worth reading here, because one underappreciated fact is that hardening your home against its specific risk (wildfire, wind, hail) can sometimes make it insurable in the private market again. New roof, ember-resistant vents, cleared defensible space. These aren't guarantees, but I've seen homeowners improve their insurability enough to exit the residual market after making targeted upgrades.
+The IBHS (Insurance Institute for Business & Home Safety) publishes home fortification guides at [ibhs.org](https://ibhs.org/) that are worth reading here, because hardening your home against its specific risk (wildfire, wind, hail) can sometimes make it insurable in the private market again. New roof, ember-resistant vents, cleared defensible space. These aren't guarantees, but targeted upgrades can sometimes improve insurability enough to move out of the residual market.
 
 Once you're in a FAIR plan, the questions to ask are:
 
@@ -102,7 +100,6 @@ I don't have great data on exactly how many homeowners are going uninsured in hi
 - [Insurance Information Institute (Triple-I)](https://www.iii.org/): Industry data on residual market growth and homeowner insurance availability trends
 
 ---
-
 
 ---
 

@@ -14,7 +14,7 @@ slug: "ho-8-older-home-insurance"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-Your house is 90 years old, it's got original plaster walls and a cast-iron radiator system, and your insurer just offered you an HO-8 policy. You're not sure if that's the standard thing everyone gets or if something's been quietly downgraded. I've seen this exact moment trip up hundreds of homeowners, and most of them sign without asking the single question that matters most.
+Your house is 90 years old, it's got original plaster walls and a cast-iron radiator system, and your insurer just offered you an HO-8 policy. You're not sure if that's the standard thing everyone gets or if something's been quietly downgraded. Many homeowners in this situation sign without asking the single question that matters most.
 
 The HO-8 is the policy form designed specifically for older homes, typically those built more than 40 years ago, where the cost to rebuild using today's materials and methods would far exceed what the home is currently worth on the market. That gap is the whole reason this form exists, and it's also where most of the trouble lives.
 
@@ -29,7 +29,7 @@ The HO-8 is the policy form designed specifically for older homes, typically tho
 | Target Home Age | Built 40+ years ago | Any age |
 | Underwriting Flexibility | Limited; may require knob-and-tube wiring replacement or electrical upgrades | Standard underwriting; broader approval criteria |
 
-Here's the thing most people don't realize until they're standing in a flooded kitchen: the HO-8 doesn't pay what it costs to restore your home to its original state. It pays what it costs to make the home "functionally equivalent." In practice, that means your ornate Victorian plaster ceiling gets replaced with drywall. The hand-carved wood molding becomes MDF. The original clay tile roof becomes asphalt shingles.
+Many people don't realize until filing a claim that the HO-8 doesn't pay what it costs to restore your home to its original state. It pays what it costs to make the home "functionally equivalent." In practice, that means your ornate Victorian plaster ceiling gets replaced with drywall. The hand-carved wood molding becomes MDF. The original clay tile roof becomes asphalt shingles.
 
 Insurers call this "common construction" and it's perfectly legal. The NAIC publishes consumer guidance on policy forms, and if you read their materials on older home coverage, you'll find this spelled out plainly, but almost nobody reads them before signing.
 
@@ -40,8 +40,6 @@ The named-peril structure matters too. Most HO-8 policies cover only the perils 
 ## The Deductible and Coverage Limit Problem
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Older homes often carry high replacement cost estimates relative to market value, which creates a specific underinsurance trap. Say your 1920s Craftsman would cost $380,000 to rebuild but sells for $215,000. A lot of HO-8 policies are written at or near market value because that's what makes financial sense to the policyholder at renewal. But if you have a major fire loss, you're not getting the market value of your home, you're getting whatever the policy limit says, and the functional replacement cost calculation on top of that can leave you short by a significant amount.
 
@@ -55,7 +53,7 @@ Okay, fair point: some older homes genuinely can't qualify for an HO-3 or HO-5. 
 
 In those cases, an HO-8 isn't a scam. It's the only real option, and having it beats the alternative. What matters is knowing what you're getting and documenting what you have.
 
-Document everything. I mean obsessively. A room-by-room [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/) is a good starting point, but for an older home you should be photographing and describing specific architectural details, materials, and finishes that you'd want replaced in kind. Store copies off-site or in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (the site may earn a commission on that link). If you ever file a claim and want to argue that your 1940s hex tile bathroom deserves more than vinyl sheet replacement, that documentation is your only leverage.
+Document everything thoroughly. A room-by-room [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/) is a good starting point, but for an older home you should be photographing and describing specific architectural details, materials, and finishes that you'd want replaced in kind. Store copies off-site or in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) (the site may earn a commission on that link). If you file a claim and want to argue that original materials deserve in-kind replacement rather than modern substitutes, that documentation supports your case.
 
 ## Theft Coverage: The Quiet Limitation
 
@@ -108,7 +106,6 @@ Because there's a real market for it. Older homes represent a large share of exi
 - [home inventory app like Encircle or even just the NAIC's free home inventory checklist](https://www.naic.org/)
 - [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
 - [IBHS has specific guidance on electrical upgrades and fire risk reduction for older homes](https://ibhs.org/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

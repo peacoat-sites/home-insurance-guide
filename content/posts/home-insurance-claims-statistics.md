@@ -42,15 +42,13 @@ So let's talk about what the numbers actually say, what they mean for your walle
 As of June 2026, 
 Roughly one in twenty insured homes has a claim in any given year. That's the figure the Insurance Information Institute (III) has tracked consistently, and it sounds reassuring until you do the math: with around 90 million insured homes in the U.S., that's somewhere in the neighborhood of 4 to 5 million claims annually. A lot of broken pipes. A lot of hail-dented roofs. A lot of people sitting in a damaged kitchen trying to remember their policy number.
 
-Wind and hail damage is the single largest category, accounting for roughly 40% of all homeowner claims. Water damage from interior sources, things like burst pipes or a failed water heater, runs a close second. What most people don't realize is that flooding is almost never covered under a standard homeowner policy. It's a completely separate product, typically through the National Flood Insurance Program. I've watched homeowners argue this point at the counter. They lose every time.
+Wind and hail damage is the single largest category, accounting for roughly 40% of all homeowner claims. Water damage from interior sources, things like burst pipes or a failed water heater, runs a close second. What most people don't realize is that flooding is almost never covered under a standard homeowner policy. It's a completely separate product, typically through the National Flood Insurance Program. Many homeowners are surprised to learn that standard policies don't cover flooding and may initially dispute this limitation.
 
 Fire and lightning claims are the most expensive per incident, even though they happen less frequently. The average fire claim has historically run well over $70,000, which sounds like a lot until you price out replacing a kitchen, the contents in it, and three months of temporary housing. Then it sounds about right, maybe even low.
 
 ## The Gap Between What People Expect and What They Receive
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the part that bothered me most in fourteen years of reviewing claims. People assume their settlement will reflect what it costs to replace their stuff today. A lot of them are wrong.
 
@@ -82,7 +80,6 @@ What's more useful: the median time to settlement, complaint ratios by insurer (
 
 ---
 
-
 ---
 
 The statistics are useful context, but they're not the point. The point is that most homeowners interact with their policy twice: when they buy it, and when something goes wrong. The people who fare best in that second moment are the ones who understood what they bought in the first place. That means reading the exclusions, knowing your deductible structure, and documenting what you own before you ever need to prove it.
@@ -102,7 +99,6 @@ A [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=content
 - [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
 - [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20)
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

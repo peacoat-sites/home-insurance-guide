@@ -31,7 +31,7 @@ Most homeowners assume water damage is water damage. A pipe bursts, the ceiling 
 As of June 2026, 
 Here's the core principle that insurers build their water damage coverage around, and they're not exactly eager to explain it in the brochure. Standard homeowners policies, typically the HO-3 form that most people carry, cover water damage that is sudden and accidental. They do not cover damage that results from long-term neglect, gradual leakage, or anything the insurer can argue you should have caught and fixed.
 
-What surprised me when I started digging into claim files was how consistently adjusters were trained to look for evidence of pre-existing conditions. A slow drip under the sink that finally rotted the cabinet floor? Denied. A washing machine supply hose that had been bulging for months before it blew? Potentially denied. A pipe that froze and burst during an unexpected cold snap? Almost certainly covered.
+Adjusters are trained to look for evidence of pre-existing conditions when reviewing claims. A slow drip under the sink that finally rotted the cabinet floor? Denied. A washing machine supply hose that had been bulging for months before it blew? Potentially denied. A pipe that froze and burst during an unexpected cold snap? Almost certainly covered.
 
 The legal and practical line sits between "you couldn't have known" and "you should have known." Insurers will argue the latter whenever the evidence supports it, and water damage, by its nature, often leaves a trail of older staining, mold, or deteriorated materials that tells a story about time.
 

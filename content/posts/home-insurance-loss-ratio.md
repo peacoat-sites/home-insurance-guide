@@ -31,23 +31,19 @@ You might be wondering what any of this has to do with your bill. The honest ans
 
 Here's the short version before we get into it: a loss ratio is the percentage of premium dollars an insurer pays out in claims. If a company collects $100 million in homeowner premiums and pays out $72 million in claims, its loss ratio is 72%. Simple math. The implications, though, are anything but simple.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A loss ratio above ~70% typically signals an insurer is losing money on underwriting, which often leads to premium increases.</li><li style="margin:5px 0">Ratios below 40% may indicate the insurer is underpricing risk OR denying too many legitimate claims.</li><li style="margin:5px 0">Catastrophe years routinely push homeowner loss ratios past 100%, meaning insurers pay out more than they collect.</li><li style="margin:5px 0">Your ZIP code's regional loss ratio affects your premium even if you've never filed a claim.</li><li style="margin:5px 0">State insurance departments publish loss ratio data by company, you can look this up before you buy.</li></ul></div>
-
 
 ## What the Number Actually Tells You
 
 Loss ratio sits at the center of how insurers think about whether a line of business is profitable. The formula is straightforward: incurred losses (what they paid out in claims plus adjustment expenses) divided by earned premiums, expressed as a percentage.
 
-What counts as "healthy" depends on who you ask, but in my experience reviewing claims for 14 years at a national carrier, the internal target hovered around 60-65% for homeowner lines in non-catastrophe years. That left room to cover operating costs, agent commissions, and still book a profit. The Insurance Information Institute (III) has published data showing that homeowner loss ratios have been climbing since the early 2020s, driven by inflation in building materials, a surge in severe weather events, and litigation trends in certain states. As of 2026, the picture hasn't improved much.
+What counts as "healthy" depends on who you ask, but industry targets for homeowner lines typically hover around 60-65% in non-catastrophe years. That left room to cover operating costs, agent commissions, and still book a profit. The Insurance Information Institute (III) has published data showing that homeowner loss ratios have been climbing since the early 2020s, driven by inflation in building materials, a surge in severe weather events, and litigation trends in certain states. As of 2026, the picture hasn't improved much.
 
 What does a high loss ratio mean for you specifically? When a carrier's book of business in, say, coastal Georgia runs a 95% loss ratio for two consecutive years, they have three options: raise rates, tighten underwriting (meaning they decline more applicants or add exclusions), or exit the market. We've watched all three play out in real time in Florida, Louisiana, and parts of California over the past few years. This isn't abstract. People got non-renewal letters.
 
 ## The Range That Should Make You Ask Questions
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what I tell people who ask me to decode their insurer's financial health: the loss ratio alone isn't enough. You need context.
 
@@ -60,7 +56,7 @@ Here's what I tell people who ask me to decode their insurer's financial health:
 | 91% to 99% | Underwriting losses; reinsurance dependency | Rate hikes or market exits possible |
 | Above 100% | Insurer paying out more than it collects | Often driven by catastrophes; may trigger regulatory review |
 
-A loss ratio below 40% used to make me suspicious even when I was on the insurer's side. It could mean excellent risk selection, but it could also mean aggressive claims denials. Your state's insurance department tracks complaint ratios alongside loss ratios, and those two numbers together tell a much more honest story. The National Association of Insurance Commissioners (NAIC) makes complaint data publicly searchable at naic.org, and I'd encourage you to use it before you renew.
+A loss ratio below 40% can warrant closer scrutiny. It could mean excellent risk selection, but it could also mean aggressive claims denials. Your state's insurance department tracks complaint ratios alongside loss ratios, and those two numbers together tell a much more honest story. The National Association of Insurance Commissioners (NAIC) makes complaint data publicly searchable at naic.org, and checking it before you renew is recommended.
 
 ## How It Affects Your Premium (Even When You Did Nothing Wrong)
 
@@ -82,9 +78,7 @@ Worked example: Carrier X reports a 2025 combined ratio of 108%. Investment inco
 
 ## How to Use Loss Ratio Data Before You Buy
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average homeowner loss ratio by year (industry-wide)</div><div class="sc-row"><span class="sc-label">2019</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">62%</span></div><div class="sc-row"><span class="sc-label">2020</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">68%</span></div><div class="sc-row"><span class="sc-label">2021</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">74%</span></div><div class="sc-row"><span class="sc-label">2022</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">79%</span></div><div class="sc-row"><span class="sc-label">2023</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">83%</span></div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">80%</span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">78%</span></div><div class="sc-src">Source: Insurance Information Institute, 2026</div></div>
-
 
 Most people don't realize this data is publicly accessible. Insurers file annual financial statements with state regulators, and those statements include line-of-business loss ratios. You can pull this through your state's insurance department website or through the NAIC's consumer portal.
 
@@ -107,7 +101,6 @@ One more thing: if you're in a high-risk area and your current carrier has a los
 - [Your state's insurance department](https://www.naic.org/state_web_map.htm): Rate filing history and approved increases by carrier.
 
 ---
-
 
 *Photo: [Serkan  Gönültaş](https://www.pexels.com/@serkangonultas) via Pexels*
 

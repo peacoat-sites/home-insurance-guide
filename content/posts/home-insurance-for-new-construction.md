@@ -95,7 +95,7 @@ Not all homeowner policies are equal, and on a new construction home, the differ
 
 Municipal inspections during construction confirm that code minimums were met at the time of inspection. They don't verify quality, they don't catch everything, and they certainly don't carry into your insurance coverage.
 
-In my experience reviewing claims, new construction homes that go unoccupied for any period right after closing face a particular risk: small problems go undetected and compound. A slow roof leak that would be spotted by someone living there day-to-day goes unnoticed for weeks. By the time it's discovered, what might have been a $1,500 repair is a $22,000 mold and structural claim, and the insurer wants to know why the homeowner didn't mitigate promptly.
+New construction homes that go unoccupied for any period right after closing face a particular risk: small problems go undetected and compound. For example, a slow roof leak that would be spotted by an occupant goes unnoticed for weeks. By the time it's discovered, what might have been a $1,500 repair is a $22,000 mold and structural claim, and the insurer wants to know why the homeowner didn't mitigate promptly.
 
 The Insurance Institute for Business and Home Safety publishes home fortification guides at [ibhs.org](https://ibhs.org/) that cover vulnerability points in new construction, including roof-to-wall connections and window performance. These aren't just for storm-prone areas. Reviewing those guides helps you ask your builder better questions before closing and helps you understand what your home's actual weak points are once you're in.
 

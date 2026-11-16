@@ -29,13 +29,11 @@ Roughly 44% of Airbnb hosts in the United States have no idea their standard hom
 
 The problem isn't that hosts are careless. It's that the insurance industry has never been great at advertising its own exclusions. Your standard HO-3 policy was written for owner-occupied dwellings. The moment you hand keys to a paying stranger, the legal and actuarial math changes. Insurers know this. They're just not obligated to remind you at renewal.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard HO-3 homeowner policies typically exclude or sharply limit coverage during paid short-term rentals.</li><li style="margin:5px 0">Airbnb's AirCover provides up to $3 million in host damage protection, but it is NOT liability insurance and has significant exclusions.</li><li style="margin:5px 0">A dedicated short-term rental (STR) endorsement or standalone policy costs roughly $1,500 to $3,000 per year depending on location and home value.</li><li style="margin:5px 0">Cash and jewelry left in the home during a rental are almost never covered under any Airbnb-related policy.</li><li style="margin:5px 0">You need to talk to your existing insurer before your first booking, not after your first claim.</li></ul></div>
-
 
 ## What Your Homeowner's Policy Actually Does (and Doesn't) Cover
 
-Most HO-3 policies contain a "business pursuits" exclusion. If you're collecting rental income, many insurers treat that as a business activity, which voids coverage for losses tied to that activity. The exclusion isn't buried in fine print; it's usually in Section I, under "Perils Insured Against" or the exclusions rider. I've watched adjusters flip to it in under 30 seconds when a claim came in from an Airbnb address.
+Most HO-3 policies contain a "business pursuits" exclusion. If you're collecting rental income, many insurers treat that as a business activity, which voids coverage for losses tied to that activity. The exclusion isn't buried in fine print; it's usually in Section I, under "Perils Insured Against" or the exclusions rider. Adjusters typically locate this exclusion quickly when a claim involves a rental address.
 
 What this means in practice: if a guest accidentally starts a kitchen fire, your insurer may deny the structure claim on the grounds that the home was operating as a rental at the time. Your personal [liability coverage](/home-insurance-liability-coverage/), which typically runs $100,000 to $300,000 on a standard policy, almost certainly won't respond to a guest's slip-and-fall lawsuit either.
 
@@ -46,8 +44,6 @@ One thing that catches hosts off guard: your [personal property coverage](/homeo
 ## AirCover: What Airbnb Is Selling You and What It Actually Is
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Airbnb rebranded its host protections under the "AirCover" label in 2022, and the marketing works. "$3 million in damage protection" sounds like serious coverage. And honestly, compared to where things stood five years ago, it is an improvement. But it is not insurance. It's a host guarantee program, which means Airbnb controls the claims process, Airbnb decides what qualifies, and Airbnb can change the terms without regulatory oversight.
 
@@ -79,9 +75,7 @@ Here's where I'll commit to an opinion: most active Airbnb hosts renting more th
 
 Dedicated STR carriers like Proper Insurance have built policies specifically for platforms like Airbnb and Vrbo. They cover the structure, your personal property, loss of rental income, and liability, all in one form. When I reviewed a Proper Insurance policy declaration page for a client in Denver last year, the liability limit was $1 million with an optional bump to $2 million for about $180 additional. That's real coverage for a realistic risk.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. Annual STR Insurance Cost by State (2026 Estimates)</div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$2,400</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$2,900</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:66%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Tennessee</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-src">Source: Proper Insurance and industry broker data, 2026</div></div>
-
 
 Florida's number reflects both hurricane exposure and elevated liability litigation. If you're hosting in Kissimmee or Panama City Beach, a $3,200 annual policy on a home generating $40,000 in rental income is not a hard math problem.
 
@@ -99,7 +93,7 @@ Call your homeowner's insurer. Not email. Call. Ask specifically: "Does my polic
 
 If they say you're covered without any endorsement and no questions about rental frequency, I'd be skeptical enough to get that in writing. Insurers sometimes give inaccurate verbal guidance, and at claims time, what matters is the policy language, not what a service rep told you in May.
 
-The Insurance Institute for Business & Home Safety (IBHS) also recommends upgrading physical security before any rental period: deadbolts on interior doors with valuables, smart locks with rotating codes between guests, and working smoke and CO detectors on every floor. Some STR insurers will actually lower your premium if you document these installations, which is a detail I've seen hosts miss because they never thought to ask.
+The Insurance Institute for Business & Home Safety (IBHS) also recommends upgrading physical security before any rental period: deadbolts on interior doors with valuables, smart locks with rotating codes between guests, and working smoke and CO detectors on every floor. Some STR insurers will lower your premium if you document these installations, so it's worth asking your agent about available discounts.
 
 A [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) placed under sinks and near water heaters is worth every dollar when you have a stranger in your home for a week. Guests aren't always careful. (The site may earn a commission on that link.)
 
@@ -114,7 +108,6 @@ As of August 2026, the short-term rental insurance market has matured enough tha
 - Airbnb AirCover Terms and Conditions (current as of August 2026): Host guarantee program scope, exclusions, and claim process
 
 ---
-
 
 *Photo: [Jonathan Borba](https://www.pexels.com/@jonathanborba) via Pexels*
 

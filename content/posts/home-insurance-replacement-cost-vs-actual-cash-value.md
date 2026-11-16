@@ -49,7 +49,7 @@ But insurers don't all use the same schedules. Some depreciate aggressively. Oth
 
 State rules vary too. The National Association of Insurance Commissioners (NAIC) provides guidance on how states regulate depreciation, and it's worth checking your state's rules at [naic.org](https://www.naic.org/) before you assume your insurer's math is the only approach.
 
-Here's the practical move: request the depreciation worksheet from your adjuster. You have the right to see how each item was calculated. Errors get corrected when policyholders push back with receipts or appraisals. I've seen it happen.
+Here's the practical move: request the depreciation worksheet from your adjuster. You have the right to see how each item was calculated. Errors get corrected when policyholders push back with receipts or appraisals.
 
 ## RCV vs. ACV: Structures vs. Personal Property
 
@@ -81,7 +81,7 @@ Numbers tell the story better than theory.
 | Laptop and electronics | $2,400 | 4 years | $2,600 (new) | $1,300 |
 | **Total** | **$20,100** | | **$23,000** | **$8,100** |
 
-The ACV payout is less than 40 percent of actual replacement cost. The family here needs to find roughly $14,000 out of pocket on top of their deductible. That's not a detail, that's financial disaster.
+The ACV payout is less than 40 percent of actual replacement cost. A shortfall of $14,000 out of pocket on top of the deductible is a significant financial burden.
 
 Note: These figures are illustrative. Actual depreciation schedules, replacement costs, and claim outcomes vary significantly by insurer, location, and policy terms. Always review your policy documents and consider speaking with a licensed insurance professional.
 

@@ -25,15 +25,13 @@ faqs:
     a: "Only the overage above your normal food budget. If you're in a furnished rental with a kitchen and cooking normally, there's typically nothing to reimburse on the food side. The reimbursable moment is when you're in a hotel with no kitchen and forced into restaurants. Keep receipts and subtract what you'd normally spend. Don't guess at that number; pull your actual bank statements."
 ---
 
-Forty-three percent of homeowners who file a major claim have no idea what additional living expenses (ALE) coverage actually pays for until they're standing in a hotel lobby at 10 p.m. with a garbage bag full of clothes and a confused look on their face. I've watched that number play out in real claims rooms, and it never stopped being painful.
+Forty-three percent of homeowners who file a major claim have no idea what additional living expenses (ALE) coverage actually pays for until they need it. Without understanding these limits, they can face unexpected out-of-pocket costs when living away from home during repairs.
 
 ALE is the part of your homeowner's policy that pays for your temporary housing, meals, laundry, pet boarding, and a handful of other costs when a covered disaster forces you out of your home. Sounds straightforward. It's not. The gaps, the limits, and the conditions buried in the fine print are where I spent most of my career, and where most policyholders get hurt.
 
 The Insurance Information Institute notes that ALE is a standard component of most HO-3 policies, but "standard" doesn't mean "unlimited" or even "generous." Your specific sub-limit, the documentation requirements, and what your insurer considers "necessary" are things you need to know before you file, not after.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">ALE typically covers 20-30% of your dwelling coverage limit, not your actual replacement cost.</li><li style="margin:5px 0">Most policies cap ALE at 12-24 months; complex rebuilds regularly run longer.</li><li style="margin:5px 0">Every single expense needs a receipt. Verbal agreements with your adjuster mean nothing.</li><li style="margin:5px 0">"Loss of use" and "additional living expenses" are used interchangeably but read your policy definition carefully ,  they're not always identical.</li><li style="margin:5px 0">Your normal living costs are subtracted from ALE reimbursement. If you spend $400/month on groceries normally, only the overage counts.</li></ul></div>
-
 
 ## What ALE Actually Covers (and What It Doesn't)
 
@@ -49,15 +47,11 @@ What they typically won't cover: anything you can't document, costs your insurer
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Current as of August 2026, most standard HO-3 policies cap ALE at 20% of your Coverage A (dwelling) limit. Insure your home for $400,000 and you've got $80,000 in ALE. That sounds like a lot until you price a furnished rental in a mid-cost city for 18 months.
 
-The time limit is the other thing that catches people off guard. Most policies allow 12 to 24 months. I've seen fire restoration projects in California and Florida run 28 to 36 months, especially post-storm when every contractor in the region is booked. When your ALE runs out and your house isn't finished, you're paying out of pocket.
-
+The time limit often catches people off guard. Most policies allow 12 to 24 months of coverage. Restoration projects, especially after major storms or in areas with contractor shortages, can stretch to 28 to 36 months or longer. When your ALE runs out and your house isn't finished, you're paying out of pocket.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical ALE limit as % of dwelling coverage by policy tier</div><div class="sc-row"><span class="sc-label">Basic HO-1</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">Standard HO-3</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">20%</span></div><div class="sc-row"><span class="sc-label">Broad HO-5</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">30%</span></div><div class="sc-row"><span class="sc-label">Endorsement-enhanced</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">40%</span></div><div class="sc-src">Source: Insurance Information Institute, 2025 homeowner policy analysis</div></div>
-
 
 The jump from HO-3 to HO-5 (or adding an ALE endorsement) is often $80 to $200 a year in premium. Given what a catastrophic claim actually costs in temporary housing, that's usually worth it. I'd honestly skip the upgraded appliance warranty your agent is probably also pitching and put the money here instead.
 
@@ -87,7 +81,7 @@ A [waterproof document safe](https://www.amazon.com/s?k=fireproof+document+safe)
 | Normal expense deduction | Clearly defined calculation method | No definition (leaves room for dispute) |
 | Civil authority clause | Covers evacuation orders too | Applies only to direct physical damage |
 
-The civil authority clause is one most people overlook entirely. If you're ordered to evacuate due to a wildfire or flood near your home and your home itself isn't damaged, standard ALE may not kick in unless your policy explicitly includes a civil authority provision. I thought for years this was always included. It isn't.
+The civil authority clause is one most people overlook entirely. If you're ordered to evacuate due to a wildfire or flood near your home and your home itself isn't damaged, standard ALE may not kick in unless your policy explicitly includes a civil authority provision. This coverage is not automatically included in standard policies.
 
 ## Sources
 
@@ -98,7 +92,6 @@ The civil authority clause is one most people overlook entirely. If you're order
 - CoreLogic 2025 Hazard & Risk Report: Rebuild timeline data for catastrophic loss events by region
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

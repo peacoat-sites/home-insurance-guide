@@ -25,13 +25,13 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 lastmod: 2026-07-08
 ---
-Picture this: you get a call from a collections agency about a $14,000 medical debt you've never heard of. Someone used your Social Security number at a hospital three states away. You've spent the last six months disputing it, filed a police report, written letters you never thought you'd have to write, and you're only now discovering that your homeowner's insurance policy had an identity theft rider the whole time. You just never activated it. I've seen this exact situation play out more times than I'd like to count, and the frustration is always the same: the coverage was right there, buried in the endorsements section nobody reads.
+Identity theft can be devastating. A victim might spend months disputing fraudulent charges, filing police reports, and writing documentation they never expected to need, only to discover later that their homeowner's insurance policy included an identity theft rider they'd never activated. The coverage was available, but buried in the endorsements section most people don't read.
 
 Most people think identity theft coverage is something you buy separately through a credit monitoring service. What they don't realize is that their existing policy may already offer it as an optional rider, sometimes for as little as $25 to $50 per year. Whether you've been victimized already or you're trying to get ahead of it, understanding exactly what this coverage does and doesn't do is going to save you serious time, money, and headache.
 
 ## What Homeowners Insurance Identity Theft Coverage Actually Does
 
-Here's the thing: this coverage doesn't reimburse you for stolen money. If a thief drains your checking account, that's your bank's problem under federal regulations like Regulation E, not your insurer's. What identity theft riders actually cover is the cost of restoring your identity, and that distinction matters enormously.
+This coverage doesn't reimburse you for stolen money. If a thief drains your checking account, that's your bank's problem under federal regulations like Regulation E, not your insurer's. What identity theft riders actually cover is the cost of restoring your identity, and that distinction matters enormously.
 
 Covered expenses typically include notary fees, certified mail costs, lost wages for time you take off work to deal with disputes, attorney fees related to restoration, and sometimes a professional case manager or resolution service. Some policies also cover credit monitoring for a period after the event, phone bills tied to the claim, and loan re-application fees if you were denied credit because of fraudulent accounts.
 

@@ -31,7 +31,6 @@ She wasn't uninsured. She wasn't careless. She just didn't know what her policy 
 
 I spent 14 years reviewing claims like hers. That experience made me protective of people about to get the same surprise.
 
-
 <div class="value-module">
  <div class="vm-head">Electronics Claim Scenarios: What Pays Out</div>
  <div class="vm-body">
@@ -79,7 +78,7 @@ The fix depends entirely on what you own and how prone you are to breaking thing
 
 **Manufacturer warranties.** AppleCare+ covers accidental damage for $99 per incident, up to two incidents per year. If you're accident-prone, that math works.
 
-Do a home inventory immediately. Document what you own, what you paid, when you bought it. Encircle or the Insurance Information Institute's Know Your Stuff tool both work well. A video walkthrough saved to cloud storage does too. I've seen claims stall for months because the homeowner couldn't prove they owned what they claimed.
+Do a home inventory immediately. Document what you own, what you paid, when you bought it. Encircle or the Insurance Information Institute's Know Your Stuff tool both work well. A video walkthrough saved to cloud storage does too. Claims can stall for months if you can't prove what you owned.
 
 A water leak sensor placed near your entertainment center or home office costs $15-$25 (Govee and Aeotec make solid ones on Amazon) and connects to your phone. Not insurance, but catching a leak early beats discovering a $6,000 loss after the fact.
 
@@ -98,7 +97,6 @@ A water leak sensor placed near your entertainment center or home office costs $
 - [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)
 - [Robert So](https://www.pexels.com/@robertkso)
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

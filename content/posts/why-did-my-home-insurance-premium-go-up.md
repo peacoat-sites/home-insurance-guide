@@ -51,7 +51,7 @@ Now the stuff that actually is about your house and your history.
 
 A claims history is the most obvious one. File two claims in three years and your premium will reflect it, often for five years or more. One thing I saw repeatedly as an adjuster: homeowners who called to report a problem and then decided not to file a claim still sometimes saw premium movement, because the inquiry itself was logged. Ask your insurer directly whether a "first notice of loss" that didn't result in a paid claim appears on your loss history. Request your CLUE report (that's the Comprehensive Loss Underwriting Exchange) annually at LexisNexis; it's free and it's what underwriters actually see.
 
-Credit score changes matter more than most people realize. In states that permit credit-based insurance scoring (which is most of them, with a handful of exceptions), a dip in your credit score can directly trigger a premium increase. I've seen this surprise homeowners who had no idea the two were connected.
+Credit score changes matter more than most people realize. In states that permit credit-based insurance scoring (which is most of them, with a handful of exceptions), a dip in your credit score can directly trigger a premium increase. Many homeowners are surprised to learn the connection exists.
 
 Home age and condition updates in underwriting systems can also shift your rate. Sometimes an aerial inspection service (several insurers now use satellite and drone imagery) flags something they didn't see before: an aging roof, a detached structure they didn't have on file, a pool that wasn't disclosed. That triggers an underwriting review. If you got a letter asking you to update photos or information, that's what's happening.
 
@@ -90,7 +90,7 @@ Not all of this is within your control. But more of it is than insurers make it 
 
 Call and ask for an explanation in writing. Specifically. Not "why did my rate go up" but "what line items on my underwriting file changed between last year and this year." Adjusters and customer service reps are trained to give general answers. Push for specifics. Sometimes they'll tell you that a single factor drove most of the increase, and that factor might be fixable.
 
-Get competing quotes. I know this sounds obvious, but most homeowners don't do it, and it's the single most effective lever. Do this every two to three years minimum, not just when you get a shock renewal. Loyalty doesn't pay. I've seen longtime customers get quoted rates 20-30% lower by switching carriers, for identical coverage. That gap exists because insurers reserve their best pricing for new customers.
+Get competing quotes. Most homeowners don't do this, yet it's the single most effective way to lower premiums. Do this every two to three years minimum, not just when you get a shock renewal. Loyalty doesn't pay. Switching carriers can result in rates 20-30% lower for identical coverage. That gap exists because insurers reserve their best pricing for new customers.
 
 Raise your deductible intentionally. Going from a $1,000 to a $2,500 deductible typically reduces your premium by 8-15%, depending on carrier and state. If you have the savings to cover that gap in a claim scenario, it's often the right trade. The [IBHS home fortification guides](https://ibhs.org/) are also worth reviewing if you want to make risk-reduction improvements that you can document to your insurer for potential discounts.
 

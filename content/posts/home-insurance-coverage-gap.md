@@ -35,13 +35,11 @@ Most homeowners buy a policy, tuck it in a file, and never read it again. I unde
 
 Here's what I tell people when they call me frustrated after a denial: the problem usually isn't fraud. It's that the insurer sold them an HO-3 policy, which is the standard form roughly 80% of homeowners carry, and the customer assumed it covered more than it does. An HO-3 covers your dwelling against "open perils" (meaning everything not explicitly excluded) but covers your personal property only against "named perils," a shorter list of specific events. That distinction alone accounts for a significant share of the claim disputes I reviewed over my career.
 
-I thought for years that an HO-3 was essentially full coverage. It took my first six months of adjusting claims before I genuinely understood the sublimit structure buried in Section I. That was a humbling moment.
+A common mistake is thinking an HO-3 is essentially full coverage. The sublimit structure buried in Section I often catches homeowners off guard.
 
 ## Where the Actual Gaps Are
 
 > **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me be specific, because vague warnings about "coverage gaps" aren't useful.
 
@@ -68,9 +66,7 @@ Current data (as of July 2026) paints a stark picture.
 | Extended replacement cost upgrade | $30-$75/year | $40,000-$90,000 (construction cost gap) | $30-$75 |
 | Earthquake endorsement (CA/Pacific NW) | $800-$3,500/year | $50,000+ (structure damage) | $800-$3,500 |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual flood claim payout (NFIP, by disaster type)</div><div class="sc-row"><span class="sc-label">Riverine flooding</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$52,300</span></div><div class="sc-row"><span class="sc-label">Storm surge</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$91,800</span></div><div class="sc-row"><span class="sc-label">Flash flooding</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$38,100</span></div><div class="sc-row"><span class="sc-label">Sewer backup</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$9,700</span></div><div class="sc-row"><span class="sc-label">Coastal erosion</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">$67,400</span></div><div class="sc-src">Source: FEMA NFIP 2025 Annual Report</div></div>
-
 
 Those flood numbers from FEMA's NFIP 2025 Annual Report should recalibrate how you think about the "$700-a-year, do I really need it?" math. A single storm surge event averages over $91,000 in claims. The premium pays for itself after one bad year.
 
@@ -88,7 +84,7 @@ Pull out your declarations page and your full policy form (the declarations page
 
 Your state's insurance department can tell you what disclosures insurers are required to make and what endorsements must be offered. The [National Association of Insurance Commissioners' state resource map](https://www.naic.org/state_web_map.htm) connects you directly to your state's regulator if you need to check whether a denial was handled appropriately.
 
-One practical move: do a home inventory before something happens. A detailed video walkthrough stored in a document safe (a fireproof one runs about $35-$60 on Amazon) or backed to cloud storage gives you documentation to support a claim. I've seen legitimate claims reduced because the homeowner couldn't prove what they owned. (Note: this site may earn a commission from qualifying purchases.) Apps like Encircle or the III's own home inventory app make this less painful than it sounds.
+One practical move: do a home inventory before something happens. A detailed video walkthrough stored in a document safe (a fireproof one runs about $35-$60 on Amazon) or backed to cloud storage gives you documentation to support a claim. Legitimate claims can be reduced when the homeowner can't prove what they owned. (Note: this site may earn a commission from qualifying purchases.) Apps like Encircle or the III's own home inventory app make this less painful than it sounds.
 
 ## Sources
 
@@ -99,7 +95,6 @@ One practical move: do a home inventory before something happens. A detailed vid
 - CoreLogic 2025 Hazard Risk Report: Residential reconstruction cost trends and underinsurance analysis
 
 ---
-
 
 ---
 

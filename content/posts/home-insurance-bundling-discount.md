@@ -44,7 +44,7 @@ Bundling, also called a multi-policy discount, is a price reduction an insurer o
 
 The insurer's logic is straightforward: you're more likely to stay long-term if you have multiple policies with them, which reduces their customer acquisition costs. They pass some of that savings back to you. Makes sense on paper.
 
-The problem is that "10 to 25 percent off" is percentage-off marketing, not a flat dollar guarantee. Ten percent off an overpriced homeowners policy might still be more expensive than a competitively priced standalone policy from a different carrier. I've seen this scenario play out constantly. Someone bundled their home and auto, felt good about the 15% discount on paper, and was still paying $400 more per year than they would have with two separate carriers.
+The problem is that "10 to 25 percent off" is percentage-off marketing, not a flat dollar guarantee. Ten percent off an overpriced homeowners policy might still be more expensive than a competitively priced standalone policy from a different carrier. For example, bundling home and auto coverage might yield a 15% discount on paper while still costing $400 more per year than purchasing the same coverage from two separate carriers.
 
 The discount also doesn't always apply equally to both policies. Some carriers apply the savings primarily to the auto side. Others weight it toward the home policy. You won't know unless you ask directly, and even then, you need to run the actual numbers.
 

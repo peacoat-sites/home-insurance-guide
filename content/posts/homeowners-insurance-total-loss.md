@@ -31,9 +31,7 @@ I'll be honest: even after 14 years of reviewing claims, the [first time](/home-
 
 Total loss is one of those terms that sounds self-explanatory. Your house is gone, insurance pays to rebuild it, life goes on. Except that's almost never how it works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A "total loss" declaration depends on your state's damage threshold, often 50-75% of the home's value.</li><li style="margin:5px 0">Replacement cost vs. actual cash value is the single biggest factor in what you actually collect.</li><li style="margin:5px 0">Most homeowners underinsure by 20-40%, meaning a total loss payout won't cover a full rebuild.</li><li style="margin:5px 0">You can negotiate the insurer's initial settlement figure; most people don't know this is an option.</li><li style="margin:5px 0">Additional Living Expenses (ALE) coverage has strict time and dollar caps that catch people off guard.</li></ul></div>
-
 
 ## What "Total Loss" Actually Means (It's Not What You Think)
 
@@ -47,13 +45,11 @@ The threshold also affects your payout calculation. Once total loss is declared,
 
 > **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the one I saw wreck people financially. Over and over.
 
 If your policy pays [Actual Cash Value](/actual-cash-value-explained/) (ACV) on the dwelling, the insurer applies depreciation to your home's structure before writing you a check. A roof that cost $28,000 to install but is 15 years old might get valued at $9,000 after depreciation. That's what ACV pays. If you have Replacement Cost Value (RCV) coverage, you get the full cost to rebuild with comparable materials at today's prices, which, as of 2026, are significantly higher than even three years ago due to ongoing labor shortages and material cost increases.
 
-Most policies with RCV coverage actually pay in two stages. The insurer cuts you an initial check for ACV, then releases the remaining "recoverable depreciation" after you complete repairs or rebuild. Here's the insider detail nobody tells you: you typically have 180 days to 2 years to make repairs and claim that recoverable depreciation, depending on the policy. Miss that window and you forfeit the difference. I've seen homeowners lose tens of thousands of dollars because they didn't understand this mechanic.
+Most policies with RCV coverage actually pay in two stages. The insurer cuts you an initial check for ACV, then releases the remaining "recoverable depreciation" after you complete repairs or rebuild. You typically have 180 days to 2 years to make repairs and claim that recoverable depreciation, depending on the policy. Missing that window means forfeiting the difference.
 
 | Coverage Type | How Depreciation Works | Example Payout (Home with $350k Coverage) | Risk Level |
 |---|---|---|---|
@@ -76,9 +72,9 @@ A worked example that I saw play out firsthand: A homeowner in suburban Georgia 
 
 ## What Happens After You File: The Process Nobody Prepares You For
 
-Filing a total loss claim has a specific rhythm. Most people expect one adjuster and one check. The reality is messier.
+Filing a total loss claim has a specific rhythm. Most people expect one adjuster and one check.
 
-After you file, the insurer sends an adjuster (sometimes two: one for the structure, one for personal property). They'll prepare their own estimate, which you are not obligated to accept. Read that again. You can hire a public adjuster or a licensed contractor to prepare a competing estimate. In my experience, the insurer's first estimate is almost always lower than a good independent estimate, sometimes by 15-25%. The gap is negotiable. Most policyholders don't know they can push back, and insurers don't volunteer this information.
+After you file, the insurer sends an adjuster (sometimes two: one for the structure, one for personal property). They'll prepare their own estimate, which you are not obligated to accept. Read that again. You can hire a public adjuster or a licensed contractor to prepare a competing estimate. The insurer's first estimate is often lower than a good independent estimate, sometimes by 15-25%. This gap is negotiable. Many policyholders don't realize they can push back.
 
 The timeline typically runs like this, though it varies significantly by state law and insurer:
 
@@ -110,7 +106,6 @@ A water leak sensor near your main shutoff is a different kind of protection ent
 - Marshall & Swift/CoreLogic Residential Cost Handbook: Industry-standard reference for replacement cost calculations used by adjusters
 
 ---
-
 
 *Photo: [Serhii Bondarchuk](https://www.pexels.com/@serhii-bondarchuk-216200266) via Pexels*
 

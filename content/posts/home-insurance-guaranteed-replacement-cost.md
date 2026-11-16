@@ -29,9 +29,7 @@ Most homeowners assume their insurance will rebuild their house after a total lo
 
 Standard replacement cost coverage rebuilds your home up to the dwelling limit you chose when you bought the policy. That limit is a number you probably picked years ago, maybe with help from an agent using a per-square-foot calculator that hasn't been updated since lumber was cheap. Guaranteed replacement cost (GRC) is different: it promises to rebuild your home fully, period, regardless of what that costs, even if reconstruction blows past your stated limit. Some insurers call it "[extended replacement cost](/home-insurance-extended-replacement-cost/)" or "unlimited replacement cost," and the distinctions between those matter more than most agents will tell you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard replacement cost caps your payout at your policy limit, even if rebuilding costs more.</li><li style="margin:5px 0">Guaranteed replacement cost (GRC) covers full rebuild costs above your limit, with no stated ceiling.</li><li style="margin:5px 0">Extended replacement cost typically adds only 20-50% above your limit ,  not the same as GRC.</li><li style="margin:5px 0">Construction costs have risen sharply; policies written before 2022 are especially likely to be underinsured.</li><li style="margin:5px 0">GRC is not universally available; some high-value, coastal, or older homes can't qualify.</li></ul></div>
-
 
 ## What "Guaranteed" Actually Means (and What It Doesn't)
 
@@ -43,13 +41,11 @@ To qualify for GRC coverage and actually collect on it, you typically have to me
 2. You must accept automatic inflation adjustments annually. Refuse those increases and you may void the guarantee.
 3. You must report major renovations or additions promptly. Add a 600-square-foot addition and don't tell your insurer, and they can deny the GRC promise on the grounds that the home being rebuilt isn't the home they agreed to cover.
 
-I've seen claim denials on all three of those grounds. The second one catches people especially off guard. The letter comes every year showing a small premium increase tied to an inflation adjustment, some policyholders call to opt out to save $40, and they've just quietly dismantled the most valuable part of their coverage.
+Claim denials happen on all three of those grounds. The second one catches people especially off guard. The letter comes every year showing a small premium increase tied to an inflation adjustment, and some policyholders call to opt out to save $40, not realizing they've just quietly dismantled the most valuable part of their coverage.
 
 ## Extended vs. Guaranteed: The Comparison That Actually Matters
 
 > **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 These two terms get used interchangeably in marketing materials. They are not the same thing.
 
@@ -89,7 +85,7 @@ A [document safe rated for fire and water damage](https://www.amazon.com/s?k=fir
 
 Guaranteed replacement cost covers the structure. Your personal property is a separate coverage line, and most people are underinsured there too, but through a different mechanism: they never completed a home inventory.
 
-I've seen GRC pay out perfectly on the dwelling and then watched a family argue for months over $40,000 in personal property contents because they couldn't document what they owned. A home inventory app (like Encircle or the III's free home inventory checklist) takes a few hours and eliminates that fight entirely. A [water leak sensor](https://www.amazon.com/s?k=water+leak+detector+sensor&tag=) won't help you here, but it's worth mentioning: preventing the claim beats winning the argument after. (The site may earn a commission from product links.)
+GRC can pay out perfectly on the dwelling while disputes drag on for months over tens of thousands in personal property contents when the policyholder can't document what they owned. A home inventory app (like Encircle or the III's free home inventory checklist) takes a few hours and eliminates that fight entirely. A [water leak sensor](https://www.amazon.com/s?k=water+leak+detector+sensor&tag=) won't help you here, but preventing the claim beats winning the argument after. (The site may earn a commission from product links.)
 
 ## What to Ask Before You Renew
 
@@ -108,7 +104,6 @@ One small operational note: when you call to ask these questions, the customer s
 - Marshall & Swift/CoreLogic Residential Cost Handbook: Industry-standard residential replacement cost estimation methodology used by insurers and independent appraisers.
 
 ---
-
 
 *Photo: [Oscar Sánchez](https://www.pexels.com/@oscar-sanchez197) via Pexels*
 

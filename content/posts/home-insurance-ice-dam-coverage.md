@@ -53,7 +53,7 @@ Standard HO-3 policies (the most common homeowner form) generally cover ice dam 
 
 What's almost never covered: the cost to remove the ice dam itself. Hiring a company to steam or chip the ice off your eaves runs $400 to $1,200 depending on roof size and severity. That's your money, not the insurer's.
 
-What's definitely not covered by standard homeowner insurance: any damage classified as flooding. Groundwater or snowmelt entering through a foundation is a flood claim, and that requires a separate NFIP or private flood policy. I don't have good numbers on how often this confusion causes claim denials, but I've seen it happen more than once.
+What's definitely not covered by standard homeowner insurance: any damage classified as flooding. Groundwater or snowmelt entering through a foundation is a flood claim, and that requires a separate NFIP or private flood policy. This confusion commonly causes claim denials.
 
 These percentages are rough industry estimates based on claim outcome data and adjuster experience, not a formal study. Actual outcomes vary by policy, insurer, and how well the claim is documented.
 
@@ -82,7 +82,7 @@ That last row deserves a moment. If you have an older roof and an ACV policy, an
 
 Step one: photograph everything before any cleanup or emergency work. Roof, gutters, eaves, interior ceilings, walls, any visible water. Timestamp the photos. This takes 20 minutes and is worth potentially thousands of dollars.
 
-Step two: call your insurer to report the claim, but don't characterize the damage in ways you can't support. Say "water infiltration following ice buildup on the roof during the recent storm" rather than something vaguer or something that implies long-term neglect. That phrasing matters. I've seen initial call transcripts pulled during disputes.
+Step two: call your insurer to report the claim, but don't characterize the damage in ways you can't support. Say "water infiltration following ice buildup on the roof during the recent storm" rather than something vaguer or something that implies long-term neglect. Phrasing matters because insurers may review call transcripts during disputes.
 
 Step three: get emergency protective measures done, and save every receipt. Tarping a damaged roof, drying out wet areas, basic board-up work: these are usually covered under your policy's "reasonable emergency measures" clause. Keep the invoices. An emergency roof tarp service typically runs $300 to $700.
 

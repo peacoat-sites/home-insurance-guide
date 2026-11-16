@@ -18,9 +18,7 @@ If you've opened your homeowner's insurance renewal letter recently and done a d
 
 Here's the short version: when it costs more to rebuild a house, it costs your insurer more to pay a claim. And when claims get more expensive, premiums follow. According to Insurify's March 2026 analysis, U.S. [home insurance](/home-insurance-water-damage-coverage/) premiums are projected to rise 4% this year to an average of $3,057, making 2026 the fifth consecutive year of increases. That follows a 12% jump in 2025. Since 2021, premiums have climbed 46%, roughly three times the rate of general inflation. Severe weather gets most of the blame in press releases, and it deserves a share of it. But tariffs are now a real second engine driving costs upward, and most policyholders have no idea.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">U.S. home insurance premiums average $3,057 in 2026, up 46% since 2021 per Insurify.</li><li style="margin:5px 0">Tariffs on lumber, steel, and aluminum could make claims 20–30% more expensive to settle in 2026.</li><li style="margin:5px 0">NAHB estimates tariffs add $10,900 in costs per new home built.</li><li style="margin:5px 0">California faces the steepest projected 2026 hike at 16%; Georgia, New Mexico, and Nebraska also face double-digit increases.</li><li style="margin:5px 0">The $14B in imported residential materials is now subject to ongoing 10% global tariffs.</li></ul></div>
-
 
 ## Why Building Material Costs Feed Directly Into Your Premium
 
@@ -33,8 +31,6 @@ A BCG analysis found that higher construction material costs from tariffs could 
 ## The Gap Between What Your Home Would Cost to Rebuild and What You're Insured For
 
 > **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the part that keeps me up at night, honestly. Most homeowners are insured for what their home was worth a few years ago, not what it would cost to rebuild it today. That gap has been widening since 2021, and tariffs are making it wider faster.
 
@@ -53,13 +49,11 @@ Here's what I tell people to do before they just pay the renewal: call your insu
 
 Not every policyholder is in the same position. Where you live matters a lot, both for your exposure to severe weather claims and for local labor and material costs that compound the tariff effect.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Projected 2026 home insurance premium increases by state (selected)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">16%</span></div><div class="sc-row"><span class="sc-label">Georgia</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">New Mexico</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">13%</span></div><div class="sc-row"><span class="sc-label">Nebraska</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">11%</span></div><div class="sc-row"><span class="sc-label">National avg</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">4%</span></div><div class="sc-src">Source: Insurify, March 2026</div></div>
-
 
 California faces the steepest projected state-level increase at 16% in 2026, per Insurify. Georgia, New Mexico, and Nebraska are also projected to see double-digit increases. California's situation is particularly acute because wildfire rebuilding costs were already straining insurers before tariffs entered the picture. Add in the high cost of materials in that market and the ongoing insurer exits from the state, and policyholders there are in a genuinely difficult spot.
 
-If you're in a high-cost or high-risk state, the leverage you have is limited, but it isn't zero. Shopping your policy, raising your deductible strategically, and making sure your coverage limits are accurate (not inflated beyond your actual rebuild cost either) can all make a meaningful difference.
+In a high-cost or high-risk state, your options are narrower, but you still have some control. Shopping your policy, raising your deductible strategically, and making sure your coverage limits are accurate (not inflated beyond your actual rebuild cost either) can help lower your premium.
 
 ## What You Can Actually Do With This Information
 

@@ -80,7 +80,7 @@ Pull your declarations page and your full policy document. You want the HO-3 for
 | "Ensuing loss" clause | Critical: some policies cover damage caused by a covered peril even if the initial cause is excluded |
 | "Fungi, wet rot, dry rot" exclusion | Often paired with water exclusions; can block claims where wood rot contributed to foundation movement |
 
-That "ensuing loss" clause is genuinely important and consistently overlooked. I've seen it flip a denial into a paid claim. The logic: even if the underlying cause (earth movement) is excluded, if a covered peril causes additional damage, that second layer of damage may be covered. It's not a slam dunk, but it's worth a conversation with a public adjuster or attorney before you accept a denial.
+That "ensuing loss" clause is genuinely important and consistently overlooked. An ensuing loss clause can flip a denial into a paid claim. The logic: even if the underlying cause (earth movement) is excluded, if a covered peril causes additional damage, that second layer of damage may be covered. The outcome isn't guaranteed, but it's worth a conversation with a public adjuster or attorney before you accept a denial.
 
 Scenario: Homeowner in Nashville has a severe drought year that causes soil shrinkage and foundation cracking. Standard exclusion applies, claim denied. However, the foundation movement cracked the gas line running through the slab. Ensuing loss argument: the gas line damage and subsequent fire risk is a covered peril (fire/explosion) caused by the excluded earth movement. After engaging a public adjuster, insurer agreed to cover the gas line repair and interior wall damage totaling $12,200. The foundation repair itself, $21,000, remained the homeowner's responsibility.
 

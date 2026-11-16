@@ -44,7 +44,7 @@ The standard ISO HO-3 policy language (which most U.S. residential policies are 
 
 A few things buried in that language deserve attention:
 
-Either party can invoke it. Your insurer can force you into appraisal just as easily as you can force them. I've seen insurers use this strategically to slow-walk claims they think are inflated.
+Either party can invoke it. Your insurer can force you into appraisal just as easily as you can force them. Insurers may invoke appraisal strategically to slow-walk claims they think are inflated.
 
 "Independent" is doing heavy lifting. Your appraiser cannot be your public adjuster in most states (check your policy). They can't be someone with a direct financial interest in the outcome. This trips people up constantly.
 
@@ -55,8 +55,6 @@ The process only addresses the amount of loss. If your insurer is denying covera
 ## When to Invoke It (and When Not To)
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The appraisal clause is worth invoking when the gap between what you're claiming and what the insurer is offering is significant and specific. If you have a $90,000 [roof and siding loss](/does-home-insurance-cover-roof-damage/) and the insurer offers $54,000, you have a real valuation dispute. Invoke it.
 
@@ -111,9 +109,7 @@ Worked example: A Minnesota homeowner suffered a burst pipe loss in winter 2025.
 
 I'll be blunt here. Some insurers low-ball initial estimates knowing that most policyholders won't push back. It's not fraud. It's just the business reality that under-settled claims are profitable when the majority of claimants accept the first number.
 
-The appraisal clause is one of the few structural levers policyholders actually have. Invoking it signals you're serious, and in my experience, a fair number of claims settle between the demand letter and the actual appraisal. Insurers don't love the process either. It costs them money, creates a paper trail, and occasionally results in awards that exceed what they were trying to pay.
-
-One thing I don't have great data on: how often appraisal awards end up above vs. below the midpoint between the two original estimates. I've seen it go both ways. Anyone claiming a clear pattern without solid industry data is guessing.
+The appraisal clause is one of the few structural levers policyholders actually have. Invoking it signals you're serious, and many claims settle between the demand letter and the actual appraisal. Insurers don't love the process either. It costs them money, creates a paper trail, and occasionally results in awards that exceed what they were trying to pay.
 
 Keeping a detailed [home inventory](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) (the site may earn a commission on purchases made through links like this) strengthens your position in any valuation dispute, not just appraisal. If you can document what you had and what it cost, the argument about replacement value becomes much harder for an insurer to dodge.
 
@@ -128,7 +124,6 @@ Keeping a detailed [home inventory](https://www.amazon.com/s?k=home+inventory+ap
 - United Policyholders: Nonprofit providing state-specific guidance on homeowner claims disputes and appraisal processes.
 
 ---
-
 
 ---
 

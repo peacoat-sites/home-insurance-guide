@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Getting married changes your insurance situation faster than most newlyweds realize. The gap between "we should probably update that" and actually doing it has cost couples real money.
 
-Here's the thing: most people treat homeowners insurance like a utility. You get it when you buy the house, pay it automatically, and don't think about it again until something breaks. Marriage breaks that pattern in ways your insurer won't call to explain.
+Most people treat homeowners insurance like a utility. You get it when you buy the house, pay it automatically, and don't think about it again until something breaks. Marriage breaks that pattern in ways your insurer won't call to explain.
 
 ## What Actually Changes When You Merge Households
 As of June 2026, 

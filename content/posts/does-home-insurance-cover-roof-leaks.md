@@ -29,7 +29,7 @@ You wake up to a water stain spreading across your bedroom ceiling. Maybe you he
 
 ## What Home Insurance Actually Covers (and Why "Roof Leak" Isn't a Complete Answer)
 As of June 2026, 
-Here's the thing about homeowner's insurance that the brochures don't say plainly: policies don't cover *damage types*. They cover *causes*. This is called a "peril," and it's the single most important concept to understand when a roof leak is involved.
+Homeowner's insurance policies don't cover *damage types*. They cover *causes*. This is called a "peril," and it's the single most important concept to understand when a roof leak is involved.
 
 Standard homeowner's policies (the HO-3 form is the most common in the U.S.) cover your home against sudden and accidental losses from named or open perils, depending on the form. A tree branch punching through your roof during a storm? Covered. Water that slowly seeped in for two years because a flashing seal deteriorated? Almost certainly not covered.
 
@@ -56,7 +56,7 @@ The word "sudden" does a lot of heavy lifting in insurance policy language. If a
 
 ## The Maintenance Problem: The Gap That Catches Most Homeowners Off Guard
 
-You might be wondering why maintenance exclusions seem so broad. I've seen this confusion come up constantly with clients who genuinely believed they were covered for something any reasonable person would consider a surprise.
+Maintenance exclusions often appear broad. A common point of confusion: many people believe they're covered for something that would reasonably seem like a surprise.
 
 Here's what I tell people: insurers aren't trying to trick you, but they're also not in the business of covering deferred maintenance. If your roof is 22 years old, your shingles are curling, and you've had a slow drip above your closet for a year that you patched with roof cement from the hardware store, an adjuster will see all of that. They look at the age of the damage, the condition of surrounding materials, and whether you took reasonable steps to prevent loss.
 
@@ -83,7 +83,7 @@ Here's how the typical claim breaks down:
 
 **[Additional living expenses (Coverage D)](/what-is-loss-of-use-coverage-explained/)** may kick in if the damage makes your home temporarily uninhabitable. This covers hotel stays and meals above your normal food costs while repairs happen.
 
-One critical point people often miss: even if the roof leak itself is covered, any mold that results from a slow, long-standing leak is frequently excluded or subject to a separate, much lower sublimit. Check your declarations page carefully for mold coverage caps. This is one of the more painful surprises I've seen people encounter after the fact.
+One critical point people often miss: even if the roof leak itself is covered, any mold that results from a slow, long-standing leak is frequently excluded or subject to a separate, much lower sublimit. Check your declarations page carefully for mold coverage caps. This is a painful surprise to discover after damage occurs.
 
 ## A Practical Guide: What to Do the Moment You Discover a Roof Leak
 

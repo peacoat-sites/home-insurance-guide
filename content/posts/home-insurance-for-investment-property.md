@@ -33,9 +33,7 @@ This happens more often than most landlords expect. I've reviewed enough denied 
 
 **"Homeowners insurance covers all disasters"**: Most people assume a standard homeowners policy is a comprehensive safety net against any catastrophe. But the Insurance Information Institute reports that standard policies exclude approximately 15-20% of common claims, with water damage, floods, and earthquakes topping the list. A 2023 CoreLogic study found that 40% of homeowners were unaware their policies didn't cover flood damage, despite flooding being the #1 insured peril. For investment properties specifically, this gap widens: landlord policies (DP-3) still exclude business losses, tenant property, and loss of rental income. The takeaway? Your policy is a filter, not a blanket.
 
-
 **"Homeowners insurance covers all disasters"**: Most people assume that if they buy homeowners insurance, they're protected against any catastrophic event. But the data tells a different story. According to the Insurance Information Institute, standard homeowners policies explicitly exclude flood damage (requiring separate flood insurance), earthquake damage (requiring a separate endorsement), and wear-and-tear claims. In fact, the National Association of Insurance Commissioners found that nearly 40% of insurance claims are denied due to exclusions or policy limitations. For investment properties, this gap widens dramatically, landlord policies (DP-3) have even stricter exclusions than owner-occupied policies. Without understanding these gaps, you're betting your investment on coverage that likely doesn't exist.
-
 
 A standard HO-3 homeowners policy is written for owner-occupied residences. The pricing model, the risk assumptions, the underwriting criteria, all of it assumes you're living there. When you rent the property to tenants, the risk profile changes dramatically. Tenants don't have the same financial stake in protecting the property. Maintenance habits differ. Vacancy periods create their own set of hazards. Insurers know all of this, which is why they specifically exclude rental activity from most standard policies.
 
@@ -67,7 +65,7 @@ Let's be direct about something. Standard landlord insurance does not cover mali
 
 Some insurers offer a "tenant vandalism" endorsement that covers intentional damage beyond normal wear and tear. It's not universal, and it usually comes with sublimits. Ask specifically whether your policy covers it and at what amount.
 
-Accidental damage is different. If a tenant accidentally causes a kitchen fire or a burst pipe results from neglect, that may be covered under your dwelling policy. But adjusters will scrutinize the circumstances carefully. In my experience, "neglect" is often a contested word in these claims. Insurers have a financial incentive to classify damage as maintenance neglect (excluded) rather than a sudden accident (covered). Document everything about the property's condition at move-in and move-out with time-stamped photos. This documentation has saved landlords I've worked with thousands of dollars in disputed claims.
+Accidental damage is different. If a tenant accidentally causes a kitchen fire or a burst pipe results from neglect, that may be covered under your dwelling policy. But adjusters will scrutinize the circumstances carefully. The word "neglect" is often contested in these claims. Insurers have a financial incentive to classify damage as maintenance neglect (excluded) rather than a sudden accident (covered). Document everything about the property's condition at move-in and move-out with time-stamped photos. This documentation can help protect you in disputed claims.
 
 Also: require your tenants to carry renters insurance. You can typically make this a lease requirement. It doesn't protect your structure, but it reduces the likelihood that a tenant's belongings dispute becomes your problem, and some landlord policies actually offer slight premium discounts when tenants carry their own coverage.
 
@@ -90,7 +88,7 @@ For landlords shopping for coverage, a proper [home insurance quotes comparison]
 
 ## How to Set Coverage Limits Correctly
 
-This is where I've seen some of the most damaging mistakes. Landlords set their dwelling coverage based on what they paid for the property, or worse, what they owe on the mortgage, rather than what it would cost to rebuild from the ground up.
+A common mistake is setting dwelling coverage based on what you paid for the property, or what you owe on the mortgage, rather than what it would cost to rebuild from the ground up.
 
 Purchase price and replacement cost are two different numbers. In many markets right now, reconstruction costs per square foot have increased significantly over the past several years due to labor and material inflation. If you insured your rental property three years ago and haven't reviewed the coverage since, you may be significantly underinsured.
 
@@ -135,7 +133,6 @@ Owning rental property is one of the more effective ways to build long-term weal
 - [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20)
 - [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

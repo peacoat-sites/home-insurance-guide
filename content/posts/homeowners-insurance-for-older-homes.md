@@ -63,7 +63,7 @@ When an underwriter looks at an older home, they're really asking four questions
 
 **Electrical systems.** Knob-and-tube wiring (common in homes built before 1950) and aluminum wiring (common in homes built from the mid-1960s to mid-1970s) are two of the biggest red flags in the industry. Many insurers will refuse to write a policy, or will exclude fire coverage caused by those systems. Fuse boxes, rather than circuit breakers, are another concern. If your home has any of these, expect direct questions on your application and potentially a requirement to upgrade before coverage binds.
 
-**Plumbing.** Original galvanized steel pipes corrode from the inside out. Polybutylene pipes, used widely from 1978 to 1995, have a well-documented failure history and are frequently excluded from coverage. Cast iron drain lines crack and collapse. If you don't know what your pipes are made of, hire a plumber to look before you buy the home. I've seen too many buyers skip this step and pay for it later.
+**Plumbing.** Original galvanized steel pipes corrode from the inside out. Polybutylene pipes, used widely from 1978 to 1995, have a well-documented failure history and are frequently excluded from coverage. Cast iron drain lines crack and collapse. If you don't know what your pipes are made of, hire a plumber to inspect them before you buy the home.
 
 **Roof.** Age matters here more than almost anywhere else. Most insurers will either refuse to write coverage on a roof older than 20 years, reduce the payout to actual cash value rather than replacement cost, or add a separate roof deductible. A 25-year-old asphalt shingle roof that costs $18,000 to replace might have an actual cash value of $4,000. If your policy pays actual cash value only, that's your check.
 
@@ -128,7 +128,6 @@ Owning an older home is genuinely different from owning new construction, and yo
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
 - [Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

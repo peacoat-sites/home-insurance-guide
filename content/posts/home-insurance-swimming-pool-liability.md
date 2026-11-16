@@ -49,7 +49,7 @@ What standard policies typically will not cover: intentional acts, business use 
 
 ## The Disclosure Problem (This One Gets People)
 
-I've seen more claims denied for non-disclosure than almost any other reason. You install an above-ground pool in July. You don't call your insurer because it seems minor, it cost $800 at Walmart, it's not a big deal. Except it is. Depending on your insurer's underwriting guidelines, failing to disclose a pool, whether in-ground or above-ground, can give them grounds to deny a claim or, in serious cases, rescind your policy entirely.
+Non-disclosure is a common reason for claim denials. For example, installing an above-ground pool without notifying your insurer might seem minor, but it can have serious consequences. Depending on your insurer's underwriting guidelines, failing to disclose a pool, whether in-ground or above-ground, can give them grounds to deny a claim or, in serious cases, rescind your policy entirely.
 
 Call your insurer before the pool goes in. Or the day after if you're reading this late. Just call. It's an uncomfortable conversation that takes ten minutes and can prevent a catastrophe.
 
@@ -61,7 +61,7 @@ They'll likely ask about safety features, which brings up the next issue.
 
 Most states have pool fencing laws, and your insurer almost certainly has their own requirements on top of that. A four-sided fence (not just three sides with the house as the fourth), self-latching gates, minimum height requirements around 48 inches, alarms on doors leading to the pool area. Some insurers will inspect before issuing or renewing. Your state insurance department's website (find yours through the [NAIC's state map](https://www.naic.org/state_web_map.htm)) often publishes local pool safety codes that apply to your area.
 
-Here's the part most homeowners skip: document your safety features and keep that documentation. Take dated photos. Keep receipts for the fence installation, the gate alarm, the pool alarm. If a claim ever hits, you want to be able to show that you took reasonable precautions. I've seen claims go better, and go worse, entirely because of whether the homeowner had that paper trail.
+Document your safety features and keep that documentation. Take dated photos and keep receipts for the fence installation, the gate alarm, the pool alarm, and other precautions. When a claim is filed, you'll want to be able to show that you took reasonable precautions.
 
 A few inexpensive things worth considering if you have a pool. A door alarm for any home entrance that leads directly to the pool area runs under $30 on Amazon for models like the Poolguard DAPT-2. A water leak sensor near pool equipment catches slow failures before they damage surrounding structures. A home inventory app like Encircle (free) documents what you own and what safety equipment you've installed. None of these are substitutes for a real fence and a real conversation with your insurer. But they help.
 

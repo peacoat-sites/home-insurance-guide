@@ -25,10 +25,9 @@ author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 lastmod: 2026-07-08
 ---
-Your fence comes down in a windstorm. You file a claim. The adjuster tells you it's only covered up to $500 because your policy treats fencing as "other structures" and caps it at 10% of your dwelling coverage, except yours has a sublimit buried on page 31. I've seen this exact scenario play out dozens of times, and the homeowner is always blindsided. Not because they didn't read their policy, but because nobody told them fences sit in a strange middle ground of home insurance that most agents gloss over at signing.
+Your fence comes down in a windstorm. You file a claim. The adjuster tells you it's only covered up to $500 because your policy treats fencing as "other structures" and caps it at 10% of your dwelling coverage, except yours has a sublimit buried on page 31. Homeowners in this situation are often blindsided not because they didn't read their policy, but because fences sit in a strange middle ground of home insurance that many agents gloss over at signing.
 
 So let's fix that.
-
 
 <div class="value-module">
  <div class="vm-head">Fence Coverage Gap Finder Checklist</div>
@@ -59,7 +58,7 @@ Here's the part nobody mentions: some policies layer sublimits on top of that. I
 
 This is where people get tripped up even when their coverage amount is fine.
 
-Perils-based policies (and most HO-3s are "open perils" for the dwelling but "named perils" for other structures, which is a distinction that matters here) will typically cover your fence if it's damaged by wind and hail, fire, vandalism, falling objects like tree limbs, vehicle impact, and sometimes theft of fence materials. What they won't cover, almost universally: rot, gradual deterioration, insect damage, and general wear and tear. This sounds obvious until you have a fence that's 60% rotted and then a windstorm knocks it over. I've watched adjusters deny those claims by arguing the fence would have fallen anyway due to its pre-existing condition. They're not always wrong, and they're rarely wrong legally. A fence that was already failing doesn't get a free repair just because the wind finished the job.
+Perils-based policies (and most HO-3s are "open perils" for the dwelling but "named perils" for other structures, which is a distinction that matters here) will typically cover your fence if it's damaged by wind and hail, fire, vandalism, falling objects like tree limbs, vehicle impact, and sometimes theft of fence materials. What they won't cover, almost universally: rot, gradual deterioration, insect damage, and general wear and tear. This sounds obvious until you have a fence that's 60% rotted and then a windstorm knocks it over. Adjusters often deny these claims by arguing the fence would have fallen anyway due to its pre-existing condition. They're not always wrong, and they're rarely wrong legally. A fence that was already failing doesn't get a free repair just because the wind finished the job.
 
 Flooding is also excluded under a standard homeowner policy, full stop. If your fence washes away in a flash flood, you need a separate NFIP flood policy or private flood insurance.
 
@@ -89,7 +88,6 @@ The [IBHS fortification guides](https://ibhs.org/) also have recommendations for
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
@@ -103,7 +101,6 @@ The [IBHS fortification guides](https://ibhs.org/) also have recommendations for
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
 - [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20)
 - [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

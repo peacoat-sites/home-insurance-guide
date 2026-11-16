@@ -45,7 +45,7 @@ The critical thing to understand is that your policy only covers you for inciden
 
 ## The Breed Exclusion Problem: This Is Where People Get Surprised
 
-Here's where I've seen real heartbreak. A family has a dog they've had for years, pays their premiums, and never thinks to ask whether their breed is even covered. Then the bite happens, and they find out after the fact that their insurer specifically excluded their dog.
+A common oversight is failing to ask whether your dog's breed is covered before a bite occurs. Many people discover too late that their insurer has excluded their dog's breed.
 
 Breed exclusions and restrictions are common. Many insurers maintain lists of breeds they won't cover or will only cover with restrictions. Commonly excluded breeds include pit bulls and pit bull mixes, Rottweilers, German Shepherds, Doberman Pinschers, Chow Chows, Akitas, Siberian Huskies, and wolf hybrids. Some companies exclude based on weight, not breed. Others exclude any dog with a prior bite history, regardless of breed.
 
@@ -105,7 +105,7 @@ Some options to explore:
 | Renter's policy with liability rider | For renters who don't have any coverage currently | Renters in apartments or rented homes |
 | State FAIR Plan | State-backed coverage of last resort | Owners who can't get coverage anywhere else |
 
-A canine liability policy, in particular, is worth understanding. These are niche products, but they're legitimate, and in my experience, owners of excluded breeds who do their homework usually find at least one option available to them.
+A canine liability policy is worth understanding. These are niche products, but they're legitimate, and owners of excluded breeds who research their options usually find at least one available.
 
 ---
 

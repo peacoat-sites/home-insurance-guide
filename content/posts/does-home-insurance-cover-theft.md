@@ -31,9 +31,7 @@ Standard [homeowners insurance](/homeowners-insurance-mold-coverage/) does cover
 
 Here's what actually happens when someone breaks into your home, grabs your laptop, and disappears.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowners policies cover theft under personal property (Coverage C), but sub-limits often cap payouts at $1,500 for jewelry and $2,500 for firearms.</li><li style="margin:5px 0">Actual cash value (ACV) policies depreciate stolen items, you won't get replacement cost without a specific rider.</li><li style="margin:5px 0">Items stolen from your car are typically covered by homeowners, not auto insurance, but usually subject to a $500-$1,000 deductible.</li><li style="margin:5px 0">Scheduled personal property riders are the fix for high-value items and often cost only $15-$30/year per item.</li><li style="margin:5px 0">Roughly 38% of theft claims are reduced or denied due to inadequate documentation, per industry loss data.</li></ul></div>
-
 
 ## What the Policy Actually Covers
 
@@ -41,13 +39,11 @@ Theft falls under Coverage C, the [personal property](/homeowners-insurance-pers
 
 That coverage also extends outside the home. Your stuff stolen from your car, a hotel room, or a storage unit is typically covered under Coverage C. (Storage units often carry a 10% sub-limit of your total Coverage C amount, so if you've got $100,000 in personal property coverage, only $10,000 applies to stuff in the unit. Check your declarations page.) The National Association of Insurance Commissioners [(NAIC)](https://www.naic.org/) confirms this basic structure is standard across most state-regulated policies, but the sub-limits vary significantly by carrier.
 
-What's not covered: theft by a household member or a long-term resident. If your roommate walks off with your TV, that's a civil matter, not a covered loss. I've seen families learn this distinction the hard way.
+What's not covered: theft by a household member or a long-term resident. If your roommate walks off with your TV, that's a civil matter, not a covered loss.
 
 ## The Sub-Limit Trap
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where policies get quietly brutal. Nearly every HO-3 has special limits on specific categories of property, regardless of your total Coverage C amount. They're buried in the policy document, usually starting around page 8.
 
@@ -113,9 +109,7 @@ A few scenarios genuinely surprise policyholders:
 
 **Worked example 3:** $2,800 emerald necklace goes missing after a party. Homeowner can't determine if it was stolen or mislaid. No evidence of forced entry or known theft. Insurer denies claim under the "mysterious disappearance" exclusion. Had the item been on a scheduled rider, some riders cover mysterious disappearance where standard Coverage C doesn't.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common theft sub-limits in standard HO-3 policies</div><div class="sc-row"><span class="sc-label">Jewelry &amp; Watches</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$1,500</span></div><div class="sc-row"><span class="sc-label">Firearms</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,500</span></div><div class="sc-row"><span class="sc-label">Silverware</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,500</span></div><div class="sc-row"><span class="sc-label">Cash &amp; Gift Cards</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Securities &amp; Deeds</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$1,500</span></div><div class="sc-src">Source: NAIC policy form guidelines and industry claim data, 2026</div></div>
-
 
 ## Sources
 
@@ -126,7 +120,6 @@ A few scenarios genuinely surprise policyholders:
 - [Consumer Federation of America, "Claim Filing Guide" (2024)](https://consumerfed.org/): Analysis of documentation's impact on claim settlement speed and outcomes.
 
 ---
-
 
 *Photo: [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885) via Pexels*
 

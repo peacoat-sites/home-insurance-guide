@@ -29,9 +29,7 @@ Most homeowners read their policy once, file it in a drawer, and assume they're 
 
 The exclusions section of a standard HO-3 policy is not a footnote. It's closer to half the document, and it's written in language designed to be technically clear while remaining practically opaque to anyone who didn't go to law school. Let me fix that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard HO-3 policies exclude floods, earthquakes, sewer backup, and gradual damage, all four require separate coverage or endorsements.</li><li style="margin:5px 0">Mold claims are routinely denied if the insurer can show the source was a long-term, unaddressed leak rather than sudden water damage.</li><li style="margin:5px 0">"Ordinance or law" exclusions can leave you paying tens of thousands in code-upgrade costs after a covered loss.</li><li style="margin:5px 0">Home-based business equipment is typically capped at $2,500 under standard policies, often a fraction of its actual replacement cost.</li><li style="margin:5px 0">Reviewing your declarations page annually, not just at purchase, is the only way to catch coverage that's drifted out of sync with your actual risk.</li></ul></div>
-
 
 ## The Exclusions That Catch People by Surprise
 
@@ -39,17 +37,15 @@ Flood is the most famous one, and still the most misunderstood. A pipe bursts in
 
 Earthquake is the same story. If you live in California, the Pacific Northwest, or along the New Madrid Seismic Zone running through Missouri and Arkansas, you need a separate policy or endorsement. Period. The standard policy won't cover the cracked foundation or the collapsed chimney if the cause was seismic. Some carriers offer endorsements; the California Earthquake Authority is the largest provider for that state. Prices vary enormously by soil type and proximity to fault lines.
 
-Here's the one that genuinely surprised me early in my career: sewer and drain backup. A backed-up sewer line fills your basement with, let's say, material you'd prefer not to think about. Your standard policy almost certainly excludes it. The good news is that backup coverage is usually available as an add-on endorsement for somewhere between $40 and $120 a year, depending on your carrier and location. I'd call that one of the better values in home insurance. I've seen backup claims that ran past $30,000 in remediation and [personal property](/scheduled-personal-property-insurance/) loss.
+One coverage gap that catches many homeowners off guard is sewer and drain backup. A backed-up sewer line fills your basement with, let's say, material you'd prefer not to think about. Your standard policy almost certainly excludes it. The good news is that backup coverage is usually available as an add-on endorsement for somewhere between $40 and $120 a year, depending on your carrier and location. I'd call that one of the better values in home insurance. Backup claims can run past $30,000 in remediation and [personal property](/scheduled-personal-property-insurance/) loss.
 
 ## Gradual Damage: The Exclusion the Industry Leans On Hardest
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Read your policy's exclusions section and you'll find language like "continuous or repeated seepage," "wear and tear," "deterioration," and "latent defect." These phrases collectively do a lot of heavy lifting for [insurance companies](/best-homeowners-insurance-companies/). If your roof has been slowly leaking for two years and the damage finally becomes impossible to ignore, an adjuster is going to look very carefully at whether this was a sudden, accidental loss (potentially covered) or a gradual accumulation (not covered).
 
-I thought for years that this was a gray area open to negotiation. It is, sometimes. But insurers have gotten better at using inspection reports, satellite imagery, and contractor testimony to establish timelines. If your gutters haven't been cleaned since 2021 and there's obvious rot behind the fascia board, that's not going to look like sudden damage.
+Whether negligence versus sudden damage is a gray area open to negotiation depends on the situation. But insurers have gotten better at using inspection reports, satellite imagery, and contractor testimony to establish timelines. If your gutters haven't been cleaned since 2021 and there's obvious rot behind the fascia board, that's not going to look like sudden damage.
 
 The practical upshot: document maintenance. Take photos twice a year. Keep receipts from roofers, plumbers, HVAC techs. A $4,000 claim you can document as sudden will get paid. The same claim without records might not.
 
@@ -59,11 +55,11 @@ The practical upshot: document maintenance. Take photos twice a year. Keep recei
 
 Mold is its own battlefield. Most policies cover mold only when it results directly from a covered peril, and only if you took "reasonable steps" to mitigate it promptly. That second part is where claims die. If a pipe burst in January and you're filing a mold claim in June, expect questions about why it took five months. Reasonable mitigation generally means calling a water remediation company within 24 to 72 hours of discovering water damage, not when it becomes convenient.
 
-Dry rot gets even less sympathy from carriers. It's treated essentially as a maintenance failure across the board, which is usually accurate. Still, I've seen homeowners surprised that their crumbling porch posts aren't covered after a storm peels off the paint and exposes the damage underneath. Storm didn't cause the rot. It just revealed it.
+Dry rot gets even less sympathy from carriers. It's treated essentially as a maintenance failure across the board, which is usually accurate. Homeowners are often surprised that crumbling porch posts aren't covered after a storm peels off the paint and exposes the damage underneath. Storm didn't cause the rot. It just revealed it.
 
 ## Ordinance or Law: The Expensive One Nobody Talks About
 
-Here's the exclusion that produces some of the largest unexpected out-of-pocket costs I've seen. Let's say your kitchen catches fire and causes $80,000 in damage. Your policy covers $80,000 in repairs, great. But your house was built in 1978, and current building codes require upgraded electrical panels, fire-rated drywall, and a different egress window configuration than what was originally there. Those upgrades might run another $15,000 to $25,000. The standard policy pays to restore what you had. It does not pay to bring you up to code.
+One exclusion produces some of the largest unexpected out-of-pocket costs: Let's say your kitchen catches fire and causes $80,000 in damage. Your policy covers $80,000 in repairs, great. But your house was built in 1978, and current building codes require upgraded electrical panels, fire-rated drywall, and a different egress window configuration than what was originally there. Those upgrades might run another $15,000 to $25,000. The standard policy pays to restore what you had. It does not pay to bring you up to code.
 
 Ordinance or law coverage is an endorsement that fills this gap. It's not expensive, typically in the range of 5% to 15% of your dwelling coverage amount as a limit, and the premium addition is usually modest. If your home was built before the 1990s, I'd consider this one non-negotiable.
 
@@ -101,7 +97,6 @@ Business liability is a harder problem. If a client visits your home and slips o
 - III "Homeowners Insurance Basics" (current as of 2026): Breakdown of HO-3 form coverage and standard exclusion categories
 
 ---
-
 
 *Photo: [Pok Rie](https://www.pexels.com/@pok-rie-33563) via Pexels*
 

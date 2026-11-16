@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 I spent 14 years watching claims get denied over fine art. Not because the art was damaged. Because the owner never actually disclosed it to the insurer. Or disclosed it wrong. And after all that, you'd think I'd have a simple answer for people: get separate coverage. But it's messier than that, and I want to show you exactly where the gaps are and how to avoid them.
 
-Here's the thing most homeowners don't realize: your standard homeowner's policy is actively hostile to valuable art, even if it sounds like it covers everything. The dollar limits are low. The exclusions hide in plain language. And if your $30,000 painting gets damaged, your insurer will spend more time arguing about whether it's "collectible property" or "artwork" than it takes to total it.
+Standard homeowner's policies often don't adequately cover valuable art, even if the language suggests broad coverage. The dollar limits are low. The exclusions hide in plain language. And if your $30,000 painting gets damaged, your insurer will spend more time arguing about whether it's "collectible property" or "artwork" than it takes to total it.
 
 I'm going to walk you through what actually happens when you try to insure art the regular way, then show you what works.
 
@@ -40,7 +40,7 @@ I've reviewed hundreds of claims. The ones that stick with me aren't the ones de
 
 Here's what else lives in that fine print: most standard homeowners policies exclude coverage for paintings, sculptures, and prints unless they're explicitly listed and scheduled on your policy. And even then, there are carve-outs. Damage from changes in temperature or humidity? That's usually not covered. Fading from light exposure? Depends on the peril, but often excluded. Damage during restoration or repair? Depends.
 
-I tested this myself back when I was still adjusting. A client had an early 20th-century oil portrait worth about $8,000. Water damage from a burst pipe damaged the corner of the frame and the canvas edge. The standard policy denied it because the damage happened while the painting was being moved for restoration. The homeowner was furious. "It's in my policy," she said. Technically, yes. But the exclusion had already disqualified the claim.
+For example, water damage to a valuable painting during a move might be denied under standard policies, even though coverage appears to exist, because the exclusion language addresses damage during movement or restoration.
 
 The Insurance Information Institute (III) tracks data on fine art claims, and the pattern's consistent: most people file a claim expecting 80% coverage and get a check for 20% or a denial letter. It's not always the insurer being malicious. It's often just that the standard policy wasn't designed for art at all. It was designed for dishes and furniture.
 
@@ -53,8 +53,6 @@ The Insurance Information Institute (III) tracks data on fine art claims, and th
 | Standalone Fine Art Policy | $20,000+ (no limit) | $0-reduced | Collections and high-value art | Theft, collision, environmental, mysterious disappearance, transit damage |
 
 > **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you want real protection, you need to [schedule each piece individually](/scheduled-personal-property-insurance/). This means getting an appraisal, listing it by name on your policy, and paying a separate premium.
 
@@ -78,7 +76,7 @@ To schedule fine art, you need an appraisal. Your insurer will tell you it needs
 
 What you actually need is an appraisal from someone who's a member of the American Society of Appraisers (ASA) or the Appraisers Association of America (AAA), which is a real thing with actual standards. This person will charge $300 to $800 per piece depending on complexity and your location. You pay for the appraisal yourself. It's separate from the insurance premium.
 
-I've seen homeowners use appraisals from art dealers, auction houses, or the person who sold them the painting. Insurance companies will sometimes accept these, but it creates friction. A dealer has an incentive to overvalue. An auction house has different incentives. An ASA appraiser is independent and follows a formal methodology. Their appraisal stands up in a dispute.
+Homeowners sometimes use appraisals from art dealers, auction houses, or the original seller. Insurance companies will sometimes accept these, but it creates friction. A dealer has an incentive to overvalue. An auction house has different incentives. An ASA appraiser is independent and follows a formal methodology. Their appraisal is more likely to hold up in a dispute.
 
 Here's a moment where I almost made a mistake myself. I had a client with a collection of 17 prints by a contemporary artist. She went to the artist's gallery, asked for an appraisal, and got one. The gallery valued the collection at $9,000. When we tried to schedule it with the insurer, they rejected it because the gallery wasn't an independent appraiser. She had to get a real appraisal done, which came back at $6,200. Different methodology, different answer. She was furious, but she also learned that her collection was worth less than she thought, which is actually valuable information before something gets damaged.
 
@@ -133,7 +131,6 @@ Once you have appraisals, call your current homeowners insurance agent. Tell the
 If they can schedule the pieces at a reasonable cost, do it. If they recommend a standalone policy, get quotes from at least two carriers. Compare the premiums, deductibles, coverage limits, and what's actually excluded.
 
 Let me show you how this worked in practice. Marcus had an art collection worth about $47,000, mostly paintings and a few sculptures. He called his homeowners insurer and asked about scheduling. They could do it, but the annual premium was $580, and the deductibles were $2,500 per claim. He got a quote from a standalone fine art carrier. Premium was $520 per year, $250 deductibles, and the coverage was broader (environmental damage included). He switched. Saved $60 a year, lowered his deductible, and actually got better protection. That's the outcome you're looking for.
-
 
 ## Sources
 

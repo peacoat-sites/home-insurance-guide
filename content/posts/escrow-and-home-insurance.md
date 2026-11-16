@@ -31,7 +31,6 @@ I spent 14 years reviewing insurance claims. A shocking number of homeowners I d
 
 Let's fix that gap.
 
-
 <div class="value-module">
  <div class="vm-head">Escrow Insurance Failure Warning Signs</div>
  <div class="vm-body">
@@ -87,7 +86,7 @@ When you find a better rate and decide to switch, the order matters. Bind your n
 
 Your old insurer's refund for unused premium goes to you, not your escrow account, in most cases. Meanwhile your escrow will keep collecting based on the old premium estimate until the next annual analysis. You might end up slightly over-escrowed for a while. That's fine. The next analysis corrects it.
 
-What's not fine: assuming the servicer will handle it. They won't always. I've seen situations where servicers paid both the canceled insurer and the new insurer simultaneously, creating an accounting nightmare that took months to untangle.
+What's not fine: assuming the servicer will handle it. They won't always. Servicers can sometimes pay both the canceled insurer and the new insurer simultaneously, creating an accounting nightmare that takes months to untangle.
 
 ---
 

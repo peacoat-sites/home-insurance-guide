@@ -27,13 +27,13 @@ faqs:
 
 Roughly 1 in 50 homeowners files a water damage claim every single year. That sounds manageable until you realize water damage is the second most common homeowner claim in the country, trailing only wind and hail, and the average payout sits somewhere north of $11,000 per incident according to Insurance Information Institute data. Water is patient and expensive. And most people filing a claim for the first time have no idea how many ways there are to leave money on the table.
 
-I spent 14 years reviewing claims from the other side of the desk. I've seen $40,000 restoration jobs get settled for $9,000 because the homeowner didn't document correctly. I've also seen $6,000 claims paid in full because someone did exactly three things right in the first 24 hours. The difference usually isn't the damage. It's the paperwork trail.
+Claim outcomes often hinge on documentation rather than the damage itself. A well-organized paperwork trail can mean the difference between a full payout and a significantly reduced settlement.
 
 Here's what actually matters.
 
 ## The First 24 Hours Are the Whole Game
 
-Stop the water first. That's not just common sense; it's a policy requirement. Almost every homeowner policy contains language obligating you to take "reasonable steps to mitigate further damage." If a pipe bursts and you don't turn off the main water supply, your insurer has grounds to reduce your payout for whatever damage occurred after you could have stopped it. I've watched adjusters clip thousands of dollars off claims using exactly that argument.
+Stop the water first. That's not just common sense; it's a policy requirement. Almost every homeowner policy contains language obligating you to take "reasonable steps to mitigate further damage." If a pipe bursts and you don't turn off the main water supply, your insurer has grounds to reduce your payout for whatever damage occurred after you could have stopped it.
 
 Once the water's stopped: photograph everything before you touch it. Walls, floors, ceilings, contents. Get wide shots that establish context, then close-ups that show actual damage. If you have standing water, photograph it next to a ruler or a door frame so there's a scale reference. This sounds obsessive. Do it anyway. The adjuster who shows up three days later sees dried-out drywall. You're the only person who saw the waterline at its worst.
 
@@ -45,11 +45,9 @@ One thing most people don't know: when you call to report, you're not just openi
 
 > **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where most homeowners get their first nasty surprise. Standard homeowner policies cover sudden and accidental water damage from internal sources. Burst pipe: covered. Washing machine supply line that failed without warning: covered. That same washing machine's door seal that's been slowly weeping water into your subfloor for eight months: not covered. Gradual damage is excluded almost universally.
 
-Flooding from outside your home? Not covered under a standard HO-3 policy at all. You need a separate flood policy, either through the National Flood Insurance Program (NFIP) or a private carrier. This distinction ruins people. A reader named Carl from coastal Virginia emailed me after a heavy storm pushed water through his foundation. He had pristine HO-3 coverage with a $500 deductible. His flood claim? Zero, because he had no flood policy. The damage was $34,000.
+Flooding from outside your home? Not covered under a standard HO-3 policy at all. You need a separate flood policy, either through the National Flood Insurance Program (NFIP) or a private carrier. This distinction is critical. For example, someone with comprehensive HO-3 coverage but no separate flood policy would receive nothing for flood damage to their foundation, no matter how thorough their standard coverage otherwise is.
 
 Sewer and drain backup is another exclusion that catches people cold. Water backing up through a floor drain or toilet from an overwhelmed municipal sewer isn't a "burst pipe." It's a sewer backup, and it's excluded from most standard policies unless you've purchased a specific endorsement, usually $40 to $100 per year depending on your carrier and location. That endorsement is almost always worth it.
 
@@ -92,13 +90,11 @@ I'll be straight: the claims process itself isn't complicated. What makes it go 
 
 ## The Numbers You Need to Understand
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average water damage claim payout by cause (USD)</div><div class="sc-row"><span class="sc-label">Burst pipe</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$11,098</span></div><div class="sc-row"><span class="sc-label">Appliance failure</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">$9,621</span></div><div class="sc-row"><span class="sc-label">Roof leak (storm)</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$7,843</span></div><div class="sc-row"><span class="sc-label">Sewer backup</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$6,342</span></div><div class="sc-row"><span class="sc-label">HVAC leak</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$4,215</span></div><div class="sc-src">Source: Insurance Information Institute / Verisk Analytics</div></div>
-
 
 These figures reflect industry averages. Your specific payout depends on your policy's actual cash value (ACV) versus replacement cost value (RCV) provision, which is one of the most consequential differences in any homeowner policy and one that almost nobody thinks about at purchase.
 
-ACV pays what your damaged property is worth today, after depreciation. RCV pays what it costs to replace it new. On a 10-year-old hardwood floor, ACV might pay 40 cents on the dollar. RCV pays the full replacement cost. Most policies are RCV on the structure but check whether yours applies to contents separately. I've seen homeowners receive half what they expected because their contents coverage was ACV while their structure was RCV.
+ACV pays what your damaged property is worth today, after depreciation. RCV pays what it costs to replace it new. On a 10-year-old hardwood floor, ACV might pay 40 cents on the dollar. RCV pays the full replacement cost. Most policies are RCV on the structure but check whether yours applies to contents separately.
 
 The depreciation schedule adjusters use isn't public, but [IBHS fortification research](https://ibhs.org/) and industry sources confirm that flooring, cabinetry, and roofing components depreciate aggressively in most carrier models. Knowing this before the adjuster arrives means you can push back with your own contractor's current material costs.
 
@@ -119,7 +115,6 @@ One more. A reader named Theresa from Atlanta filed a water damage claim after a
 - Verisk Analytics / ISO: Industry actuarial data on loss types and average claim severity, cited through III reports
 
 ---
-
 
 ---
 
