@@ -48,8 +48,6 @@ The quotes also rest on different assumptions about what your house is worth to 
 | Liability (E) | Injury/lawsuit protection | Standard quotes often $100,000; recommend minimum $300,000; consider umbrella policy for assets |
 | Medical Payments (F) | Minor injuries on property | Complements liability; covers guest medical bills regardless of fault |
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see most consumers go wrong. They compare premium totals. They should be comparing coverage architecture.
 
 Look at these core components side by side before you can meaningfully compare anything:

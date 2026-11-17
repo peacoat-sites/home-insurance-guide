@@ -51,8 +51,6 @@ There's also a real distinction between tools you use for personal projects and 
 
 Do a garage inventory right now. [The III recommends keeping a home inventory](https://www.iii.org/), and there are decent apps for it (Encircle and HomeZada are both solid options). Walk through with your phone, open every cabinet, and document what's there. Store the result somewhere other than your house (a cloud account or a document safe works). If you don't know what you have, you can't argue for fair compensation when something happens.
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Where Coverage Gets Complicated Fast
 
 | Coverage Type | What It Covers | Key Limitation |

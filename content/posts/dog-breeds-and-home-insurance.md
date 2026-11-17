@@ -43,8 +43,6 @@ That said, the execution is often sloppy and sometimes genuinely unfair to respo
 
 ## The Breed Restriction Reality
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most major carriers maintain an internal list of breeds that trigger underwriting scrutiny. These lists are not standardized, not publicly posted, and not consistent even across agents at the same company. Two policyholders with identical dogs may get opposite answers from the same insurer depending on which agent handles the call.
 
 The breeds that appear most often across restriction lists, based on industry practice as of August 2026:

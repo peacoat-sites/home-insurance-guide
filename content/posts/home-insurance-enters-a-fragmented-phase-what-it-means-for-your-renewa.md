@@ -30,8 +30,6 @@ S&P attributes part of the national slowdown not to insurers suddenly feeling ge
 
 ## Competition Is Returning, but Not Everywhere
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Carriers are coming back into markets they fled. Matic's mid-year report, published August 6, 2026 and drawing on 3 million quotes, found that available quotes per homeowner jumped 27% year-over-year and are up 74% from the 2024 low. More carriers competing for your business means better options at renewal.
 
 The result: a record 11.7% of renewing homeowners saw their premium decrease in the first half of 2026. That's up from 4.9% in 2024. Still a minority, but a meaningfully larger one. If you're in a state that's seeing carrier re-entry and you haven't shopped your policy in two or three years, you may be overpaying simply through inertia.

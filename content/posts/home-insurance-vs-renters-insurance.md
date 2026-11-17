@@ -41,8 +41,6 @@ Your landlord's building policy doesn't cover your stuff. That policy protects t
 
 ## The Three Pillars Both Policies Share (and Where They Diverge)
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Home and renters insurance are built on the same three pillars: personal property coverage, liability protection, and additional living expenses. The real differences are in scope, cost, and what qualifies as a covered structure.
 
 **Personal property** covers your belongings when they're damaged by a covered peril: fire, theft, vandalism, windstorm, water damage from a sudden internal leak. Neither policy covers flooding from outside the home. That requires separate flood insurance through the National Flood Insurance Program or a private insurer. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes plain-language consumer guides that break down what's included and excluded in standard policies. Read them before you sign anything.

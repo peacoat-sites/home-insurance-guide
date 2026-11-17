@@ -69,8 +69,6 @@ Some insurers now offer "limited roof coverage" endorsements, particularly in ha
 
 Check your [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) if you're unsure how your current policy values claims. A [home insurance calculator](/home-insurance-calculator/) can help you see whether your overall coverage aligns with your home's replacement cost.
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Common Roof Damage Scenarios and How Coverage Plays Out
 
 Here's what I saw repeatedly during my claims career.

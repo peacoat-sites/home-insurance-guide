@@ -39,8 +39,6 @@ The state-level breakdowns are where the numbers become almost hard to absorb. H
 
 ## How Insurers Justify This, and Why That Justification Falls Apart
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What most people don't realize is that insurers rarely say they're pricing by race. They say they're pricing by risk, and that risk is expressed through ZIP codes, claims history in an area, distance from fire stations, local construction costs, and sometimes credit scores. None of those inputs has "race" written on it. But when you control for home value, credit score, and home age, the way the CFA study did, and the racial composition of a neighborhood still predicts premium levels, you have a serious problem.
 
 The engineers and architects community has flagged this too, noting that the technical inputs insurers use for property risk assessment can embed historical inequities in infrastructure, maintenance patterns, and investment levels that trace directly back to decades of discriminatory lending and disinvestment. The ZIP code isn't neutral. It carries history.

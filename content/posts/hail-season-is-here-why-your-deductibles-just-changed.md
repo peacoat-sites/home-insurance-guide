@@ -47,8 +47,6 @@ The reason this is flying under the radar is that insurers don't have to announc
 | Premium increases in high plains states (2021-present) | 30-50% | Article analysis |
 | Hail deductibles now common in high-risk areas | $2,500-$5,000 | Article reporting |
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I contacted several claims data firms while researching this. The numbers they're seeing are almost identical: hail damage now rivals a Category 4 hurricane at the 50-year return period, modeled at $71 billion in losses with $58 billion from hail alone. That's not theoretical. That's the expected loss once every 50 years, and it's almost entirely from hail.
 
 The insurance industry is responding rationally to genuine exposure. According to April 2026 reporting from Business Insurance, 87 percent of insurance executives report significant or moderate concern about future severe convective storm losses as a primary peril. They're not panicking. They're rebalancing.

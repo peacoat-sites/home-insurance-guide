@@ -47,8 +47,6 @@ Security systems are third, and honestly, this is where the marketing noise gets
 
 ## What the numbers actually look like side by side
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Discount ranges vary by carrier and state, but here's a realistic composite picture based on what I observed across years of working with pricing teams and what's currently reported by the major carriers and independent research groups as of 2026:
 
 | Device Category | Typical Discount Range | Monitoring Required? | Estimated Device Cost | Avg. Payback Period |

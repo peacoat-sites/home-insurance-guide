@@ -45,8 +45,6 @@ One more thing about policy language: your deductible. A lot of policies issued 
 
 ## The First 72 Hours After a Storm
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Don't wait. This is the one area where I'll give you an unambiguous answer: document everything before anything is touched, tarped, or repaired.
 
 Walk the exterior of your house within 24 hours of the storm if it's safe. You're looking for spatter marks on painted wood, dents in aluminum fascia, impact points on downspouts, dimpling on AC condenser fins, and most importantly, bruising on your shingles. Bruising shows up as soft spots where granules have been knocked loose, leaving a darker circular indentation. Run your hand across the shingles if you can safely access a lower slope. A bruised shingle feels soft in a way an intact one doesn't.

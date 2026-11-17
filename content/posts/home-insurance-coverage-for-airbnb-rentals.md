@@ -43,8 +43,6 @@ One thing that catches hosts off guard: your [personal property coverage](/homeo
 
 ## AirCover: What Airbnb Is Selling You and What It Actually Is
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Airbnb rebranded its host protections under the "AirCover" label in 2022, and the marketing works. "$3 million in damage protection" sounds like serious coverage. And honestly, compared to where things stood five years ago, it is an improvement. But it is not insurance. It's a host guarantee program, which means Airbnb controls the claims process, Airbnb decides what qualifies, and Airbnb can change the terms without regulatory oversight.
 
 AirCover covers physical damage to your home and belongings caused by guests. It does NOT cover:

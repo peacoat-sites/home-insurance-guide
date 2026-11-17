@@ -40,8 +40,6 @@ If you try to insure a manufactured home on a standard HO-3, one of two things h
 
 ## What a Manufactured Home Policy Actually Covers (and What It Doesn't)
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A well-written manufactured home policy covers the structure itself, your personal property, liability, and additional living expenses if you're displaced by a covered loss. That part looks familiar. But there are specific gaps that catch owners off guard.
 
 **Wind and hail.** This is the big one. Many manufactured home policies in high-risk states include wind and hail exclusions as standard, or they charge a separate, significantly higher deductible for those perils. If you're in tornado country or along the Gulf Coast, read this section of your policy first. Don't assume wind is covered at the same deductible as fire.

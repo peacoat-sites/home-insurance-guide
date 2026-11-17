@@ -39,8 +39,6 @@ Here's what people miss: insurance hates wear and tear. Warranty companies hate 
 
 ## What Home Insurance Really Pays For
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your homeowner's policy has several components, and knowing them matters when reviewing coverage or shopping for a new policy.
 
 **Dwelling coverage** pays to repair or rebuild your home's structure if it's damaged by a covered peril. That includes your walls, roof, built-in appliances, and attached structures like a garage. The key phrase is "covered peril." Standard policies cover fire, lightning, windstorm, hail, theft, and vandalism. They typically do not cover floods or earthquakes, which require separate policies.

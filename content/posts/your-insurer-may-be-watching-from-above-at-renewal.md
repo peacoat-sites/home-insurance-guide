@@ -29,10 +29,6 @@ Five insurers operating in Texas confirmed in state filings that they rely on th
 
 ## The New Laws, Ranked by How Much They Actually Help You
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Several states moved in 2026 to rein this in. The protections vary a lot in scope and teeth.
 
 | State | Key Protection | Effective |
@@ -70,12 +66,12 @@ If your renewal is coming up in the next 90 days, treat this as the operating en
 
 ## Sources
 
-- [Homeowners Insurance Non-Renewal 2026: What To Do Now ,  Agency Height](https://agencyheight.com/homeowners-insurance-non-renewal-what-to-do/) (March 25, 2026)
-- [California May Limit How Insurers Can Use Aerial Photos ,  Insurify](https://insurify.com/homeowners-insurance/news/california-roof-image-regulation/) (April 28, 2025)
-- [How Aerial Imagery Is Changing Homeowners Insurance in 2026 ,  OIA Now](https://www.oianow.com/post/aerial-imagery-homeowners-insurance-2026) (June 2026)
-- [Insurance Companies Using Aerial Imagery to Determine Renewal ,  NPR / KUT](https://www.npr.org/2025/05/28/nx-s1-5400372/insurance-companies-using-aerial-imagery-to-determine-if-theyll-renew-home-coverage) (May 28, 2025)
-- [Changes Coming to Home and Auto Insurance in 2026 ,  The Zebra](https://www.thezebra.com/resources/car-insurance/insurance-law-changes/) (January 14, 2026)
-- [2026 Home Insurance Trends: Mid-Year Outlook ,  Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
+- [Homeowners Insurance Non-Renewal 2026: What To Do Now, Agency Height](https://agencyheight.com/homeowners-insurance-non-renewal-what-to-do/) (March 25, 2026)
+- [California May Limit How Insurers Can Use Aerial Photos, Insurify](https://insurify.com/homeowners-insurance/news/california-roof-image-regulation/) (April 28, 2025)
+- [How Aerial Imagery Is Changing Homeowners Insurance in 2026, OIA Now](https://www.oianow.com/post/aerial-imagery-homeowners-insurance-2026) (June 2026)
+- [Insurance Companies Using Aerial Imagery to Determine Renewal, NPR / KUT](https://www.npr.org/2025/05/28/nx-s1-5400372/insurance-companies-using-aerial-imagery-to-determine-if-theyll-renew-home-coverage) (May 28, 2025)
+- [Changes Coming to Home and Auto Insurance in 2026, The Zebra](https://www.thezebra.com/resources/car-insurance/insurance-law-changes/) (January 14, 2026)
+- [2026 Home Insurance Trends: Mid-Year Outlook, Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
 
 ---
 

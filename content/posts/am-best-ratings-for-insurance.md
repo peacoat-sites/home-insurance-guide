@@ -62,10 +62,6 @@ One thing the marketing brochures won't tell you: insurers can pay AM Best for a
 
 ## How to Actually Look Up a Rating
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Go to [ambest.com](https://www.ambest.com) and use the free consumer lookup. You don't need an account. Search by company name. What you'll see:
 
 1. The current FSR letter grade

@@ -41,8 +41,6 @@ One coverage gap that catches many homeowners off guard is sewer and drain backu
 
 ## Gradual Damage: The Exclusion the Industry Leans On Hardest
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Read your policy's exclusions section and you'll find language like "continuous or repeated seepage," "wear and tear," "deterioration," and "latent defect." These phrases collectively do a lot of heavy lifting for [insurance companies](/best-homeowners-insurance-companies/). If your roof has been slowly leaking for two years and the damage finally becomes impossible to ignore, an adjuster is going to look very carefully at whether this was a sudden, accidental loss (potentially covered) or a gradual accumulation (not covered).
 
 Whether negligence versus sudden damage is a gray area open to negotiation depends on the situation. But insurers have gotten better at using inspection reports, satellite imagery, and contractor testimony to establish timelines. If your gutters haven't been cleaned since 2021 and there's obvious rot behind the fascia board, that's not going to look like sudden damage.

@@ -14,7 +14,7 @@ slug: "california-just-elected-a-single-payer-home-insurance-commissioner"
 affiliate_disclosure: true
 ---
 
-California elected a single-payer [home insurance](/home-insurance-jewelry-coverage/) commissioner on November 3, 2026, and if you own a home in the state, the implications go well beyond a change in office. Jane Kim, a former San Francisco supervisor and state senator, beat state senator Ben Allen with 53% of the vote on a platform that most political observers considered a long shot just 18 months ago: replacing private home insurers with a government-run disaster insurance program. She takes office January 4, 2027, and while no legislation exists yet, the direction of travel is clear and consequential.
+California elected a single-payer [home insurance](/home-insurance-jewelry-coverage/) commissioner on November 3, 2026, and if you own a home in the state, the implications go well beyond a change in office. Jane Kim, a former San Francisco supervisor, beat state senator Ben Allen with 53% of the vote on a platform that most political observers considered a long shot just 18 months ago: replacing private home insurers with a government-run disaster insurance program. She takes office January 4, 2027, and while no legislation exists yet, the direction of travel is clear and consequential.
 
 The backdrop that made Kim's win possible is a California home insurance market that has been deteriorating in plain sight. The [California FAIR Plan](/california-fair-plan-rates-jump-298-this-fall/), the state's insurer of last resort, held 696,562 policies as of June 2026, a 157% increase since September 2022. A 29.1% average rate hike on FAIR Plan policies took effect October 15, 2026, just weeks before the election. Major private carriers have been restricting or exiting the state for years, and California homeowners collectively spend roughly $18 billion annually on home insurance, with somewhere between $3 billion and $6 billion of that going specifically toward wildfire coverage. That's the money Kim wants redirected to a state agency.
 
@@ -31,10 +31,6 @@ The proposal isn't a tweak to the [FAIR Plan](/fair-plan-insurance-explained/). 
 The international models she cites are worth understanding. France's CatNat system, run through private insurers but backed by a government reinsurer and priced by statute, keeps disaster coverage attached to standard home policies at a fixed surcharge. New Zealand's Earthquake Commission provides a base layer of residential earthquake coverage funded through a levy on private fire policies. Spain runs a similar pooled model through its Consorcio de Compensación de Seguros. None of these are pure single-payer in the American political sense; they involve hybrid structures where the state manages catastrophe risk but private insurers handle other coverage lines. Whether Kim's proposal would mirror that hybrid or go further isn't yet fully defined, which is itself a risk for homeowners trying to plan.
 
 ## The Numbers Behind the Problem
-
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The scale of the market breakdown helps explain why a radical proposal got 53% of the vote.
 

@@ -45,8 +45,6 @@ HO-5 claims often take longer to deny because insurers have to work harder to fi
 
 ## What "Open Perils" Actually Covers (and What It Doesn't)
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 People sometimes think "open perils" means "everything." It doesn't. What it means is: everything except what's specifically excluded. Those exclusions are real and they matter.
 
 Standard HO-5 exclusions include flood (always), earthquake (almost always), intentional acts, normal wear and tear, mechanical breakdown, and government action. Depending on the insurer and the state, you might also see exclusions for mold, pet damage, and power failure. Your state's insurance department (findable through the [National Association of Insurance Commissioners' state map](https://www.naic.org/state_web_map.htm)) can tell you what endorsements are available in your market to patch some of those gaps.

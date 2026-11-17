@@ -20,7 +20,7 @@ That has started to change. On August 6, 2026, insurance technology company Mati
 
 The window right now is real. But it's also uneven, time-sensitive, and full of the same traps it always was.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A record 11.7% of renewing homeowners saw premiums drop in H1 2026, up from 4.9% in 2024.</li><li style="margin:5px 0">Average renewal increases slowed to 10.6% in H1 2026, down from 19.4% in full-year 2025.</li><li style="margin:5px 0">Available quotes per homeowner are up 74% since 2024's market low point.</li><li style="margin:5px 0">New-policy premiums grew only 5.9% year-over-year in H1 2026, vs. 18.7% in 2024.</li><li style="margin:5px 0">California, Florida, and New Jersey still saw double-digit increases ,  relief is not universal.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A record 11.7% of renewing homeowners saw premiums drop in H1 2026, up from 4.9% in 2024.</li><li style="margin:5px 0">Average renewal increases slowed to 10.6% in H1 2026, down from 19.4% in full-year 2025.</li><li style="margin:5px 0">Available quotes per homeowner are up 74% since 2024's market low point.</li><li style="margin:5px 0">New-policy premiums grew only 5.9% year-over-year in H1 2026, vs. 18.7% in 2024.</li><li style="margin:5px 0">California, Florida, and New Jersey still saw double-digit increases, relief is not universal.</li></ul></div>
 
 ## Why Premiums Are Cooling Now
 
@@ -29,8 +29,6 @@ The short version: reinsurance got cheaper, and that savings is trickling down. 
 That's the structural reason. The practical result is that carriers who pulled back from certain markets in 2023 and 2024 are starting to return. New entrants are quoting again. And the data from Matic's August report confirms this isn't theoretical: new-policy premiums grew only 5.9% year-over-year in H1 2026. In 2024 that number was 18.7%. If you're shopping for a new policy rather than renewing, you're in an even better position than someone just waiting for their renewal.
 
 ## The Relief Is Not Evenly Distributed
-
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 A common mistake is reading a national average and assuming it applies locally. It doesn't always. The Matic report is clear that California, Florida, and New Jersey continued to see double-digit premium increases in H1 2026 despite the national softening. Hail- and wind-prone Midwest states remain tight as well.
 

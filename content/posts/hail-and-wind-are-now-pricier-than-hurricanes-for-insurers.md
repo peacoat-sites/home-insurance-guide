@@ -36,10 +36,6 @@ Hail drives most of this. According to Triple-I's April 2026 Issues Brief, hail 
 
 ## Chicago, Not Houston, Is Sitting on the Biggest Pile of Risk
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the detail that surprised even me. When Cotality published its 2026 Severe Convective Storm Risk Report, it identified Greater Chicago, not Dallas, not Houston, not Oklahoma City, as the single most financially exposed metro in the country. One trillion dollars in replacement cost value sits in the Chicago metro's hail risk zone. Cotality found more than 43.5 million U.S. properties face moderate or greater hail risk nationally.
 
 This reshapes the intuitive geography of insurance risk. Coastal homeowners have spent years watching their premiums spike while inland neighbors assumed distance from the ocean meant insulation from market chaos. That assumption is now wrong. A subdivision in Naperville or Joliet carries a risk profile that underwrites are actively repricing, and the residents there largely haven't been warned.
@@ -74,10 +70,10 @@ The larger story here is that the insurance industry's internal map of catastrop
 
 - [Triple-I: Severe Convective Storms Generate More Than $50B in Insured Losses for Third Consecutive Year](https://www.iii.org/press-release/triple-i-severe-convective-storms-generate-more-than-50b-in-insured-losses-for-third-consecutive-year-041326) (April 14, 2026)
 - [2026 Cotality Severe Convective Storm Risk Report](https://www.cotality.com/insights/articles/2026-cotality-severe-convective-storm-risk-report) (2026)
-- [Forget Hurricanes. This Is America's Fastest-Growing Insurance Threat , Insurify](https://insurify.com/homeowners-insurance/news/severe-convective-storms/) (Late June 2026)
-- [2026 Home Insurance Trends: Mid-Year Outlook , Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
-- [Severe Convective Storms Become Costliest Insured Peril of 21st Century: Aon , Insurance Journal](https://www.insurancejournal.com/news/international/2026/01/21/855026.htm) (January 21, 2026)
-- [Reinsurance Rates Fall Further at June Renewal , Insurance Business Magazine](https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/reinsurance-rates-fall-further-at-june-renewal-577402.aspx) (June 1, 2026)
+- [Forget Hurricanes. This Is America's Fastest-Growing Insurance Threat, Insurify](https://insurify.com/homeowners-insurance/news/severe-convective-storms/) (Late June 2026)
+- [2026 Home Insurance Trends: Mid-Year Outlook, Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
+- [Severe Convective Storms Become Costliest Insured Peril of 21st Century: Aon, Insurance Journal](https://www.insurancejournal.com/news/international/2026/01/21/855026.htm) (January 21, 2026)
+- [Reinsurance Rates Fall Further at June Renewal, Insurance Business Magazine](https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/reinsurance-rates-fall-further-at-june-renewal-577402.aspx) (June 1, 2026)
 
 ---
 

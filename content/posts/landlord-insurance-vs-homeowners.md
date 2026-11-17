@@ -53,8 +53,6 @@ The big four differences:
 
 ## The coverage gap nobody talks about
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Agents make mistakes, and the burden of having correct coverage ultimately lands on you.
 
 What most people don't realize is that telling your homeowners insurer you're renting the property doesn't automatically upgrade your policy. Some insurers will quietly cancel you if they find out the property isn't owner-occupied, rather than proactively converting you to the right product. Others will keep accepting your premium and deny the claim later. Neither outcome is acceptable, but both are legal in most states.

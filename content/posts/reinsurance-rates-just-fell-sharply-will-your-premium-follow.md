@@ -37,10 +37,6 @@ Florida Citizens Property Insurance, the state-backed insurer of last resort, ma
 
 ## The Gap Between Wholesale and Retail
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's where things get frustrating if you're a homeowner. Despite that wholesale savings, the average U.S. homeowners insurance premium is still projected to rise approximately 4 percent in 2026, reaching around $3,057 according to Insurance Journal. That would mark a fifth consecutive year of increases. A May 2026 Pew Research Center survey of 3,524 U.S. adults found 71 percent of homeowners say their insurance costs have gone up in recent years, with 42 percent saying costs rose "a lot."
 
 So who's keeping the savings?

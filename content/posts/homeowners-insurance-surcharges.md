@@ -47,8 +47,6 @@ Why does this distinction matter in practice? If it's a broad rate increase, you
 
 ## The Most Common Triggers for a Homeowners Insurance Surcharge
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What sets these off? A handful of causes account for most surcharges homeowners encounter.
 
 **Claims history.** This is the big one. File a claim, especially more than one in a three-to-five year window, and you'll almost certainly get surcharged. The amount doesn't always matter much either. A $1,800 water damage claim hits you just as hard as a much larger one. Insurers share claims data through a system called CLUE (Comprehensive Loss Underwriting Exchange), so your history follows you when you switch companies.

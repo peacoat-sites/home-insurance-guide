@@ -41,8 +41,6 @@ The "fire" name comes from the 1943 New York Standard Fire Policy, which was the
 
 ## The Three Forms, Without the Sales Pitch
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to slow down, because this is where people get hurt.
 
 **DP-1** is a named-peril policy covering a short list of causes: fire, lightning, and internal explosion. Some carriers add windstorm, hail, smoke, vandalism, and a few others as endorsements, but the base form is brutally narrow. It almost always pays on an actual cash value (ACV) basis, meaning depreciation gets subtracted from your claim payment. A 15-year-old roof that burns? You might get 40 cents on the dollar. I've seen this play out dozens of times. The landlord expected a check for $28,000 and got $11,400.

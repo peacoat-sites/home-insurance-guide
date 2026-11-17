@@ -34,11 +34,6 @@ JP Morgan Asset Management analysts estimated that if homeowners insurance repla
 
 ## The Premium Numbers That Don't Show Up in Fed Briefings
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual homeowners insurance premium</div><div class="sc-row"><span class="sc-label">2016</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$1,186</span></div><div class="sc-row"><span class="sc-label">2026 current avg.</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$2,490</span></div><div class="sc-row"><span class="sc-label">2026 projected end</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3,057</span></div><div class="sc-src">Source: CEPR/Dean Baker, Insurify March 2026</div></div>
 
 

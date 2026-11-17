@@ -38,10 +38,6 @@ The 30-year compounding piece deserves its own moment. Insurance isn't a one-tim
 
 ## The "Algorithmic Redlining" Problem
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Classic redlining, the practice of denying services to residents of minority neighborhoods, was outlawed decades ago. What the CFA's report describes is different and harder to regulate. Modern insurance pricing uses complex algorithms that incorporate dozens of variables: credit scores, proximity to fire stations, construction materials, local claim density, even certain consumer behavior data points.
 
 None of those inputs explicitly says "race." But if the algorithm trains on historical data from a period when explicit discrimination was legal, and if proxy variables like neighborhood, credit, and home age correlate strongly with race, the discriminatory output can survive even when the discriminatory intent is scrubbed out. That's algorithmic redlining. It's structural, not conspiratorial.
@@ -89,11 +85,11 @@ The industry has had this data, in various forms, for years. The CFA's July 2026
 
 ## Sources
 
-- [Consumer Federation of America ,  'Redlined' Report Press Release](https://consumerfed.org/news/press-releases/black-and-hispanic-homeowners-pay-hundreds-of-dollars-more-annually-for-homeowners-insurance/) (July 14, 2026)
-- [Real Estate News ,  Homeowners insurance 'redlining' demands scrutiny, report says](https://www.realestatenews.com/2026/07/15/homeowners-insurance-redlining-demands-scrutiny-report-says) (July 15, 2026)
-- [RISMedia ,  Homeowners in Black, Hispanic Neighborhoods Pay Significantly More for Home Insurance](https://www.rismedia.com/2026/07/20/homeowners-black-hispanic-neighborhoods-pay-more-home-insurance/) (July 20, 2026)
-- [Scotsman Guide ,  Black and Hispanic homeowners face much higher insurance premiums](https://www.scotsmanguide.com/news/black-and-hispanic-homeowners-face-much-higher-insurance-premiums/) (July 21, 2026)
-- [Insurance News Net ,  Homeowners of color pay higher insurance costs in WA, nationwide](https://insurancenewsnet.com/oarticle/homeowners-of-color-pay-higher-insurance-costs-in-wa-nationwide) (July 17, 2026)
+- [Consumer Federation of America, 'Redlined' Report Press Release](https://consumerfed.org/news/press-releases/black-and-hispanic-homeowners-pay-hundreds-of-dollars-more-annually-for-homeowners-insurance/) (July 14, 2026)
+- [Real Estate News, Homeowners insurance 'redlining' demands scrutiny, report says](https://www.realestatenews.com/2026/07/15/homeowners-insurance-redlining-demands-scrutiny-report-says) (July 15, 2026)
+- [RISMedia, Homeowners in Black, Hispanic Neighborhoods Pay Significantly More for Home Insurance](https://www.rismedia.com/2026/07/20/homeowners-black-hispanic-neighborhoods-pay-more-home-insurance/) (July 20, 2026)
+- [Scotsman Guide, Black and Hispanic homeowners face much higher insurance premiums](https://www.scotsmanguide.com/news/black-and-hispanic-homeowners-face-much-higher-insurance-premiums/) (July 21, 2026)
+- [Insurance News Net, Homeowners of color pay higher insurance costs in WA, nationwide](https://insurancenewsnet.com/oarticle/homeowners-of-color-pay-higher-insurance-costs-in-wa-nationwide) (July 17, 2026)
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

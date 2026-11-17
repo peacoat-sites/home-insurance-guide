@@ -52,8 +52,6 @@ The practical reality is simpler: your credit score and your insurance score mov
 
 ## Why Insurers Use Credit at All, and Whether It Actually Works
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The insurance industry has actuarial studies claiming that credit-based insurance scores predict claim likelihood better than many traditional factors. Their argument: people with lower insurance scores file more frequent claims, so the correlation justifies the pricing.
 
 Critics disagree vehemently. Consumer advocates and several state legislators say you're not pricing risk, you're pricing poverty. Credit scores reflect socioeconomic status, and using them creates disparate impacts on lower-income households and communities of color.

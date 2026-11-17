@@ -45,8 +45,6 @@ I reviewed hundreds of foundation-related claims during my time adjusting. The d
 
 ## When Coverage Actually Applies
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 It does happen. Rarely, but it happens, and knowing the exact scenarios matters.
 
 **Sudden water damage.** If a supply line under your slab bursts and the resulting water intrusion undermines your foundation, some policies will cover it. The key word is "sudden." A slow leak that went undetected for a year doesn't qualify. A pipe that catastrophically failed last Tuesday might. You'll need a plumber's report establishing the failure date, and you'll want a structural engineer's assessment showing the water event caused the foundation movement, not pre-existing soil conditions.

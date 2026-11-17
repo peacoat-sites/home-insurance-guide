@@ -30,8 +30,6 @@ As noted by Colorado Senate Democrats in their June 2026 joint release on the la
 
 ## Why This Matters More Than Most Insurance News
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to be direct about the stakes here, because the numbers are not subtle.
 
 Colorado premiums roughly doubled between 2020 and 2025. That alone would be jarring. But some homeowners near Idaho Springs saw a single renewal jump from $4,677 to $34,600. That's a 740% increase in one year. And according to Insurify's projections, Colorado homeowners are looking at an additional 33% average hike in 2026. The state already ranks sixth most expensive in the country, with average annual premiums around $4,072 for $300,000 in dwelling coverage.

@@ -41,8 +41,6 @@ Dwelling coverage is also just one layer of a homeowner's policy. If you want to
 
 ## The Inputs That Make or Break the Estimate
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A calculator is only as accurate as what you feed it. Garbage in, garbage out.
 
 **Square footage.** People consistently undercount this. Make sure you're using finished heated square footage from your home's records, not a Zillow listing, which sometimes excludes bonus rooms, sunrooms, or finished basements depending on how it was listed.

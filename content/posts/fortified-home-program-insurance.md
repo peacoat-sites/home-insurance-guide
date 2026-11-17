@@ -41,8 +41,6 @@ The inspector who verifies FORTIFIED work isn't your contractor. It's an indepen
 
 ## The Insurance Premium Impact (Where It Gets Interesting)
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where the program either makes sense or doesn't, depending on your state.
 
 Alabama has the most mature market for this. The Alabama Department of Insurance, partly through the Strengthen Alabama Homes grant program, has been subsidizing FORTIFIED certifications since around 2012, and the results are documented. Homeowners with FORTIFIED Gold designations have seen premium reductions averaging 25-30% in some coastal markets, though I'd be cautious about treating those figures as guarantees. Your insurer, your location, and your current risk profile all affect what discount you'll actually see.

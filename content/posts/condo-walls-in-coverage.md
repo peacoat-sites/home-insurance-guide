@@ -31,7 +31,7 @@ Thirty-seven days into my career reviewing claims, a condo owner named Gerald ca
 
 Here's what I want you to walk away knowing, before we go deeper:
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Your HOA's master policy likely stops at the bare walls, floors, and ceiling (bare studs, concrete, drywall excluded).</li><li style="margin:5px 0">"Walls-in" (HO-6) coverage protects your unit's interior: fixtures, flooring, cabinets, appliances, and improvements.</li><li style="margin:5px 0">Two master policy types exist: "bare walls" and "all-in." Knowing yours changes everything about what you need to buy.</li><li style="margin:5px 0">Loss assessment coverage is a separate, critical add-on most condo owners skip and later regret.</li><li style="margin:5px 0">Review your HOA's CC&amp;Rs and master policy declarations page every time you renew ,  they change.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Your HOA's master policy likely stops at the bare walls, floors, and ceiling (bare studs, concrete, drywall excluded).</li><li style="margin:5px 0">"Walls-in" (HO-6) coverage protects your unit's interior: fixtures, flooring, cabinets, appliances, and improvements.</li><li style="margin:5px 0">Two master policy types exist: "bare walls" and "all-in." Knowing yours changes everything about what you need to buy.</li><li style="margin:5px 0">Loss assessment coverage is a separate, critical add-on most condo owners skip and later regret.</li><li style="margin:5px 0">Review your HOA's CC&amp;Rs and master policy declarations page every time you renew, they change.</li></ul></div>
 
 ## The Two Master Policy Types (And Why This Is the First Question to Ask)
 
@@ -46,8 +46,6 @@ I once had a policyholder in a Chicago high-rise who had a beautiful kitchen ren
 **The single most useful thing you can do right now**: Call your HOA management company and ask for a copy of the master policy declarations page. Look for the words "bare walls," "single entity," or "all-inclusive." If you can't figure out which type you have from reading it, call your state's insurance department (you can find your state's contact page through [the NAIC's state map](https://www.naic.org/state_web_map.htm)) and ask them to help you read it. That's a free service people don't use enough.
 
 ## What Walls-In Coverage Actually Covers
-
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Your HO-6 policy is doing a few different jobs at once, and most people only think about one of them.
 

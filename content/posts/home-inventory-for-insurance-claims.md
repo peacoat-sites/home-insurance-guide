@@ -41,10 +41,6 @@ The Insurance Information Institute (III) is clear on this point: insurers bear 
 
 ## What to Document, Specifically
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Room by room is the right framework. Work systematically so nothing gets skipped. For each item that matters, you want:
 
 - Description (brand, model, color, approximate dimensions for furniture)

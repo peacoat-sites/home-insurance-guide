@@ -30,8 +30,6 @@ Shadows get misread as damage. Tarps from a previous repair, patched years ago, 
 
 ## What Policyholders Don't Know Could Cost Them
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most homeowners have no idea this is happening until they get a non-renewal notice. Insurers are generally not required to show you the images, explain the scoring model, or give you a meaningful chance to respond with current evidence. That information asymmetry is the core of the fight now playing out in state capitals.
 
 The comparison below shows where things currently stand across the states leading this debate:

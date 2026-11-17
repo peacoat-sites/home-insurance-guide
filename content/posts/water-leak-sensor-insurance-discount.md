@@ -47,8 +47,6 @@ What surprised me was how inconsistent the discounts are across insurers. Some o
 | Whole-home monitoring system | ~$200 | Multi-sensor coverage | Comprehensive protection |
 | Automatic shutoff systems (Flo by Moen, Phyn) | $300-$600 + installation | Auto shutoff on flow anomalies | Maximum claims reduction, deeper discounts |
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where marketing language starts doing real damage to your expectations.
 
 Many insurers bundle water leak sensors into a broader "smart home discount" category that might also include smart smoke detectors, [security systems](/home-insurance-security-system-discount/), and smart thermostats. On paper this sounds great. In practice it can mean the individual contribution of your water sensor is minimal, or that you need to install a whole suite of devices to qualify at all.

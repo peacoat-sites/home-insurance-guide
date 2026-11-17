@@ -51,10 +51,6 @@ That last part matters. If your home burns down and the insurer discovers it was
 | Vacant Property (30-60+ days) | May suspend coverage | May require endorsement |
 | Short-term Rental (Airbnb/Vrbo) | Typically excluded | May not cover; platform coverage varies |
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Landlord insurance, sometimes called a dwelling fire policy or DP-3 policy, is built around three things: the physical structure, your liability as the property owner, and lost rental income.
 
 The structure coverage works similarly to the dwelling coverage in a homeowners policy. Your liability coverage protects you if a tenant or their guest is injured on the property and sues you. And the loss of rents coverage, which is often the piece people overlook, pays you a portion of your rental income if a covered event like a fire makes the unit uninhabitable while repairs are being made.

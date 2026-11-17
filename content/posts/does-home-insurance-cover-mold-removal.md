@@ -52,8 +52,6 @@ The word "sudden" is doing a lot of work in standard homeowner policies. It appe
 | Bathroom/basement humidity | No | Mold with no discrete triggering event; not covered |
 | Pre-existing mold | No | Mold that existed before purchase; typically excluded |
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Standard HO-3 policies (the most common type for single-family homes) cover mold remediation when it results directly from a named covered peril. That list typically includes:
 
 - Burst pipes or accidental discharge from plumbing

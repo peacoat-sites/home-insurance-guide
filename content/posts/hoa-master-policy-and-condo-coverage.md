@@ -50,8 +50,6 @@ Here's the real problem: most condo owners have never actually read their associ
 
 ## Where the Coverage Actually Falls Apart
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are three places where condo owners routinely get exposed. I want to be specific about each one.
 
 **The gap between the master policy deductible and your coverage.** HOA master policy deductibles have skyrocketed over the past decade. You'll see $10,000, $25,000, even $50,000 deductibles now, driven by rising reinsurance costs after major weather events. A pipe bursts. $30,000 in damage to the building. The master policy has a $25,000 deductible. The association comes after unit owners to cover that $5,000 gap. Your individual HO-6 can include "[loss assessment coverage](/homeowners-insurance-for-condos/)" to handle exactly this. Most policies offer it as a cheap add-on. Get it.

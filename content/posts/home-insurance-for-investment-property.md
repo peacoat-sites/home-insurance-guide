@@ -43,8 +43,6 @@ If you only rent occasionally, say you list your home on Airbnb during summer wh
 
 ## What Landlord Insurance Actually Covers
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Landlord insurance, specifically a DP-3 policy, is designed for non-owner-occupied residential rental properties. Here's what a solid landlord policy typically includes:
 
 **Dwelling coverage:** Protects the structure itself, including the roof, walls, built-in appliances, and permanently attached fixtures. This is the core of any rental property policy, and you'll want it set at replacement cost value, not actual cash value. The difference can be tens of thousands of dollars in a serious loss. If you want to understand how that gap works, the [home insurance replacement cost vs actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/) comparison is worth reading before you choose a policy.

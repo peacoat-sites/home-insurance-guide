@@ -48,8 +48,6 @@ Fire and lightning claims are the most expensive per incident, even though they 
 
 ## The Gap Between What People Expect and What They Receive
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part that bothered me most in fourteen years of reviewing claims. People assume their settlement will reflect what it costs to replace their stuff today. A lot of them are wrong.
 
 If your policy pays actual cash value (ACV) instead of replacement cost value (RCV), the insurer applies depreciation. Your ten-year-old roof is not worth what a new roof costs. Your seven-year-old refrigerator is not worth $1,400. The depreciation schedule can be brutal, and it's buried in a section of the policy that almost nobody reads before filing a claim.

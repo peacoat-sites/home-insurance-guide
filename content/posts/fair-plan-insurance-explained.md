@@ -49,8 +49,6 @@ Here's the critical thing most policyholders miss: FAIR plans typically cover th
 | Without DIC | $620,000 | $600,000 | $85,000 | $44,800 (14 months × $3,200) | $129,800 | N/A |
 | With DIC | $620,000 | $600,000 | Covered | Covered | ~$4,200 (deductibles only) | $1,100/year |
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to be direct here because this is where real financial harm happens.
 
 A typical private homeowner's policy bundles dwelling coverage, personal property, liability, and additional living expenses into one package. A FAIR plan almost never does this automatically. You usually get dwelling coverage and not much else unless you actively layer on what's called a "Difference in Conditions" (DIC) policy.

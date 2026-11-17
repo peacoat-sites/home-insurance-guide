@@ -51,8 +51,6 @@ Some insurers bundle these components; others let you select limits independentl
 
 ## Who Actually Needs This (Hint: Most Homeowners)
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Anyone whose home is more than 15 years old. But that's only the easy answer.
 
 Building codes get updated constantly. The International Building Code sees major revisions every three years. Local jurisdictions adopt those changes on their own schedules, which means a home built in 2005 could already be two or three code cycles behind. On homes less than 20 years old, code upgrades can add 20% to reconstruction costs.

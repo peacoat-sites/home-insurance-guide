@@ -70,8 +70,6 @@ Your premium isn't one price. It's a stack of coverage components bundled togeth
 
 When you increase limits on any of these or add endorsements, your premium goes up. That's not the insurer padding your bill. That's what coverage expansion actually costs.
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## The Specific Factors Underwriters Use to Price Your Policy
 
 Underwriters aren't guessing. They're running your home through a pricing model built on decades of claims data, and every variable feeds into that calculation. Here are the factors that carry the most weight:

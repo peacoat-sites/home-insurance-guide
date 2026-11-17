@@ -109,8 +109,6 @@ Before you sign anything, make sure the settlement covers complete restoration t
 
 If you don't already have a thorough home inventory, this is a good time to start one. Apps like Encircle or Itemtopia are genuinely useful for documenting what you own before disaster strikes. A document safe to store your policy paperwork is also worth having on hand.
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Preventive Steps That Actually Reduce Your Risk (and Your Premiums)
 
 You can't control the weather. You can control how prepared your property is.

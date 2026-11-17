@@ -43,8 +43,6 @@ What does a high loss ratio mean for you specifically? When a carrier's book of 
 
 ## The Range That Should Make You Ask Questions
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people who ask me to decode their insurer's financial health: the loss ratio alone isn't enough. You need context.
 
 | Loss Ratio Range | What It Often Signals | What to Watch For |

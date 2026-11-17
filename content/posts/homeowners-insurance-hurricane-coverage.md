@@ -51,8 +51,6 @@ Here's where it gets more complicated. Water that enters your home because wind 
 
 ## The Hurricane Deductible Nobody Talks About
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the one that genuinely shocked homeowners more than anything else. In most coastal states from Texas to Maine, your policy contains a separate hurricane deductible. It's not the $1,000 or $2,500 flat deductible you're used to. It's a percentage, typically 1% to 5% of your home's insured value, and it triggers the moment a named storm is declared by the National Weather Service.
 
 On a $400,000 home, a 2% hurricane deductible means you're paying $8,000 out of pocket before your insurer covers anything. A 5% deductible means $20,000.

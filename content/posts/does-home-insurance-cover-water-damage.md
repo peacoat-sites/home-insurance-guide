@@ -40,8 +40,6 @@ A common scenario involves a slow leak under a bathroom vanity that warps the su
 
 ## What's Covered, What's Not, and the Gray Zones
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me be as specific as I can here, because vague summaries don't help you when you're actually filing a claim.
 
 | Water Damage Scenario | Typically Covered? | Notes |

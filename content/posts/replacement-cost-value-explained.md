@@ -55,8 +55,6 @@ The premium difference is real but often overstated in the selling. Homeowners w
 
 ## How Replacement Cost Is Actually Calculated
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll admit I got this wrong early in my career. I assumed the insurer's estimate was basically the home's tax-assessed value plus some multiplier. It isn't.
 
 Proper dwelling replacement cost calculation starts with square footage and multiplies by local construction cost per square foot, then adjusts for things like: roof type and pitch, foundation type, quality of finishes, custom features, number of bathrooms, garage type, and local labor markets. In rural Montana versus suburban New Jersey, the same 1,800-square-foot house might have wildly different rebuild costs.

@@ -40,10 +40,6 @@ The problem isn't just that flood is excluded. The problem is that most homeowne
 
 ## Why the Big Five Have Different Numbers Than Smaller Carriers
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what the denial rate increase actually tells you: the largest insurers are getting more aggressive, not less, while some smaller carriers are moving in the opposite direction. Erie Insurance, for instance, paid out on relatively more claims over the past decade, not fewer. That's not a coincidence.
 
 Large insurers operate at enormous scale and are under consistent pressure from investors and ratings agencies to manage loss ratios. After years of [catastrophic losses in wildfire](/your-wildfire-risk-score-now-has-to-be-disclosed/) and hurricane zones, their underwriting and claims review processes have tightened considerably. More claims reviewers with more authority to deny. More algorithmic tools flagging claims for additional scrutiny. More pressure on adjusters to find the exclusion that applies.

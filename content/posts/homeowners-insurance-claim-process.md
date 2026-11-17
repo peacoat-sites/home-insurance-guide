@@ -43,8 +43,6 @@ Then call your insurer. The claims number is on your declarations page (the summ
 
 ## Understanding Who Shows Up: Adjusters and Their Role
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 After you file, the insurer assigns an adjuster to your claim. Here's what most people don't realize: the adjuster works for the insurance company. Their job is to assess the loss accurately, which usually means finding the legitimate scope of damage. But they also have an incentive to keep payouts within what the policy actually covers, and sometimes that means looking for reasons to limit a claim.
 
 Two main types exist. A staff adjuster is a direct employee of your insurer. An independent adjuster is a contractor the insurer hires, often during catastrophe events when staff can't keep up with volume. Neither type is inherently bad, but it's useful to know who you're dealing with.

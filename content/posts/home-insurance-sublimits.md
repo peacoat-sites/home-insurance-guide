@@ -52,8 +52,6 @@ Standard sublimit amounts vary by insurer, but based on my years reviewing polic
 | Business property | $2,500 | $10,000 home office equipment | $7,500 |
 | Securities | $1,500 | Varies | Varies |
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Jewelry is the one that generates the most shock. A single engagement ring bought today can easily run $8,000 to $20,000. A modest collection built over decades can hit six figures. Standard sublimits cover almost none of that in a theft scenario. (Damage from, say, a house fire might be treated differently depending on the cause of loss, but theft is where sublimits hit hardest.)
 
 I watched a claim come through once where a woman had inherited her grandmother's jewelry, a mix of estate pieces she'd had appraised at roughly $34,000. Her policy's jewelry theft sublimit was $2,500. She had no scheduled endorsement. She received $2,500. I had to deliver that news. It doesn't get easier.

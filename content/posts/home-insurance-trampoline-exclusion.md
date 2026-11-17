@@ -41,8 +41,6 @@ So from the insurer's perspective, a trampoline is a voluntary, foreseeable risk
 
 ## The Four Ways a Policy Can Handle Your Trampoline
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There isn't one standard trampoline policy treatment. Insurers take different approaches, including these four common ones:
 
 **1. Full exclusion.** The policy language explicitly removes liability coverage for any injury caused by a trampoline on the premises. You're fully exposed. This is more common than insurers advertise.

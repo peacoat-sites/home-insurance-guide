@@ -43,8 +43,6 @@ New roof? That's another significant one. An asphalt shingle roof installed with
 
 ## The Ones Nobody Talks About
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Loyalty discounts exist, but I'm skeptical of them for a reason: they can actually work against you. Yes, staying with the same carrier for three or more years sometimes earns a 2-7% discount. But your premium can quietly increase through "price optimization" each renewal year, sometimes faster than any loyalty discount offsets. The National Association of Insurance Commissioners ([NAIC](https://www.naic.org/)) has flagged price optimization as a consumer concern in multiple reports. My honest advice is to shop your policy every two to three years regardless of loyalty status. The threat of leaving is often more valuable than the discount for staying.
 
 Claims-free discounts are straightforward and genuinely useful. Most carriers offer 5-15% off if you've been claim-free for three to five years. Some extend this to a "disappearing deductible" benefit as well. The catch: a single claim, even a small one you could have paid out of pocket, can reset the clock and cost you the discount for years. This is why I almost always tell people to think very hard before filing claims under $1,500. The math often doesn't work in your favor.

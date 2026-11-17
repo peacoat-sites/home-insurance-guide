@@ -43,8 +43,6 @@ What's not covered: theft by a household member or a long-term resident. If your
 
 ## The Sub-Limit Trap
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where policies get quietly brutal. Nearly every HO-3 has special limits on specific categories of property, regardless of your total Coverage C amount. They're buried in the policy document, usually starting around page 8.
 
 As of July 2026, the most common sub-limits look like this:

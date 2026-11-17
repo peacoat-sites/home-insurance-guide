@@ -53,8 +53,6 @@ A common problem is gradual damage. If water seeps in around the garage door fra
 
 ## When You Back Into Your Own Garage Door
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be direct: this is one of the most common garage door claims, and one of the most misunderstood.
 
 If you back your car into your garage door, the damage to the *car* falls under auto insurance, specifically your collision coverage. But the damage to the *garage door* is a homeowner's claim. You're dealing with two separate policies for one incident.

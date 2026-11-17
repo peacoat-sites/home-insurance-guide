@@ -55,8 +55,6 @@ Check your state's insurance department website for exact figures. The National 
 
 ## What They Can't Tell You
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's something that surprised me the [first time](/home-insurance-for-first-time-buyers/) I saw it from the inside: the stated reason for cancellation isn't always the whole story.
 
 A carrier might cite "underwriting guidelines" as the nonrenewal reason when the real driver is a portfolio-level decision to reduce exposure in a coastal county or wildfire zone. That's legal. It's also frustrating, because "underwriting guidelines" is a phrase that gives you almost nothing to push back against.

@@ -34,10 +34,6 @@ That 1% to 25% range sounds manageable until you realize it's sitting on top of 
 
 ## What the Law Actually Requires (Read This Carefully)
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 HB25-1182, which took effect July 1, 2026, requires any insurer using a wildfire risk model to disclose your score in writing at every application, renewal, or non-renewal. Not on request. Automatically. According to the Colorado Senate Democrats' June 2026 announcement of the law, this disclosure requirement is triggered every time the insurer uses that model in a coverage decision.
 
 The appeal rights are real and time-bound. If you receive a score you believe is wrong, based on outdated satellite data, a misclassified roof type, or failure to recognize your defensible space work, you can file a formal appeal. The insurer must acknowledge it within 10 calendar days and issue a final written decision within 30 days. Those are legal requirements, not service guidelines. Missing those windows is a violation.
@@ -75,10 +71,10 @@ I'd encourage every Colorado homeowner with a property in a wildfire-adjacent ar
 ## Sources
 
 - [Colorado Senate Democrats: Law to Save Coloradans Money on Property Insurance Goes Into Effect](https://www.senatedems.co/newsroom/law-to-save-coloradans-money-on-property-insurance-goes-into-effect) (June 2026)
-- [Live Insurance News: Colorado Just Gave Homeowners the Right to See ,  and Fight ,  the Secret Score Driving Their Premiums](https://www.liveinsurancenews.com/colorado-homeowners-secret-score/8573796/) (July 2026)
-- [Premier Mountain Insurance: Colorado Wildfire Risk Score ,  What HB 1182 Means for You](https://www.premiermountaininsurance.com/colorado-wildfire-risk-score-hb-1182/) (June 2026)
+- [Live Insurance News: Colorado Just Gave Homeowners the Right to See, and Fight, the Secret Score Driving Their Premiums](https://www.liveinsurancenews.com/colorado-homeowners-secret-score/8573796/) (July 2026)
+- [Premier Mountain Insurance: Colorado Wildfire Risk Score, What HB 1182 Means for You](https://www.premiermountaininsurance.com/colorado-wildfire-risk-score-hb-1182/) (June 2026)
 - [Latent Insurance: Colorado Wildfire Mitigation Insurance Discounts](https://www.latentinsure.com/blog/colorado-wildfire-mitigation-discounts) (July 12, 2026)
-- [Grit Insurance: Wildfire Insurance in the West ,  Colorado, Utah, and Idaho 2026](https://gritinsurance.com/blog/wildfire-insurance-colorado-utah-idaho-2026) (July 2026)
+- [Grit Insurance: Wildfire Insurance in the West, Colorado, Utah, and Idaho 2026](https://gritinsurance.com/blog/wildfire-insurance-colorado-utah-idaho-2026) (July 2026)
 - [Colorado General Assembly: HB25-1182 Full Text](https://leg.colorado.gov/bills/hb25-1182) (Effective July 1, 2026)
 
 ---

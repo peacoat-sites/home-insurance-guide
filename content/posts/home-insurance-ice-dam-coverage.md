@@ -43,8 +43,6 @@ This is not hypothetical. I personally reviewed dozens of ice dam claims where t
 
 ## The Coverage Map: What's In, What's Out
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Standard HO-3 policies (the most common homeowner form) generally cover ice dam damage through two separate buckets:
 
 **Dwelling Coverage (Coverage A):** This is where interior damage lands. Damaged drywall, ruined insulation, warped flooring, peeling paint. If water got in and damaged the structure of your home, Coverage A typically responds. The III confirms that water damage from ice dams is generally covered under this provision as a sudden and accidental loss, assuming your policy doesn't have a specific exclusion.

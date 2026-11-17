@@ -75,8 +75,6 @@ There's also **extended replacement cost**, which pays a percentage above your d
 
 One practical note: your dwelling coverage limit should reflect what it actually costs to rebuild your home from the ground up, not its market value. Land isn't covered. Rebuilding a 2,000-square-foot home might cost $250,000 in one area and $450,000 in another depending on local labor costs and materials. Your insurer's estimate at policy inception may be low. Get an independent appraisal if you're uncertain.
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How to Choose the Right Policy: A Step-by-Step Approach
 
 Shopping for home insurance for the first time is disorienting because every insurer uses different terminology for the same concepts. Here's how to cut through it.

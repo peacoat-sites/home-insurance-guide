@@ -28,10 +28,6 @@ Percentage-based deductibles tied to home value have become far more common, esp
 
 ## Why Florida Is the Sharpest Example
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Florida deserves its own discussion because the numbers there are striking even against the national backdrop. A Weiss Ratings analysis from April 2026 found three Florida property insurers closed more than 50% of homeowner claims with no payment in 2025, giving Florida the highest nonpayment rate in the country. A significant driver: flood damage is excluded from standard homeowners policies. Full stop, no exceptions. When a hurricane pushes a storm surge through a neighborhood, the wind damage may be covered, but the water damage, often the catastrophic part, requires a separate NFIP or private flood policy that millions of homeowners simply don't carry.
 
 I watched this exact scenario play out hundreds of times during my years reviewing claims. A family files after a named storm, and there's genuine damage everywhere. But the adjuster separates wind damage from water intrusion, and suddenly coverage applies to a fraction of the loss. The homeowner assumed "hurricane" meant their policy covered a hurricane. It's one of the most painful conversations in this industry.

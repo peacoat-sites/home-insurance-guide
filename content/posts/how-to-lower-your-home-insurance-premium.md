@@ -45,8 +45,6 @@ Call your agent and ask for a complete list of every discount your carrier offer
 
 ## What Your Home's Physical Characteristics Actually Cost You
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Roof age is probably the single biggest physical factor in your premium. A roof over 15 years old, especially one with original three-tab asphalt shingles, will cost significantly more to insure than a newer one or one with impact-resistant materials. The Insurance Information Institute notes that roof condition is among the top factors insurers evaluate, and in hail-prone states, some carriers won't write new policies on roofs older than 20 years at all.
 
 What surprised me was how much credit insurers give for specific upgrades:

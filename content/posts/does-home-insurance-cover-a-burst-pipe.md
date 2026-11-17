@@ -43,8 +43,6 @@ Here's something I didn't fully appreciate until I was sitting on the other side
 
 ## The Coverage Breakdown: What Gets Paid and What Doesn't
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me put the major scenarios side by side, because this is genuinely where confusion lives.
 
 | Scenario | Typically Covered? | Reason |

@@ -43,8 +43,6 @@ I processed a claim once where a family had an HO-2 (one step up) and their dish
 
 ## The Peril Comparison You Actually Need
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This table compares what each basic form covers. As of August 2026, these are the standard industry definitions as tracked by the [Insurance Information Institute (III)](https://www.iii.org/):
 
 | Covered Peril | HO-1 | HO-2 | HO-3 |

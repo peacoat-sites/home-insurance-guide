@@ -31,7 +31,7 @@ Riders (also called endorsements, depending on your carrier) are the patches you
 
 Many riders cost almost nothing per year but protect against losses that run into tens of thousands of dollars. The math on that is almost embarrassing.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard HO-3 policies exclude jewelry over ~$1,500, earthquakes, floods, and sewer backup by default.</li><li style="margin:5px 0">Most riders cost $25–$300/year but can cover losses of $10,000–$100,000+.</li><li style="margin:5px 0">Scheduled personal property riders require itemized appraisals ,  get them before you need to file.</li><li style="margin:5px 0">Sewer/water backup coverage is absent from most base policies but costs roughly $50–$150/year to add.</li><li style="margin:5px 0">Inflation guard riders automatically adjust your dwelling coverage ,  skip them and you risk being underinsured within 3 years.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard HO-3 policies exclude jewelry over ~$1,500, earthquakes, floods, and sewer backup by default.</li><li style="margin:5px 0">Most riders cost $25–$300/year but can cover losses of $10,000–$100,000+.</li><li style="margin:5px 0">Scheduled personal property riders require itemized appraisals, get them before you need to file.</li><li style="margin:5px 0">Sewer/water backup coverage is absent from most base policies but costs roughly $50–$150/year to add.</li><li style="margin:5px 0">Inflation guard riders automatically adjust your dwelling coverage, skip them and you risk being underinsured within 3 years.</li></ul></div>
 
 ## What a Base Policy Actually Covers (And Doesn't)
 
@@ -42,8 +42,6 @@ Flood damage? Not covered. Never was, probably never will be under a standard po
 The [Insurance Information Institute (III)](https://www.iii.org/) has a clear breakdown of standard exclusions, and it's worth reading before you assume you're covered. Most people don't look until after something goes wrong.
 
 ## The Riders That Actually Matter
-
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 I'm going to walk through the ones I saw generate the most claim disputes in my adjuster years, which is a decent proxy for "things people desperately wish they'd added."
 

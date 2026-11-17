@@ -42,8 +42,6 @@ The Insurance Information Institute ([III](https://www.iii.org/)) breaks down en
 
 ## The Ones That Actually Matter
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You'll hear a lot about scheduled [personal property](/homeowners-insurance-personal-property-coverage/) endorsements, and they genuinely deserve the attention. Your base policy covers personal property, but usually with sub-limits on categories like jewelry (often $1,500 or $2,500), firearms (often $2,500), and electronics. If you own a $7,000 engagement ring and it falls down a drain while you're washing dishes, you're going to collect maybe $1,500 and fight for the rest. A scheduled endorsement lists the item specifically, usually after an appraisal, and covers it for that appraised value.
 
 Worked example: A homeowner in Phoenix had her diamond earrings stolen from a hotel room during travel. Her base policy had a $1,500 jewelry sublimit, and theft away from home was further restricted. Her scheduled personal property endorsement, which she'd added for $180/year, covered the earrings at their appraised value of $6,200. Net difference: $4,700.

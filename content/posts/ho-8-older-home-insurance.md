@@ -39,8 +39,6 @@ The named-peril structure matters too. Most HO-8 policies cover only the perils 
 
 ## The Deductible and Coverage Limit Problem
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Older homes often carry high replacement cost estimates relative to market value, which creates a specific underinsurance trap. Say your 1920s Craftsman would cost $380,000 to rebuild but sells for $215,000. A lot of HO-8 policies are written at or near market value because that's what makes financial sense to the policyholder at renewal. But if you have a major fire loss, you're not getting the market value of your home, you're getting whatever the policy limit says, and the functional replacement cost calculation on top of that can leave you short by a significant amount.
 
 I'd push back on something you'll hear from some agents, which is that "the HO-8 is fine for older homes, it's what everyone in your neighborhood has." That's not a reason to accept reduced coverage. It's a sales script. The right policy is the one that actually makes you whole after a loss, not the one that's standard for your ZIP code.

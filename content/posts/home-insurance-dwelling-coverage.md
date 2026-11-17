@@ -51,8 +51,6 @@ What perils you're covered for depends on your policy type. An HO-3 policy, the 
 
 ## The Replacement Cost vs. Market Value Confusion
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see homeowners get tripped up constantly. Dwelling coverage is supposed to be based on replacement cost, not market value. Those are completely different numbers, and mixing them up costs real money.
 
 Market value is what a buyer would pay for your home right now. Location, school districts, lot size, comparable sales nearby, all of it factors in. Replacement cost is what it would cost to rebuild the physical structure from the ground up, using current labor rates and materials, on the same lot. In expensive metros, market value often exceeds replacement cost. In rural areas or markets with construction labor shortages, replacement cost can actually blow past market value by a significant margin.

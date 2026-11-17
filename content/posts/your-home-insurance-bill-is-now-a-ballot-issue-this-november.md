@@ -34,10 +34,6 @@ Oklahoma's 24% single-year jump is the kind of number that gets people to the po
 
 ## The Hidden Variable: 36 Governor's Races
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The four elected-commissioner states get the attention, but here's where it gets more complicated. In 39 states, the insurance commissioner isn't elected. The governor appoints them. Which means the 36 governor's races happening this November are, indirectly, also insurance races. A governor who prioritizes consumer protection over carrier profitability will appoint a commissioner who leans hard on rate increase requests. A governor who worries about market exits, and some legitimately should, will appoint someone more permissive.
 
 This isn't a partisan point. Both sides of that tradeoff have real consequences. I spent years watching what happens when carriers decide a market isn't worth the regulatory friction: they leave, coverage becomes scarce, and homeowners end up in state-run insurers of last resort that nobody actually wants to use. The politics are messy. The outcomes are real.

@@ -52,10 +52,6 @@ What surprised me was how cheap this coverage often is relative to the value it 
 | Fine Art | Varies | Included in base policy | Antique ceramics collection undervalued without appraisal |
 | Firearms | Varies by state | Included in base policy | Not specified in article |
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 [Jewelry is the obvious one](/home-insurance-jewelry-coverage/). But in my 14 years of claims experience, here are the items people consistently forgot to schedule until they were filing a claim: fine art, antique furniture, vintage wine collections, musical instruments (especially bowed instruments, which are fragile and expensive), camera equipment, coin and stamp collections, and high-end sports equipment like custom bicycles or golf clubs.
 
 A reader reached out to me last spring asking why her insurer denied her claim for a stolen Leica M11 camera body (retail around $8,400). Her homeowners policy had a $2,500 electronics sublimit. She had no floater. The claim paid $2,500 minus her $1,000 deductible. She got $1,500 on a camera worth nearly $9,000.

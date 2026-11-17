@@ -39,8 +39,6 @@ A common mistake is thinking an HO-3 is essentially full coverage. The sublimit 
 
 ## Where the Actual Gaps Are
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me be specific, because vague warnings about "coverage gaps" aren't useful.
 
 **Flooding.** Standard homeowner policies exclude flood damage. Period. No exceptions. The National Flood Insurance Program, administered by FEMA, reports that just 4% of homeowners carry separate flood insurance, even as flooding has become the most common and costly natural disaster in the U.S. If your basement fills with water after a rainstorm, your HO-3 pays nothing. Your neighbor's burst pipe that migrates into your wall is covered. Rainwater that enters through a foundation crack is not. That distinction has enraged more policyholders than I can count.

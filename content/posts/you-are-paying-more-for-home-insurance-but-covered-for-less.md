@@ -41,8 +41,6 @@ A homeowner who set their coverage limit in 2020 and accepted the default annual
 
 ## Tariffs Are Widening the Gap in Real Time
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what's genuinely new in 2026: federal tariffs on imported construction materials are accelerating the underinsurance problem at a pace that catches most people completely off guard. The National Association of Home Builders estimates that tariffs on steel, lumber, and copper could add nearly $11,000 to the cost of constructing a new home. That's before a single nail is driven.
 
 Insurify projected in January 2026 that tariffs could push home insurance costs up to 38% faster than they would have risen otherwise. What that really means for you is that the rebuild cost calculation your policy was written around is already outdated. The gap between your coverage limit and your actual exposure is growing month by month, and most homeowners have no idea it's happening. Your renewal notice doesn't spell it out.

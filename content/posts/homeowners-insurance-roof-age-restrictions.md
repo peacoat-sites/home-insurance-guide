@@ -48,8 +48,6 @@ The third approach, less common but worth knowing, is a required inspection befo
 
 ## Why This Has Gotten Stricter
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 It wasn't always this aggressive. I started in claims in the early 2010s, and back then a 25-year-old roof wasn't automatically disqualifying. What changed was a string of severe hail and wind seasons, followed by a wave of inflated roofing claims, many of them driven by aggressive storm-chasing contractors who knew how to work the system. Insurers got burned badly in states like Texas and Colorado, and they responded by tightening underwriting. Aggressively.
 
 Today the pressure is compounding. Reinsurance costs (what your insurer pays to insure itself) have climbed sharply, and carriers are passing that through by shrinking their appetite for older, higher-risk roofs. This isn't speculation. The Insurance Institute for Business & Home Safety has documented how roof condition and installation quality directly correlate with claim severity, and insurers have access to that same data.

@@ -36,10 +36,6 @@ And the FAIR Plan increase doesn't exist in isolation. Insurify projects that Ca
 
 ## Why the FAIR Plan Is in This Position
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The FAIR Plan was never designed to be anyone's long-term insurance solution. It's the insurer of last resort, a backstop for properties that private carriers won't touch. After the 2025 LA wildfires, hundreds of thousands of Californians found themselves locked out of the private market, and enrollment surged dramatically.
 
 The financial strain that followed was real. A state examination found 17 critical failures in how the FAIR Plan handled claims and operations. That examination fed directly into AB 1680, the "Make It FAIR Act," introduced by Commissioner Lara and Assemblymember Lisa Calderon. As the California Department of Insurance explained in its press release on the legislation, AB 1680 would require the FAIR Plan to offer comprehensive coverage options, improve [claims handling](/nearly-half-of-home-insurance-claims-go-unpaid-what-the-data-really-sh/), and disclose climate risk information to policyholders. Right now, the FAIR Plan's basic coverage leaves significant gaps that most people don't discover until they file a claim.

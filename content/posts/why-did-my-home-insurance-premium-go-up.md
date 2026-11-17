@@ -45,8 +45,6 @@ Let's start with the forces your insurer won't volunteer in the renewal letter.
 
 ## What's Specific to You
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Now the stuff that actually is about your house and your history.
 
 A claims history is the most obvious one. File two claims in three years and your premium will reflect it, often for five years or more. One thing I saw repeatedly as an adjuster: homeowners who called to report a problem and then decided not to file a claim still sometimes saw premium movement, because the inquiry itself was logged. Ask your insurer directly whether a "first notice of loss" that didn't result in a paid claim appears on your loss history. Request your CLUE report (that's the Comprehensive Loss Underwriting Exchange) annually at LexisNexis; it's free and it's what underwriters actually see.

@@ -45,8 +45,6 @@ Your policy's definition of "vacant" may not match the dictionary's. Some polici
 
 ## Why Standard Coverage Fails (And When)
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 30-to-60-day vacancy window isn't random. It reflects underwriter judgment about when a property's risk profile meaningfully shifts. After that window closes, most standard policies either void coverage entirely or reduce it to a named-perils shell that covers almost nothing useful.
 
 According to data tracked by the National Association of Insurance Commissioners (NAIC), vacancy-related claim denials are one of the more common sources of homeowner disputes. The [NAIC's consumer resources](https://www.naic.org/state_web_map.htm) by state can show you your state's complaint ratios by insurer, which is genuinely useful if you're shopping around.

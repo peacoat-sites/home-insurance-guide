@@ -54,8 +54,6 @@ The distinguishing factor is almost always documentation of your precautions.
 
 ## The "Vacant Home" Trap
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where people get into real trouble. If you leave your home for an extended period, especially in winter, your standard policy may not have you covered the way you think.
 
 Most policies define "vacancy" as 30 to 60 consecutive days without an occupant. After that threshold, many insurers apply a vacancy exclusion that either reduces or eliminates coverage for frozen pipe damage entirely. You'd need a separate vacancy endorsement or a standalone vacant home policy to maintain protection. These exist, but they cost extra and most people don't think to ask about them until it's too late.

@@ -44,8 +44,6 @@ The categories that typically qualify: fire, windstorm, lightning, vandalism, an
 
 ## The Math Most People Get Wrong
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Loss of use doesn't hand you a blank check for a Marriott suite. It covers "additional" expenses. Meaning expenses above your normal cost of living.
 
 Say your mortgage is $2,100 a month. You rent a temporary apartment for $2,800. Your insurer owes you $700, not $2,800. Now add the costs you wouldn't normally have: eating out because your rental has no kitchen, paying for laundry, a storage unit for your furniture. Those additional costs stack up, and documenting them meticulously is the only way you get paid.

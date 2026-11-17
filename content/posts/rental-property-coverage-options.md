@@ -31,7 +31,7 @@ That's not a knock on landlords. The insurance industry doesn't exactly go out o
 
 If you're renting out a property right now, or thinking about it, here's what you need to understand before something goes wrong.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowner's policies typically don't cover rental activity ,  you need a separate landlord or dwelling fire policy.</li><li style="margin:5px 0">Landlord policies cover the structure and your lost rental income, but NOT your tenant's belongings ,  they need renters insurance.</li><li style="margin:5px 0">Loss of rental income coverage usually pays 12-18 months of rent if the property becomes uninhabitable due to a covered event.</li><li style="margin:5px 0">Umbrella liability policies ($1M in coverage often runs $150-$300/year) are one of the highest-value add-ons for landlords.</li><li style="margin:5px 0">Short-term rentals (Airbnb, VRBO) require yet another layer of coverage ,  neither standard nor landlord policies fully cover them.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowner's policies typically don't cover rental activity, you need a separate landlord or dwelling fire policy.</li><li style="margin:5px 0">Landlord policies cover the structure and your lost rental income, but NOT your tenant's belongings, they need renters insurance.</li><li style="margin:5px 0">Loss of rental income coverage usually pays 12-18 months of rent if the property becomes uninhabitable due to a covered event.</li><li style="margin:5px 0">Umbrella liability policies ($1M in coverage often runs $150-$300/year) are one of the highest-value add-ons for landlords.</li><li style="margin:5px 0">Short-term rentals (Airbnb, VRBO) require yet another layer of coverage, neither standard nor landlord policies fully cover them.</li></ul></div>
 
 ## What a Landlord Policy Actually Covers
 
@@ -44,8 +44,6 @@ The liability piece matters more than most landlords realize. A tenant trips on 
 One thing almost nobody tells you about landlord policies: they typically exclude tenant-caused damage beyond "sudden and accidental." If your tenant lets a slow leak drip for eight months and your subfloor rots out, that's often not covered. The insurer will call it maintenance neglect. Keep that in mind when you're thinking about security deposits and tenant screening.
 
 ## The Coverage Types Side by Side
-
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's how the main coverage options compare. This table reflects general industry ranges as of July 2026, not quotes from any specific insurer.
 

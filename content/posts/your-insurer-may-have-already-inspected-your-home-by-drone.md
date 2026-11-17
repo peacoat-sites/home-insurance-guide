@@ -30,8 +30,6 @@ Meanwhile, insurers are simultaneously moving away from ZIP-code-level pricing t
 
 ## What the New Laws Actually Require (and Where They Apply)
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The clearest breakthrough so far is a new law that took effect July 1, 2026. According to Nearmap's state regulation tracker, updated May 14, 2026, insurers issuing non-renewals based on aerial imagery must now provide date-stamped photos taken within the past 12 months, a formal appeals process, and a minimum 60-day remediation window before they can drop coverage.
 
 That's real protection, but only in states where it applies. The landscape is fragmented right now. Here's where things actually stand:
@@ -74,11 +72,11 @@ The broader shift here, from neighborhood-level risk assessment to individual pr
 ## Sources
 
 - [Insurance companies using aerial imagery to determine if they'll renew home coverage](https://www.npr.org/2025/05/28/nx-s1-5400372/insurance-companies-using-aerial-imagery-to-determine-if-theyll-renew-home-coverage) (May 28, 2025)
-- [Insurance Regulations by State (Aerial Imagery) ,  Nearmap](https://www.nearmap.com/solutions/insurance-regulations-by-state) (May 14, 2026)
-- [N.Y.: Bill Would Set Standards for Use of Aerial Imagery in Homeowners Insurance ,  PIA Northeast](https://blog.pia.org/2026/05/06/n-y-bill-would-set-standards-for-use-of-aerial-imagery-in-homeowners-insurance/) (May 6, 2026)
-- [Homeowners Insurance Non-Renewal 2026: What To Do Now ,  AgencyHeight](https://agencyheight.com/homeowners-insurance-non-renewal-what-to-do/) (March 25, 2026)
-- [2026 Home Insurance Trends: Mid-Year Outlook ,  Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
-- [Can Your Insurance Company Drop You From a Drone Photo? ,  The Zebra](https://www.thezebra.com/resources/home/drone-phone-home-insurance-nonrenewal/) (November 5, 2025)
+- [Insurance Regulations by State (Aerial Imagery), Nearmap](https://www.nearmap.com/solutions/insurance-regulations-by-state) (May 14, 2026)
+- [N.Y.: Bill Would Set Standards for Use of Aerial Imagery in Homeowners Insurance, PIA Northeast](https://blog.pia.org/2026/05/06/n-y-bill-would-set-standards-for-use-of-aerial-imagery-in-homeowners-insurance/) (May 6, 2026)
+- [Homeowners Insurance Non-Renewal 2026: What To Do Now, AgencyHeight](https://agencyheight.com/homeowners-insurance-non-renewal-what-to-do/) (March 25, 2026)
+- [2026 Home Insurance Trends: Mid-Year Outlook, Openly](https://openly.com/the-open-door/articles/the-open-door/articles/2026-home-insurance-trends-mid-year) (July 2026)
+- [Can Your Insurance Company Drop You From a Drone Photo?, The Zebra](https://www.thezebra.com/resources/home/drone-phone-home-insurance-nonrenewal/) (November 5, 2025)
 
 ---
 

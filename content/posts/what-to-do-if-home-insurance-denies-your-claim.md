@@ -41,8 +41,6 @@ The cause-of-loss disputes are the ones I saw most often, and the ones where pol
 
 ## The First 48 Hours After You Get That Letter
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Don't call and yell. I know it's tempting. It accomplishes nothing, and it can actually complicate things if the call is recorded and you say something that later gets characterized as an admission.
 
 Do this instead:

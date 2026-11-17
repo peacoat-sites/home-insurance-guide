@@ -69,8 +69,6 @@ If you don't have the rider yet, here's how to approach adding it without overpa
 
 **Step 5: Document and protect your identity assets now.** A home inventory app can help you store records of important documents. A [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) keeps your Social Security card, passport, and financial records physically protected. These aren't flashy, but they matter.
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How This Coverage Compares: A Quick Reference
 
 | Coverage Type | What It Pays For | What It Doesn't Cover |

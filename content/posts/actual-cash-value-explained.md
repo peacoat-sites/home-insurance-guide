@@ -43,8 +43,6 @@ I remember the first claim I ever reviewed involving a flooded basement and a cl
 
 ## How ACV Compares to Replacement Cost Coverage
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see the most confusion, and honestly, where the insurance industry does the least to help consumers make informed choices.
 
 | Coverage Type | What You Receive | Example: 8-year-old HVAC (new cost: $6,400) | Typical Premium Difference |

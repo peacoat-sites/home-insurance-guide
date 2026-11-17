@@ -57,8 +57,6 @@ You might be wondering if smoke damage gets treated the same as fire damage. It 
 
 ## The Coverage Gaps That Catch People Off Guard
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 In my 14 years reviewing claims, the post-fire conversations I dreaded most were the ones where I had to explain why a portion of someone's claim wasn't covered. Not because coverage was being denied unfairly, but because no one had ever explained the policy clearly before the loss.
 
 **Intentional or criminal fire.** If you or a household member intentionally set the fire, coverage is denied. This seems obvious, but it becomes complicated in cases where one spouse commits arson and the innocent spouse wants to make a claim. Some states have protections for innocent co-insureds, but this varies significantly. Check with your state's insurance department (you can find your state's department through the [NAIC's state web map](https://www.naic.org/state_web_map.htm)) if this is a concern.

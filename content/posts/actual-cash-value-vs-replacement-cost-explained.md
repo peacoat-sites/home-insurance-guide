@@ -45,8 +45,6 @@ What most people don't realize is that depreciation schedules vary by insurer an
 
 ## Replacement Cost Coverage: The Real Promise
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 RCV coverage pays the actual cost to replace or rebuild with materials of similar kind and quality, without deducting for age or wear. That's the core difference. You're not being paid for what you *had*. You're being paid for what it costs to have it *again*.
 
 One thing I always tell people: even on replacement cost policies, most insurers don't hand you the full RCV check upfront. Standard practice is to release the ACV portion immediately, then issue a "recoverable depreciation" payment once you've completed repairs and submitted documentation. You need receipts. You need to actually do the work. If you pocket the initial check and skip the restoration, you typically forfeit the holdback.

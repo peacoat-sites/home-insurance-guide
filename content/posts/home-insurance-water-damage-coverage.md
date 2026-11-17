@@ -47,8 +47,6 @@ The burden of proof often falls on you. Document everything immediately upon dis
 | Flooding (groundwater, storm surge, bodies of water) | Not Covered (requires separate policy) | Requires National Flood Insurance Program or private flood policy |
 | Surface water and foundation seepage | Typically Excluded | May be partially covered under optional water backup endorsement |
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Water damage sources matter enormously for coverage purposes.
 
 **Internal plumbing failures.** Burst pipes, failed supply lines, malfunctioning appliances. Generally covered under a standard policy, assuming the sudden-and-accidental standard applies. Water heater ruptures, basement floods: typically covered.

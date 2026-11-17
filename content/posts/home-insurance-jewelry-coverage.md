@@ -55,8 +55,6 @@ The cost is genuinely not bad. Many carriers charge somewhere in the range of $1
 
 To get a piece scheduled, you'll need an appraisal, typically from a certified gemologist. The Gemological Institute of America (GIA) maintains a directory of credentialed appraisers if you need a starting point. Keep the appraisal document somewhere fireproof, like a document safe at home.
 
-> **Helpful resource:** [Govee WiFi Water Sensor with App Alerts](https://www.amazon.com/dp/B08KGP3H3M?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 One thing to watch: appraisals are often set higher than what a piece would actually sell for on the secondary market. That works in your favor on an agreed-value scheduled policy, but get a fresh appraisal every five to seven years as market values shift.
 
 ## The Standalone Jewelry Insurance Option

@@ -43,8 +43,6 @@ What standard policies usually cover: fire, smoke, windstorm, lightning, burst p
 
 A common mistake is assuming displacement would be covered, then discovering the underlying damage wasn't. Loss of use coverage can't stand alone. No coverage for the damage means no coverage for the expenses it creates.
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What Loss of Use Actually Pays For
 
 Covered additional living expenses typically include:

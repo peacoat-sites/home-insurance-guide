@@ -44,8 +44,6 @@ This is so common in the industry that actuaries have a name for it: price optim
 
 ## The Compounding Premium Problem
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the mechanic that bites people who don't pay attention. Your dwelling coverage is likely tied to a replacement cost estimator that increases annually. Your insurer applies an inflation guard or similar endorsement. The base from which your premium is calculated goes up, and so does the premium. A loyalty discount applied to a steadily inflating base number doesn't stop that number from growing. It just slows the growth slightly.
 
 What surprised me, once I started tracking this for clients, was how many homeowners had simply set up autopay and looked away. Completely understandable. Life is busy. But that autopay convenience was costing some of them hundreds of dollars a year.

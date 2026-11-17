@@ -51,8 +51,6 @@ Look up both numbers before requesting a single quote.
 | Replacement Cost Value (RCV) | Full replacement | Actual repair/replacement cost | Depreciation not subtracted |
 | Actual Cash Value (ACV) | Depreciated amount | Market value after depreciation | Gap between ACV and RCV |
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A standard HO-3 policy (what most homeowners carry) covers your dwelling on an "open perils" basis. Everything is covered except what's specifically excluded. Your personal property, though? Usually covered on a "named perils" basis, meaning only specific events listed in the policy are covered. Most policyholders never notice this asymmetry.
 
 Here's what catches people off guard:

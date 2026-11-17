@@ -31,7 +31,7 @@ ALE is the part of your homeowner's policy that pays for your temporary housing,
 
 The Insurance Information Institute notes that ALE is a standard component of most HO-3 policies, but "standard" doesn't mean "unlimited" or even "generous." Your specific sub-limit, the documentation requirements, and what your insurer considers "necessary" are things you need to know before you file, not after.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">ALE typically covers 20-30% of your dwelling coverage limit, not your actual replacement cost.</li><li style="margin:5px 0">Most policies cap ALE at 12-24 months; complex rebuilds regularly run longer.</li><li style="margin:5px 0">Every single expense needs a receipt. Verbal agreements with your adjuster mean nothing.</li><li style="margin:5px 0">"Loss of use" and "additional living expenses" are used interchangeably but read your policy definition carefully ,  they're not always identical.</li><li style="margin:5px 0">Your normal living costs are subtracted from ALE reimbursement. If you spend $400/month on groceries normally, only the overage counts.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">ALE typically covers 20-30% of your dwelling coverage limit, not your actual replacement cost.</li><li style="margin:5px 0">Most policies cap ALE at 12-24 months; complex rebuilds regularly run longer.</li><li style="margin:5px 0">Every single expense needs a receipt. Verbal agreements with your adjuster mean nothing.</li><li style="margin:5px 0">"Loss of use" and "additional living expenses" are used interchangeably but read your policy definition carefully, they're not always identical.</li><li style="margin:5px 0">Your normal living costs are subtracted from ALE reimbursement. If you spend $400/month on groceries normally, only the overage counts.</li></ul></div>
 
 ## What ALE Actually Covers (and What It Doesn't)
 
@@ -44,8 +44,6 @@ What most ALE policies will cover, assuming proper documentation: hotel or renta
 What they typically won't cover: anything you can't document, costs your insurer deems "excessive" (I once saw a claim denied because the adjuster flagged daily DoorDash orders as unreasonable), or expenses that would have existed even without the displacement.
 
 ## The Limits That Will Surprise You
-
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Current as of August 2026, most standard HO-3 policies cap ALE at 20% of your Coverage A (dwelling) limit. Insure your home for $400,000 and you've got $80,000 in ALE. That sounds like a lot until you price a furnished rental in a mid-cost city for 18 months.
 

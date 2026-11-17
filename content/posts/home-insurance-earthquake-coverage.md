@@ -56,8 +56,6 @@ If you want to understand what your base policy actually covers, the [Home Insur
 
 ## What Earthquake Insurance Actually Covers (and What It Doesn't)
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Earthquake coverage comes in two forms: a standalone earthquake insurance policy purchased separately, or an earthquake endorsement added to your existing homeowners policy. Either way, the coverage structure follows a similar pattern.
 
 **Dwelling coverage** pays to repair or rebuild your home's structure after earthquake damage. This includes the foundation, walls, roof, and attached structures. Most policies pay on a replacement cost basis, though you should confirm this. Actual cash value payouts after a major loss can leave a significant gap. The difference between these two valuation methods is explained in our article on [home insurance replacement cost vs. actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/).

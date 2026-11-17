@@ -52,8 +52,6 @@ The Insurance Information Institute (III) tracks data on fine art claims, and th
 | Scheduled Rider | Up to $25,000-$50,000 (per company threshold) | Standard to reduced | Valuable individual pieces | Agreed-value; broader than standard policy |
 | Standalone Fine Art Policy | $20,000+ (no limit) | $0-reduced | Collections and high-value art | Theft, collision, environmental, mysterious disappearance, transit damage |
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you want real protection, you need to [schedule each piece individually](/scheduled-personal-property-insurance/). This means getting an appraisal, listing it by name on your policy, and paying a separate premium.
 
 Here's what that actually looks like: You own a $12,000 contemporary painting. You get an independent appraisal (more on that in a minute). You tell your insurer, "I want to add this to my policy. Here's the appraisal." They'll either add it as a [scheduled fine art rider](/scheduled-personal-property-insurance/) to your existing homeowners policy or recommend a separate fine art policy altogether. You'll pay maybe $150-400 a year depending on the value and your location. The coverage is agreed-value, which means if it's damaged beyond repair, they pay the appraised amount, not what they think it's worth.

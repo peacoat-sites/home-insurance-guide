@@ -60,8 +60,6 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a [landlord policy](/best-homeowners-insurance-companies/) (sometimes called a dwelling fire policy). Damage caused by tenants can trigger claim denials under a standard homeowner's policy. The premium difference is real. So is the coverage gap.
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How to Actually Ask for the Discount (Without Getting the Runaround)
 
 Calling an insurer and asking "do you have a military discount?" will sometimes get you a straight yes. More often you'll get "we appreciate your service" and a redirect to the general quote process. Be specific instead.

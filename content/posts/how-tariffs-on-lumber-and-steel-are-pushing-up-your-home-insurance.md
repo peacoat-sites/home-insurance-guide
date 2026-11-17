@@ -30,8 +30,6 @@ A BCG analysis found that higher construction material costs from tariffs could 
 
 ## The Gap Between What Your Home Would Cost to Rebuild and What You're Insured For
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part that keeps me up at night, honestly. Most homeowners are insured for what their home was worth a few years ago, not what it would cost to rebuild it today. That gap has been widening since 2021, and tariffs are making it wider faster.
 
 Your policy's dwelling coverage limit is the ceiling on what your insurer will pay to reconstruct your home after a total loss. If that number hasn't been updated recently, and your home would now cost significantly more to rebuild because lumber and steel costs have risen sharply, you could find yourself underinsured at exactly the worst moment. Some policies include "extended replacement cost" coverage that adds a buffer, typically 20% to 50% above your stated limit. Others don't. Check yours. This is not a minor fine-print issue.
@@ -40,10 +38,10 @@ Here's what I tell people to do before they just pay the renewal: call your insu
 
 | Coverage Type | What It Pays | Tariff Exposure |
 |---|---|---|
-| Actual Cash Value | Depreciated value of damaged items | High ,  leaves cost gap |
-| Replacement Cost Value | Full cost to rebuild/replace | Moderate ,  tracks market |
-| Extended Replacement Cost | RCV plus 20–50% buffer | Lower ,  some tariff cushion |
-| Guaranteed Replacement Cost | Whatever it actually costs | Lowest ,  but rare and pricey |
+| Actual Cash Value | Depreciated value of damaged items | High, leaves cost gap |
+| Replacement Cost Value | Full cost to rebuild/replace | Moderate, tracks market |
+| Extended Replacement Cost | RCV plus 20–50% buffer | Lower, some tariff cushion |
+| Guaranteed Replacement Cost | Whatever it actually costs | Lowest, but rare and pricey |
 
 ## Which States Are Feeling This the Most
 
@@ -70,7 +68,7 @@ None of this is a guarantee that your premium won't rise. In this market, it pro
 ## Sources
 
 - [Reason: Tariffs Are Driving Up Your Homeowners Insurance Premiums](https://reason.com/2026/04/22/tariffs-are-driving-up-your-homeowners-insurance-premiums/) (April 22, 2026)
-- [Forbes Advisor: Home Insurance Outlook 2026 ,  Tariffs, Severe Weather, Building Costs](https://www.forbes.com/advisor/homeowners-insurance/home-insurance-outlook/) (January 12, 2026)
+- [Forbes Advisor: Home Insurance Outlook 2026, Tariffs, Severe Weather, Building Costs](https://www.forbes.com/advisor/homeowners-insurance/home-insurance-outlook/) (January 12, 2026)
 - [Insurance Journal: US Home Insurance Prices Set to Keep Rising With Severe Weather](https://www.insurancejournal.com/news/national/2026/03/18/862372.htm) (March 18, 2026)
 - [Insurify: Tariffs Could Raise Home Insurance Costs up to 38% Faster](https://insurify.com/homeowners-insurance/insights/tariff-projections/) (January 23, 2026)
 - [Grit Insurance: How Tariffs Are Driving Up Construction Costs and What It Means for Your Insurance](https://gritinsurance.com/blog/tariffs-construction-costs-insurance-impact) (June 19, 2026)

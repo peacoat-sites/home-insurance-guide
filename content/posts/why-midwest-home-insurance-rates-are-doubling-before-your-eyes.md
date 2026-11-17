@@ -42,8 +42,6 @@ The national average itself tells the broader story. Premiums are up a cumulativ
 
 ## Why Convective Storm Risk Changed the Math
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Insurers have known about tornado and hail risk in the Midwest for decades, obviously. So why is 2026 feeling different? The answer isn't just frequency. It's frequency combined with severity combined with rebuilding costs that are still elevated from post-pandemic supply chain disruption. A hail event that would have generated a $15,000 roof claim in 2018 might generate a $24,000 claim today for the same house. When you layer record storm counts on top of inflated replacement costs, you get loss ratios that force underwriters to act fast.
 
 Reinsurance pricing is the other piece that doesn't get talked about enough in mainstream coverage. The big carriers don't absorb all that risk themselves. They buy reinsurance, essentially insurance for insurers, and [reinsurance rates](/reinsurance-rates-just-fell-sharply-will-your-premium-follow/) for severe convective storm exposure have climbed sharply since 2022. When reinsurance gets more expensive, that cost travels downstream to your policy. It's not a conspiracy. It's math.

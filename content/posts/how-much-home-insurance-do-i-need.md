@@ -61,8 +61,6 @@ Once you have that number, hunt for a policy with **[guaranteed replacement cost
 
 ## Other Structure Coverage: What's Attached, What's Not
 
-> **Helpful resource:** [Kantek Portable Filing System and Document Organizer](https://www.amazon.com/dp/B01F5Z33Y4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Coverage A covers your house. Everything detached, the garage, fence, shed, any outbuilding standing apart from the main structure, falls under **Coverage B**, or "other structures." Standard policies limit Coverage B to 10% of your dwelling coverage.
 
 Test this against your own setup. A $500,000 dwelling limit gives you $50,000 in Coverage B. If you own a detached three-car garage that cost $60,000 to build, you're short. You can ask for a higher limit. Insurers usually raise Coverage B for a surprisingly small premium bump compared to what you'd lose otherwise.

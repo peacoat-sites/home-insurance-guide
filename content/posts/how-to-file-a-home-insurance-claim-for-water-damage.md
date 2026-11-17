@@ -43,8 +43,6 @@ One thing most people don't know: when you call to report, you're not just openi
 
 ## What Water Damage Policies Actually Cover (and Don't)
 
-> **Helpful resource:** [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most homeowners get their first nasty surprise. Standard homeowner policies cover sudden and accidental water damage from internal sources. Burst pipe: covered. Washing machine supply line that failed without warning: covered. That same washing machine's door seal that's been slowly weeping water into your subfloor for eight months: not covered. Gradual damage is excluded almost universally.
 
 Flooding from outside your home? Not covered under a standard HO-3 policy at all. You need a separate flood policy, either through the National Flood Insurance Program (NFIP) or a private carrier. This distinction is critical. For example, someone with comprehensive HO-3 coverage but no separate flood policy would receive nothing for flood damage to their foundation, no matter how thorough their standard coverage otherwise is.

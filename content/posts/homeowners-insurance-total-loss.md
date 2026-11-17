@@ -43,8 +43,6 @@ The threshold also affects your payout calculation. Once total loss is declared,
 
 ## Replacement Cost vs. Actual Cash Value: The Gap That Destroys Families
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the one I saw wreck people financially. Over and over.
 
 If your policy pays [Actual Cash Value](/actual-cash-value-explained/) (ACV) on the dwelling, the insurer applies depreciation to your home's structure before writing you a check. A roof that cost $28,000 to install but is 15 years old might get valued at $9,000 after depreciation. That's what ACV pays. If you have Replacement Cost Value (RCV) coverage, you get the full cost to rebuild with comparable materials at today's prices, which, as of 2026, are significantly higher than even three years ago due to ongoing labor shortages and material cost increases.

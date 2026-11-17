@@ -43,8 +43,6 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 ## The Actual Timelines, by Situation
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Different loss types carry very different practical windows. Here's how they generally break down as of August 2026:
 
 | Loss Type | Typical Policy Requirement | State Statute of Limitations (to sue) | Practical "Safe" Window |

@@ -42,8 +42,6 @@ The National Association of Insurance Commissioners (NAIC) has noted that life c
 
 ## What to Do, Step by Step
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This isn't a situation where you wait until the divorce is final. You need to act as soon as you know who's staying in the house.
 
 The spouse keeping the home needs to contact the insurer immediately and clarify the named insured situation. Get your name on the policy as the primary. If the current policy is in your ex's name only, you may need to start a [fresh policy](/home-insurance-after-refinancing/). Don't assume you're covered just because you're living there.

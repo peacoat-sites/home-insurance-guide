@@ -32,8 +32,6 @@ The reason ordinary homes are landing in E&S now isn't primarily wildfire proxim
 
 ## What You're Actually Giving Up
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The gap between admitted and E&S coverage isn't just price. It's structural.
 
 | Feature | Admitted (Standard) Policy | E&S Policy |

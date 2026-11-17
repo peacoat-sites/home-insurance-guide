@@ -28,8 +28,6 @@ These models often rely on satellite imagery and parcel data that hasn't been up
 
 ## The Numbers Explain Why This Fight Matters
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Colorado premiums are already running more than $1,000 above the national average of $2,948 per year. But the averages don't capture the real pain. One homeowner near Idaho Springs watched their renewal go from $4,677 to $34,600. That's a 740% increase in a single cycle. Not a typo.
 
 The Colorado Division of Insurance has done the work of breaking down what's actually driving those costs, and the picture is more complicated than most people assume:

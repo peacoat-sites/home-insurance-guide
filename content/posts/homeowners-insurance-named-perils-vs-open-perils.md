@@ -41,8 +41,6 @@ The burden of proof in a named perils situation sits entirely with you, the home
 
 ## Open Perils: The Coverage Most People Think They Have
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Open perils (sometimes called "all-risk," though that term oversells it) works the other way around. Your insurer has to prove your damage falls into an exclusion in order to deny the claim. Common exclusions in open-perils policies include flood, earthquake, normal wear and tear, intentional damage, government action, and power failure. The list exists, but the presumption of coverage is yours.
 
 This is why I always tell people: if you have a standard HO-3 policy, your house itself is protected under open perils. Damage to the structure, unless it falls into a specific exclusion, is covered. But here's what most people don't realize, and it genuinely surprises them when I explain it: in an HO-3, your personal belongings are still covered under named perils. Your furniture, clothes, electronics, the $2,400 camera you bought last fall. Named. Perils. Only.

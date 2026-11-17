@@ -50,8 +50,6 @@ Read your HOA's CC&Rs (the governing documents) before you assume anything. Ask 
 
 ## What a Personal Condo Policy Actually Covers
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A standard [HO-6 policy](/homeowners-insurance-for-condos/) (that's the insurance industry form number for condo coverage) has four main components.
 
 **Dwelling coverage (Coverage A)** pays for damage to the interior of your unit, from your walls inward. This is where the "bare walls in" vs. "all in" distinction becomes actionable: if your HOA only covers bare walls, your HO-6 dwelling coverage needs to pick up everything from the drywall surface in. If your HOA has "all in," you may need less dwelling coverage, but you still need some for improvements you've made.

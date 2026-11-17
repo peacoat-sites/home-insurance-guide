@@ -43,8 +43,6 @@ What most people don't realize is that both types of agents are compensated by c
 
 ## What a Broker Does Differently
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A broker doesn't hold an appointment with a specific carrier the way an agent does. Instead, they're licensed to shop the market on your behalf and present options from multiple insurers. The legal obligation runs to you, the client, not to an insurer.
 
 In practice, this means a broker will put together a coverage analysis, identify gaps, and compare actual policy language across carriers, not just price. A broker might catch things like ACV ([actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/)) vs. replacement cost on roof coverage that policyholders may not realize they're carrying. That one distinction alone can mean a difference of tens of thousands of dollars on a claim.

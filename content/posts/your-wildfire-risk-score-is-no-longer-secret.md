@@ -28,10 +28,6 @@ That asymmetry has real consequences. A high score can trigger a non-renewal let
 
 ## Colorado's Law: What You Can Actually Do With It
 
-> **Helpful resource:** [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 HB25-1182, signed May 28, 2025, does three things that matter. It requires disclosure of the score. It requires the insurer to explain how the score is calculated. And critically, it gives homeowners who have completed documented mitigation work the right to appeal a score that doesn't reflect those improvements.
 
 That last part is the most meaningful. Fire-resistant roofing, defensible space clearing, ember-resistant vents: these investments can cost thousands of dollars, and until now, insurers had no legal obligation to factor them into your score after the fact. Colorado's law changes that. According to coverage from Live Insurance News, the law requires insurers to "incorporate documented mitigation work into risk calculations," which gives the appeal process actual teeth rather than just a paper right.
@@ -74,11 +70,11 @@ One more thing: none of this replaces a conversation with a licensed insurance p
 The score existed before July 1. Now you get to see it.
 
 ## Sources
-- [Colorado Wildfire Risk Score: What HB 1182 Means for You , Live Insurance News](https://www.liveinsurancenews.com/colorado-wildfire-risk-score/8571925/) (May 2, 2026)
-- [Wildfire Risk Scoring Transparency Bill Passes State Senate , WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/wildfire-risk-scoring-transparency-bill-passes-state-senate) (February 12, 2026)
-- [Consumer Alert: Wildfire Season Is Here , WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/consumer-alert-wildfire-season-here-and-so-oic) (June 17, 2026)
-- [Colorado Wildfire Risk Score HB 1182 , Premier Mountain Insurance](https://www.premiermountaininsurance.com/colorado-wildfire-risk-score-hb-1182/) (June 2026)
-- [2026 Home Insurance Trends & Predictions , Matic](https://matic.com/blog/2026-home-insurance-predictions/) (December 19, 2025)
+- [Colorado Wildfire Risk Score: What HB 1182 Means for You, Live Insurance News](https://www.liveinsurancenews.com/colorado-wildfire-risk-score/8571925/) (May 2, 2026)
+- [Wildfire Risk Scoring Transparency Bill Passes State Senate, WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/wildfire-risk-scoring-transparency-bill-passes-state-senate) (February 12, 2026)
+- [Consumer Alert: Wildfire Season Is Here, WA Office of the Insurance Commissioner](https://www.insurance.wa.gov/about-us/news/2026/consumer-alert-wildfire-season-here-and-so-oic) (June 17, 2026)
+- [Colorado Wildfire Risk Score HB 1182, Premier Mountain Insurance](https://www.premiermountaininsurance.com/colorado-wildfire-risk-score-hb-1182/) (June 2026)
+- [2026 Home Insurance Trends & Predictions, Matic](https://matic.com/blog/2026-home-insurance-predictions/) (December 19, 2025)
 
 ---
 

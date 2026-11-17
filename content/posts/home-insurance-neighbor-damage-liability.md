@@ -45,8 +45,6 @@ Without evidence of negligence, most adjusters will simply route the claim throu
 
 ## What Your Liability Coverage Actually Does
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your homeowner's liability coverage (the "Coverage E" section of a standard HO-3 policy) protects you when you or your property causes bodily injury or property damage to someone else and you're found legally responsible.
 
 Your retaining wall collapses and crushes your neighbor's car. An engineer determines the wall was poorly maintained. Your liability coverage steps in. Most policies carry $100,000 in liability coverage. Many people would be better off with $300,000 or even a separate umbrella policy layered on top, especially if they have significant assets. The [Insurance Information Institute](https://www.iii.org/) has solid guidance on how to size liability limits to your actual net worth, and it's worth reading before your next renewal.

@@ -44,8 +44,6 @@ One more thing people miss: a binder is not a policy. If a dispute ever went to 
 
 ## How to Get One, and How Fast
 
-> **Helpful resource:** [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your insurance agent issues the binder, usually within a few hours of you completing the application and paying the first premium (or authorizing the down payment to be collected at closing). Current as of July 2026, most major carriers allow agents to issue binders electronically, and many title companies will accept a PDF.
 
 The timeline that trips people up: don't wait until two days before closing to shop for [homeowners insurance](/homeowners-insurance-at-closing/). If the underwriter needs to inspect the property, order a CLUE report, or review a loss history, that process takes time. A property with a prior claim, an older roof, or a wood-burning stove can take a week or more to bind.

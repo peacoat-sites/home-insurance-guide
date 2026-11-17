@@ -52,8 +52,6 @@ What's also frequently missing: coverage for bike accidents. If you get hit by a
 
 ## The Deductible Problem Nobody Talks About
 
-> **Helpful resource:** [Honeywell 1104 Fireproof and Waterproof Safe Box](https://www.amazon.com/dp/B08N5LNQCV?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part that makes me genuinely frustrated on behalf of consumers. Most people carry a $1,000 or $2,500 home insurance deductible. That made sense when the policy was designed to protect you from catastrophic losses, like a kitchen fire or a burst pipe.
 
 But that same deductible applies to your bike claim. Which means unless your bike is worth significantly more than your deductible, filing a claim isn't just unhelpful, it could actively hurt you. Insurers track claims frequency, and even a small paid claim can bump your premium or flag you as a higher-risk policyholder at renewal.

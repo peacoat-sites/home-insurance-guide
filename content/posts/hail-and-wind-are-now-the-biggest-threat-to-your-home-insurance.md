@@ -29,8 +29,6 @@ The geographic picture is also shifting in ways that should make homeowners outs
 
 ## El Niño Isn't the Good News People Think It Is
 
-> **Helpful resource:** [Blink Mini Indoor Security Camera 2-Pack](https://www.amazon.com/dp/B07XRSJQK1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Every few years, when forecasters announce an El Niño pattern, homeowners in the middle of the country breathe a little easier. The assumption is that El Niño suppresses storm activity. NOAA has declared 2026 an El Niño year, and that instinct is understandable. It's also wrong for the storms that actually damage homes.
 
 Meteorologists cited by Insurify and Monarch Weather in June 2026 are warning that El Niño can actually strengthen the subtropical jet stream, increasing the likelihood of hail and tornado outbreaks across the Gulf Coast and Southeast. The storm systems that produce residential losses don't follow the same rules as Atlantic hurricanes. If you've been telling yourself that El Niño buys you a quiet summer, that reasoning doesn't hold up for severe convective storms. The June outbreak proved the point in real time.

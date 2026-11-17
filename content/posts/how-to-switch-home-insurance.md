@@ -57,8 +57,6 @@ Switching for a $40 annual savings? Not worth the hassle. Switching for $300 or 
 
 ## What to Do Before You Cancel Anything
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the step most people skip, and it's the most important one. The sequence matters: you should have a new policy bound and in force before you cancel your old one. Even a single day without coverage can create a serious problem. If your mortgage lender discovers a lapse, they may force-place their own insurance on your home, which typically costs far more and covers only the lender's interest, not yours.
 
 Start by gathering your current policy details:

@@ -52,8 +52,6 @@ This isn't exactly a flaw in the HO-3. It's a design choice. But you should walk
 
 ## What the HO-3 Actually Covers (And What It Doesn't)
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The policy breaks into several coverage components, each with its own limit and its own rules.
 
 **Dwelling coverage (Coverage A)** pays to repair or rebuild your home's structure. The number that matters here isn't your purchase price or current market value. It's *[replacement cost](/home-insurance-replacement-cost-vs-actual-cash-value/)*: what it would actually cost to rebuild from scratch at current labor and material prices. In 2026, with construction costs still elevated across most markets, a surprising number of homeowners are significantly underinsured without knowing it.

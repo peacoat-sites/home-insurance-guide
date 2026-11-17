@@ -34,10 +34,6 @@ But that explanation only goes so far, and it actually makes the underlying prob
 
 ## Florida and Texas: Where the Numbers Get Worse
 
-> **Helpful resource:** [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The national 44% figure is striking enough, but the state-level breakdown is where things get genuinely alarming. According to a Weiss Ratings analysis from April 2026, three Florida property insurers closed more than 50% of homeowner claims with no payment in 2025. Florida already has the highest home insurance nonpayment rate in the country, per reporting from Live Insurance News, and the market there has been in documented crisis for years, with insolvencies, carrier exits, and rate volatility reshaping the landscape.
 
 Texas tells a similar story from a different angle. Nearly 47% of homeowner claims in Texas were closed without payment in 2025. The state sits at the intersection of hail exposure, wind risk, and a regulatory environment that's historically been permissive toward insurer pricing flexibility. For homeowners in both states, the practical implication is straightforward: the odds that filing a claim results in a check are worse than a coin flip, to borrow the Journal's framing. And filing a claim that goes nowhere isn't consequence-free. It can still affect your claims history and future insurability in some circumstances.

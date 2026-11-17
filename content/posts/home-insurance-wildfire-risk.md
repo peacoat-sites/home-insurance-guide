@@ -44,10 +44,6 @@ The second thing most people miss: additional living expenses (ALE) coverage. If
 
 ## The Non-Renewal and Availability Problem Is Real
 
-> **Helpful resource:** [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the part that feels uncomfortable to say directly: in high-risk wildfire areas, the question isn't always whether your coverage is adequate. Sometimes it's whether you can get coverage at all.
 
 Insurers have been non-renewing or declining to write new policies in parts of California, Colorado, Oregon, and other western states. This isn't rumor. Your state's insurance department (you can find yours through the [NAIC's state map](https://www.naic.org/state_web_map.htm)) tracks insurer withdrawal activity and maintains the FAIR Plan or similar last-resort coverage options if you're dropped. But fair warning: FAIR Plan policies are bare-bones. They're designed to cover the structure. They often don't include liability, theft, or full personal property coverage, which means many homeowners supplement with a separate "difference in conditions" policy. Two policies, two premiums, still potentially significant gaps.

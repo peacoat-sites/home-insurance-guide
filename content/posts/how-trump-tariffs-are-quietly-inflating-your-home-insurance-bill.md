@@ -39,8 +39,6 @@ The Deloitte 2026 Engineering and Construction Outlook puts the scale of this in
 | Supreme Court ruling date | February 2026 | Did not reverse already-paid tariffs |
 | Tariffs already paid by U.S. companies | $100+ billion | Already moved through supply chains |
 
-> **Helpful resource:** [SentrySafe 1200 Fire-Resistant File Cabinet](https://www.amazon.com/dp/B08YRG5CTQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what most people don't realize about how insurers actually update their pricing. They don't wake up one morning, see a tariff announcement, and immediately reprice every policy in their book. Rate changes have to be filed with state insurance departments, approved, and then rolled out at renewal cycles. That process typically takes 12 to 18 months from the time a new cost structure materializes to when it's fully reflected in what policyholders pay.
 
 The bulk of the tariff increases landed in 2025. Do the math, and mid-2026 is precisely when the full pricing effect hits home. Insurify projected in January 2026 that tariffs would accelerate home insurance cost growth roughly 38% faster than it would have risen otherwise, pushing average annual premiums to around $3,626, about $106 more per year than without tariffs. That might not sound dramatic in isolation, but it's on top of several consecutive years of premium increases that have already strained household budgets in many states.
