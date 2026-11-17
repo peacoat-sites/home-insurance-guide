@@ -1,6 +1,7 @@
 ---
 title: "Homeowners Insurance Total Loss: What You Need to Know"
 date: 2026-07-21T11:40:21.883140+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how homeowners insurance handles total loss claims, what qualifies as total loss, and how to get the settlement you deserve."
 image: "/img/heroes/11846466.jpg"

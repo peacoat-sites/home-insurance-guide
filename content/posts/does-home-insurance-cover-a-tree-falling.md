@@ -1,6 +1,7 @@
 ---
 title: "Does Home Insurance Cover a Fallen Tree?"
 date: 2026-07-20T12:07:27.631330+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when homeowners insurance covers tree damage, what's excluded, and how to file a claim for fallen trees on your property."
 image: "/img/heroes/750320.jpg"

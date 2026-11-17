@@ -23,7 +23,7 @@ faqs:
    a: "This is a separate issue from your homeowner's policy, which generally won't cover pre-existing mold. You might have a claim against the home inspector for professional negligence, or against the seller if there's evidence they knew and concealed it. Talk to an attorney, not your insurer, on this one."
  - q: "Will making a mold claim raise my premiums?"
    a: "Potentially, yes. Water and mold claims are among the claim types that can flag a property as higher risk. Some insurers will raise your rate or, in states that permit it, non-renew a policy after a significant water damage claim. It's worth doing the math on remediation cost versus your deductible and potential premium impact before you file, especially for smaller claims."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 When mold is discovered behind a washing machine or in other locations, homeowners sometimes find the damage isn't covered by their standard policy. A remediation quote can easily reach $4,000 or more, leaving homeowners without financial assistance. This frustration is completely legitimate, because the rules around mold coverage are genuinely confusing, written in policy language that seems designed to obscure rather than inform.

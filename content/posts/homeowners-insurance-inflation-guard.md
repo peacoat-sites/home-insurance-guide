@@ -1,6 +1,7 @@
 ---
 title: "Inflation Guard: Why 55% More Coverage Matters"
 date: 2026-07-13T12:24:09.514011+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how homeowners insurance inflation guard protects your coverage as rebuild costs rise. See why it matters for your policy."
 image: "/img/heroes/15941378.jpg"

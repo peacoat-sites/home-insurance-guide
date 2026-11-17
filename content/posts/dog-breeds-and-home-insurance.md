@@ -1,6 +1,7 @@
 ---
 title: "Dog Breeds and Home Insurance: Which Costs More to Insure"
 date: 2026-08-12T10:46:39.873818+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how dog breed affects your home insurance premiums. Discover which breeds face restrictions and what to expect."
 image: "/img/heroes/29907920.jpg"

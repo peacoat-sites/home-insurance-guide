@@ -1,6 +1,7 @@
 ---
 title: "Condo Walls-In Coverage: What's Actually Covered"
 date: 2026-08-03T12:47:36.947267+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what condo walls-in coverage protects, how it differs from standard policies, and whether you need it for your unit."
 image: "/img/heroes/13877930.jpg"

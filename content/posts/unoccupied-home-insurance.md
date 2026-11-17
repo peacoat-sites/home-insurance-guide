@@ -1,6 +1,7 @@
 ---
 title: "30 Days Without Occupancy: What Unoccupied Home Insurance Costs"
 date: 2026-07-27T12:47:00.089103+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how unoccupied home insurance protects vacant properties. Discover coverage options, costs, and what happens when your home sits empty."
 image: "/img/heroes/9807702.jpg"

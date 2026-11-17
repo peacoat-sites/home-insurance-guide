@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Claim Denied? Here Are Your Next Steps"
 date: 2026-07-10T12:19:35.504056+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "A denied home insurance claim isn't the end. Learn how to appeal, file a complaint, or hire a public adjuster to fight back and get what you're owed."
 image: "/img/heroes/7731329.jpg"

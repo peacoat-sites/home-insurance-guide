@@ -23,7 +23,7 @@ faqs:
    a: "Most standard policies come with $100,000, which can disappear fast in a serious claim. Many insurance professionals recommend at least $300,000 in liability on your home policy, with a personal umbrella policy on top if you have meaningful assets or income to protect. The III has a straightforward framework for thinking through this."
  - q: "Can I be sued personally if my insurance doesn't cover the full damage?"
    a: "Yes. If a judgment against you exceeds your liability limits, your personal assets are on the table. This is exactly why liability limits and umbrella policies matter more than people realize at renewal time."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your tree just fell on your neighbor's fence. Or maybe their dead oak came down on your garage. Either way, you're standing in the yard staring at splintered wood wondering who pays for what, and you're probably getting two very different stories from two very different insurance agents.
 

@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners assume filing a claim is the hard part. The hard part is everything that happens in the first 48 hours before most people even pick up the phone. The decisions you make in that window, what you say, what you photograph, what you touch, can meaningfully affect whether your claim pays out in full, gets partially denied, or triggers a coverage dispute that drags on for months. Well-documented claims typically move through in two weeks, while legitimate losses can turn into six-month disputes when homeowners make small mistakes on day one. This guide is about making sure you're in the first group.
 

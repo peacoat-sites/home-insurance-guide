@@ -1,6 +1,7 @@
 ---
 title: "When Your Insurer Won't Cover You, the E&S Market Becomes Your Only Option"
 date: 2026-08-01T11:10:36.581702+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "When Your Insurer Won't Cover You, the E&S Market Becomes Your Only Option. Explore excess and surplus insurance as a critical safety net for high-risk coverage"
 image: "/img/heroes/7731402.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Additional Living Expenses Coverage: What 30% Actually Covers"
 date: 2026-08-11T10:38:49.096421+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how additional living expenses coverage works, what percentage of costs insurers typically cover, and how to maximize your claim."
 image: "/img/heroes/4554383.jpg"

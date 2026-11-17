@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Claims: Deadlines and Filing Requirements"
 date: 2026-08-06T11:54:26.387657+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the time limits for filing a home insurance claim, what triggers the clock, and how to avoid missing critical deadlines."
 image: "/img/heroes/6636326.jpg"

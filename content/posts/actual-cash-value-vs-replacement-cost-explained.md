@@ -1,6 +1,7 @@
 ---
 title: "Actual Cash Value vs Replacement Cost: Which Covers More"
 date: 2026-07-26T11:11:36.298233+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the key differences between actual cash value and replacement cost insurance coverage, and which option protects your assets better."
 image: "/img/heroes/11846465.jpg"

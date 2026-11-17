@@ -1,6 +1,7 @@
 ---
 title: "HO-1 Homeowners Insurance: 16 Key Coverage Limits Explained"
 date: 2026-08-08T10:17:31.747878+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand HO-1 policy coverage limits, what's included, and whether basic homeowners insurance meets your protection needs."
 image: "/img/heroes/7734586.jpg"

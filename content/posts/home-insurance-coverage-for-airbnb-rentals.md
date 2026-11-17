@@ -1,6 +1,7 @@
 ---
 title: "44% of Airbnb Hosts Lack Proper Insurance Coverage"
 date: 2026-08-05T11:49:03.791582+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Most Airbnb hosts don't have adequate insurance. Learn what coverage gaps exist and how to protect your rental property from liability risks."
 image: "/img/heroes/30767893.jpg"

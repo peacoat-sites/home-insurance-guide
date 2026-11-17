@@ -23,7 +23,7 @@ faqs:
    a: "The most common threshold for asphalt shingles is 15 to 20 years, though this varies significantly by insurer, region, and material. Some carriers in high-storm markets have moved the cutoff down to 10 years for standard shingles. Metal roofs and Class 4 impact-resistant shingles are generally given longer leash."
  - q: "If I buy a house with an old roof, when will my insurer find out?"
    a: "Most insurers conduct a post-binding inspection within 30 to 60 days of writing a new policy. Aerial imagery from vendors like EagleView or Nearmap also lets underwriters assess roof condition and approximate age remotely, often without ever sending a human inspector. Trying to obscure the roof's age or condition is both ineffective and a quick path to a coverage dispute."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your roof is the first place an insurer looks when they're deciding whether to cover your house at all. Not your electrical panel, not your foundation. The roof. And most homeowners don't realize how dramatically roof age affects not just their premium, but their ability to get covered in the first place.

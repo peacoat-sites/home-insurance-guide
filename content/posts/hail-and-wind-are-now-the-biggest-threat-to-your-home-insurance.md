@@ -12,7 +12,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "hail-and-wind-are-now-the-biggest-threat-to-your-home-insurance"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Insurers sometimes quietly switch policyholders to actual cash value payouts for roofing during renewal, even after years of replacement cost coverage. This means two neighbors with identical damage from the same hailstorm could receive vastly different claim payouts simply because of when their policies renewed. Right now, in the summer of 2026, the conditions for this kind of disparity are particularly acute.

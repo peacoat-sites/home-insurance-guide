@@ -1,6 +1,7 @@
 ---
 title: "Trampoline Insurance Exclusions: What Your Policy Won't Cover"
 date: 2026-07-15T11:17:41.974341+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why most home insurance policies exclude trampolines and what coverage options exist for trampoline-related injuries and liability."
 image: "/img/heroes/4497804.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Guaranteed Replacement Cost Coverage: What Your Home Insurance Really Covers"
 date: 2026-08-09T10:19:06.487671+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how guaranteed replacement cost home insurance works, what it covers, and whether this protection is worth the added premium for your property."
 image: "/img/heroes/19832611.jpg"

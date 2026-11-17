@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most [condo owners](/condo-insurance-explained/) are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.
 

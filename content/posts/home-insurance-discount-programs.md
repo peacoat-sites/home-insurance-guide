@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Discounts: 7 Ways to Lower Your Premium"
 date: 2026-07-22T11:40:22.949537+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common home insurance discount programs and how to qualify. Bundle policies, improve security, and save on your annual premium."
 image: "/img/heroes/27662879.jpg"

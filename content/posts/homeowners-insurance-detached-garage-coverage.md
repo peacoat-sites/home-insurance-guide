@@ -23,7 +23,7 @@ faqs:
    a: "No, not typically. Coverage through your homeowners policy is usually sufficient with appropriate limit adjustments. A separate policy would only make sense in unusual situations, like if the structure is on a different property parcel than your home."
  - q: "Is my car covered inside the detached garage?"
    a: "The structure is covered under other structures; the car inside is not covered by homeowners insurance. Your auto policy covers the vehicle itself. A homeowners claim would cover damage to the garage structure, not the car that was inside it when, say, a tree fell through the roof."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your detached garage just burned down. The fire marshal says it started in the wall where your neighbor's contractor nicked a wire six months ago. Your main house is fine. You file a claim expecting your homeowners policy to cover the $45,000 rebuild, and your adjuster calls back to tell you the detached structure is only covered up to $15,000 because your "other structures" limit is 10% of your dwelling coverage.
 

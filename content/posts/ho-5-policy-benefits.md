@@ -1,6 +1,7 @@
 ---
 title: "HO-5 Policy Benefits: 15% More Coverage Than Standard Homeowners Insurance"
 date: 2026-07-23T11:43:52.085553+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what HO-5 homeowners insurance covers, including 15% additional protection and 5 key benefits that standard policies don't provide."
 image: "/img/heroes/323781.jpg"

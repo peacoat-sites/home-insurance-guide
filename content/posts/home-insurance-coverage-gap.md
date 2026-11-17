@@ -1,6 +1,7 @@
 ---
 title: "80% of Homeowners Have Coverage Gaps: Here's Why"
 date: 2026-07-14T11:16:57.436301+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why 80% of homeowners face insurance coverage gaps and what protection you're actually missing in your home policy."
 image: "/img/heroes/25649174.jpg"

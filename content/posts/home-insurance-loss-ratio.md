@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Loss Ratio: How It Affects Your Rates"
 date: 2026-08-10T10:53:44.536317+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how insurance companies use loss ratios to set home insurance premiums and what it means for your coverage costs."
 image: "/img/heroes/17142572.jpg"

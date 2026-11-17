@@ -1,6 +1,7 @@
 ---
 title: "Ice Dam Coverage: What $1,200 in Damage Really Costs"
 date: 2026-07-24T11:30:37.260811+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn if your home insurance covers ice dam damage, what's typically included, and how to protect your roof from winter water damage."
 image: "/img/heroes/37521798.jpg"

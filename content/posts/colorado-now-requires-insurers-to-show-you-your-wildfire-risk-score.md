@@ -1,6 +1,7 @@
 ---
 title: "Colorado Now Requires Insurers to Show You Your Wildfire Risk Score"
 date: 2026-07-12T11:04:19.900421+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how Colorado's new law requires insurers to disclose your wildfire risk score, what it means for your coverage, and how it could impact your premium."
 image: "/img/heroes/23508083.jpg"

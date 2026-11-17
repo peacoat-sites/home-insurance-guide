@@ -1,6 +1,7 @@
 ---
 title: "Foundation Repair Costs: What Home Insurance Actually Covers"
 date: 2026-07-16T11:24:00.543181+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether homeowners insurance covers foundation repair, what damages are typically excluded, and when you'll pay out of pocket."
 image: "/img/heroes/30395714.jpg"

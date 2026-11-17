@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor slips on your icy front steps, breaks her wrist, and ends up with $18,000 in medical bills and six weeks of lost wages. You're a good person. You feel terrible. You also have a homeowner's policy. Now here's the question that will keep you up at night until you actually read that policy: does your liability coverage actually protect you from what comes next?
 

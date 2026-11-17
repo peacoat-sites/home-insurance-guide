@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners assume their insurance premium is fixed, something that creeps up a little each year like a utility bill, and there's nothing to do about it. In reality, insurers use dozens of rating factors they rarely explain, and a surprising number of them are within your control. Adjusting the right factors can reduce premiums by hundreds of dollars annually. Many people pay thousands more than necessary for years simply because they don't know what questions to ask.
 

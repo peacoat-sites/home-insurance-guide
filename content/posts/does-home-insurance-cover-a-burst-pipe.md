@@ -1,6 +1,7 @@
 ---
 title: "Does Home Insurance Cover a Burst Pipe? What to Know"
 date: 2026-07-09T13:19:45.102288+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out when home insurance covers a burst pipe, what's typically excluded, and how to file a claim before water damage gets worse."
 image: "/img/heroes/10372434.jpg"

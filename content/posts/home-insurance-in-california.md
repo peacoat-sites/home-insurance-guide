@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just got a non-renewal notice in the mail. Your insurer, the one you've had for eleven years, is dropping you. Not because you filed too many claims. Not because you missed a payment. Because your zip code is now on an internal risk model that penciled out the wrong way. This is happening to California homeowners by the tens of thousands right now, and if it hasn't happened to you personally, there's a good chance it's happened to someone on your street.
 

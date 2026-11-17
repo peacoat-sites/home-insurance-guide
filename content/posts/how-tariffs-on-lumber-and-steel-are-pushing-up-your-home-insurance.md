@@ -1,6 +1,7 @@
 ---
 title: "How Tariffs on Lumber and Steel Are Pushing Up Your Home Insurance"
 date: 2026-07-29T11:52:23.349223+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how recent tariffs on lumber and steel are driving up home insurance costs. Learn what homeowners need to know about rising premiums and protection opt"
 image: "/img/heroes/4457372.jpg"

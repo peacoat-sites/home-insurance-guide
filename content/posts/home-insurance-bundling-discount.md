@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're paying two separate premiums every month, one for your home and one for your car. Somewhere in there is a discount you might not be fully using. Bundling those two policies with the same insurer is one of the most commonly advertised discounts in personal insurance, with carriers frequently promoting savings of 10% to 25%. But here's what the ads don't tell you: bundling doesn't always save you money, the discount can mask an otherwise overpriced policy, and the way claims interact across bundled policies can create complications most policyholders never anticipate until it's too late.
 

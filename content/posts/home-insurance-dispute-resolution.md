@@ -12,7 +12,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Roughly 40% of homeowners who file a claim accept the first settlement offer without questioning it. I know this because I spent 14 years on the other side of that transaction, reviewing claims for a national insurer. I'm not proud of everything I saw. The first offer is often not the best offer, and the gap between what's initially proposed and what a policy actually covers can be thousands of dollars. Sometimes tens of thousands.
 

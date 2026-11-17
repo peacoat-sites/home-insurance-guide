@@ -23,7 +23,7 @@ faqs:
     a: "Likely yes, and there's a second concern worth knowing: multiple claims can lead to non-renewal. A single claim may raise your premium at renewal. Two claims within two to three years can flag your property as high-risk. In some markets today, that makes you harder to insure in the standard market. Talk to your agent about whether a small claim is worth filing versus paying out of pocket."
   - q: "Does home insurance cover a sump pump failure?"
     a: "Not under a standard HO-3 policy. Water that enters because a sump pump failed is typically treated as water backup or flood, both of which require separate coverage. A water backup and sump pump failure endorsement, which usually costs $40 to $100 per year, is the coverage you'd need. Many homeowners in flood-prone areas or with finished basements should strongly consider it."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners don't find out what their policy actually covers until they're standing in a soaked basement at 11pm, watching the water rise. You might be wondering right now, maybe after a scare, maybe before buying a policy, or maybe because a neighbor just got a claim denied, whether home insurance has you covered if water damages your home. The honest answer: sometimes yes, often partially, and in some cases not even close. Let me walk you through exactly how this works.

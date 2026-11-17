@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your fence comes down in a windstorm. You file a claim. The adjuster tells you it's only covered up to $500 because your policy treats fencing as "other structures" and caps it at 10% of your dwelling coverage, except yours has a sublimit buried on page 31. Homeowners in this situation are often blindsided not because they didn't read their policy, but because fences sit in a strange middle ground of home insurance that many agents gloss over at signing.
 

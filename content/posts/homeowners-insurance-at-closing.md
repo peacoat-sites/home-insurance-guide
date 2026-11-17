@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most first-time buyers don't realize their mortgage won't close without proof of homeowners insurance already in place. Not pending. Not "I have an agent looking into it." Bound and paid. That requirement catches people off guard three days before closing, and the scramble that follows almost always costs them money.
 

@@ -23,7 +23,7 @@ faqs:
    a: "Sometimes, up to a point. Many carriers have a total discount cap that lumps safety features, loyalty discounts, and bundling discounts together. Adding a security system might not change your premium if you've already hit that ceiling with other discounts."
  - q: "Is a more expensive security system always worth it for insurance purposes?"
    a: "No. The discount doesn't always scale with the system price. A UL-listed monitored system at $30 a month may earn the same insurance discount as one at $60 a month. Ask your insurer what certification tier triggers their highest discount, then find the cheapest system that meets exactly that threshold."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners think a security system automatically brings down their insurance bill. It usually does. But the actual discount you get depends almost entirely on factors the alarm company's sales rep conveniently never mentions.
 

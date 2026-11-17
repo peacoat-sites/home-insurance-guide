@@ -1,6 +1,7 @@
 ---
 title: "40% Roof Discount: How New Roofs Lower Insurance Premiums"
 date: 2026-07-17T11:14:24.368296+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "New roofs can qualify homeowners for significant insurance discounts. Learn how roof replacement affects your homeowners insurance rates and savings."
 image: "/img/heroes/37677476.jpg"

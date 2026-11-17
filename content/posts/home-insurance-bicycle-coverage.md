@@ -23,7 +23,7 @@ faqs:
     a: "Often yes, but this is genuinely uncertain territory. Some insurers apply motorized vehicle exclusions to e-bikes, which can result in a denied claim. Always ask your insurer directly, get the answer in writing, and consider a standalone e-bike policy if you want certainty."
   - q: "Will filing a bicycle claim raise my home insurance rates?"
     a: "It can. Insurers track claims history, and even small paid claims can affect your premium at renewal. Before filing, calculate whether the payout (after your deductible and any sublimit) is large enough to justify the potential rate impact. For claims under $500, it usually isn't."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most cyclists I've talked to assume their bike is covered under their homeowner's policy, full stop. They're not entirely wrong. But they're not entirely right either, and the gap between those two things can cost you a $3,000 bike and a very frustrating phone call with a claims rep.

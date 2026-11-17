@@ -1,6 +1,7 @@
 ---
 title: "Rental Property Coverage Options: Protect Your Investment"
 date: 2026-07-18T10:57:01.457590+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore essential rental property insurance options including dwelling coverage, liability protection, and loss of rent. Find the right policy for your needs."
 image: "/img/heroes/3571200.jpg"

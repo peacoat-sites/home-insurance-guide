@@ -1,6 +1,7 @@
 ---
 title: "Insurance Agent vs Broker: Who Should Handle Your Coverage"
 date: 2026-08-15T10:09:15.200523+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the key differences between insurance agents and brokers to choose the right professional for your insurance needs and get better coverage options."
 image: "/img/heroes/8439656.jpg"

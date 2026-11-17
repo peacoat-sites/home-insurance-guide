@@ -23,7 +23,7 @@ faqs:
    a: "Owning through an LLC doesn't change the underlying need for landlord insurance, but it can affect how the policy is written and who's listed as the named insured. Make sure the LLC is correctly listed on the policy, otherwise a claim could be denied on a technicality."
  - q: "Will my insurer drop me if I find out I've had the wrong policy for years?"
    a: "Possibly. Some insurers will non-renew or cancel when they discover a rental property has been covered under a homeowners policy. The smarter move is to disclose proactively, accept whatever premium adjustment comes, and get properly covered. Finding out at claim time is far more expensive."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A landlord I'll call Dennis called our advocacy line a few years back, furious. He'd been [renting out a duplex](/home-insurance-for-investment-property/) for six years, had a standard homeowners policy the whole time, and when a kitchen fire gutted the upstairs unit, his insurer denied the claim. The reason: the property wasn't owner-occupied, which meant the homeowners policy was void. He lost over $90,000 in repairs and rental income. His insurer hadn't warned him. His agent hadn't caught it. He just assumed he was covered.

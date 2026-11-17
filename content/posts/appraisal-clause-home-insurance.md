@@ -23,7 +23,7 @@ faqs:
     a: "Awards are binding, which is the whole point. Challenging one in court is possible but difficult. You'd need to show fraud, corruption, or that the appraisers exceeded their authority (for example, by deciding coverage questions they had no authority to decide). Courts are generally reluctant to overturn appraisal awards."
   - q: "Does hiring a public adjuster help with the appraisal process?"
     a: "It depends on your state's rules and your policy language. Some states allow public adjusters to serve as party appraisers; others don't. Even where they can't serve as your appraiser directly, a good public adjuster can help you prepare documentation and select a qualified party appraiser. On a large, complex claim, that preparation often matters more than the appraisal hearing itself."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners never hear the words "appraisal clause" until they're already in a fight with their insurer over how much a claim is worth. By then, it's too late to understand what they agreed to.

@@ -1,6 +1,7 @@
 ---
 title: "Mobile Home Insurance Guide: Coverage Types Explained"
 date: 2026-07-25T10:58:48.744457+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what mobile home insurance covers, policy types, and how to find affordable rates for your manufactured or mobile home."
 image: "/img/heroes/32437487.jpg"

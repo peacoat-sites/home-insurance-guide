@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Riders Guide: Coverage You Actually Need"
 date: 2026-07-31T11:51:10.128794+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what home insurance riders are, which ones protect your valuables, and how to choose the right coverage additions for your policy."
 image: "/img/heroes/7736036.jpg"

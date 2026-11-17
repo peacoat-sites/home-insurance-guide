@@ -1,6 +1,7 @@
 ---
 title: "Why Your Home Insurance Premium Went Up This Year"
 date: 2026-07-12T11:01:58.632566+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons home insurance premiums rise and what you can do to lower your bill without sacrificing coverage."
 image: "/img/heroes/5849553.jpg"

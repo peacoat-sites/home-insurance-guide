@@ -23,7 +23,7 @@ faqs:
    a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
  - q: "How do I know if my home business equipment is covered?"
    a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most policyholders have no idea sublimits exist until they're sitting across a desk from someone like me, staring at a claim denial that makes no sense to them. That moment, I saw it hundreds of times in fourteen years. Someone loses a collection of jewelry in a break-in, files a claim under their $300,000 homeowners policy, and walks away with $1,500. Technically, the policy paid. Practically, they were blindsided.

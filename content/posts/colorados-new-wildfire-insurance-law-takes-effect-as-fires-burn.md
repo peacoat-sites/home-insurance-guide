@@ -1,6 +1,7 @@
 ---
 title: "Colorado's New Wildfire Insurance Law Takes Effect as Fires Burn"
 date: 2026-07-11T10:48:22.224004+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Colorado's new wildfire insurance law now protects homeowners from coverage gaps as active fires burn across the state. Learn what the law means for you."
 image: "/img/heroes/12027863.jpg"

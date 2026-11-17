@@ -1,6 +1,7 @@
 ---
 title: "Named Perils vs Open Perils: Which Homeowners Policy Covers More"
 date: 2026-07-23T11:45:57.060140+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the difference between named perils and open perils homeowners insurance. Learn what each covers and which protection level suits your home."
 image: "/img/heroes/12180092.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Does Home Insurance Cover Theft? What's Actually Protected"
 date: 2026-07-18T10:53:32.828387+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what home insurance covers for theft, what's excluded, and how to protect your belongings with the right policy limits and coverage options."
 image: "/img/heroes/9928589.jpg"

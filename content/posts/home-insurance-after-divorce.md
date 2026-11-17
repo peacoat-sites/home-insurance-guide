@@ -23,7 +23,7 @@ faqs:
    a: "Coverage continues while both parties are still living in the home under the original policy. But this is exactly when you should be documenting personal property, reviewing your dwelling coverage limits, and planning the transition. Don't wait until someone moves out to start those conversations."
  - q: "Will my home insurance premium change after my divorce is finalized?"
    a: "Possibly. Some insurers factor in marital status as part of their rating models, to the extent permitted by state law. You might also see changes if you're removing a named insured, updating your coverage amounts, or switching to a new policy entirely. Ask your agent directly what changes to expect and get quotes from at least two other carriers before renewing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people going through divorce are focused on the house itself. Who keeps it. Who buys out who. What the mortgage looks like going forward. What almost nobody thinks about until something goes wrong: the homeowner's insurance policy quietly sitting in the background, still written the way it was when two people lived there together.

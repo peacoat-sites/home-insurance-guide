@@ -7,7 +7,7 @@ author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
 date: 2026-06-28
-lastmod: 2026-07-09
+lastmod: 2026-11-16T16:00:00Z
 faqs:
  - q: "Why does Florida cost so much more than other states?"
    a: "Florida averages $10,240/year vs. national average $2,490. Drivers: hurricane risk (catastrophic claims), high litigation rates (fraud pressures), carrier flight (reduced competition), and roof-age scrutiny (32 billion in roof claims in 2024 alone)."

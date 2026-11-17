@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 2 a.m., water pouring through your ceiling. Your laptop's ruined. Your couch is soaked. You call your landlord, who calls their insurer, and you learn a brutal truth: their policy covers the building. It covers nothing you own. If you don't have renters insurance, you're paying out of pocket for everything.
 

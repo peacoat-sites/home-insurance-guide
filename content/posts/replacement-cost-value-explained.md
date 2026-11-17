@@ -1,6 +1,7 @@
 ---
 title: "Replacement Cost Value: Why 72% of Claims Get Denied"
 date: 2026-07-30T11:43:53.655806+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what replacement cost value means, how it differs from actual cash value, and why insurers often reject RCV claims without proper documentation."
 image: "/img/heroes/17511750.jpg"

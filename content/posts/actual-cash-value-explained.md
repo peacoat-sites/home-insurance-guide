@@ -1,6 +1,7 @@
 ---
 title: "Actual Cash Value Explained: How Insurance Calculates Your Payout"
 date: 2026-07-16T11:26:13.404001+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how actual cash value works in insurance claims, the difference from replacement cost, and how depreciation affects your reimbursement."
 image: "/img/heroes/9747119.jpg"

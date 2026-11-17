@@ -23,7 +23,7 @@ author: "Carl Brooks"
 author_slug: "carl-brooks"
 author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners carry 20% too little insurance. That's not a rounding error. If your house costs $400,000 to rebuild and your policy covers $320,000, you're eating an $80,000 loss yourself after a total loss. When you're standing in the ash, that gap doesn't look smaller.
 

@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A pipe bursts. Your kitchen floods. The damage is real, the stress is real, and then your insurer calls to say they'll cover about half of what repairs actually cost.
 

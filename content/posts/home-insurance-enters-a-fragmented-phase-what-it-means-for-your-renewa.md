@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Enters a Fragmented Phase: What It Means for Your Renewal"
 date: 2026-08-13T10:48:21.596382+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Home insurance market fragmentation impacts renewals. Learn how carrier exits, rate hikes, and limited options affect your coverage and what to expect during re"
 image: "/img/heroes/34811976.jpg"

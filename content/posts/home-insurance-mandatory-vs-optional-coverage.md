@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your mortgage lender requires home insurance. You buy it, pay the premium, and assume you're covered. Then a pipe bursts in the wall, ruins the hardwood floors, and you file a claim, only to learn your policy covers the pipe repair but not the floor replacement because water damage from "slow leaks" gets classified differently than sudden damage. The claim gets denied. This happens constantly, and it's not buried in fine print so much as hidden in plain sight, in the gap between what people assume coverage means and what it actually says.
 

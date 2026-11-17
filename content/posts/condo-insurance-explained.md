@@ -23,7 +23,7 @@ faqs:
    a: "Often yes. Most HO-6 personal property coverage extends to belongings stolen away from your unit, like luggage taken from a hotel room or a bicycle stolen from a rack. Check your policy's off-premises theft limit, because it's frequently lower than the on-premises limit and may be subject to sublimits for certain categories."
  - q: "How much liability coverage do I actually need on my condo policy?"
    a: "More than the minimum. The standard $100,000 limit is inadequate for most people. If you have savings, investments, or other assets, those are potentially at risk in a lawsuit that exceeds your coverage. $300,000 to $500,000 is a reasonable floor, and pairing an umbrella policy with it is worth considering if your net worth justifies it."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most condo owners are underinsured and don't know it until they're standing in three inches of water from a burst pipe in the unit above them. That's not a hypothetical. I reviewed claims like that for 14 years, and the pattern was depressingly consistent: the owner had coverage, the adjuster had a policy, and somewhere in the middle was a gap nobody had explained clearly when the policy was sold.

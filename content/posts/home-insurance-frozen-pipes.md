@@ -23,7 +23,7 @@ faqs:
     a: "This is where claims get complicated. If there's evidence the pipe had been leaking slowly over weeks or months (staining, mold, soft drywall near the pipe), some insurers will argue this was a maintenance issue rather than a sudden loss and deny or reduce the claim. Document when you first noticed the problem and be clear in your claim report that the loss was unexpected."
   - q: "Is there any coverage if the damage happened in a detached garage or outbuilding?"
     a: "It depends on whether your policy extends to 'other structures' and whether that structure had any heat source. Detached garages are often covered under an Other Structures provision, but the same preventable-damage exclusions apply. An unheated garage with no insulation bursting a pipe in January is a tough claim. Check whether your Other Structures limit (typically 10% of dwelling coverage) is adequate for what you'd lose."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Every February, I'd open a new stack of claims and know, without even looking at the first page, that frozen pipes would dominate the pile. It was that predictable. Homeowners calling in furious, confused, sometimes in tears because they'd come home to inches of standing water in their kitchen or a ceiling that had buckled overnight. And the question that came up in almost every single call: "This is covered, right?"

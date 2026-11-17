@@ -1,6 +1,7 @@
 ---
 title: "$11,000 Water Damage Claims: How to File and Get Paid"
 date: 2026-07-10T12:17:24.914913+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to file a home insurance claim for water damage step by step, avoid costly mistakes, and maximize your payout before the 14-day deadline."
 image: "/img/heroes/8089155.jpg"

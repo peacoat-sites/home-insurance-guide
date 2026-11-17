@@ -23,7 +23,7 @@ author: "Kevin Park"
 author_slug: "kevin-park"
 author_title: "Risk Analyst"
 author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your house burns down. The fire department clears the scene, your adjuster walks the lot, and you're ready to rebuild. Then the city steps in. Your home was built in 1978, and current building codes require upgraded electrical panels, additional fire blocking in the walls, and a sprinkler system the original structure never had. The cost to bring the new build up to code adds $40,000 to your reconstruction bill. Your standard homeowner's policy covers what was there before. Not what the law now requires. That $40,000 is yours to absorb, unless you have ordinance or law coverage.
 

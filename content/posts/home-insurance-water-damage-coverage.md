@@ -23,7 +23,7 @@ author: "Diana Foster"
 author_slug: "diana-foster"
 author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 For example, a supply line behind a toilet fails silently while no one is home. By the time the failure is discovered, water has warped the floor, sagged the ceiling below, and buckled the hardwood hallway. When the homeowner calls their insurance company expecting coverage, the insurer says: "That looks like it may have been ongoing. We'll need to investigate before we can confirm coverage." This type of situation often leads to claim disputes, even when the homeowner took no action that caused the damage. Understanding what your policy actually covers before water touches a single floorboard is the difference between financial disaster and a manageable problem.
 

@@ -1,6 +1,7 @@
 ---
 title: "Your Insurer May Have Already Inspected Your Home by Drone"
 date: 2026-07-09T13:22:16.653646+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how insurance companies are using drones to inspect your home without notice, what they look for, and how it could impact your coverage and premiums."
 image: "/img/heroes/9203765.jpg"

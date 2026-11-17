@@ -12,7 +12,7 @@ author_title: "Catastrophe Claims Specialist"
 author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
 slug: "hail-season-is-here-why-your-deductibles-just-changed"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Here's what nobody is talking about at the water cooler: the costliest weather peril in America isn't hurricanes anymore. It's hail. And if you live anywhere between the Mississippi River and the Rockies, or across the Southeast, your insurance company already knows this. They've restructured their entire approach to homeowners policies because of it.

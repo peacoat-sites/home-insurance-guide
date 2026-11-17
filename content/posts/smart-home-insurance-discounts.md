@@ -1,6 +1,7 @@
 ---
 title: "40% Smart Home Insurance Discounts: What You Need"
 date: 2026-08-02T11:08:51.066125+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how smart home technology can qualify you for insurance discounts up to 40%. See which devices save you money."
 image: "/img/heroes/30169978.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Exclusions: What Your Policy Won't Cover"
 date: 2026-07-28T11:48:27.870683+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover common home insurance exclusions and gaps in coverage. Learn what damages aren't covered and how to protect your property."
 image: "/img/heroes/6471946.jpg"

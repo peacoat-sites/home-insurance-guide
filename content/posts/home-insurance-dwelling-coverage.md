@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners think their house is fully covered the moment they sign the dotted line. A common scenario: a fire destroys the kitchen, and the homeowner discovers their dwelling coverage limit was set four years ago based on a rough online estimate, construction costs have jumped 40% since then, and there's now a $90,000 gap between what the insurer will pay and what it actually costs to rebuild. Dwelling coverage is the spine of your homeowner's policy, and most people don't truly understand how it works until something goes wrong.
 

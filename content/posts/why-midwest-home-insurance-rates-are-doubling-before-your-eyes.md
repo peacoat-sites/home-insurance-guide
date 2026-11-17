@@ -1,6 +1,7 @@
 ---
 title: "Why Midwest Home Insurance Rates Are Doubling Before Your Eyes"
 date: 2026-07-24T11:28:22.576792+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Midwest home insurance rates are skyrocketing. Learn why premiums are doubling, what's driving the increase, and how you can find affordable coverage today."
 image: "/img/heroes/4170436.jpg"

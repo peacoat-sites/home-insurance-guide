@@ -12,7 +12,7 @@ author_title: "Claims Specialist"
 author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
 slug: "ho-8-older-home-insurance"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your house is 90 years old, it's got original plaster walls and a cast-iron radiator system, and your insurer just offered you an HO-8 policy. You're not sure if that's the standard thing everyone gets or if something's been quietly downgraded. Many homeowners in this situation sign without asking the single question that matters most.
 

@@ -23,7 +23,7 @@ faqs:
     a: "If the carrier hasn't issued your policy, you could face a coverage gap, though most carriers will extend or re-issue the binder rather than let it lapse. Don't assume this will happen automatically. Track the expiration date and confirm with your agent about two weeks before it's up."
   - q: "Do I need a home inventory before getting a binder?"
     a: "No, a binder doesn't require a home inventory. But starting one immediately after closing is genuinely smart. Apps like Encircle or the NAIC's free myHOME Scr.APP.book let you photograph and log your belongings room by room. If you ever file a contents claim, that documentation can be worth thousands of dollars. (You can also store your policy documents and binder in a fireproof document safe, like this one on Amazon (note: this site may earn a commission on purchases)."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners have no idea what a binder actually is until they need one in the next 48 hours and suddenly it's the only thing standing between them and a closed real estate deal.

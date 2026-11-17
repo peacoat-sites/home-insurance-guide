@@ -1,6 +1,7 @@
 ---
 title: "Fortified Home Program Insurance: What You Need to Know"
 date: 2026-07-13T12:26:10.238143+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how fortified home program insurance protects your property and may lower premiums through structural improvements and risk reduction."
 image: "/img/heroes/30956383.jpg"

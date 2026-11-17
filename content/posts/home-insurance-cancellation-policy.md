@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Cancellation: Your Rights and Options"
 date: 2026-07-19T11:03:25.461230+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why insurers cancel policies, how to prevent cancellation, and what options you have if your home insurance gets dropped."
 image: "/img/heroes/7734569.jpg"

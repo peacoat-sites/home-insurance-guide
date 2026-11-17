@@ -1,6 +1,7 @@
 ---
 title: "Your Insurer May Be Watching From Above Before Dropping You"
 date: 2026-07-14T11:14:59.973162+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Your insurer may be watching from above before dropping you. Learn why insurance companies use aerial surveillance and what it means for your coverage."
 image: "/img/heroes/5724030.jpg"

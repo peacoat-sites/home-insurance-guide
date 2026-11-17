@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You punch your address into a home insurance calculator, it spits out a coverage number in about 45 seconds, and you feel like you've done your homework. That false confidence often costs homeowners tens of thousands of dollars. A common pattern: the calculator estimates one amount, but actual rebuild costs run higher, and the gap comes straight out of the homeowner's pocket.
 

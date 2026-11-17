@@ -1,6 +1,7 @@
 ---
 title: "Insurance Redlining: Black and Hispanic Homeowners Pay Hundreds More"
 date: 2026-07-17T11:11:47.789901+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Insurance Redlining: Black and Hispanic homeowners face discriminatory pricing practices, paying hundreds more annually. Learn how systemic bias affects insuran"
 image: "/img/heroes/31651009.jpg"

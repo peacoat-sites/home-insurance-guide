@@ -23,7 +23,7 @@ author: "Mark Thompson"
 author_slug: "mark-thompson"
 author_title: "Former Insurance Agent"
 author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners find out what their policy doesn't cover right after something breaks. I've sat with hundreds of people in that position, staring at a denial letter and realizing they've been paying for something that doesn't protect what they thought it did. A burst pipe in January? Covered. A slow leak hidden behind drywall for six months that turned into mold? Not a chance. Understanding this stuff before disaster hits is one of the smartest financial moves you can make.
 

@@ -12,7 +12,7 @@ author_title: "Insurance Policy Analyst"
 author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
 slug: "california-fair-plan-rates-jump-298-this-fall"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you're a California homeowner currently insured through the FAIR Plan, you might be wondering whether that renewal notice sitting on your counter is going to cost you a lot more this fall. The short answer is yes, very likely. And if you're trying to figure out what to do before October 15, 2026, when the new rates take effect, you're not alone and you're not behind. But you do need to understand what's actually changing, because some of the numbers being thrown around are alarming in ways that require a little context.

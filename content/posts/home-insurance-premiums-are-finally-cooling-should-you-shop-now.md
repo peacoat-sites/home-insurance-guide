@@ -1,6 +1,7 @@
 ---
 title: "Home Insurance Premiums Are Finally Cooling. Should You Shop Now?"
 date: 2026-08-07T10:39:28.160258+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Home insurance premiums are cooling after years of increases. Learn whether now is the right time to shop for better rates and save on your coverage."
 image: "/img/heroes/7731335.jpg"

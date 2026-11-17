@@ -1,6 +1,7 @@
 ---
 title: "LEED Certified Homes: 32% Insurance Discount Explained"
 date: 2026-08-14T10:44:37.257894+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how LEED certified homes qualify for substantial insurance discounts. Explore savings, eligibility requirements, and how to claim your discount."
 image: "/img/heroes/1643389.jpg"
