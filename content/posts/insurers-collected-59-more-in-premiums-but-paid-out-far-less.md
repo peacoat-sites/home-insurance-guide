@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["insurers", "collected", "more", "premiums", "paid"]
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "insurers-collected-59-more-in-premiums-but-paid-out-far-less"
 affiliate_disclosure: true
 ---

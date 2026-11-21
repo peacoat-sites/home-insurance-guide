@@ -9,8 +9,8 @@ categories: ["Cost Factors"]
 tags: ["home", "insurance", "premium"]
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Former Insurance Agent"
-author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
+author_title: "Coverage Basics"
+author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 slug: "why-did-my-home-insurance-premium-go-up"
 affiliate_disclosure: true
 faqs:

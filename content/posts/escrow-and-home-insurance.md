@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes, but not always. Federal law requires lenders to escrow flood insurance premiums for certain higher-risk loans, but not universally. If you're in a required flood zone, ask your servicer directly whether flood is being escrowed. If you're not in a required zone but bought flood coverage voluntarily, it's almost certainly not in escrow, you're paying that directly, and you need to track it yourself."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners never actually pay their home insurance premium. The bill goes straight to an escrow account, the servicer writes the check, and the homeowner sees a line item on their mortgage statement and moves on. Convenient, right? It is, until it isn't.

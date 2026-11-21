@@ -21,8 +21,8 @@ faqs:
    a: "A takeout offer means a private insurer wants to assume your Citizens policy. You're not required to accept, but declining means you stay with Citizens. Before deciding, compare the new policy's coverage terms side by side with your Citizens policy, not just the premium. Pay particular attention to the hurricane deductible, roof coverage terms, and any exclusions that weren't in your Citizens policy. Florida's insurance market is genuinely hard right now, and I won't pretend otherwise. But homeowners who understand their policy, document their property, make smart coverage decisions, and stay"
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you've recently opened a homeowner insurance renewal notice in Florida and felt your stomach drop, you're not imagining things. Florida homeowners pay an average premium roughly three times the national average. In some coastal counties, insurers have simply stopped writing new policies altogether. Several major carriers have exited the state entirely in the last few years.

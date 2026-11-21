@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["biggest", "home", "insurers", "denying", "nearly"]
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Catastrophe Claims Specialist"
-author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
+author_title: "Disaster Coverage"
+author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "why-the-biggest-home-insurers-are-denying-nearly-half-of-all-claims"
 affiliate_disclosure: true
 lastmod: 2026-07-07

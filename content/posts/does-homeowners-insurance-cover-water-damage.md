@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and this happens regularly. Insurers call it the 'maintenance exclusion,' and it's one of the most common reasons water damage claims are denied or reduced. The insurer's position is that homeowners have an obligation to maintain their property and address known defects. If they can show, through physical evidence or your own statements, that the problem existed for an extended period before causing damage, they can deny coverage on the grounds that a reasonable homeowner would have identified and repaired it. This is why ongoing maintenance documentation matters."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Former Insurance Agent"
-author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
+author_title: "Coverage Basics"
+author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners assume water damage is water damage. A pipe bursts, the ceiling caves in, the floor buckles, and they reach for their insurance card confident that somewhere in that thick policy binder, this mess is covered. What I found after 14 years of reviewing those claims is that this assumption is wrong more often than it's right. The difference between a six-figure payout and a denial letter often comes down to a single word: *sudden*.

@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but you need to tell your insurer it's a secondary or seasonal property. Standard homeowner's policies often have vacancy clauses that can void or reduce coverage if the home sits empty for more than 30 to 60 days. A proper seasonal or secondary home policy, or a vacancy endorsement, keeps you protected during those gaps."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners renew their insurance policy every year without reading it. They get the bill, they pay it, they move on. It's easy to overlook this step.

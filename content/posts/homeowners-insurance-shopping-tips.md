@@ -21,8 +21,8 @@ faqs:
     a: "Most likely, yes. Standard HO-3 policies have very limited coverage for business property and essentially no coverage for business liability. If you have clients visiting your home, significant business equipment, or inventory stored at home, talk to your agent about an in-home business endorsement or a separate business owner's policy."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Former Insurance Agent"
-author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
+author_title: "Coverage Basics"
+author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners spend more time choosing a new refrigerator than they do shopping for a policy that could determine whether they recover financially after a disaster. For example, a homeowner who doesn't understand the difference between actual cash value and replacement cost coverage could face a significant shortfall after a hailstorm damages their roof. That single misunderstood line in a declarations page can cost more than a decade of premium savings. Shopping for homeowners insurance isn't just about finding the lowest monthly number. It's about understanding exactly what you're buying before you need it.

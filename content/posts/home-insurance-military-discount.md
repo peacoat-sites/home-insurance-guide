@@ -21,8 +21,8 @@ faqs:
    a: "Bundling discounts (home plus auto with the same insurer) are often larger than the military discount alone. If a given insurer offers both, getting a bundled quote is almost always worth doing. Just make sure the policy terms on both sides still make sense for your situation, not just the combined price."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you're active-duty, a veteran, or a military spouse renewing your homeowner's policy right now, you're probably wondering if there's a discount waiting for you. Short answer: sometimes yes, sometimes it's buried deep in the fine print, and sometimes what gets marketed as a "military discount" is really just good branding. Military discounts vary widely in what they cover and how much they save. It's worth checking the fine print rather than assuming a discount label delivers real savings.

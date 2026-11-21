@@ -21,8 +21,8 @@ faqs:
    a: "This is where things get genuinely complicated and fact-specific. Your HO-6 liability coverage may respond if the damage was caused by your negligence. Your CC&Rs may also allocate responsibility between owners. Some situations involve both policies. This is exactly the scenario where having your own policy with solid liability limits matters most, and where consulting your agent before anything happens is worth the time."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many condo owners assume they're fully covered because their HOA pays for insurance. This assumption can be costly, sometimes resulting in tens of thousands of dollars in uncovered losses.

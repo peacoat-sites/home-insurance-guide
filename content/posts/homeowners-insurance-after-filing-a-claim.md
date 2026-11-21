@@ -21,8 +21,8 @@ faqs:
    a: "Start with your state's FAIR plan as a short-term solution. Work with an independent agent who has access to surplus lines carriers, which specialize in non-standard risks. Focus on home improvements that reduce future claim likelihood. And give it time. As claims age on your CLUE report, your options in the standard market will improve."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You filed a claim last spring after a [burst pipe](/home-insurance-frozen-pipes/) soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.

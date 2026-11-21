@@ -21,8 +21,8 @@ faqs:
    a: "Water damage is one of the most common and costly homeowners claims, and it's worth addressing alongside your coverage review. Installing water leak sensors (the site may earn a commission) near appliances and in basements can catch slow leaks before they become major claims. Some insurers offer premium discounts for documented smart home devices, so ask your agent directly. The bottom line is that most homeowners are one disaster away from discovering their policy doesn't do what they think it does. Extended replacement cost isn't a luxury add-on. For anyone living in an area with weather ris"
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Catastrophe Claims Specialist"
-author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
+author_title: "Disaster Coverage"
+author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most homeowners walk around convinced that if their house burns down, insurance will rebuild it. That assumption has wiped out entire families. I watched it happen repeatedly during my claims career: a home insured for $350,000, appraised two years prior. Wildfire tears through. Suddenly every contractor within 50 miles is booked, lumber prices spike 40%, and your $350,000 policy covers maybe $290,000 worth of today's construction costs. The gap? Your pocket. Extended replacement cost coverage was designed specifically to close that gap, and yet most people buying homeowners insurance have no idea it exists, let alone how it works.

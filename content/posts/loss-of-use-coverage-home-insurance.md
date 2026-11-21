@@ -21,8 +21,8 @@ faqs:
    a: "Honestly, yes. Not because it changes your insurance, but because catching a slow leak early can prevent the kind of extensive water damage that leads to displacement in the first place. A water leak sensor placed near appliances, water heaters, and under sinks costs very little and can prevent a six-figure claim, including months of living somewhere else. (This site may earn a commission from qualifying purchases.)"
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your kitchen catches fire on a Tuesday night. By midnight the flames are out, but the smoke is so thick your home isn't livable. You're standing in your driveway at 1 a.m. with your family, nowhere to go. The next morning your insurance company calls and tells you they'll cover the hotel, the meals, the laundry while repairs happen. That's loss of use coverage. And if you've never read that section of your policy, you probably don't know what you actually have.

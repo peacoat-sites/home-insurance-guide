@@ -21,8 +21,8 @@ faqs:
    a: "LexisNexis is required to investigate disputes within 30 days under the Fair Credit Reporting Act (FCRA), which covers consumer reporting agencies. If the error is corrected, you can then present the updated report to your insurer and request a re-rating. Whether your premium comes down depends on whether the disputed item was the basis for the surcharge, and most insurers won't make the change retroactively. You'll typically see the correction reflected at your next renewal."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You open your renewal notice, and the number is higher than last year. Not by a little. Maybe it's $200 more, maybe $400, and there's no explanation attached beyond a vague line about "rate adjustments." You're not sure whether to call your agent, shop around, or just pay it and move on. If that's where you are right now, you're in good company. Surcharges are one of the least explained, most consequential parts of homeowners insurance, and most policyholders never fully understand what triggered them or what they can do about it.

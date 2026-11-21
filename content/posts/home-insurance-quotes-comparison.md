@@ -21,8 +21,8 @@ faqs:
    a: "In almost every case, yes, if you face those risks. Standard homeowner policies exclude both. Flood insurance is available through the National Flood Insurance Program (NFIP) or private carriers. Earthquake insurance is a separate endorsement or standalone policy. Even if you're not in a high-risk zone, FEMA data consistently shows that a large share of flood claims come from moderate- and low-risk areas. Talk to a licensed agent about the specific risks in your ZIP code."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Catastrophe Claims Specialist"
-author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
+author_title: "Disaster Coverage"
+author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're looking at three quotes. $847 a year. $1,203. $1,619. All promising to cover your home. You pick the cheapest, close the email, move on. That 90-second decision could cost you tens of thousands of dollars when a serious claim hits. I watched it happen repeatedly during 14 years reviewing insurance claims. The policy that seemed like a steal was missing the one coverage the homeowner actually needed.

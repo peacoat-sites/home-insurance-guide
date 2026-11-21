@@ -21,8 +21,8 @@ faqs:
    a: "Yes. Talk to your agent about increasing your Coverage B limit or adding an endorsement for other structures. If you have a high-value fence, a shared gate system, or a long perimeter, this is one of the cheaper upgrades you can make to your policy and one that most agents won't proactively suggest."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your fence comes down in a windstorm. You file a claim. The adjuster tells you it's only covered up to $500 because your policy treats fencing as "other structures" and caps it at 10% of your dwelling coverage, except yours has a sublimit buried on page 31. Homeowners in this situation are often blindsided not because they didn't read their policy, but because fences sit in a strange middle ground of home insurance that many agents gloss over at signing.

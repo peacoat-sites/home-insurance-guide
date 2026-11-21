@@ -21,8 +21,8 @@ faqs:
    a: "Most landlord policies include a vacancy clause that limits or eliminates coverage after the property has been unoccupied for 30 to 60 consecutive days. The specific threshold depends on your policy. If you anticipate a longer vacancy, contact your insurer before it happens to ask about a vacancy endorsement or a standalone vacant property policy. Don't let coverage lapse silently."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You buy a rental property, feel good about the investment, and assume your regular homeowners insurance policy has you covered. Then a tenant leaves the water running, walks out the door, and causes $40,000 in water damage. You file a claim. The insurer denies it. Why? Because you were using a homeowners policy on a property you don't occupy, and the insurer considers that a material misrepresentation. The claim is void. The loss is yours.

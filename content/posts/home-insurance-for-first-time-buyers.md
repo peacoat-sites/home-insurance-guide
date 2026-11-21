@@ -21,8 +21,8 @@ faqs:
    a: "Not automatically. A higher deductible reduces your premium, and if you can comfortably absorb a larger out-of-pocket expense in an emergency, the math may work in your favor over time. The problem is when people choose a high deductible to cut costs without actually having that money available. Also, watch for separate wind and hail deductibles that are percentage-based rather than flat dollar amounts. On a $400,000 home, a 2% wind deductible means you'd pay $8,000 before coverage kicks in for a storm claim. That can be a real shock."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A common scenario: someone buys a policy quickly to meet closing deadlines, only to discover months later that a water damage claim is capped at a sub-limit far below the actual cost of repairs. The coverage limit may have been buried in the fine print. Homeowner's insurance policies can be difficult to parse, and coverage limits aren't always obvious from a quick reading.

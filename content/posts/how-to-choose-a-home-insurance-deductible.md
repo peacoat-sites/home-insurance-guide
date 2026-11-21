@@ -21,8 +21,8 @@ faqs:
    a: "You pay for it yourself, effectively. If your deductible is $2,000 and the damage comes to $2,200, your insurer technically covers $200. Filing a claim for $200 is almost never worth it. The administrative friction, the potential rate impact, and the mark on your claim history make it a losing proposition. Treat any loss within striking distance of your deductible as a self-funded repair."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners pick their deductible the way they'd pick a seat on an airplane: grab something in the middle, stop thinking about it, move on. Then a storm tears off part of the roof. The adjuster estimates $9,000 in repairs. Your $2,500 deductible suddenly doesn't feel painless anymore. The deductible deserves more than thirty seconds of attention. Here's what actually matters.

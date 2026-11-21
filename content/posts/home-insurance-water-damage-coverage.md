@@ -21,8 +21,8 @@ faqs:
     a: "Some insurers offer small discounts for smart home monitoring devices including water leak sensors, though this varies considerably by company and state. The more significant benefit is loss prevention. Catching a leak early enough to shut off the water can mean the difference between a minor repair and a five-figure claim. Check with your specific insurer about any available discounts, and consider water leak sensors regardless of whether a discount applies. (This site may earn a small commission.)"
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 For example, a supply line behind a toilet fails silently while no one is home. By the time the failure is discovered, water has warped the floor, sagged the ceiling below, and buckled the hardwood hallway. When the homeowner calls their insurance company expecting coverage, the insurer says: "That looks like it may have been ongoing. We'll need to investigate before we can confirm coverage." This type of situation often leads to claim disputes, even when the homeowner took no action that caused the damage. Understanding what your policy actually covers before water touches a single floorboard is the difference between financial disaster and a manageable problem.

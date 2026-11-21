@@ -21,8 +21,8 @@ faqs:
    a: "They'll try. But notices go to the address on file, and if you've moved or if your contact information has drifted, things fall through the cracks. Don't rely on your insurer to catch problems created by your refinance. Take about 20 minutes after closing to verify everything yourself."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Catastrophe Claims Specialist"
-author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
+author_title: "Disaster Coverage"
+author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most homeowners who just refinanced their mortgage have no idea they may have accidentally broken their insurance policy.

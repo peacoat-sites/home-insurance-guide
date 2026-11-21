@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and promptly. Renovations increase your home's replacement cost. If you remodel your kitchen for $60,000 and don't report it, your Coverage A limit hasn't changed to reflect the new value. After a total loss, your insurer could argue your coverage was inadequate for the risk and potentially limit your payout. Report improvements as they're completed, even if renewal isn't coming up for months."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your house burns down. The foundation survives. Everything else is ash. You call your insurer expecting relief, and they hit you with the number: your dwelling coverage limit is $280,000, but rebuilding costs in your area have jumped to $420,000 since you last touched your policy. You're out $140,000. Nothing closes that gap automatically.

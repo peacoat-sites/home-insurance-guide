@@ -21,8 +21,8 @@ faqs:
    a: "Your homeowner's policy almost certainly won't pay for landscaping damage beyond very limited circumstances, and even then, there are strict caps. Some policies include a small landscaping allowance, perhaps $500 per plant or tree up to a combined limit, but it applies only when the damage is caused by a covered peril and the tree was destroyed rather than simply knocked over. If a storm uproots and kills a mature tree you valued at $5,000 in appraised landscape value, you're very unlikely to recover anywhere near that amount from a standard policy."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up at 2 a.m. to a sound like a cannon going off. A massive oak from your neighbor's yard has just crashed through your roof, and now rain is pouring into your living room while your family stands in the hallway in their pajamas. You grab your phone to call your insurance company, then pause: wait, whose insurance covers this? Yours? Theirs? Does it matter who owns the tree? 

@@ -1,37 +1,37 @@
 [
   {
-    "slug": "mark-thompson",
-    "name": "Mark Thompson",
-    "title": "Former Insurance Agent",
-    "specialty": "Home Insurance Policies & Coverage",
-    "bio": "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
+    "slug": "carl-brooks",
+    "name": "Carl Brooks",
+    "title": "Policy Comparison",
+    "specialty": "Policy Comparison",
+    "bio": "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "diana-foster",
     "name": "Diana Foster",
-    "title": "Claims Specialist",
-    "specialty": "Insurance Claims & Settlement Negotiation",
-    "bio": "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+    "title": "Claims",
+    "specialty": "Claims",
+    "bio": "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "kevin-park",
     "name": "Kevin Park",
-    "title": "Risk Analyst",
-    "specialty": "Home Risk Assessment & Coverage Gaps",
-    "bio": "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+    "title": "Risk and Pricing",
+    "specialty": "Risk and Pricing",
+    "bio": "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "laura-martinez",
     "name": "Laura Martinez",
-    "title": "Catastrophe Claims Specialist",
-    "specialty": "Natural Disaster & Catastrophic Loss Coverage",
-    "bio": "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
+    "title": "Disaster Coverage",
+    "specialty": "Disaster Coverage",
+    "bio": "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
-    "slug": "carl-brooks",
-    "name": "Carl Brooks",
-    "title": "Insurance Policy Analyst",
-    "specialty": "Policy Comparison & Fine Print",
-    "bio": "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+    "slug": "mark-thompson",
+    "name": "Mark Thompson",
+    "title": "Coverage Basics",
+    "specialty": "Coverage Basics",
+    "bio": "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
   }
 ]

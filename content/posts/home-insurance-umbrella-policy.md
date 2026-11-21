@@ -21,8 +21,8 @@ faqs:
    a: "You report the claim to your homeowner's insurer first. They investigate and defend using their process. If a judgment or settlement exceeds your underlying limit, the umbrella carrier steps in. You'll likely need to notify your umbrella carrier early in the process, even if you don't know yet whether the underlying limit will be exceeded. Most umbrella policies require prompt notice of any event that might trigger coverage, and delayed notice can become grounds for a coverage dispute. When in doubt, notify both carriers simultaneously."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
-author_title: "Catastrophe Claims Specialist"
-author_bio: "Laura Martinez worked catastrophe claims after major storms and wildfires, where she saw how coverage gaps surface only when homeowners need to file. She writes about disaster coverage so readers find those gaps before a loss, not after. At Home Insurance Clear she covers natural disaster and catastrophic loss coverage."
+author_title: "Disaster Coverage"
+author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor's kid breaks his arm on your backyard trampoline. The family sues. Your homeowner's liability limit is $300,000, but the lawsuit demands $750,000. Your standard policy pays its cap and stops. The remaining $450,000 is your problem. An umbrella policy would have covered it. Most people find out what an umbrella does, and doesn't do, only after they need one.

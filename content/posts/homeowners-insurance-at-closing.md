@@ -21,8 +21,8 @@ faqs:
     a: "Your lender will find out, usually faster than you'd expect. They require you to maintain continuous coverage as a loan condition. If your policy lapses, they can purchase force-placed insurance on your behalf and bill it to your escrow account. Force-placed insurance is expensive, covers only the structure (not your belongings), and protects the lender, not you. Avoid it entirely."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most first-time buyers don't realize their mortgage won't close without proof of homeowners insurance already in place. Not pending. Not "I have an agent looking into it." Bound and paid. That requirement catches people off guard three days before closing, and the scramble that follows almost always costs them money.

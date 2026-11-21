@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_specialty: "Insurance Claims & Settlement Negotiation"
+author_title: "Claims"
+author_specialty: "Claims"
 ---
 
-A public adjuster can help homeowners fight for fair settlements after claims that insurers undervalued. Public adjusters understand how the claims process works from both the homeowner and insurer perspective. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement.
+Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards.
+
+[How Home Insurance Clear articles are written and checked](/editorial-standards/)

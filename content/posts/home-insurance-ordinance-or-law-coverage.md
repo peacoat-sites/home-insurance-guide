@@ -21,8 +21,8 @@ faqs:
    a: "Probably not proactively. Insurers aren't obligated to audit your coverage needs at renewal. It's your responsibility to understand what you have. A good independent agent who knows your local market is the best resource here, but ultimately, you need to ask the question directly: 'Do I have ordinance or law coverage, what components does it include, and is my sublimit realistic for a full rebuild in my municipality?'"
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your house burns down. The fire department clears the scene, your adjuster walks the lot, and you're ready to rebuild. Then the city steps in. Your home was built in 1978, and current building codes require upgraded electrical panels, additional fire blocking in the walls, and a sprinkler system the original structure never had. The cost to bring the new build up to code adds $40,000 to your reconstruction bill. Your standard homeowner's policy covers what was there before. Not what the law now requires. That $40,000 is yours to absorb, unless you have ordinance or law coverage.

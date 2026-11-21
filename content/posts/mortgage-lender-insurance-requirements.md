@@ -21,8 +21,8 @@ faqs:
    a: "Once your mortgage is paid off, your lender has no authority over your insurance decisions. You can carry whatever coverage you choose. That said, carrying inadequate insurance on a paid-off home is a real financial risk that the absence of a lender requirement doesn't make disappear. Your home's replacement cost doesn't care whether you have a mortgage."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Former Insurance Agent"
-author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
+author_title: "Coverage Basics"
+author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your mortgage approval came through, and now there's a five-page insurance requirements document sitting in your email. Nobody explained this part. You're staring at terms like "dwelling coverage equal to replacement cost" and "loss payee endorsement" and wondering if your current homeowner's policy even qualifies, or whether you need to buy something entirely different before closing.

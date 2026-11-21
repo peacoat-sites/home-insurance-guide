@@ -21,8 +21,8 @@ faqs:
    a: "At minimum, once a year at renewal. But also review it after any major renovation or addition to your home, after a large purchase (jewelry, electronics, art), after your mortgage is paid off, and after major changes in local construction costs. I've seen people pay premiums for years on a policy that hadn't been updated since they bought the house, only to discover they were underinsured by $150,000 or more."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A pipe bursts. Your kitchen floods. The damage is real, the stress is real, and then your insurer calls to say they'll cover about half of what repairs actually cost.

@@ -21,8 +21,8 @@ faqs:
    a: "Yes, with nuance. Improvements that increase the replacement cost of your home (additions, high-end kitchen remodels, finished basements) should be reported so your dwelling coverage limit stays adequate. Improvements that reduce risk (new roof, updated electrical, security systems) should be reported because they may earn you a discount. The only reason to hesitate is if an improvement reveals an unpermitted prior condition, which is a separate conversation to have carefully with your agent."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners assume their insurance premium is fixed, something that creeps up a little each year like a utility bill, and there's nothing to do about it. In reality, insurers use dozens of rating factors they rarely explain, and a surprising number of them are within your control. Adjusting the right factors can reduce premiums by hundreds of dollars annually. Many people pay thousands more than necessary for years simply because they don't know what questions to ask.

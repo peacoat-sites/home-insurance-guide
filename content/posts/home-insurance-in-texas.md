@@ -21,8 +21,8 @@ faqs:
    a: "Standard policies typically include $100,000 in personal liability coverage. I'll be honest, that number hasn't kept pace with the cost of serious injuries or lawsuits. Many homeowners consider $300,000 to $500,000 as a more realistic floor, and if you have significant assets, a personal umbrella policy (usually sold separately) adds an additional layer of protection at a relatively low cost. Talk to a licensed agent about your specific situation before making that call."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most Texas homeowners I've talked to assume their policy works like their neighbor's policy in Ohio or Colorado. It doesn't. Texas is one of the few states where insurers can use policy forms that aren't used anywhere else in the country, where the wind and hail deductible system is genuinely unlike anything you'll encounter in other markets, and where a growing number of carriers are quietly refusing to renew policies in entire ZIP codes without much explanation. If you're buying a home here, renewing a policy, or just wondering why your premium jumped 30% this year, you need to understand how this market actually works. Not the brochure version.

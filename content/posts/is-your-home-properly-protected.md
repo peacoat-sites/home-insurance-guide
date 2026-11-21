@@ -7,8 +7,8 @@ date: 2026-05-27T10:00:00+00:00
 tags: ["home insurance", "coverage checkup", "homeowners", "policy review", "self-assessment"]
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 Most homeowners think hard about their insurance policy exactly twice: when they buy it and when they file a claim. Everything in between? That's where things fall apart. A coverage gap you didn't know existed. A deductible that somehow doubled. A [kitchen renovation](/best-home-insurance-for-new-homeowners/) that never made it onto the paperwork.

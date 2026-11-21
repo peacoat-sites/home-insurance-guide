@@ -21,8 +21,8 @@ faqs:
    a: "In most U.S. states, yes. Insurers use an insurance-based credit score (slightly different from your lending credit score) as a rating factor, based on research showing a correlation between credit behavior and claims frequency. A lower score can meaningfully raise your premium. Improving your credit over time may lead to rate reductions at renewal. A small number of states, including California, Maryland, and Massachusetts, restrict or prohibit this practice, so check your state's rules if this is a concern."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You find a homeowners policy for $67 a month and feel like you just beat the system. Then a pipe bursts inside your wall, soaks three rooms, and you file a claim, only to learn that "sudden and accidental" discharge is covered but the slow leak that caused the real damage isn't. Your $67 policy pays out almost nothing. I watched this exact scenario play out dozens of times in my claims career, and it still happens every day. The price on the declarations page is not the story. The story is what the policy actually does when something goes wrong.

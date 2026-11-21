@@ -21,8 +21,8 @@ faqs:
    a: "Possibly. Standard policies have limited coverage for business equipment kept at home, often $2,500 or less. They generally don't cover business liability on your property. If you work from home, run a side business, or store inventory or business equipment, ask specifically about home office endorsements or whether a separate business owner's policy is appropriate."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners carry 20% too little insurance. That's not a rounding error. If your house costs $400,000 to rebuild and your policy covers $320,000, you're eating an $80,000 loss yourself after a total loss. When you're standing in the ash, that gap doesn't look smaller.

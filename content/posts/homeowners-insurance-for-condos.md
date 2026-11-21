@@ -21,8 +21,8 @@ faqs:
    a: "Loss assessment coverage pays your share of an HOA assessment when a major loss to common areas exceeds the master policy's limits. Given that a single large claim, like a fire in a common area, can result in assessments of $5,000 to $20,000 per unit, the standard $1,000 default on many policies is nearly useless. Carry at least $25,000 to $50,000."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most [condo owners](/condo-insurance-explained/) are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.

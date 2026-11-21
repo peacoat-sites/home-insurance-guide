@@ -3,41 +3,36 @@ title: "About Home Insurance Clear"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Home Insurance Clear,  meet Carl Brooks and learn how we help homeowners understand their coverage."
+description: "What Home Insurance Clear covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "carl-brooks"
-author_name: "Home Insurance Clear"
-person_name: "Carl Brooks"
 ---
 
 ## About Home Insurance Clear
 
-Home Insurance Clear is an independent resource dedicated to helping homeowners understand their insurance coverage,  before a claim, not after.
+Home Insurance Clear explains homeowners insurance in plain language: what policies cover, how premiums are set, how to file a claim and how to compare insurers.
 
-## Meet the Editor
+## Who writes here
 
-**Carl Brooks** is the editor behind Home Insurance Clear.
+Articles are published under pen names, each covering one part of the site:
 
-Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury.
+- **[Carl Brooks](/carl-brooks/)**: policy comparison and the fine print in home insurance contracts
+- **[Diana Foster](/diana-foster/)**: the claims process and settlement disputes
+- **[Kevin Park](/kevin-park/)**: how insurers price risk and where coverage gaps hide
+- **[Laura Martinez](/laura-martinez/)**: coverage for storms, wildfire, flood and other large losses
+- **[Mark Thompson](/mark-thompson/)**: what home insurance covers and how to choose limits
 
-## What We Cover
+## How we work
 
-Home Insurance Clear covers homeowners insurance from every angle,  dwelling vs. personal property coverage, liability limits, flood and earthquake exclusions, how to document belongings, what to do after a loss, and how to shop for better rates without sacrificing coverage.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-We don't sell insurance. We don't earn commissions from carriers. Our job is to translate policy language into plain English and help you ask the right questions before you sign.
+Your policy documents, not our articles, decide what is covered. Coverage, exclusions and prices vary by insurer and state, so read your declarations page and policy, ask your agent or insurer about anything unclear, and contact your state insurance department if a claim dispute cannot be resolved.
 
-Every article on this site is researched from industry sources, state insurance department filings, and real policy language,  and updated regularly as coverage standards and pricing change.
+## Affiliate disclosure
 
-## Important Disclaimer
-
-Home Insurance Clear provides general informational content. Carl Brooks is a former insurance professional and researcher,  not a licensed advisor in your state. Insurance regulations, policy terms, and coverage options vary significantly by state and insurer. Always consult a licensed insurance professional for advice specific to your situation.
-
-## Affiliate Disclosure
-
-Some links on this site are affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you. This does not influence our editorial recommendations.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Have a question or topic suggestion? [Get in touch](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

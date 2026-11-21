@@ -21,8 +21,8 @@ faqs:
    a: "At minimum, once a year at renewal. More often if you've done significant renovations, if local construction costs have shifted sharply, or if you've had a major weather event in your area that's put contractor demand through the roof. A coverage level that was accurate two years ago may have drifted meaningfully out of step with what it would actually cost to rebuild today."
 author: "Mark Thompson"
 author_slug: "mark-thompson"
-author_title: "Former Insurance Agent"
-author_bio: "Mark Thompson spent over a decade as a licensed home insurance agent before moving to consumer education, which taught him exactly how policies are sold and where buyers overpay or underinsure. He explains what coverage actually does in plain language. At Home Insurance Clear he covers policies, coverage limits, and what to check before you buy."
+author_title: "Coverage Basics"
+author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You punch your address into a home insurance calculator, it spits out a coverage number in about 45 seconds, and you feel like you've done your homework. That false confidence often costs homeowners tens of thousands of dollars. A common pattern: the calculator estimates one amount, but actual rebuild costs run higher, and the gap comes straight out of the homeowner's pocket.

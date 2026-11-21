@@ -21,8 +21,8 @@ faqs:
    a: "Yes, in most cases. Hot tubs carry their own injury and liability risks (scalding, drowning, electrical hazards) and are treated similarly to pools by most insurers. Disclose it, ask about specific coverage terms, and make sure it's properly maintained. A neglected hot tub is a liability waiting to happen."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A neighbor's kid drowned in a backyard pool outside Columbus, Ohio in 2017. The family who owned the pool thought they had solid homeowner's insurance. They didn't. Their liability limit was $100,000. The lawsuit exceeded $400,000. Their policy had a specific exclusion because they hadn't told their insurer about the pool when it was installed. They lost their home.

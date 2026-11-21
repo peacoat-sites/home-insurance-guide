@@ -21,8 +21,8 @@ faqs:
    a: "The same logic applies as with homeowners insurance: coverage depends on the cause. If mold results from a covered sudden event, like a burst pipe, renters insurance may cover your personal property damaged by mold. It does not cover the building structure itself, which is the landlord's responsibility. Renters insurance also won't cover mold from chronic conditions. If you're a renter dealing with mold caused by your landlord's failure to maintain the property, the legal recourse is typically through tenant rights laws, not your own insurance policy."
 author: "Kevin Park"
 author_slug: "kevin-park"
-author_title: "Risk Analyst"
-author_bio: "Kevin Park spent his early career as a home inspector before moving into the risk assessment side of the insurance industry. He understands how insurers price risk, which home features raise premiums, and which common coverage gaps leave homeowners exposed. At Home Insurance Guide, he covers risk factors, coverage gap analysis, and how to use a home inspection to your advantage."
+author_title: "Risk and Pricing"
+author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You find a dark patch spreading across the drywall behind your washing machine. Your first thought: "This is covered, right?" Most homeowners assume mold is just another water damage situation, and [water damage is covered](/home-insurance-water-damage-coverage/), so it all works out. This assumption commonly leads to serious financial trouble because of how policies actually define mold coverage.

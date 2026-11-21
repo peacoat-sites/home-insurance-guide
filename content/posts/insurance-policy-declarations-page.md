@@ -21,8 +21,8 @@ faqs:
     a: "Yes. Every year without exception. Your rebuild costs change, your belongings change, your home improvements change. A covered porch addition that you never reported to your insurer could mean your Coverage A is too low. Set a calendar reminder for two weeks before your renewal date and actually read it."
 author: "Diana Foster"
 author_slug: "diana-foster"
-author_title: "Claims Specialist"
-author_bio: "Diana Foster worked as a public adjuster for a decade, helping homeowners fight for fair settlements after claims that insurers undervalued. She has seen virtually every type of property damage claim and understands how the process works from both sides. At Home Insurance Guide, she covers the claims process, documentation best practices, and how to advocate for yourself when an insurer lowballs a settlement."
+author_title: "Claims"
+author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. I spent 14 years on the other side of that claim, and I can tell you: that one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.

@@ -21,8 +21,8 @@ faqs:
    a: "Your homeowner's policy won't cover your car. Vehicle hail damage falls under the comprehensive portion of your auto insurance policy. These are separate claims filed separately, with separate deductibles."
 author: "Carl Brooks"
 author_slug: "carl-brooks"
-author_title: "Insurance Policy Analyst"
-author_bio: "Carl Brooks reads home insurance policies for a living, comparing carriers line by line and translating the fine print that decides whether a claim gets paid. He shows readers what the exclusions really mean. At Home Insurance Clear he covers policy comparison and the fine print insurers bury."
+author_title: "Policy Comparison"
+author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners have no idea their hail claim has already been partially decided before they even call their insurer. The adjuster arriving at your house isn't walking in neutral. They're working from a damage threshold matrix, a regional hail history database, and years of training on how to separate "cosmetic" damage from "functional" damage. That distinction alone determines whether you get a check or a denial letter.
