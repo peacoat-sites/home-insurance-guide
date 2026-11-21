@@ -39,7 +39,7 @@ You just watched the news coverage of a house fire three blocks away, or maybe y
 | Additional Living Expenses (Coverage D) | Temporary housing, meals, laundry during displacement | Secondary limit, typically a percentage of dwelling |
 | High-Value Items (Sublimits) | Jewelry, fine art, collectibles, firearms, musical instruments | Often $1,500 or less per category |
 
-Here's what I tell people first: standard homeowners insurance does cover fire and smoke damage, and it does so across multiple parts of your policy simultaneously. Understanding which parts matter will change how you read your own coverage.
+Standard homeowners insurance does cover fire and smoke damage, and it does so across multiple parts of your policy simultaneously. Understanding which parts matter will change how you read your own coverage.
 
 A standard [HO-3 policy](/ho-3-policy-explained/), which is what most American homeowners carry, covers fire under at least four separate coverage categories.
 
@@ -57,7 +57,7 @@ You might be wondering if smoke damage gets treated the same as fire damage. It 
 
 ## The Coverage Gaps That Catch People Off Guard
 
-In my 14 years reviewing claims, the post-fire conversations I dreaded most were the ones where I had to explain why a portion of someone's claim wasn't covered. Not because coverage was being denied unfairly, but because no one had ever explained the policy clearly before the loss.
+Among the most difficult post-fire conversations adjusters have are the ones where they must explain why a portion of a claim was not covered. Not because coverage was being denied unfairly, but because no one had ever explained the policy clearly before the loss.
 
 **Intentional or criminal fire.** If you or a household member intentionally set the fire, coverage is denied. This seems obvious, but it becomes complicated in cases where one spouse commits arson and the innocent spouse wants to make a claim. Some states have protections for innocent co-insureds, but this varies significantly. Check with your state's insurance department (you can find your state's department through the [NAIC's state web map](https://www.naic.org/state_web_map.htm)) if this is a concern.
 

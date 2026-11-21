@@ -25,7 +25,7 @@ author_title: "Policy Comparison"
 author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Your kitchen burns. Cabinets, appliances, flooring, gone. You'd paid $18,000 for all of it seven years ago. The adjuster's check arrives: $6,400. You're stunned. Everything worked fine until the fire. But your policy said "actual cash value," and depreciation just took the other $11,600. I watched this happen to policyholders during my 14 years adjusting claims. The look on their faces never changed, pure shock followed by justified anger, because nobody explained this choice when they bought the policy.
+Your kitchen burns. Cabinets, appliances, flooring, gone. You'd paid $18,000 for all of it seven years ago. The adjuster's check arrives: $6,400. You're stunned. Everything worked fine until the fire. But your policy said "actual cash value," and depreciation just took the other $11,600. Adjusters commonly witness this scenario play out with policyholders who were never informed of the choice at the time of purchase. The look on their faces never changed, pure shock followed by justified anger, because nobody explained this choice when they bought the policy.
 
 This isn't buried in fine print. It's one of the biggest financial decisions in your entire homeowners policy, and most people never realize they're making it.
 
@@ -115,7 +115,7 @@ One practical move regardless of which valuation you choose: create a home inven
 
 ---
 
-The choice between replacement cost and actual cash value isn't glamorous. But it's one of the most financially important decisions in your homeowners policy. I spent 14 years on the claims side, and the policyholders who understood their valuation method before a loss came through without lasting financial damage. Read your policy. Ask the direct question. Make a deliberate choice. Your future self, the one standing in that smoke-damaged kitchen, will thank you.
+The choice between replacement cost and actual cash value isn't glamorous. But it's one of the most financially important decisions in your homeowners policy. Policyholders who understand their valuation method before a loss consistently come through without lasting financial damage. Read your policy. Ask the direct question. Make a deliberate choice. Your future self, the one standing in that smoke-damaged kitchen, will thank you.
 
 ## Sources & References
 

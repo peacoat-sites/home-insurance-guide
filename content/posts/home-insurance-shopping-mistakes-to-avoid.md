@@ -25,9 +25,9 @@ faqs:
    a: "Standard homeowner policies are occurrence-based, meaning they cover losses that happen while the policy is active, regardless of when you file. This matters most if you discover damage (like hidden mold) after switching carriers. Know which policy type you have before you cancel or switch."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most people spend more time picking a Netflix subscription than they do shopping for home insurance. I know that sounds harsh, but after 14 years reviewing claims, I watched it play out constantly: policyholders who'd grabbed the cheapest quote online, signed whatever the agent sent over, and then called us genuinely shocked when we explained why their $40,000 claim was only paying out $11,000. That gap isn't bad luck. It's predictable. Almost entirely avoidable.
+Most people spend more time picking a Netflix subscription than they do shopping for home insurance. It plays out constantly: policyholders who grabbed the cheapest quote online, signed whatever the agent sent over, and then called their insurer genuinely shocked when told why their $40,000 claim was only paying out $11,000. That gap isn't bad luck. It's predictable. Almost entirely avoidable.
 
-Here's what surprised me when I made the switch to consumer advocacy: the mistakes aren't random. They cluster around the same five or six decisions, made carelessly at purchase, and then never revisited again. Let's get into them.
+The mistakes aren't random. They cluster around the same five or six decisions, made carelessly at purchase, and then never revisited again. Let's get into them.
 
 ## Insuring Your Home for Its Market Value Instead of Its Rebuild Cost
 
@@ -41,7 +41,7 @@ Ask your insurer for a replacement cost estimator calculation (most use tools li
 
 ## Shopping Purely on Premium Price
 
-The research here is mixed on exactly how much price tracks with quality across carriers, but my experience is clear: the cheapest policy is usually cheap for a reason.
+The research here is mixed on exactly how much price tracks with quality across carriers, but the pattern is consistent: the cheapest policy is usually cheap for a reason.
 
 Insurers price based on what they expect to pay out. A policy priced $400 a year below competitors might have a higher deductible buried in fine print, or an ACV (actual cash value) settlement structure on your personal property instead of RCV (replacement cost value). That distinction alone can cost you thousands. ACV means they depreciate your belongings before writing the check. Your 7-year-old laptop that costs $1,100 to replace today might get you $180 under ACV.
 
@@ -66,7 +66,7 @@ If you're in a flood-adjacent area, even marginally, look into NFIP coverage or 
 
 ## Skipping the Home Inventory
 
-Every adjuster I worked with for 14 years would tell you the same thing: after a major loss, most people can't accurately recall what they owned. They remember the big stuff, the TV, the couch, and forget the $3,000 in kitchen appliances, the $1,800 camera body, the jewelry they never itemized. They end up filing incomplete claims and leaving money on the table they were legitimately owed.
+Adjusters consistently report the same finding: after a major loss, most people can't accurately recall what they owned. They remember the big stuff, the TV, the couch, and forget the $3,000 in kitchen appliances, the $1,800 camera body, the jewelry they never itemized. They end up filing incomplete claims and leaving money on the table they were legitimately owed.
 
 Build a home inventory before you need it. Walk through every room with your phone camera and narrate. Document serial numbers on electronics. Keep receipts for anything significant. Store the record somewhere outside your home, a cloud account, or a fireproof document safe (a decent one runs $50 to $100 on Amazon). Apps like Encircle or the III's free Know Your Stuff inventory tool exist specifically for this.
 

@@ -35,7 +35,7 @@ Homeowner's insurance exists to protect you from sudden, accidental events you c
 
 A home warranty is a service contract, not insurance. It covers mechanical failure due to normal wear and tear on your home's systems and appliances: the furnace that dies after 15 years, the water heater that stops heating, the dishwasher that just quits. Less safety net, more maintenance agreement.
 
-Here's what people miss: insurance hates wear and tear. Warranty companies hate sudden events. They're designed to cover opposite kinds of problems. When homeowners call the wrong one, which I saw happen constantly during my years reviewing claims, they waste time, money, and goodwill on a company that was never set up to help in the first place.
+Here's what people miss: insurance hates wear and tear. Warranty companies hate sudden events. They're designed to cover opposite kinds of problems. When homeowners call the wrong one, they waste time, money, and goodwill on a company that was never set up to help in the first place.
 
 ## What Home Insurance Really Pays For
 
@@ -49,7 +49,7 @@ Your homeowner's policy has several components, and knowing them matters when re
 
 **Loss of use coverage** pays for temporary housing and living expenses if your home becomes uninhabitable due to a covered loss. A fire that displaces your family for three months while repairs happen is exactly what this covers.
 
-What home insurance almost never covers: mechanical breakdown, appliance wear and tear, slow leaks that developed over time, mold from deferred maintenance, or pest damage. I've reviewed thousands of claims where people assumed their policy would cover a gradually failing roof or a water heater that slowly rusted out. It almost never does. The NAIC emphasizes that consumers should read their declarations page carefully and ask about exclusions specifically before assuming a loss is covered.
+What home insurance almost never covers: mechanical breakdown, appliance wear and tear, slow leaks that developed over time, mold from deferred maintenance, or pest damage. Adjusters commonly see claims where homeowners assumed their policy would cover a gradually failing roof or a water heater that slowly rusted out. It almost never does. The NAIC emphasizes that consumers should read their declarations page carefully and ask about exclusions specifically before assuming a loss is covered.
 
 ## What a Home Warranty Actually Does
 
@@ -57,7 +57,7 @@ A home warranty is sold directly to homeowners, often at closing on a new home, 
 
 Coverage varies dramatically between companies and plan tiers. Basic plans usually cover appliances: refrigerator, oven, dishwasher, washer and dryer. Higher tiers add HVAC systems, plumbing, electrical, and water heaters. Some plans let you add a pool or septic system for additional fees.
 
-Here's what I tell people considering a warranty: read the exclusions before you read the benefits. Common exclusions include:
+Anyone considering a warranty should read the exclusions before reading the benefits. Common exclusions include:
 
 - Pre-existing conditions (problems that existed before the contract started)
 - Improper installation or modification
@@ -94,7 +94,7 @@ One thing that table doesn't capture: home insurance is a legal contract governe
 
 ## How to Know If a Home Warranty Is Worth It for You
 
-This is where I want to be straight with you, because a lot of people buy home warranties on autopilot, especially at closing when the title company slides one into the stack of documents.
+A lot of people buy home warranties on autopilot, especially at closing when the title company slides one into the stack of documents.
 
 Whether a warranty actually makes sense depends on a few specific factors.
 

@@ -28,7 +28,7 @@ faqs:
 
 Most homeowners don't know their standard policy stops protecting them after 30 to 60 days of vacancy. Not pauses. Stops.
 
-I'll be honest: I didn't fully appreciate how aggressively insurers apply vacancy clauses until I started reviewing denied claims on the other side of the desk. We're talking about a provision buried in the definitions section of virtually every standard homeowner policy, and most people discover it exists only after they file a claim and get a letter explaining why they're getting nothing. That letter is not fun to receive.
+Vacancy clauses are applied aggressively by insurers, yet most homeowners do not fully appreciate this until a claim is denied. We're talking about a provision buried in the definitions section of virtually every standard homeowner policy, and most people discover it exists only after they file a claim and get a letter explaining why they're getting nothing. That letter is not fun to receive.
 
 What surprised me was how common the underlying situations are. A job relocation that takes longer than expected. An inherited property that can't sell in a slow market. Snowbird homeowners who stretch their winter trip by a few extra weeks. A renovation that ran over schedule. These aren't rare edge cases. They happen constantly, and the [coverage gap](/home-insurance-coverage-gap/) they create is real.
 
@@ -40,7 +40,7 @@ Insurers aren't using these words loosely. The distinction has real financial co
 
 An **unoccupied** home still contains furniture and [personal property](/homeowners-insurance-personal-property-coverage/). It looks lived-in; someone just isn't there right now. A **vacant** home is empty. No furniture, no personal effects, nothing except the structure itself. Insurers treat these differently because the risk profile genuinely differs: a furnished home signals that someone has reason to return, which tends to correlate with more frequent check-ins and maintenance. A vacant home, by contrast, is more attractive to squatters, copper thieves, and vandals, and problems like a slow plumbing leak can go undetected for weeks.
 
-The [Insurance Information Institute](https://www.iii.org/) notes that vacant properties face substantially elevated risk across fire, water damage, and liability compared to occupied homes. That's not marketing language. In my 14 years reviewing claims, vacant property losses were almost always more severe than comparable losses in occupied homes, simply because nobody caught the problem early.
+The [Insurance Information Institute](https://www.iii.org/) notes that vacant properties face substantially elevated risk across fire, water damage, and liability compared to occupied homes. That's not marketing language. In practice, vacant property losses are almost always more severe than comparable losses in occupied homes, simply because nobody catches the problem early.
 
 Your policy's definition of "vacant" may not match the dictionary's. Some policies consider a home "vacant" if it lacks working utilities, even if the owners left furniture behind. Read your actual policy language, not what the agent summarizes over the phone. Ask for the definitions section specifically. The question to ask: "How does this policy define vacant, and what triggering conditions apply to the vacancy clause?"
 
@@ -69,7 +69,7 @@ Most vacant policies are written on a named-perils basis, meaning only the risks
 
 Coverage periods are usually sold in 3-month, 6-month, or 12-month blocks. You can't typically buy a vacant policy for a two-week gap. And because insurers view these properties as higher-risk, they'll often require a property inspection before binding coverage, sometimes charging $75 to $150 for it.
 
-The pricing varies considerably by property characteristics, location, and how much coverage you buy. Here's a realistic comparison based on industry data and my own experience reviewing these products:
+The pricing varies considerably by property characteristics, location, and how much coverage you buy. Here is a realistic comparison based on industry data:
 
 | Property Situation | Typical Annual Cost | Coverage Type | Key Exclusions to Watch |
 |---|---|---|---|
@@ -83,7 +83,7 @@ The pricing varies considerably by property characteristics, location, and how m
 
 ## How to Actually Get This Coverage
 
-Here's the process I'd walk through, step by step, because the shopping experience for vacant home insurance is not like buying a standard policy online.
+Here is the process to follow, step by step, because the shopping experience for vacant home insurance is not like buying a standard policy online.
 
 **Step 1: Contact your current insurer first.** Some carriers will extend your existing policy with a vacancy endorsement, often cheaper than a standalone product. Ask specifically: "Do you offer a vacancy permit or unoccupied home endorsement?" If they say no, move on.
 
@@ -93,9 +93,9 @@ Here's the process I'd walk through, step by step, because the shopping experien
 
 **Step 4: Get the inspection done quickly.** Many carriers won't bind coverage until someone physically checks the property's condition. Schedule it fast; uninsured gaps are real.
 
-**Step 5: Document the property's condition.** Take a timestamped video walkthrough before you leave. If you file a claim later, the insurer will want to know what pre-existed. I can't stress this enough: I reviewed claims where pre-existing damage arguments killed a legitimate payout. A [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) won't help with the structure itself, but a document safe with printed timestamped photos will. *(The site may earn a commission from linked products.)*
+**Step 5: Document the property's condition.** Take a timestamped video walkthrough before you leave. If you file a claim later, the insurer will want to know what pre-existed. This step is critical: pre-existing damage arguments have killed legitimate payouts in disputed claims. A [home inventory app](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) won't help with the structure itself, but a document safe with printed timestamped photos will. *(The site may earn a commission from linked products.)*
 
-Worked example: A homeowner in Chicago listed a property for sale in January and couldn't close until August. She called her carrier in February when she realized the house had been vacant for five weeks. They added a vacancy endorsement for $380 for six months. In June, a water heater failed. The claim paid out $8,700. The endorsement fee was well worth it. More importantly, she asked the right question before the gap opened, not after.
+For example, a homeowner who lists a property for sale in January and cannot close until August faces a significant vacancy gap. If that homeowner contacts their carrier in February after five weeks of vacancy, they may be able to add a vacancy endorsement. A vacancy endorsement in a scenario like this might cost around $380 for six months. If a water heater then fails, the claim would be covered under that endorsement. A claim in that range could pay out approximately $8,700. The endorsement fee would be well worth it. More importantly, asking the right question before the gap opens, not after, is what makes the difference.
 
 ## Reducing Your Risk (And Your Premium)
 
@@ -103,11 +103,11 @@ Insurers price vacant home policies based on their assessment of what will go wr
 
 The factors that consistently lower premiums: regular property inspections (many carriers require proof of monthly walkthroughs), a monitored alarm system, water shutoff at the main line, someone with a key who can respond to alerts, and a property management company on record. [Water leak sensors](https://www.amazon.com/s?k=water+leak+detector+sensor&tag=contentportfo-20) placed near appliances and under sinks are inexpensive and some carriers explicitly acknowledge them. *(The site may earn a commission.)* A [monitored fire extinguisher station](https://www.amazon.com/s?k=home+fire+extinguisher+wall+mount&tag=contentportfo-20) doesn't hurt either.
 
-I used to review inspection checklists submitted by policyholders trying to qualify for lower rates. The ones that worked weren't elaborate. Dated photos of the main shutoffs, the electrical panel, and the entry doors. A signed log showing someone physically walked the property every 30 days. That documentation shifted the carrier's risk calculation visibly.
+Carriers review inspection checklists submitted by policyholders trying to qualify for lower rates. The ones that work are not elaborate. Dated photos of the main shutoffs, the electrical panel, and the entry doors are typically sufficient. A signed log showing someone physically walked the property every 30 days rounds out the documentation. That kind of documentation can shift a carrier's risk calculation meaningfully.
 
 Premium discounts for security measures vary by carrier. Some offer 5% for a monitored alarm; others don't. Ask each carrier specifically what credits they offer and what documentation they need. Don't assume.
 
-Worked example: A renovation project in Austin ran four months over schedule. The homeowner had a builder's risk policy, but the contractor paused work for six weeks while waiting on materials. The insurer considered that pause a vacancy trigger. The homeowner hadn't hired anyone to do regular inspections. When a burst pipe caused $19,000 in damage, the carrier partially denied the claim, paying $11,200 based on a shared-fault argument around the inspection gap. A $150 monthly property management check-in would have cost $900 over six months and almost certainly would have caught the problem and preserved the full claim.
+For example, consider a renovation project that runs four months over schedule. If the contractor pauses work for six weeks while waiting on materials, the insurer may treat that pause as a vacancy trigger. The insurer considered that pause a vacancy trigger. The homeowner hadn't hired anyone to do regular inspections. When a burst pipe caused $19,000 in damage, the carrier partially denied the claim, paying $11,200 based on a shared-fault argument around the inspection gap. A $150 monthly property management check-in would have cost $900 over six months and almost certainly would have caught the problem and preserved the full claim.
 
 ## Sources
 

@@ -26,7 +26,7 @@ faqs:
     a: "Only up to the policy's business property sublimit, which is typically around $2,500. If your equipment is worth more than that, you need either a home-based business endorsement or a separate business owner's policy (BOP). Most standard policies also exclude business liability arising from client visits to your home."
 ---
 
-Most homeowners read their policy once, file it in a drawer, and assume they're covered. They're not wrong about the basics. But the gap between what they think they have and what they actually have? That's where I spent 14 years of my professional life, sitting across from people who'd just had the worst week of their year and were about to have a worse conversation.
+Most homeowners read their policy once, file it in a drawer, and assume they're covered. They're not wrong about the basics. But the gap between what they think they have and what they actually have? That gap is where adjusters and insurance professionals regularly see the worst surprises: people who've just had the worst week of their year and are about to have a worse conversation.
 
 The exclusions section of a standard HO-3 policy is not a footnote. It's closer to half the document, and it's written in language designed to be technically clear while remaining practically opaque to anyone who didn't go to law school. Let me fix that.
 
@@ -38,7 +38,7 @@ Flood is the most famous one, and still the most misunderstood. A pipe bursts in
 
 Earthquake is the same story. If you live in California, the Pacific Northwest, or along the New Madrid Seismic Zone running through Missouri and Arkansas, you need a separate policy or endorsement. Period. The standard policy won't cover the cracked foundation or the collapsed chimney if the cause was seismic. Some carriers offer endorsements; the California Earthquake Authority is the largest provider for that state. Prices vary enormously by soil type and proximity to fault lines.
 
-One coverage gap that catches many homeowners off guard is sewer and drain backup. A backed-up sewer line fills your basement with, let's say, material you'd prefer not to think about. Your standard policy almost certainly excludes it. The good news is that backup coverage is usually available as an add-on endorsement for somewhere between $40 and $120 a year, depending on your carrier and location. I'd call that one of the better values in home insurance. Backup claims can run past $30,000 in remediation and [personal property](/scheduled-personal-property-insurance/) loss.
+One coverage gap that catches many homeowners off guard is sewer and drain backup. A backed-up sewer line fills your basement with, let's say, material you'd prefer not to think about. Your standard policy almost certainly excludes it. The good news is that backup coverage is usually available as an add-on endorsement for somewhere between $40 and $120 a year, depending on your carrier and location. It is widely considered one of the better values in home insurance. Backup claims can run past $30,000 in remediation and [personal property](/scheduled-personal-property-insurance/) loss.
 
 ## Gradual Damage: The Exclusion the Industry Leans On Hardest
 
@@ -48,7 +48,7 @@ Whether negligence versus sudden damage is a gray area open to negotiation depen
 
 The practical upshot: document maintenance. Take photos twice a year. Keep receipts from roofers, plumbers, HVAC techs. A $4,000 claim you can document as sudden will get paid. The same claim without records might not.
 
-**Worked example 1:** Homeowner in suburban Atlanta notices ceiling staining in 2025, patches it herself, doesn't call her insurer. In spring 2026 the roof deck is structurally compromised. Adjuster finds evidence of two-plus years of water intrusion. Claim denied under the "gradual damage" exclusion. Repair cost: roughly $19,400 out of pocket. Had she called after the first sign and had a roofer document the cause as a wind-lifted shingle rather than long-term neglect, the claim would likely have gone differently.
+**Worked example 1:** For example, imagine a homeowner in suburban Atlanta who notices ceiling staining in 2025, patches it herself, and does not call her insurer. In spring 2026 the roof deck is structurally compromised. Adjuster finds evidence of two-plus years of water intrusion. Claim denied under the "gradual damage" exclusion. Repair cost: roughly $19,400 out of pocket. Had she called after the first sign and had a roofer document the cause as a wind-lifted shingle rather than long-term neglect, the claim would likely have gone differently.
 
 ## Mold, Rot, and the Words Insurers Love
 
@@ -60,9 +60,9 @@ Dry rot gets even less sympathy from carriers. It's treated essentially as a mai
 
 One exclusion produces some of the largest unexpected out-of-pocket costs: Let's say your kitchen catches fire and causes $80,000 in damage. Your policy covers $80,000 in repairs, great. But your house was built in 1978, and current building codes require upgraded electrical panels, fire-rated drywall, and a different egress window configuration than what was originally there. Those upgrades might run another $15,000 to $25,000. The standard policy pays to restore what you had. It does not pay to bring you up to code.
 
-Ordinance or law coverage is an endorsement that fills this gap. It's not expensive, typically in the range of 5% to 15% of your dwelling coverage amount as a limit, and the premium addition is usually modest. If your home was built before the 1990s, I'd consider this one non-negotiable.
+Ordinance or law coverage is an endorsement that fills this gap. It's not expensive, typically in the range of 5% to 15% of your dwelling coverage amount as a limit, and the premium addition is usually modest. For homes built before the 1990s, ordinance or law coverage is widely considered non-negotiable.
 
-**Worked example 2:** Homeowner in Portland, Oregon, 1962 construction, suffers a partial fire loss. Covered damage: $67,000. Code-upgrade requirements to obtain a rebuild permit: an additional $22,500 for updated wiring and seismic strapping. She had no ordinance or law endorsement. Net shortfall: $22,500. She'd been with the same carrier for nine years and never knew this gap existed.
+**Worked example 2:** For example, consider a homeowner in Portland, Oregon, with 1962 construction who suffers a partial fire loss. Covered damage: $67,000. Code-upgrade requirements to obtain a rebuild permit: an additional $22,500 for updated wiring and seismic strapping. With no ordinance or law endorsement in place, the shortfall falls entirely on the homeowner. Net shortfall: $22,500. It is common for homeowners to remain with the same carrier for years without ever learning this gap exists.
 
 ## A Quick Look at Common Exclusions Across Policy Types
 
@@ -72,7 +72,7 @@ Ordinance or law coverage is an endorsement that fills this gap. It's not expens
 | Earthquake | No | EQ endorsement or separate policy | California Earthquake Authority is common in CA |
 | Sewer/drain backup | No | Endorsement (often $40-$120/yr) | One of the best-value add-ons available |
 | Mold (non-sudden) | No | Generally uninsurable; prevention is the answer | Only sudden-source mold may qualify |
-| Gradual damage/wear | No | Uninsurable; maintenance is the answer | The most common denial reason in my experience |
+| Gradual damage/wear | No | Uninsurable; maintenance is the answer | The most common denial reason |
 | Ordinance or law costs | No | Ordinance or law endorsement | Critical for pre-1990s homes |
 | Home business equipment | Limited ($2,500 cap typical) | Home business endorsement or BOP | Standard limit rarely matches actual value |
 | Intentional damage | No | Uninsurable | Includes damage by household members |
@@ -85,7 +85,7 @@ As of July 2026, close to a third of U.S. households include someone who works f
 
 Business liability is a harder problem. If a client visits your home and slips on your porch, a standard homeowners liability clause may not cover it, because the injury occurred in the course of a business activity. Your state's insurance department website (findable through the NAIC's state map) can point you toward licensed agents who specialize in home-based business endorsements or separate business owner's policies.
 
-**Worked example 3:** Freelance video editor in Austin carries a standard HO-3. Three cameras, two monitors, a NAS drive setup, and professional lighting: total replacement value around $18,000. Policy would cover $2,500. An endorsement specifically for in-home business equipment was available from her carrier for about $340 a year. She didn't know it existed until a reader (okay, her sister, who emailed me after reading a piece I wrote in early 2026) mentioned it. The endorsement was added retroactively during renewal.
+**Worked example 3:** For example, consider a freelance video editor in Austin who carries a standard HO-3. Three cameras, two monitors, a NAS drive setup, and professional lighting: total replacement value around $18,000. Policy would cover $2,500. An endorsement specifically for in-home business equipment was available from her carrier for about $340 a year. In many cases, homeowners only discover this option exists when speaking with a licensed agent at renewal. The endorsement was added retroactively during renewal.
 
 ## Sources
 

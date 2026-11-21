@@ -39,7 +39,7 @@ Here's what most agents won't proactively tell you: this is also the moment to r
 
 ## The Liability Picture Gets More Complicated
 
-Liability coverage is where I saw the most overlooked problems in 14 years of adjusting claims. Standard policies carry $100,000 in personal liability, which felt adequate in 1995 and feels thin now. When you're a single person with modest assets, $100,000 might be defensible. When you're a married couple with two incomes, two cars, a house with equity, and possibly a dog, you're a more attractive target in a lawsuit.
+Liability coverage is where adjusters most commonly see overlooked problems. Standard policies carry $100,000 in personal liability, which felt adequate in 1995 and feels thin now. When you're a single person with modest assets, $100,000 might be defensible. When you're a married couple with two incomes, two cars, a house with equity, and possibly a dog, you're a more attractive target in a lawsuit.
 
 Marriage is a genuinely good trigger point to buy a personal umbrella policy if you don't already have one. A $1 million umbrella typically runs $150 to $300 per year. That's not nothing, but it's a fraction of what you'd spend defending a serious liability claim.
 
@@ -101,7 +101,6 @@ While you're at it: [water leak sensors](https://www.amazon.com/s?k=water+leak+s
 - [water leak sensors](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20)
 - [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
 - [Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

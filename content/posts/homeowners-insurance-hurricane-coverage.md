@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most homeowners in hurricane-prone states think they have hurricane coverage. They don't. What they have is wind coverage with a hurricane-shaped hole in it, and they find out the hard way when they file a claim and get handed a number far smaller than they expected.
 
-I'll be honest: even after 14 years adjusting claims, the first time I sat across from a policyholder in coastal South Carolina who'd lost her roof and had two feet of water on her first floor, I was still caught off guard by how little her policy actually covered. Not because the policy was unusual. Because she, like most people, had never been told about the gap between "homeowners insurance" and "hurricane coverage."
+For example, a policyholder in coastal South Carolina who lost her roof and had two feet of water on her first floor might be shocked by how little her policy actually covered. Not because the policy was unusual. Because she, like most people, had never been told about the gap between "homeowners insurance" and "hurricane coverage."
 
 Let me walk you through what actually happens.
 
@@ -47,7 +47,7 @@ What it doesn't cover is water. And hurricanes are mostly water.
 
 Storm surge, flooding from rivers pushed out of their banks, and even heavy rainfall that enters through your yard rather than through a wind-created opening in your home: all of that is excluded. Standard homeowners policies have contained a flood exclusion for decades, and it's not buried in the fine print. It's usually in a clear exclusion section. The problem is that nobody reads it until they have a claim.
 
-Here's where it gets more complicated. Water that enters your home because wind tore off part of your roof? Usually covered. Water that came in through a window that was already open? Gray area, and adjusters will fight you on it. Water that entered through the foundation during a storm surge? Not covered, full stop. The distinctions feel absurd when you're standing in a wet house, but they're consistent across virtually every policy I ever reviewed.
+Here's where it gets more complicated. Water that enters your home because wind tore off part of your roof? Usually covered. Water that came in through a window that was already open? Gray area, and adjusters will fight you on it. Water that entered through the foundation during a storm surge? Not covered, full stop. The distinctions feel absurd when you're standing in a wet house, but they are consistent across virtually every standard policy.
 
 ## The Hurricane Deductible Nobody Talks About
 
@@ -71,7 +71,7 @@ One more thing: flood policies have a 30-day waiting period before they take eff
 
 Pull your declarations page and find four numbers: your dwelling coverage limit, your hurricane deductible percentage and trigger language, your "other structures" coverage (fences, detached garages, and sheds are often undercovered), and your loss of use or additional living expenses limit. That last one matters more than people realize. If a hurricane makes your home uninhabitable for four months, where are you living and who's paying for it?
 
-Then confirm you have a home inventory. I know everyone says this and nobody does it. But I processed claims where families lost everything and couldn't remember what they owned, which meant they couldn't document it, which meant they didn't get paid for it. A phone walkthrough video uploaded to cloud storage takes 20 minutes. There are also solid home inventory apps like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) that make this even more systematic. (The site may earn a commission on purchases made through links here.)
+Then confirm you have a home inventory. I know everyone says this and nobody does it. Adjusters regularly process claims where families lost everything and could not remember what they owned, which meant they could not document it, which meant they did not get paid for it. A phone walkthrough video uploaded to cloud storage takes 20 minutes. There are also solid home inventory apps like [Encircle](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) that make this even more systematic. (The site may earn a commission on purchases made through links here.)
 
 Document your home before hurricane season. Serial numbers on appliances, receipts for recent renovations, photos of every room. Store it somewhere that doesn't go underwater with your house.
 

@@ -25,7 +25,7 @@ author_title: "Disaster Coverage"
 author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-Most homeowners walk around convinced that if their house burns down, insurance will rebuild it. That assumption has wiped out entire families. I watched it happen repeatedly during my claims career: a home insured for $350,000, appraised two years prior. Wildfire tears through. Suddenly every contractor within 50 miles is booked, lumber prices spike 40%, and your $350,000 policy covers maybe $290,000 worth of today's construction costs. The gap? Your pocket. Extended replacement cost coverage was designed specifically to close that gap, and yet most people buying homeowners insurance have no idea it exists, let alone how it works.
+Most homeowners walk around convinced that if their house burns down, insurance will rebuild it. That assumption has wiped out entire families. It happens repeatedly: a home insured for $350,000, appraised two years prior. Wildfire tears through. Suddenly every contractor within 50 miles is booked, lumber prices spike 40%, and your $350,000 policy covers maybe $290,000 worth of today's construction costs. The gap? Your pocket. Extended replacement cost coverage was designed specifically to close that gap, and yet most people buying homeowners insurance have no idea it exists, let alone how it works.
 
 ## What Extended Replacement Cost Actually Means
 
@@ -33,13 +33,13 @@ Standard [dwelling coverage](/home-insurance-dwelling-coverage/) pays to rebuild
 
 Extended replacement cost (ERC) changes the math by adding a buffer, usually stated as a percentage above your dwelling limit. You'll see 25%, 50%, or sometimes higher. Say your home's insured for $400,000 with 50% ERC. You've now got up to $600,000 in dwelling coverage if reconstruction costs run over.
 
-Here's what jumped out at me: almost no agents explain the difference between extended replacement cost and guaranteed replacement cost. They sound the same. They absolutely aren't. Guaranteed replacement cost (GRC) means the insurer pays whatever rebuilding costs, period, no upper limit. ERC has a ceiling. That ceiling matters, and I'll show you why.
+Almost no agents explain the difference between extended replacement cost and guaranteed replacement cost. They sound the same. They absolutely aren't. Guaranteed replacement cost (GRC) means the insurer pays whatever rebuilding costs, period, no upper limit. ERC has a ceiling. That ceiling matters, and I'll show you why.
 
 Then there's the third option most people end up with without even knowing it: actual cash value, or ACV. This one subtracts depreciation. Your 15-year-old roof gets destroyed? ACV covers what a 15-year-old roof is worth today, not what installation of a new roof costs. For dwelling coverage, ACV is a trap. Most homeowners should start from replacement cost coverage of some kind.
 
 ## Why Your Coverage Limit Is Probably Wrong
 
-In 14 years of claims review, the most common mistake I saw wasn't fraud. It wasn't exaggeration. It was underinsurance. Homeowners hadn't touched their coverage limit in years, and rebuild costs had quietly overtaken their policy.
+The most common mistake in claims review isn't fraud. It wasn't exaggeration. It is underinsurance. Homeowners hadn't touched their coverage limit in years, and rebuild costs had quietly overtaken their policy.
 
 Replacement cost isn't the same as market value. Not remotely. Your home might sell for $450,000 because of lot value, neighborhood demand, and schools. But demolish the structure and rebuild it from scratch with current labor and materials? You're potentially looking at $600,000 or more, especially in high-cost construction areas or if your home has significant custom features.
 
@@ -53,7 +53,7 @@ This is where ERC earns its keep. This is also where the percentage you choose g
 
 After a major storm, flood, or wildfire, reconstruction costs in the hit area skyrocket. Labor dries up. Materials get scarce. Supply chains break. Contractors vanish overnight. IBHS home fortification guides show that post-event construction costs in disaster zones can run 20 to 50 percent higher than pre-event rates. Not a fringe case. Standard post-disaster reality.
 
-You've got 25% ERC and costs spike 40%? You've got a gap. That's why I'd argue anyone saying 25% ERC is enough is leaving you exposed. For most homeowners in moderate to high-risk areas, 50% ERC is defensible minimum territory. Guaranteed replacement cost, when available, eliminates the ceiling problem entirely.
+With 25% ERC and costs spiking 40%, there is a gap, which is why 25% ERC alone leaves most homeowners exposed. For most homeowners in moderate to high-risk areas, 50% ERC is defensible minimum territory. Guaranteed replacement cost, when available, eliminates the ceiling problem entirely.
 
 One wrinkle: not all insurers still offer GRC. After massive wildfire and hurricane losses, several carriers stripped GRC from their offerings in high-risk states. What you can get depends entirely on where you live and which insurers operate there. Your state's insurance department maintains a licensed carrier database, and the NAIC's state web map at [naic.org/state_web_map.htm](https://www.naic.org/state_web_map.htm) helps you find your state's specific resources.
 
@@ -103,7 +103,6 @@ A detailed home inventory is one of the most overlooked things a homeowner can d
 - [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
 - [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

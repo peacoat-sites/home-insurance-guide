@@ -61,7 +61,7 @@ An HO-6 policy is built specifically for condo owners. It covers your personal p
 
 **Loss of use:** Pays for temporary housing if your unit becomes uninhabitable after a covered loss. Don't skip this.
 
-**Loss assessment coverage:** This one is specific to condos and genuinely undervalued. If a major loss hits a common area and the HOA's master policy isn't enough to cover it, the association can assess each unit owner for a share of the shortfall. Loss assessment coverage pays your portion. I'd carry at least $50,000 here. Some policies default to $1,000, which covers almost nothing.
+**Loss assessment coverage:** This one is specific to condos and genuinely undervalued. If a major loss hits a common area and the HOA's master policy isn't enough to cover it, the association can assess each unit owner for a share of the shortfall. Loss assessment coverage pays your portion. Carrying at least $50,000 here is a reasonable minimum. Some policies default to $1,000, which covers almost nothing.
 
 ## Replacement Cost vs. Actual Cash Value
 
@@ -73,7 +73,7 @@ The same logic applies to your dwelling coverage. Make sure your policy pays rep
 
 ## The Water Damage Problem
 
-Water damage is the single most common and most disputed claim type I saw in 14 years of reviewing claims. Condos have a specific water damage issue that single-family homes don't: neighbor liability.
+Water damage is the single most common and most disputed claim type adjusters encounter. Condos have a specific water damage issue that single-family homes don't: neighbor liability.
 
 If the unit above you has a plumbing failure and water comes through your ceiling, your insurance pays for your damage. Your upstairs neighbor's insurance handles their liability (if they have it). If they don't, or if their limits are too low, you're looking at a coverage fight that can take months.
 
@@ -105,7 +105,6 @@ Your state's insurance department can help you understand what's required and wh
 - [First Alert BRK 3120B Hardwired Smoke and CO Detector](https://www.amazon.com/dp/B07NV9GN3J?tag=contentportfo-20)
 - [Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher](https://www.amazon.com/dp/B07WDNRQGK?tag=contentportfo-20)
 - [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You bought your homeowner's policy, paid your premiums faithfully, and assumed your dog was covered. Then someone gets bitten. Maybe it's the neighbor kid who reached through the fence. Maybe it's a delivery driver who got too close to the front door. Maybe it's a family friend who your dog has met a dozen times. Suddenly you're looking at a potential liability claim, and you're realizing you have no idea whether your policy actually covers this. You're not alone. According to the Insurance Information Institute (III), dog bites and dog-related injuries account for more than one-third of all homeowners liability claim dollars paid out in the U.S. each year, with total costs running into the hundreds of millions annually.
 
-Here's what I tell people in this situation: the coverage question is more complicated than most insurers let on, and the gaps are real.
+The coverage question is more complicated than most insurers let on, and the gaps are real.
 
 ---
 
@@ -59,7 +59,7 @@ Before you buy or renew a policy, ask your agent two specific questions: Does th
 
 ## When Your Coverage Gets Denied: The Most Common Reasons
 
-Even when a dog isn't on an exclusion list, claims get denied. These are the scenarios I saw repeatedly in my years reviewing claims.
+Even when a dog isn't on an exclusion list, claims get denied. These are the scenarios that commonly lead to denied claims.
 
 **Prior bite history not disclosed.** If your dog bit someone before and you didn't mention it when you applied for coverage, the insurer may treat this as material misrepresentation and deny the claim entirely.
 

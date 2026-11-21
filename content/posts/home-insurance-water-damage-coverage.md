@@ -61,7 +61,7 @@ Water damage sources matter enormously for coverage purposes.
 
 ## The Sewer Backup Endorsement: Why You Probably Need It
 
-Check your policy right now. I'm serious. Pull out your declarations page and look for a sewer backup endorsement. I've reviewed hundreds of claims where homeowners assumed this was included. It almost never is.
+Check your policy right now. Pull out your declarations page and look for a sewer backup endorsement. Claims data shows homeowners routinely assume this coverage is included when it almost never is.
 
 Sewer backups happen for real reasons. Municipal systems overflow during heavy rain. Tree roots infiltrate lines over decades. Blockages develop in the lateral connecting your home to the street. When it happens, damage is immediate, severe, and dangerous. Sewer backup water is a health hazard, and remediation reflects that cost.
 

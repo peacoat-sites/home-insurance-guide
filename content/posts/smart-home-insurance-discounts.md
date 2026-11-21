@@ -42,13 +42,13 @@ Here's what I tell people when they ask where to start: water. Not security came
 
 Leak sensors like the [Flo by Moen](https://www.amazon.com/dp/B07BNRFBCB?tag=contentportfo-20) or a basic [Govee water detector](https://www.amazon.com/dp/B07RGTHJXS?tag=contentportfo-20) (which runs about $12 per unit) are the fastest path to a concrete discount at the lowest possible cost. Flo by Moen goes further: it monitors your entire main supply line for anomalies and can auto-shut water off. Several carriers will give you a named discount for whole-home shutoff systems specifically, sometimes 8-10% on your dwelling coverage alone.
 
-Smoke and CO detectors connected to a monitoring center come second. Fire claims are less frequent than water claims but far more expensive per incident, and insurers treat monitored smoke detection very differently from standalone detectors. The word "monitored" is doing a lot of work there. If it's not sending signals to a central station that dispatches fire services, many carriers won't count it toward the discount at all. I learned this the hard way reviewing a claim where a homeowner thought their Nest Protect qualified. It didn't, because they never enrolled in a monitoring plan.
+Smoke and CO detectors connected to a monitoring center come second. Fire claims are less frequent than water claims but far more expensive per incident, and insurers treat monitored smoke detection very differently from standalone detectors. The word "monitored" is doing a lot of work there. If it's not sending signals to a central station that dispatches fire services, many carriers won't count it toward the discount at all. This is a common mistake: homeowners assume their Nest Protect qualifies. It didn't, because they never enrolled in a monitoring plan.
 
 Security systems are third, and honestly, this is where the marketing noise gets loudest. Companies like ADT, SimpliSafe, and Ring Alarm all advertise insurance discounts prominently. Those discounts are real. But they're usually in the 2-5% range for burglary-related coverage, which is a small slice of your total premium. Don't let a [security system](/home-insurance-security-system-discount/) salesperson tell you it'll slash your bill. It won't, not by itself.
 
 ## What the numbers actually look like side by side
 
-Discount ranges vary by carrier and state, but here's a realistic composite picture based on what I observed across years of working with pricing teams and what's currently reported by the major carriers and independent research groups as of 2026:
+Discount ranges vary by carrier and state, but here's a realistic composite picture based on what major carriers and independent research groups currently report as of 2026:
 
 | Device Category | Typical Discount Range | Monitoring Required? | Estimated Device Cost | Avg. Payback Period |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Discount ranges vary by carrier and state, but here's a realistic composite pict
 | Smart thermostat (select carriers) | 1-3% | No | $130-$250 | 24-36 months |
 | Combined/connected home package | Up to 20-40% | Yes (usually) | Varies by bundle | Varies |
 
-That payback period column is the one I'd stare at. Water sensors are almost always the fastest return, which matches everything I saw during my time reviewing claims.
+That payback period column is worth close attention. Water sensors are almost always the fastest return, which aligns with what claims data consistently shows.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical smart home discount by device type (% off annual premium)</div><div class="sc-row"><span class="sc-label">Whole-home water shutoff</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Monitored smoke/CO</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">7%</span></div><div class="sc-row"><span class="sc-label">Monitored security system</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">5%</span></div><div class="sc-row"><span class="sc-label">Leak sensors only</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">3%</span></div><div class="sc-row"><span class="sc-label">Smart thermostat</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">2%</span></div><div class="sc-src">Source: Insurance Information Institute and carrier rate filings, 2026</div></div>
 
@@ -69,13 +69,13 @@ You might be wondering: can I add up all these discounts and get 30% off? Techni
 
 Here's a scenario that plays out more often than you'd think:
 
-Homeowner in Columbus, Ohio installs a Flo by Moen whole-home shutoff, enrolls in SimpliSafe with professional monitoring, and adds three Govee leak sensors in the basement and laundry room. Calls insurer. Insurer quotes 12% for the shutoff system, 5% for the monitored security, and 2% for the sensors. Total claimed discount: 19%. Cap kicks in, actual applied discount: 18%. Annual premium was $1,640, so the savings come to about $295 a year. Devices and first year of monitoring cost roughly $950. Break-even is around 39 months.
+For example, imagine a homeowner in Columbus, Ohio who installs a Flo by Moen whole-home shutoff, enrolls in SimpliSafe with professional monitoring, and adds three Govee leak sensors in the basement and laundry room. Calls insurer. Insurer quotes 12% for the shutoff system, 5% for the monitored security, and 2% for the sensors. Total claimed discount: 19%. Cap kicks in, actual applied discount: 18%. Annual premium was $1,640, so the savings come to about $295 a year. Devices and first year of monitoring cost roughly $950. Break-even is around 39 months.
 
 That's a legitimate, real-world outcome. Not $3,000 in savings. Not pennies either.
 
 ## The thing carriers don't advertise
 
-Most of these discounts are not applied automatically. Not at purchase, not at renewal. You have to ask. I cannot stress this enough, because in 14 years of reviewing claims and later talking to policyholders, I watched this pattern repeat constantly: people bought the devices, assumed their insurer knew, and got nothing.
+Most of these discounts are not applied automatically. Not at purchase, not at renewal. You have to ask. This point cannot be stressed enough, because this pattern repeats constantly: people buy the devices, assume their insurer knows, and get nothing.
 
 The process is usually this: install device, collect proof (receipt, monitoring confirmation number, sometimes a photo or installation certificate), call your agent or log into your carrier's portal, and submit documentation through whatever form they use. Some carriers have started integrating with device manufacturers directly. State Farm has partnerships with certain alarm companies. Liberty Mutual has had their RightTrack-adjacent home programs. If your carrier offers a dedicated connected-home enrollment, that's the faster path.
 

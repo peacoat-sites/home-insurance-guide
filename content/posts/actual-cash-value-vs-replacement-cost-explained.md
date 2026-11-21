@@ -42,13 +42,13 @@ The formula is essentially: [replacement cost](/how-does-home-insurance-replacem
 
 Worked example: A homeowner in suburban Ohio has wind damage to a shingle roof. Contractor estimate to replace it: $14,200. The roof is 10 years old with a 25-year expected lifespan, so the insurer depreciates it 40%. ACV payout: $8,520, minus the deductible. The homeowner is out of pocket for the rest, or they defer repairs. Neither option is great.
 
-What most people don't realize is that depreciation schedules vary by insurer and category. Some carriers use "functional obsolescence" arguments on older appliances. I once reviewed a claim where an adjuster applied 70% depreciation to a perfectly functional but old furnace because replacement parts were no longer manufactured. The policyholder got $420 on a unit that cost $1,400 to replace. It was technically defensible. It also felt like a gut punch.
+What most people don't realize is that depreciation schedules vary by insurer and category. Some carriers use "functional obsolescence" arguments on older appliances. In some documented cases, adjusters have applied 70% depreciation to a perfectly functional but old furnace because replacement parts were no longer manufactured. The policyholder got $420 on a unit that cost $1,400 to replace. It was technically defensible. It also felt like a gut punch.
 
 ## Replacement Cost Coverage: The Real Promise
 
 RCV coverage pays the actual cost to replace or rebuild with materials of similar kind and quality, without deducting for age or wear. That's the core difference. You're not being paid for what you *had*. You're being paid for what it costs to have it *again*.
 
-One thing I always tell people: even on replacement cost policies, most insurers don't hand you the full RCV check upfront. Standard practice is to release the ACV portion immediately, then issue a "recoverable depreciation" payment once you've completed repairs and submitted documentation. You need receipts. You need to actually do the work. If you pocket the initial check and skip the restoration, you typically forfeit the holdback.
+Even on replacement cost policies, most insurers don't hand you the full RCV check upfront. Standard practice is to release the ACV portion immediately, then issue a "recoverable depreciation" payment once you've completed repairs and submitted documentation. You need receipts. You need to actually do the work. If you pocket the initial check and skip the restoration, you typically forfeit the holdback.
 
 Worked example: Same Ohio roof, same $14,200 estimate, but this time the homeowner has RCV coverage. Initial check: $8,520 (the ACV amount). They hire the contractor, submit the final invoice and completion photos, and the insurer releases $5,680 in recoverable depreciation. Total received: $14,200, minus the deductible. That's the policy working as intended.
 
@@ -70,7 +70,7 @@ The premium difference for upgrading from ACV to RCV is typically in the range o
 
 ## The Part Nobody Tells You About Your Personal Property
 
-Here's where I made a mistake myself, early in my career as a claims reviewer. I assumed that if a homeowner had replacement cost on their dwelling, they had it on everything. That's wrong, and it trips up more policyholders than almost any other misunderstanding I encountered.
+Here's a misunderstanding that catches many policyholders off guard. I assumed that if a homeowner had replacement cost on their dwelling, they had it on everything. That's wrong, and it trips up more policyholders than almost any other misunderstanding in the claims process.
 
 Many standard policies cover the dwelling structure under RCV but default [personal property](/scheduled-personal-property-insurance/) (your furniture, clothes, electronics, appliances) to ACV unless you specifically add or upgrade that coverage. You can have a $400,000 RCV policy on your house and a very disappointing payout on the $60,000 worth of stuff inside it.
 

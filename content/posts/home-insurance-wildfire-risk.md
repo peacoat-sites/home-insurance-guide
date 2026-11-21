@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people assume their home insurance policy will cover a wildfire. After all, fire is fire, right? I spent 14 years reviewing claims, and I'll be honest: that assumption is getting more people badly hurt financially than almost anything else I saw in that job.
+Most people assume their home insurance policy will cover a wildfire. After all, fire is fire, right? That assumption is getting more people badly hurt financially than almost anything else claims reviewers encounter.
 
 The wildfire coverage picture in 2026 is genuinely complicated. And the story the industry tells in its marketing materials is nowhere close to the full picture.
 
@@ -36,9 +36,9 @@ The wildfire coverage picture in 2026 is genuinely complicated. And the story th
 
 Standard homeowner policies do cover fire, including wildfire, under the dwelling coverage section. That part is real. But the conversation most people never have is about *how much* coverage they actually have, and whether that number would rebuild their home in today's market.
 
-What surprised me, working on the claims side, was how many total-loss wildfire claims came in where the homeowner's coverage limit was set based on a home valuation from five or seven years ago. Construction costs have climbed sharply in recent years, and in the aftermath of a major wildfire event, they spike even harder, because every contractor within 200 miles is suddenly booked. The Insurance Information Institute has flagged the "insurance-to-value gap" as one of the most common problems in catastrophic fire losses, and I saw it constantly. You're covered for $280,000. Your home costs $410,000 to rebuild. That gap is your problem.
+On the claims side, adjusters routinely encounter total-loss wildfire claims where the homeowner's coverage limit was set based on a home valuation from five or seven years ago. Construction costs have climbed sharply in recent years, and in the aftermath of a major wildfire event, they spike even harder, because every contractor within 200 miles is suddenly booked. The Insurance Information Institute has flagged the "insurance-to-value gap" as one of the most common problems in catastrophic fire losses, and claims professionals see it regularly. You're covered for $280,000. Your home costs $410,000 to rebuild. That gap is your problem.
 
-The second thing most people miss: additional living expenses (ALE) coverage. If a wildfire forces you out of your home for eight months while it's being rebuilt, you need somewhere to live. ALE covers temporary housing, meals above your normal costs, and related expenses, but policies typically cap it at a percentage of your dwelling coverage and at a specific time limit. In high-demand disaster zones, that cap runs out fast. I reviewed claims where families were still displaced well after their ALE had exhausted. No more reimbursement, ongoing out-of-pocket costs. Read that section of your policy carefully.
+The second thing most people miss: additional living expenses (ALE) coverage. If a wildfire forces you out of your home for eight months while it's being rebuilt, you need somewhere to live. ALE covers temporary housing, meals above your normal costs, and related expenses, but policies typically cap it at a percentage of your dwelling coverage and at a specific time limit. In high-demand disaster zones, that cap runs out fast. Claims records show families still displaced well after their ALE had exhausted. No more reimbursement, ongoing out-of-pocket costs. Read that section of your policy carefully.
 
 ---
 
@@ -54,13 +54,13 @@ If you've been non-renewed in the last two years or you're in a ZIP code that re
 
 ## The Defensible Space and Mitigation Question
 
-I'll be honest: I used to be somewhat skeptical of the mitigation discount angle. It felt like insurers dangling a small carrot while pulling back coverage with the other hand. The research here is actually more mixed than either side admits.
+The mitigation discount angle is worth examining critically. It felt like insurers dangling a small carrot while pulling back coverage with the other hand. The research here is actually more mixed than either side admits.
 
 Some insurers do offer meaningful premium reductions for documented defensible space (cleared vegetation within 30-100 feet of the structure), Class A fire-rated roofing, ember-resistant vents, and fire-resistant siding. The discounts vary wildly by insurer and state, from essentially nothing to 15-20% in some cases. But the bigger value of mitigation isn't the discount. It's that it sometimes determines whether you can get standard market coverage at all, rather than being pushed to a FAIR Plan.
 
 California's Safer from Wildfires framework, which ties specific home hardening standards to insurer obligations, represents one model that other states are watching. Whether it changes the availability math meaningfully is something we won't fully know for a few more years.
 
-One thing I'd genuinely recommend regardless of your discount situation: do a documented home inventory now, before fire season. A solid home inventory app (there are several good options, including ones that walk you room by room with photos and receipts) makes personal property claims dramatically less painful. You can find [home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) that sync to cloud backup so your records survive even if your home doesn't. (The site may earn a commission on purchases.) Similarly, keeping insurance documents and irreplaceable paperwork in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is a genuinely simple thing most people skip until it's too late.
+One step worth taking regardless of your discount situation: do a documented home inventory now, before fire season. A solid home inventory app (there are several good options, including ones that walk you room by room with photos and receipts) makes personal property claims dramatically less painful. You can find [home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20) that sync to cloud backup so your records survive even if your home doesn't. (The site may earn a commission on purchases.) Similarly, keeping insurance documents and irreplaceable paperwork in a [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) is a genuinely simple thing most people skip until it's too late.
 
 ---
 
@@ -75,7 +75,6 @@ Extended replacement cost coverage addresses some of this. It pays a percentage 
 If you're in a wildfire-risk area, ask your agent specifically: do I have extended or guaranteed replacement cost? What is my Coverage A limit based on, and when was it last recalculated using current local construction costs? An independent insurance agent can run a replacement cost estimator on your property. It takes about 20 minutes and it's worth doing before renewal, not after a fire.
 
 ---
-
 
 ---
 
@@ -94,7 +93,6 @@ The honest summary is that wildfire coverage hasn't failed homeowners because it
 - [home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
 - [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
 - [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

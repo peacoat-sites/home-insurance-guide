@@ -37,7 +37,7 @@ Insurers call it bundling, multi-line discounting, or account pricing depending 
 
 Why does this discount exist? It's boring but real. Insurers lose customers less often when those customers have multiple products with them. Switching becomes friction-heavy when you need to move two or three policies at once. So they pass along a slice of that retained-customer value upfront as lower premiums.
 
-Here's the uncomfortable part: the discount doesn't always compensate for coverage differences. I've reviewed situations where someone bundled with an insurer that had genuinely worse replacement cost coverage or a higher deductible than a competitor, and the "savings" evaporated once you modeled what they'd actually get paid in a claim. The premium number tells you almost nothing.
+Here's the uncomfortable part: the discount doesn't always compensate for coverage differences. In some cases, bundling with an insurer that has genuinely worse replacement cost coverage or a higher deductible than a competitor means the "savings" evaporate once you model what a policy would actually pay in a claim. The premium number tells you almost nothing.
 
 ## Where the Bundling Trap Hides
 
@@ -45,7 +45,7 @@ This is the part most articles skip. It's also the part I care about most.
 
 Bundling creates loyalty. Loyalty creates inertia. After two or three years with one carrier, most people stop shopping. The insurer knows this. In most states, carriers are permitted to raise renewal premiums incrementally (sometimes called "[price optimization](/home-insurance-loyalty-discount/)") in ways that quietly erase your discount without you noticing.
 
-Here's a pattern I watched repeat across hundreds of claim files during 14 years in the industry: customer bundled home and auto, saved $280 year one, got a small loyalty credit year two, then experienced 6% to 9% rate increases two years running while assuming they still had a deal. By year four, they were paying more than they would've with separate policies from competitive carriers.
+A common pattern seen across the industry is this: a customer bundles home and auto, saves $280 in year one, receives a small loyalty credit in year two, then experiences 6% to 9% rate increases two years running while assuming they still have a deal. By year four, they were paying more than they would've with separate policies from competitive carriers.
 
 Set a calendar reminder to get competitive quotes every two years, even if you're happy. [Your state's insurance department](https://www.naic.org/state_web_map.htm) lists licensed carriers and publishes complaint ratios (which matter far more than price when figuring out if a company will actually pay a claim without a fight).
 

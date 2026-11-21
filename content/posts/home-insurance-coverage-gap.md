@@ -26,7 +26,7 @@ faqs:
     a: "Yes, and more people should. Start by requesting the specific policy language the insurer cited in the denial letter. If you believe the denial misapplies your policy terms, you can file a complaint with your state's insurance department. Consulting a public adjuster or a policyholder attorney, often on a contingency basis, is worth doing for large denials."
 ---
 
-Nearly one in three homeowners who file a major claim discover their policy doesn't cover what they assumed it did. That number comes from a 2023 survey by the Insurance Information Institute, and in my 14 years reviewing claims at a national insurer, I watched that gap between expectation and reality play out thousands of times. Roof claim denied. Flood damage excluded. Jewelry stolen and the payout? A fraction of what the piece was worth.
+Nearly one in three homeowners who file a major claim discover their policy doesn't cover what they assumed it did. That number comes from a 2023 survey by the Insurance Information Institute, and claims adjusters see that gap between expectation and reality play out thousands of times. Roof claim denied. Flood damage excluded. Jewelry stolen and the payout? A fraction of what the piece was worth.
 
 You might be wondering if your own policy has holes you don't know about. Almost certainly, yes. That's not me being dramatic. It's just how these products are built.
 
@@ -34,7 +34,7 @@ You might be wondering if your own policy has holes you don't know about. Almost
 
 Most homeowners buy a policy, tuck it in a file, and never read it again. I understand that completely. These documents run 40-60 pages and are written in a way that seems almost intentionally discouraging. But inside that language are exclusions, sublimits, and conditions that will determine how much you actually get when something goes wrong.
 
-Here's what I tell people when they call me frustrated after a denial: the problem usually isn't fraud. It's that the insurer sold them an HO-3 policy, which is the standard form roughly 80% of homeowners carry, and the customer assumed it covered more than it does. An HO-3 covers your dwelling against "open perils" (meaning everything not explicitly excluded) but covers your personal property only against "named perils," a shorter list of specific events. That distinction alone accounts for a significant share of the claim disputes I reviewed over my career.
+The problem usually isn't fraud. It's that the insurer sold them an HO-3 policy, which is the standard form roughly 80% of homeowners carry, and the customer assumed it covered more than it does. An HO-3 covers your dwelling against "open perils" (meaning everything not explicitly excluded) but covers your personal property only against "named perils," a shorter list of specific events. That distinction alone accounts for a significant share of claim disputes insurers review every year.
 
 A common mistake is thinking an HO-3 is essentially full coverage. The sublimit structure buried in Section I often catches homeowners off guard.
 
@@ -42,7 +42,7 @@ A common mistake is thinking an HO-3 is essentially full coverage. The sublimit 
 
 Let me be specific, because vague warnings about "coverage gaps" aren't useful.
 
-**Flooding.** Standard homeowner policies exclude flood damage. Period. No exceptions. The National Flood Insurance Program, administered by FEMA, reports that just 4% of homeowners carry separate flood insurance, even as flooding has become the most common and costly natural disaster in the U.S. If your basement fills with water after a rainstorm, your HO-3 pays nothing. Your neighbor's burst pipe that migrates into your wall is covered. Rainwater that enters through a foundation crack is not. That distinction has enraged more policyholders than I can count.
+**Flooding.** Standard homeowner policies exclude flood damage. Period. No exceptions. The National Flood Insurance Program, administered by FEMA, reports that just 4% of homeowners carry separate flood insurance, even as flooding has become the most common and costly natural disaster in the U.S. If your basement fills with water after a rainstorm, your HO-3 pays nothing. Your neighbor's burst pipe that migrates into your wall is covered. Rainwater that enters through a foundation crack is not. That distinction has enraged countless policyholders.
 
 **Sewer backup and water damage.** Related to flooding but separate: sewer or drain backup isn't covered under most standard policies unless you've added a specific endorsement. This endorsement typically runs $40-$80 per year. Skip it and a single sewage backup event, which can cost $7,000 to $12,000 to remediate, comes entirely out of pocket. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) placed near water heaters, washing machines, and sump pumps won't prevent a backup, but they can catch slow leaks before they become catastrophic claims. (Note: this site may earn a commission from qualifying purchases.)
 
@@ -71,11 +71,11 @@ Those flood numbers from FEMA's NFIP 2025 Annual Report should recalibrate how y
 
 ## Three Real Scenarios
 
-A homeowner in Nashville → discovered a pipe had been slowly leaking inside a wall for eight months → filed a claim expecting full repair coverage. The insurer denied the claim under the "gradual damage" exclusion. Sudden and accidental water damage is covered; slow leaks that a homeowner "knew or should have known about" are excluded. The damage totaled $23,400. The payout was $0. A $30 [water leak detector](https://www.amazon.com/s?k=water+leak+detector&tag=contentportfo-20) mounted near that pipe joint might have caught this in week two. (Note: this site may earn a commission from qualifying purchases.)
+For example, if a homeowner discovers a pipe has been slowly leaking inside a wall for eight months and files a claim expecting full repair coverage, the result can be a complete denial. The insurer denied the claim under the "gradual damage" exclusion. Sudden and accidental water damage is covered; slow leaks that a homeowner "knew or should have known about" are excluded. In such a scenario, damage can total $23,400 with a payout of $0.  A $30 [water leak detector](https://www.amazon.com/s?k=water+leak+detector&tag=contentportfo-20) mounted near that pipe joint might have caught this in week two. (Note: this site may earn a commission from qualifying purchases.)
 
-A couple in Phoenix → had $22,000 in jewelry in their home → experienced a burglary → filed a claim under their HO-3. Their policy's jewelry theft sublimit was $1,500. They had never added a scheduled personal property floater. Recovery: $1,500 on $22,000 in losses.
+For example, a couple with $22,000 in jewelry who experiences a burglary and files a claim under a standard HO-3 may find their policy's jewelry theft sublimit is only $1,500. Their policy's jewelry theft sublimit was $1,500. Without a scheduled personal property floater added to the policy, recovery would be just $1,500 on $22,000 in losses. 
 
-A small-business owner in suburban Atlanta → ran a photography studio from a converted garage → had a client trip on a lighting cable and break a wrist → filed a liability claim under his homeowner's policy. His insurer denied it, citing the business activities exclusion. The lawsuit settled for $47,000. None of it covered.
+For example, a small-business owner running a photography studio from a converted garage could face a situation where a client trips on a lighting cable, breaks a wrist, and a liability claim filed under the homeowner's policy is denied due to the business activities exclusion.  A lawsuit in such a case could settle for $47,000, with none of it covered by the homeowner's policy. 
 
 ## How to Actually Find Your Gaps
 

@@ -28,7 +28,7 @@ faqs:
 
 Most homeowners assume theft is covered the same way fire is. It's not. And that gap costs people real money when they finally file a claim.
 
-Standard [homeowners insurance](/homeowners-insurance-mold-coverage/) does cover theft, but the actual payout often lands well below what you lost. The reasons are specific and predictable, and most insurers won't walk you through them unprompted. After 14 years reviewing claims from the inside, I can tell you: the coverage looks solid on the first page of your policy and gets complicated fast once you're reading the exclusions.
+Standard [homeowners insurance](/homeowners-insurance-mold-coverage/) does cover theft, but the actual payout often lands well below what you lost. The reasons are specific and predictable, and most insurers won't walk you through them unprompted. In practice, the coverage looks solid on the first page of your policy and gets complicated fast once you're reading the exclusions.
 
 Here's what actually happens when someone breaks into your home, grabs your laptop, and disappears.
 
@@ -58,7 +58,7 @@ As of July 2026, the most common sub-limits look like this:
 | Portable electronics (business use) | $1,500 |
 | Trailers (not registered for road use) | $1,500 |
 
-A reader emailed me last spring after her engagement ring was stolen during a break-in. She had $80,000 in personal property coverage and assumed the ring was covered. The payout she received: $1,500. The ring was worth $9,200. She had no scheduled rider. This is not an edge case.
+For example, consider a homeowner whose engagement ring was stolen during a break-in. She had $80,000 in personal property coverage and assumed the ring was covered. The payout she received: $1,500. The ring was worth $9,200. She had no scheduled rider. This is not an edge case.
 
 The fix is a [scheduled personal property](/scheduled-personal-property-insurance/) endorsement, sometimes called a "floater." You list each high-value item separately, provide an appraisal, and insure it for its actual value. The cost is genuinely low, often $15 to $30 per year per $1,000 of value, sometimes with no deductible on claims. For a $9,000 ring, you're looking at roughly $135 to $270 a year to close that gap completely.
 
@@ -70,7 +70,7 @@ Even when theft is covered and you're past the sub-limits, the payout type matte
 
 **Replacement Cost Value (RCV):** Pays what it costs to replace the item with a comparable new one. That same laptop pays out $1,400 (or close to it, minus your deductible).
 
-I'll be blunt: I'd never carry ACV coverage on personal property if I had any choice. The premium difference is often $80 to $150 a year for a standard homeowners policy. The difference in a theft payout can easily be $3,000 to $5,000 for a partial home theft. The math isn't close.
+ACV coverage on personal property is worth avoiding when there is a choice. The premium difference is often $80 to $150 a year for a standard homeowners policy. The difference in a theft payout can easily be $3,000 to $5,000 for a partial home theft. The math isn't close.
 
 Some policies are ACV by default and require an endorsement for RCV. Some bundle RCV for personal property automatically. You may not know which you have until you check. Pull out your declarations page and look for "Loss Settlement" under Coverage C.
 
@@ -78,7 +78,7 @@ Some policies are ACV by default and require an endorsement for RCV. Some bundle
 
 ## Filing a Theft Claim Without Getting Burned
 
-Here's the step-by-step that actually matters, from someone who processed hundreds of these:
+Here is the step-by-step process that actually matters:
 
 **Step 1: Call the police first.** Insurers require a police report for theft claims. File it the same day. Get the report number in writing; you'll need it on the claims form. Skipping this step will kill your claim outright.
 
@@ -92,7 +92,7 @@ Here's the step-by-step that actually matters, from someone who processed hundre
 
 **Worked example 2:** Homeowner files a theft claim for $6,200 in stolen electronics three weeks after the break-in. No police report was filed initially. Insurer requires a report before processing. She files late with police; report is marked "delayed." Insurer reduces payout by 40% citing inability to fully verify loss. Lesson: police report on day one, no exceptions.
 
-One thing I noticed reviewing claims that most people don't realize: adjuster notes about how organized your documentation was do influence settlement speed, though not technically the payout amount. A well-documented claim closes faster and generates fewer "insufficient information" letters that drag the process out for months.
+Adjuster notes about how organized the documentation is can influence settlement speed, though not technically the payout amount. A well-documented claim closes faster and generates fewer "insufficient information" letters that drag the process out for months.
 
 ## What's Specifically Excluded
 

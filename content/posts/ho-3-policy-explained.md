@@ -29,7 +29,7 @@ Most homeowners have an HO-3 policy and couldn't tell you what that means. Not b
 
 The HO-3 is the standard homeowner policy sold across the United States. If you bought your home with a mortgage, your lender almost certainly required one. It's the industry default, which sounds like a compliment. Sometimes it is. Sometimes it just means you have exactly as much coverage as your insurer was legally required to offer, not a dollar more.
 
-When I talk to people signing their first policy, I always tell them this: ignore the number on the front page. What matters is *how* the policy covers your home versus your belongings, because the HO-3 treats them completely differently. That gap has real consequences when something actually breaks.
+Here is the most important thing to understand when signing a first policy: ignore the number on the front page. What matters is *how* the policy covers your home versus your belongings, because the HO-3 treats them completely differently. That gap has real consequences when something actually breaks.
 
 <div class="value-module">
  <div class="vm-head">HO-3 Coverage: Structure vs. Personal Property</div>
@@ -46,7 +46,7 @@ Your home itself, the structure, the attached garage, the built-in cabinets, is 
 
 Your personal property (furniture, clothing, electronics, appliances) works the opposite way. It's covered on a "named perils" basis. The policy lists exactly what it will pay for: fire, theft, vandalism, windstorm, and roughly a dozen other events. If something damages your stuff and that cause isn't on the list, you don't have a claim.
 
-I watched this happen repeatedly. A homeowner's chest freezer fails while they're vacationing. They come home to $800 in ruined food and a waterlogged basement. The floor gets covered under dwelling coverage. The food? Almost certainly not, because power outage isn't a named peril for personal property. Same with the freezer itself, mechanical breakdown isn't on the list.
+This situation comes up regularly. A homeowner's chest freezer fails while they're vacationing. They come home to $800 in ruined food and a waterlogged basement. The floor gets covered under dwelling coverage. The food? Almost certainly not, because power outage isn't a named peril for personal property. Same with the freezer itself, mechanical breakdown isn't on the list.
 
 This isn't exactly a flaw in the HO-3. It's a design choice. But you should walk into your policy knowing it.
 
@@ -62,13 +62,13 @@ The policy breaks into several coverage components, each with its own limit and 
 
 **[Loss of use (Coverage D)](/loss-of-use-coverage-home-insurance/)** pays additional living expenses if your home becomes unlivable after a covered loss. Hotel bills, restaurant meals beyond your usual spending, temporary rental costs. This one rescues people financially after major losses and hardly anyone thinks about it when buying the policy.
 
-**Liability (Coverage E)** and **medical payments (Coverage F)** cover you if someone is injured on your property or you accidentally damage someone else's. Standard liability limits often max out at $100,000, which strikes me as too low for most homeowners today. Umbrella policies exist for this reason.
+**Liability (Coverage E)** and **medical payments (Coverage F)** cover you if someone is injured on your property or you accidentally damage someone else's. Standard liability limits often max out at $100,000, which is too low for most homeowners today. Umbrella policies exist for this reason.
 
 Now the exclusions: **flood** and **earthquake**. Neither is covered under any standard HO-3. Not partially, not at all. Zero coverage. These require completely separate policies, and the confusion costs homeowners serious money every year.
 
 ## Replacement Cost vs. Actual Cash Value
 
-This is where I see the most claim disappointment. It comes down to one word: depreciation.
+This is where claim disappointment most commonly occurs. It comes down to one word: depreciation.
 
 Replacement cost coverage pays what it costs to replace a damaged item with something equivalent today. Actual cash value (ACV) pays that minus depreciation. Your 8-year-old roof gets destroyed in a hailstorm. With ACV, the adjuster might pay you 40% of a new roof's cost because they calculated that a 20-year roof with 8 years of use has 60% depreciation built in. You cover the rest.
 

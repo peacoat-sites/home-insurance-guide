@@ -30,7 +30,7 @@ Most homeowners have no idea their policy is quietly becoming worthless every ye
 
 That's not hyperbole. According to CoreLogic's 2025 Residential Construction Cost Report, the cost to rebuild a typical single-family home rose roughly 55% between 2019 and 2024. Meanwhile, the average inflation guard clause built into standard homeowners policies adjusts coverage by somewhere between 2% and 8% annually, depending on your insurer and what you negotiated (or more likely, didn't negotiate) when you first signed up. Do the math on a bad stretch of years, and you can end up 20, 30, even 40 percentage points underinsured without ever changing a single thing about your house.
 
-I saw this play out hundreds of times during my 14 years reviewing claims. The house burns down. The family is devastated. They file a claim fully expecting the insurance company to write a check and make them whole. Then someone runs the replacement cost estimate, and the number on the page is $380,000 for a house that's insured for $240,000. That gap is real. That gap is their problem, not the insurer's.
+Claims adjusters see this play out regularly. The house burns down. The family is devastated. They file a claim fully expecting the insurance company to write a check and make them whole. Then someone runs the replacement cost estimate, and the number on the page is $380,000 for a house that's insured for $240,000. That gap is real. That gap is their problem, not the insurer's.
 
 That's the situation inflation guard is supposed to prevent. Whether it actually prevents it depends almost entirely on details most agents never explain.
 
@@ -48,11 +48,11 @@ The other thing inflation guard doesn't touch: your personal property limit, you
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Cumulative residential construction cost increase by region (2019–2024)</div><div class="sc-row"><span class="sc-label">South</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">52%</span></div><div class="sc-row"><span class="sc-label">West</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">61%</span></div><div class="sc-row"><span class="sc-label">Midwest</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">48%</span></div><div class="sc-row"><span class="sc-label">Northeast</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">57%</span></div><div class="sc-row"><span class="sc-label">National Avg</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">55%</span></div><div class="sc-src">Source: CoreLogic Residential Construction Cost Report 2025</div></div>
 
-That 55% national figure is the one that keeps me up at night when I think about how many homeowners are still carrying policies with dwelling limits set back in 2019 or 2020. The Insurance Information Institute estimates that roughly two-thirds of American homes are currently underinsured, many by 20% or more. That's not a fringe problem. That's most people reading this article.
+That 55% national figure is a serious concern for the many homeowners still carrying policies with dwelling limits set back in 2019 or 2020. The Insurance Information Institute estimates that roughly two-thirds of American homes are currently underinsured, many by 20% or more. That's not a fringe problem. That's most people reading this article.
 
 The gap shows up most violently in total loss claims. A partial loss, say a kitchen fire or roof damage, is usually covered adequately even with moderate underinsurance, because the insurer pays the actual repair cost. But a total loss? That's when your coverage limit becomes a hard ceiling, and the difference between your limit and actual replacement cost comes directly out of your pocket.
 
-One scenario I documented personally: a homeowner in suburban Atlanta had a $310,000 dwelling limit with a 3% annual inflation guard. Over six years, that brought her limit to roughly $370,000. The rebuild estimate after a total loss from an electrical fire came in at $512,000, reflecting contractor shortages and the cost of bringing everything up to current code. She got $370,000. She had to finance the rest.
+For example, consider a homeowner in suburban Atlanta with a $310,000 dwelling limit and a 3% annual inflation guard. Over six years, that brought her limit to roughly $370,000. The rebuild estimate after a total loss from an electrical fire came in at $512,000, reflecting contractor shortages and the cost of bringing everything up to current code. She got $370,000. She had to finance the rest.
 
 **Comparison: How Different Inflation Guard Rates Perform Against Actual Construction Cost Inflation**
 
@@ -64,7 +64,7 @@ One scenario I documented personally: a homeowner in suburban Atlanta had a $310
 | 8% | 46.9% | ~55% | ~$24,300 |
 | Guaranteed Replacement Cost | N/A | N/A | $0 |
 
-That last row is the one worth paying attention to. Guaranteed replacement cost coverage (sometimes called "extended replacement cost") doesn't have a fixed limit on the dwelling. If it costs $512,000 to rebuild your $370,000-limit house, the insurer pays $512,000. Not every carrier offers it. The ones that do charge more for it. But as of July 2026, I'd argue it's the single most important coverage upgrade a homeowner can make, especially in high-cost coastal or mountain markets.
+That last row is the one worth paying attention to. Guaranteed replacement cost coverage (sometimes called "extended replacement cost") doesn't have a fixed limit on the dwelling. If it costs $512,000 to rebuild your $370,000-limit house, the insurer pays $512,000. Not every carrier offers it. The ones that do charge more for it. It is widely considered the single most important coverage upgrade a homeowner can make, especially in high-cost coastal or mountain markets.
 
 ## How to Actually Check Your Current Situation
 
@@ -72,7 +72,7 @@ Pull out your declarations page right now. Look for your Coverage A (dwelling) l
 
 The thing agents often don't tell you: inflation guard is usually applied to the original estimated replacement cost, not to an updated one. So if your house was undervalued when you first insured it (and many are), inflation guard faithfully perpetuates and compounds that original underestimate forever.
 
-A common mistake is assuming that familiarity with insurance means your own coverage is correct. Without a proper replacement cost estimator, homeowners may discover significant gaps in coverage years after purchasing a policy. Underinsurance can occur when features like finished basements are described vaguely in the original application and never reassessed.
+A common mistake is assuming that general familiarity with insurance means your own coverage is correct. Without a proper replacement cost estimator, homeowners may discover significant gaps in coverage years after purchasing a policy. Underinsurance can occur when features like finished basements are described vaguely in the original application and never reassessed.
 
 To get an accurate baseline:
 
@@ -85,7 +85,7 @@ Your state's insurance department (find yours at [the NAIC's state regulator map
 
 ## The Guaranteed Replacement Cost Conversation Worth Having
 
-I'd push hard for guaranteed replacement cost coverage if your insurer offers it. If they don't, extended replacement cost (which pays a percentage above your limit, typically 20-50%) is a meaningful improvement over standard inflation guard alone. The [IBHS has useful guidance](https://ibhs.org/) on construction cost factors by region that can help you reality-check whatever number your insurer gives you.
+Guaranteed replacement cost coverage is worth pursuing if your insurer offers it. If they don't, extended replacement cost (which pays a percentage above your limit, typically 20-50%) is a meaningful improvement over standard inflation guard alone. The [IBHS has useful guidance](https://ibhs.org/) on construction cost factors by region that can help you reality-check whatever number your insurer gives you.
 
 Common scenarios and their outcomes:
 
@@ -97,7 +97,7 @@ Guaranteed replacement cost policy, same rebuild scenario → full $440,000 paid
 
 The premium difference between a standard policy with modest inflation guard and a guaranteed replacement cost policy is real but usually not dramatic, often $200-600 a year depending on market and home value. On a $400,000 home, that's a reasonable trade.
 
-One practical move while you're at it: create a home inventory. Seriously. Document your possessions with video, store the file offsite or in a fireproof document safe ([this model on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) runs around $40-80 and is worth every dollar; the site may earn a commission on that link). Claims adjusters move faster when you have documentation. Personal property claims without documentation get lowballed routinely. I watched it happen constantly from the inside.
+One practical move while you're at it: create a home inventory. Seriously. Document your possessions with video, store the file offsite or in a fireproof document safe ([this model on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) runs around $40-80 and is worth every dollar; the site may earn a commission on that link). Claims adjusters move faster when you have documentation. Personal property claims without documentation get lowballed routinely.
 
 ## Sources
 

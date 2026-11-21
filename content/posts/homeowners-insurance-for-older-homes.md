@@ -25,7 +25,7 @@ author_title: "Coverage Basics"
 author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You buy a charming 1920s Craftsman bungalow, fall in love with the original hardwood floors and built-in cabinetry, and then your insurance renewal notice arrives with a premium that makes your stomach drop. Or worse: you file a claim after a pipe bursts and discover your policy pays only a fraction of the actual repair cost because of something buried in the fine print called "actual cash value." This is one of the most common and painful surprises I saw during my 14 years reviewing claims, and it hits older home owners especially hard.
+You buy a charming 1920s Craftsman bungalow, fall in love with the original hardwood floors and built-in cabinetry, and then your insurance renewal notice arrives with a premium that makes your stomach drop. Or worse: you file a claim after a pipe bursts and discover your policy pays only a fraction of the actual repair cost because of something buried in the fine print called "actual cash value." This is one of the most common and painful surprises in the claims process, and it hits older home owners especially hard.
 
 Homes built before 1980 present a genuinely different risk profile than new construction. The materials are different, the systems are different, and the way insurers price and limit coverage reflects that. Understanding those differences before you buy or renew a policy can save you thousands of dollars and a lot of heartbreak.
 
@@ -93,7 +93,7 @@ That third question leads directly to the next part.
 
 ## Ordinance and Law Coverage: The Gap Most People Don't Know Exists
 
-Here's a scenario I watched play out many times: a family has an older home, a fire damages 40 percent of the structure, and the standard policy pays to repair exactly what was damaged. Except their local building code now requires updated electrical, insulation, and framing methods throughout any portion of the structure that's opened up. The repair cost doubles. Their policy covers the damage. It doesn't cover the code upgrade.
+Consider a scenario that plays out regularly: a family has an older home, a fire damages 40 percent of the structure, and the standard policy pays to repair exactly what was damaged. Except their local building code now requires updated electrical, insulation, and framing methods throughout any portion of the structure that's opened up. The repair cost doubles. Their policy covers the damage. It doesn't cover the code upgrade.
 
 Ordinance and law coverage (sometimes called "building code coverage") pays for the additional cost of bringing your home into compliance with current codes during a covered repair. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) has flagged this as a coverage gap that disproportionately affects owners of older homes, and for good reason. The older the home, the larger the gap between what it was built to and what current codes require.
 

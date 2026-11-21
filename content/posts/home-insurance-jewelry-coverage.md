@@ -25,11 +25,11 @@ author_title: "Disaster Coverage"
 author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most people have no idea their jewelry is barely covered by their home insurance policy. Not as a minor gap. As in, you could lose a $6,000 engagement ring in a house fire and walk away with maybe $1,500. I watched this happen to claimants more times than I can count.
+Most people have no idea their jewelry is barely covered by their home insurance policy. Not as a minor gap. As in, you could lose a $6,000 engagement ring in a house fire and walk away with maybe $1,500. Adjusters see this happen to claimants more times than they can count.
 
 Here's why: standard homeowner policies include what's called "personal property" coverage, but almost all of them cap jewelry losses specifically. The standard sublimit runs $1,000 to $2,500 for theft (the exact figures vary by carrier and policy form). Fire or other "covered perils" might have a higher or different sublimit, but theft is where people get blindsided. And theft, including losing a stone out of a prong setting that's technically classified as "mysterious disappearance," is exactly how most jewelry claims come in.
 
-What surprised me was how few policyholders ever see this language until they're sitting across from an adjuster like I used to be, claim form in hand, and I'm the one explaining it to them for the first time.
+Very few policyholders ever encounter this language until they are sitting across from an adjuster, claim form in hand, and hearing it explained for the first time.
 
 ## What Your Base Policy Actually Covers
 
@@ -67,7 +67,7 @@ The [National Association of Insurance Commissioners (NAIC)](https://www.naic.or
 
 ## How to Document What You Own
 
-None of this protection works well without documentation. An insurer isn't going to take your word for what a piece looked like or what it was worth. After 14 years of reviewing claims, I can tell you that the single biggest predictor of a smooth jewelry claim was whether the policyholder had photos, receipts, and appraisals before the loss happened.
+None of this protection works well without documentation. An insurer isn't going to take your word for what a piece looked like or what it was worth. Adjusters consistently find that the single biggest predictor of a smooth jewelry claim is whether the policyholder had photos, receipts, and appraisals before the loss happened.
 
 Photograph every piece you own, including close-ups of any distinctive features, hallmarks, or stones. Store those photos somewhere other than your house (cloud storage, an emailed folder to yourself, a home inventory app like Encircle or the NAIC's free home inventory tool). Keep appraisals and purchase receipts in a document safe. And when you schedule items on your policy, attach the appraisal to the endorsement and confirm the carrier has it on file.
 

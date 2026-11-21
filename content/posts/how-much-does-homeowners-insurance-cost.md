@@ -25,7 +25,7 @@ author_title: "Disaster Coverage"
 author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-The average American pays somewhere around $1,400 to $2,000 a year for homeowners insurance, but I've seen nearly identical houses on the same street quoted at wildly different premiums. One client paid $1,100 annually. Her neighbor, same square footage, same roof age, paid $2,600. The difference came down to claims history, credit score, and one detail neither of them knew to ask about: the neighbor had filed a water damage claim six years earlier at a previous address, and that followed him to every quote he got. Homeowners insurance pricing follows a logic buried in systems most buyers never see. Understanding those systems is how you stop guessing and start shopping smart.
+The average American pays somewhere around $1,400 to $2,000 a year for homeowners insurance, yet nearly identical houses on the same street are routinely quoted at wildly different premiums. For example, one homeowner might pay $1,100 annually. A neighbor with the same square footage and roof age might pay $2,600. The difference can come down to claims history, credit score, and one detail most homeowners never think to ask about: a water damage claim filed years earlier at a previous address can follow a buyer to every new quote. Homeowners insurance pricing follows a logic buried in systems most buyers never see. Understanding those systems is how you stop guessing and start shopping smart.
 
 ## What the Average Cost Actually Looks Like (and Why Averages Mislead)
 
@@ -56,7 +56,7 @@ When someone quotes you a national average, mentally apply a plus-or-minus 50% r
 
 Your premium isn't one price. It's a stack of coverage components bundled together, and each one carries cost weight. Knowing what you're buying helps you understand what you're paying for.
 
-**Dwelling coverage (Coverage A)** is the core. It pays to rebuild your home if it's destroyed. This should equal your home's full replacement cost, not what you paid for it. Underinsuring here is one of the most common and costly mistakes I saw during my claims career.
+**Dwelling coverage (Coverage A)** is the core. It pays to rebuild your home if it's destroyed. This should equal your home's full replacement cost, not what you paid for it. Underinsuring here is one of the most common and costly mistakes homeowners make.
 
 **Other structures (Coverage B)** covers detached garages, fences, and sheds. It's usually set at 10% of your dwelling limit automatically.
 
@@ -104,7 +104,7 @@ A quality [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=c
 
 ## Where People Overpay and Where They Under-Protect
 
-In 14 years of reviewing claims, I saw both ends of this repeatedly. Some homeowners were dramatically overcharged for coverage they didn't need. Far more were underinsured in ways that cost them tens of thousands of dollars after a loss.
+Both ends of this problem appear regularly across the industry. Some homeowners were dramatically overcharged for coverage they didn't need. Far more were underinsured in ways that cost them tens of thousands of dollars after a loss.
 
 **Common overpayments:**
 

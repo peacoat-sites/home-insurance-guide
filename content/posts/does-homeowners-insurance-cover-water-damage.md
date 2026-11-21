@@ -25,7 +25,7 @@ author_title: "Coverage Basics"
 author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most homeowners assume water damage is water damage. A pipe bursts, the ceiling caves in, the floor buckles, and they reach for their insurance card confident that somewhere in that thick policy binder, this mess is covered. What I found after 14 years of reviewing those claims is that this assumption is wrong more often than it's right. The difference between a six-figure payout and a denial letter often comes down to a single word: *sudden*.
+Most homeowners assume water damage is water damage. A pipe bursts, the ceiling caves in, the floor buckles, and they reach for their insurance card confident that somewhere in that thick policy binder, this mess is covered. Claims data consistently shows that this assumption is wrong more often than it's right. The difference between a six-figure payout and a denial letter often comes down to a single word: *sudden*.
 
 ## Why "Sudden" Is the Most Important Word in Your Policy
 As of June 2026, 
@@ -73,7 +73,7 @@ I'll be honest: the sewer backup exclusion surprises more policyholders than alm
 
 The flood exclusion isn't a technicality. It's a massive coverage gap that affects millions of homes, including plenty that are nowhere near a floodplain.
 
-About 20 percent of NFIP flood claims come from homes outside high-risk flood zones, according to federal data. I've reviewed claims from homeowners who genuinely had no idea they needed separate coverage because their agent never explained it and they never asked. By the time the water was in the house, it was too late.
+About 20 percent of NFIP flood claims come from homes outside high-risk flood zones, according to federal data. Many homeowners have no idea they need separate coverage because their agent never explained it and they never asked. By the time the water was in the house, it was too late.
 
 The [NFIP has coverage limits](/how-much-home-insurance-do-i-need/): $250,000 for the structure and $100,000 for contents. If your home is worth more than that, or you have significant personal property, you'd need to look at excess flood coverage from private insurers. Premiums vary dramatically based on elevation, proximity to water, and your flood zone designation, so the only way to know your actual cost is to get a quote.
 
@@ -93,13 +93,13 @@ Here's what they look at:
 
 The practical implication: document everything before a loss happens. Keep receipts for repairs. Take photos of your roof, your appliances, your plumbing connections. A home inventory app can help you track the condition and age of major systems.
 
-If you do file a claim, photograph the damage extensively before any cleanup, get the plumber's or contractor's written assessment, and be careful about statements suggesting you were aware of a pre-existing condition. I don't mean be dishonest. I mean be precise, because loose language in a recorded statement can be used to reframe a sudden event as a gradual one.
+If you do file a claim, photograph the damage extensively before any cleanup, get the plumber's or contractor's written assessment, and be careful about statements suggesting you were aware of a pre-existing condition. This is not a suggestion to be dishonest. I mean be precise, because loose language in a recorded statement can be used to reframe a sudden event as a gradual one.
 
 ## Practical Steps to Reduce Your Risk and Strengthen Your Coverage Position
 
 The research on home water damage prevention is solid, and the IBHS home fortification guides at [ibhs.org](https://ibhs.org/) include detailed, research-backed recommendations for reducing water intrusion risk. Their guidance on roof-to-wall connections and secondary water barriers is particularly useful. Taking these steps isn't just about preventing damage; it creates a documented record that you take maintenance seriously.
 
-Here's what I'd recommend doing in order of impact:
+Here are the steps worth taking in order of impact:
 
 **Step 1: Add water leak sensors near high-risk appliances.**
 

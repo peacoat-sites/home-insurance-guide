@@ -15,7 +15,7 @@ slug: "home-insurance-premiums-are-finally-cooling-should-you-shop-now"
 affiliate_disclosure: true
 ---
 
-Your renewal notice arrived and the number on it was, once again, higher than last year. You filed it in the mental folder labeled "nothing I can do about it" and moved on. I get it. For the last three years, that was basically the correct response. The homeowner insurance market was brutal: premiums up 28% in 2024, up nearly 20% in 2025, and carriers quietly exiting states or cutting [coverage options](/rental-property-coverage-options/). Shopping around often meant finding out you had fewer choices than you thought, not more.
+Your renewal notice arrived and the number on it was, once again, higher than last year. You filed it in the mental folder labeled "nothing I can do about it" and moved on.  For the past three years, that was basically the correct response. The homeowner insurance market was brutal: premiums up 28% in 2024, up nearly 20% in 2025, and carriers quietly exiting states or cutting [coverage options](/rental-property-coverage-options/). Shopping around often meant finding out you had fewer choices than you thought, not more.
 
 That has started to change. On August 6, 2026, insurance technology company Matic released a mid-year report built on 3 million quotes, and the headline is something I genuinely did not expect to write this soon: a record share of homeowners actually saw their renewal premium go down. Not slow down. Go down. According to Matic's data, 11.7% of renewing homeowners received a lower premium in the first half of 2026, compared to 7.4% in all of 2025 and just 4.9% in 2024. Average renewal increases slowed to 10.6%, down from 19.4% last year. And the number of competing quotes available per homeowner jumped 27% year-over-year, and is up 74% since the market's worst point in 2024. That last number matters more than any single rate figure. Competition is how consumers win.
 
@@ -41,7 +41,7 @@ The chart below puts the recent trend in context:
 
 ## What "Shopping Now" Actually Looks Like
 
-I want to be honest about something: shopping for home insurance is genuinely annoying. You need your current [declarations page](/insurance-policy-declarations-page/), your home's square footage and construction details, a rough replacement cost estimate, and patience for multiple conversations. What I'd tell a friend to do is not to just pull up a comparison site and click the cheapest option. That's how people end up discovering, at claim time, that their "great deal" had a separate wind deductible of 2% or a roof-age exclusion buried in the endorsements.
+I want to be honest about something: shopping for home insurance is genuinely annoying. You need your current [declarations page](/insurance-policy-declarations-page/), your home's square footage and construction details, a rough replacement cost estimate, and patience for multiple conversations. The right approach is not to simply pull up a comparison site and click the cheapest option. That's how people end up discovering, at claim time, that their "great deal" had a separate wind deductible of 2% or a roof-age exclusion buried in the endorsements.
 
 The table below shows what changed in the market between 2024 and 2026, so you understand what you're actually shopping into:
 

@@ -30,7 +30,7 @@ Your renewal notice arrives in the mail, and the new premium is $340 higher than
 
 Welcome to the part of homeowner insurance that companies prefer you don't examine too closely.
 
-After 14 years reviewing claims at a national insurer, I watched premiums climb for reasons that had nothing to do with the individual homeowner's risk. The industry has a talent for making systemic cost-shifting look like personal accountability. Some premium increases are legitimate and genuinely reflect your changed risk profile. Others are just the insurer passing along business losses from across the country, or across the state, and hoping you won't push back or shop around. Knowing which is which is the only way to respond intelligently.
+Premiums routinely climb for reasons that have nothing to do with the individual homeowner's risk. The industry has a talent for making systemic cost-shifting look like personal accountability. Some premium increases are legitimate and genuinely reflect your changed risk profile. Others are just the insurer passing along business losses from across the country, or across the state, and hoping you won't push back or shop around. Knowing which is which is the only way to respond intelligently.
 
 ## The Real Drivers Behind Rising Premiums
 
@@ -48,7 +48,7 @@ Let's start with the forces your insurer won't volunteer in the renewal letter.
 
 Now the stuff that actually is about your house and your history.
 
-A claims history is the most obvious one. File two claims in three years and your premium will reflect it, often for five years or more. One thing I saw repeatedly as an adjuster: homeowners who called to report a problem and then decided not to file a claim still sometimes saw premium movement, because the inquiry itself was logged. Ask your insurer directly whether a "first notice of loss" that didn't result in a paid claim appears on your loss history. Request your CLUE report (that's the Comprehensive Loss Underwriting Exchange) annually at LexisNexis; it's free and it's what underwriters actually see.
+A claims history is the most obvious one. File two claims in three years and your premium will reflect it, often for five years or more. Adjusters see this repeatedly: homeowners who call to report a problem and then decide not to file a claim can still sometimes see premium movement, because the inquiry itself was logged. Ask your insurer directly whether a "first notice of loss" that didn't result in a paid claim appears on your loss history. Request your CLUE report (that's the Comprehensive Loss Underwriting Exchange) annually at LexisNexis; it's free and it's what underwriters actually see.
 
 Credit score changes matter more than most people realize. In states that permit credit-based insurance scoring (which is most of them, with a handful of exceptions), a dip in your credit score can directly trigger a premium increase. Many homeowners are surprised to learn the connection exists.
 
@@ -69,7 +69,7 @@ Here's a general picture of what's driving average premium increases across diff
 | Credit score decline (significant) | 5-20% depending on state and insurer | Varies; not permitted in CA, MA, MD |
 | Roof age (20+ years) | 10-40% surcharge or coverage restriction | Older homes with original roofs |
 
-These are ranges drawn from industry reporting and my own professional experience, not guarantees for any specific policy. Your insurer's math is their own.
+These are ranges drawn from industry reporting, not guarantees for any specific policy. Your insurer's math is their own.
 
 Florida's number there is not a typo. Several major carriers have exited that market entirely.
 
@@ -77,11 +77,11 @@ Florida's number there is not a typo. Several major carriers have exited that ma
 
 I want to walk through what this actually looks like in practice, because the abstract gets slippery fast.
 
-**Scenario 1:** Homeowner in suburban Denver, no claims, solid credit, house built in 2004. Premium jumps $280 in one year. → Insurer's catastrophe model updated, reclassifying the county as elevated hail risk after three consecutive damaging hail years. Also, dwelling coverage limit was auto-adjusted upward by $45,000 to reflect reconstruction cost inflation. → Both factors combined for the increase. Shopped three competitors; found one $190 cheaper for equivalent coverage. Switched.
+**Scenario 1:** For example, consider a homeowner in suburban Denver with no claims, solid credit, and a house built in 2004 whose premium jumps $280 in one year. The insurer's catastrophe model may have updated, reclassifying the county as elevated hail risk after several consecutive damaging hail years, while the dwelling coverage limit was also auto-adjusted upward to reflect reconstruction cost inflation. Both factors could combine to drive the increase, and shopping three competitors might reveal one offering equivalent coverage for $190 less.
 
-**Scenario 2:** Homeowner in coastal South Carolina, filed one water damage claim in 2023 for $8,400. → Claim surcharge applied (21%) plus rising coastal reinsurance costs. → Premium increased $610 at renewal. Claim surcharge scheduled to drop off after year five. Nothing to do but wait, or accept a higher deductible in exchange for a lower base rate.
+**Scenario 2:** For example, a homeowner in coastal South Carolina who filed one water damage claim for $8,400 might see a claim surcharge of around 21% applied alongside rising coastal reinsurance costs, resulting in a premium increase of roughly $610 at renewal. The claim surcharge would be scheduled to drop off after year five, leaving the options of waiting it out or accepting a higher deductible in exchange for a lower base rate.
 
-**Scenario 3:** Homeowner in Phoenix, roof replaced in 2019, no claims. → Aerial imagery service flagged a large storage shed added to the property without disclosure. Underwriter re-evaluated. → Premium increased $175 to account for the additional structure. Legitimate increase; the shed added real replacement value that wasn't covered before.
+**Scenario 3:** For example, a homeowner in Phoenix with a roof replaced in 2019 and no claims might have an aerial imagery service flag a large storage shed added to the property without prior disclosure, prompting the underwriter to re-evaluate and increase the premium by around $175 to account for the additional structure. That would be a legitimate increase, since the shed adds real replacement value that was not covered before.
 
 ## What You Can Actually Do About It
 
@@ -93,7 +93,7 @@ Get competing quotes. Most homeowners don't do this, yet it's the single most ef
 
 Raise your deductible intentionally. Going from a $1,000 to a $2,500 deductible typically reduces your premium by 8-15%, depending on carrier and state. If you have the savings to cover that gap in a claim scenario, it's often the right trade. The [IBHS home fortification guides](https://ibhs.org/) are also worth reviewing if you want to make risk-reduction improvements that you can document to your insurer for potential discounts.
 
-Check your CLUE report for errors. I cannot overstate how often I saw incorrect claim data in underwriting files during my adjuster years. Claims attributed to the wrong address, old claims that should have aged off but hadn't, amounts listed incorrectly. You can dispute errors at LexisNexis directly, and a corrected report can change your rate.
+Check your CLUE report for errors. Incorrect claim data in underwriting files is more common than most homeowners realize. Claims attributed to the wrong address, old claims that should have aged off but hadn't, amounts listed incorrectly. You can dispute errors at LexisNexis directly, and a corrected report can change your rate.
 
 Ask about mitigation discounts you may not have applied for. Newer roof? Water leak sensors? (They're inexpensive. [Something like this](https://www.amazon.com/s?k=water+leak+sensor+home&tag=contentportfo-20) can qualify for a discount from some carriers. The site may earn a commission from that link.) Smart smoke detectors, deadbolt documentation, or a wind mitigation inspection (common in Florida, increasingly available elsewhere) can unlock discounts that your insurer offers but doesn't loudly advertise.
 

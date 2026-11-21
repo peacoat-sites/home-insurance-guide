@@ -26,7 +26,7 @@ faqs:
     a: "Yes. Failing to disclose a material risk when asked (and many application forms do ask about trampolines specifically) can void your coverage and be treated as misrepresentation. Even if they didn't ask, proactive disclosure puts you in a much stronger position if a claim occurs. A coverage denial after an injury is far more expensive than a surcharge before one."
 ---
 
-Fourteen years of reading claim denials taught me one thing above everything else: the exclusions that hurt people most are never the ones they worried about. Nobody forgets to ask about fire. Almost everybody forgets to ask about the trampoline sitting in their backyard.
+The exclusions that hurt people most are never the ones they worried about. Nobody forgets to ask about fire. Almost everybody forgets to ask about the trampoline sitting in their backyard.
 
 A common scenario: a family installs a trampoline without checking their homeowner policy, a neighbor's child is injured, and a liability claim is filed. Then comes the discovery that the insurer excludes trampoline injuries from coverage. The policy may be voided or restricted. This exclusion often comes as a shock to policyholders.
 
@@ -59,11 +59,11 @@ There isn't one standard trampoline policy treatment. Insurers take different ap
 | Surcharge + coverage | Yes | $25–$75+/year typical | Ask specifically what's covered |
 | Non-renewal / endorsement | None going forward | Loss of policy | May not be disclosed proactively |
 
-The thing nobody tells you: these treatments can change at renewal. A carrier that offered conditional coverage last year may have tightened their underwriting guidelines this year. I'd verify your trampoline status every single renewal.
+These treatments can change at renewal. A carrier that offered conditional coverage last year may have tightened their underwriting guidelines this year. Verifying your trampoline coverage status at every renewal is a smart habit.
 
 ## What Your Policy Actually Says (And Where to Find It)
 
-Here's where I'll admit I got this wrong myself, early in my career before I was on the adjuster side. I assumed "personal liability" in a homeowner policy meant what it said. It covers personal liability. What I didn't read carefully enough was the exclusions section, typically starting around page 14 of a standard ISO HO-3 form, where specific activities or equipment can be carved out.
+ It is easy to assume "personal liability" in a homeowner policy means exactly what it says. It covers personal liability. What is easy to miss is the exclusions section, typically starting around page 14 of a standard ISO HO-3 form, where specific activities or equipment can be carved out.
 
 Look for language like "recreational equipment," "athletic apparatus," or the word "trampoline" spelled out explicitly. Some policies use "inflatable structures and similar equipment" to cast a wider net. If you can't find it, call your agent and ask two specific questions: "Does my policy have any trampoline-related exclusions?" and "Does my policy have any safety equipment requirements for trampoline coverage to apply?" Write down who you spoke to and when.
 
@@ -71,13 +71,13 @@ The National Association of Insurance Commissioners (NAIC) has resources on read
 
 ## Getting Coverage When Your Current Carrier Won't Play Ball
 
-If your current insurer excludes trampolines or has priced the surcharge at something insulting, you have options. The first thing I'd do is actually buy the safety equipment before shopping. The Insurance Institute for Business & Home Safety (IBHS) has published research on which trampoline enclosure and padding configurations meaningfully reduce injury rates. Carriers that offer conditional coverage look at whether you've done the basics. Showing up with photos of a fully enclosed, padded trampoline with a locked ladder is a different conversation than "it's just sitting out there."
+If your current insurer excludes trampolines or has priced the surcharge at something insulting, you have options. A practical first step is to buy the safety equipment before shopping for a new carrier. The Insurance Institute for Business & Home Safety (IBHS) has published research on which trampoline enclosure and padding configurations meaningfully reduce injury rates. Carriers that offer conditional coverage look at whether you've done the basics. Showing up with photos of a fully enclosed, padded trampoline with a locked ladder is a different conversation than "it's just sitting out there."
 
-**Scenario 1:** Family in suburban Ohio, 12-year-old daughter, $1.2M liability umbrella policy. Their home insurer excluded trampolines. → They installed an enclosure net, submitted photos, and requested a written coverage confirmation. → Insurer agreed in writing to cover trampoline liability under conditional terms with zero surcharge. Total cost of the net: $189.
+For example, a family whose home insurer excluded trampolines could install an enclosure net, submit photos, and request written coverage confirmation, potentially resulting in the insurer agreeing in writing to cover trampoline liability under conditional terms with zero surcharge.
 
-**Scenario 2:** Family in Florida, standard HO-3 policy, neighbor's child injured on trampoline during a birthday party. → Insurer denied the liability claim citing trampoline exclusion buried in endorsement added at prior year's renewal. → Family paid $34,000 out of pocket after settlement. Policy had been renewed twice without the family noticing the exclusion.
+For example, a family with a standard HO-3 policy could face a denied liability claim after a neighbor's child is injured on their trampoline, if a trampoline exclusion was quietly added in an endorsement at a prior renewal and went unnoticed, potentially resulting in tens of thousands of dollars paid out of pocket.
 
-**Scenario 3:** Family in Colorado, shopped three carriers after primary insurer non-renewed. → Two carriers declined to cover the trampoline at all. Third offered coverage with a $58/year surcharge and required a 4-foot perimeter fence in addition to enclosure netting. → They accepted the surcharge, installed the fence, and now have documented coverage.
+For example, a family whose primary insurer non-renewed their policy might find that two replacement carriers decline to cover the trampoline at all, while a third offers coverage with a modest annual surcharge and a requirement for a perimeter fence in addition to enclosure netting.
 
 The difference between Scenario 1 and Scenario 2 is almost entirely whether someone asked the question before the claim.
 
@@ -87,7 +87,7 @@ Many people assume that if their homeowner policy excludes something, their pers
 
 Umbrella policies are excess liability policies. They typically sit on top of your home and auto liability coverage. If the underlying homeowner policy excludes trampoline liability, many umbrella policies will exclude it too, because umbrella policies usually exclude anything the underlying policy excludes. Some will cover the gap anyway. Some won't. You need to ask your umbrella carrier specifically.
 
-I don't have good data on the exact percentage of umbrella policies that maintain trampoline coverage when the homeowner policy doesn't, because the variation by carrier is too wide for me to cite with confidence. But I've personally seen denials at the umbrella level follow denials at the home level. Don't assume.
+I don't have good data on the exact percentage of umbrella policies that maintain trampoline coverage when the homeowner policy doesn't, because the variation by carrier is too wide for me to cite with confidence. Denials at the umbrella level commonly follow denials at the home level. Don't assume.
 
 ## Sources
 

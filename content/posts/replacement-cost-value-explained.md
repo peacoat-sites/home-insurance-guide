@@ -26,7 +26,7 @@ faqs:
     a: "This gets complicated. Standard RCV covers rebuilding with 'like kind and quality' using current materials and methods. If you have 1920s plaster walls or hand-milled trim, a standard RCV policy may only pay for modern equivalents, not true restoration. Owners of historic or architecturally distinctive homes should look specifically for policies that cover 'matching' or 'ordinance and law' provisions, which address code-upgrade costs and material-matching requirements. It's a niche but real gap."
 ---
 
-About two-thirds of American homes are underinsured. That's not a scare tactic. That's what the Insurance Information Institute has been tracking for years, and in my 14 years reviewing claims, I watched it play out on people's kitchen tables every single time a major loss came in. The homeowner would sit across from me thinking they had plenty of coverage. Then we'd price out actually rebuilding their house. The gap was almost always thousands of dollars, sometimes tens of thousands, and the reason almost always traced back to one misunderstood term on page four of their policy.
+About two-thirds of American homes are underinsured. That's not a scare tactic. That's what the Insurance Information Institute has been tracking for years, and adjusters see it play out on people's kitchen tables every single time a major loss comes in. The homeowner sits across the table thinking they had plenty of coverage. Then the rebuilding cost gets priced out. The gap is almost always thousands of dollars, sometimes tens of thousands, and the reason almost always traces back to one misunderstood term on page four of the policy.
 
 [Replacement cost](/home-insurance-replacement-cost-vs-actual-cash-value/) value. Three words that should be simple. They're not, because the insurance industry has spent decades letting people confuse them with something very different, and that confusion costs ordinary homeowners real money at the worst possible moment.
 
@@ -42,7 +42,7 @@ Let me show you the split plainly, because most agents gloss over it at the sale
 
 **Replacement Cost Value (RCV)** pays to replace the roof at today's cost, no depreciation deduction. Same $22,000 loss, you get $22,000, minus your deductible.
 
-The catch people miss: even RCV policies usually pay ACV first, then release the "holdback" after you complete repairs and submit receipts. I can't tell you how many homeowners called me furious about this, thinking we'd shorted them. The holdback mechanism exists to prevent payouts on repairs that never happen. You have to actually do the work to get the full amount. If you're planning to sell the house instead of repair it, you may only collect ACV anyway.
+The catch people miss is that even RCV policies usually pay ACV first, then release the "holdback" after repairs are completed and receipts are submitted. Homeowners frequently call their insurers furious about this, believing they have been shorted. The holdback mechanism exists to prevent payouts on repairs that never happen. You have to actually do the work to get the full amount. If you're planning to sell the house instead of repair it, you may only collect ACV anyway.
 
 | Feature | Actual Cash Value (ACV) | Replacement Cost Value (RCV) | Extended/Guaranteed RCV |
 |---|---|---|---|
@@ -56,7 +56,7 @@ The premium difference is real but often overstated in the selling. Homeowners w
 
 ## How Replacement Cost Is Actually Calculated
 
-Here's where I'll admit I got this wrong early in my career. I assumed the insurer's estimate was basically the home's tax-assessed value plus some multiplier. It isn't.
+This is a point that is easy to misunderstand. A common assumption is that the insurer's estimate is basically the home's tax-assessed value plus some multiplier. It isn't.
 
 Proper dwelling replacement cost calculation starts with square footage and multiplies by local construction cost per square foot, then adjusts for things like: roof type and pitch, foundation type, quality of finishes, custom features, number of bathrooms, garage type, and local labor markets. In rural Montana versus suburban New Jersey, the same 1,800-square-foot house might have wildly different rebuild costs.
 
@@ -64,7 +64,7 @@ Insurers use tools like CoreLogic's 360Value platform or Marshall & Swift data (
 
 **Worked example:**
 
-Sarah, a homeowner in suburban Columbus, bought her house in 2019 for $285,000. Her policy was set at $285,000 in [dwelling coverage](/home-insurance-dwelling-coverage/). A kitchen fire in 2025 caused significant structural damage. Repair estimate: $198,000. Her coverage was technically sufficient here, but if a total loss had occurred, the actual rebuild cost by 2026 was estimated at $347,000 due to material cost inflation since 2019. She was underinsured by $62,000 without even knowing it.
+For example, consider a homeowner in suburban Columbus who bought a house in 2019 for $285,000. The policy was set at $285,000 in [dwelling coverage](/home-insurance-dwelling-coverage/). A kitchen fire in 2025 causes significant structural damage in this scenario. Repair estimate: $198,000. Coverage would be technically sufficient in that case, but if a total loss occurred, the actual rebuild cost by 2026 would be estimated at $347,000 due to material cost inflation since 2019. That would leave the homeowner underinsured by $62,000 without even knowing it.
 
 Construction material costs are not subtle. The National Association of Home Builders reported that softwood lumber prices alone saw multi-year volatility that added roughly $14,000-18,000 to the cost of a typical new single-family home. Labor shortages in skilled trades have compounded this in most markets. As of July 2026, rebuild costs in many metro areas are 25-40% higher than they were in 2019. If your [coverage limits](/home-insurance-coverage-limits-guide/) haven't been reviewed since before the pandemic, the gap is probably larger than you want to think about.
 
@@ -82,7 +82,7 @@ Standard RCV policies pay up to your coverage limit, period. If your house cost 
 
 **Worked example:**
 
-Tom and Ellen in suburban Portland, Oregon, had a $420,000 dwelling limit with a 25% extended RCV endorsement, effective cap of $525,000. A wildfire in their area resulted in a total loss. Rebuilding during a regional construction surge cost $498,000. Extended coverage covered the gap. Without that endorsement, they'd have been short $78,000. The endorsement had cost them an additional $310/year in premium. Fifteen years of payments would have been $4,650. They came out $73,350 ahead.
+For example, consider homeowners in suburban Portland, Oregon, with a $420,000 dwelling limit and a 25% extended RCV endorsement, for an effective cap of $525,000. A wildfire in the area results in a total loss in this scenario. Rebuilding during a regional construction surge costs $498,000. Extended coverage covers the gap. Without that endorsement, the homeowners would have been short $78,000. The endorsement costs an additional $310/year in premium. Fifteen years of payments would total $4,650. They came out $73,350 ahead.
 
 The math usually favors extended coverage if you're in a market with supply-constrained rebuilding capacity. The National Association of Insurance Commissioners (NAIC) has published consumer guidance specifically recommending that homeowners revisit dwelling coverage limits annually because of this exact problem.
 
