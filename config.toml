@@ -24,7 +24,7 @@ enableEmoji = true
   youtube_channel = "UCLRh0t2_23u2t7HuaUqatTg"
   page_bg = "#f5f9ff"
   nav_style = "dark"
-logo_text_2 = "Insurance Guide"
+logo_text_2 = "Insurance Clear"
 logo_text_1 = "Home"
   description = "Honest, jargon-free guides to homeowners insurance coverage, costs, claims, and how to get the best protection for your home."
   niche = "Home Insurance Education"
@@ -47,13 +47,13 @@ logo_text_1 = "Home"
   monthly_readers = 55000
   research_hours  = 410
   satisfaction    = 96
-  trust_extra     = "Licensed insurance professionals"
+  trust_extra     = "Sources linked in every guide"
   impact_verification = ""
   impact_tracking_id  = "" 
 
   persona_name       = "Dana Holloway"
   persona_title      = "Home Insurance Research Editor"
-  persona_bio        = "A former licensed property insurance agent, Dana spent years helping homeowners navigate policy terms and claims before shifting to consumer education. She writes to help readers understand their coverage before they need it,  not after."
+  persona_bio        = "Dana Holloway is a pen name used for general pages on Home Insurance Clear. How articles are researched and checked is explained in our editorial standards."
   persona_initials   = "DH"
   disclaimer         = "This site provides general information only and is not a substitute for advice from a licensed insurance professional. Policy terms, coverage limits, and state regulations vary widely."
 
