@@ -25,7 +25,7 @@ faqs:
    a: "Generally, no. Business equipment has a very low sub-limit under standard policies, and business liability isn't covered at all. If you run any kind of business from home, even part-time, ask specifically about a home business endorsement or a separate business owner's policy."
 lastmod: 2026-07-08
 ---
-Most homeowners have an HO-3 policy and couldn't tell you what that means. Not because they're careless, but because no one ever explained it clearly. I'll fix that.
+Most homeowners have an HO-3 policy and couldn't tell you what that means. Not because they're careless, but because no one ever explained it clearly. This article explains it clearly.
 
 The HO-3 is the standard homeowner policy sold across the United States. If you bought your home with a mortgage, your lender almost certainly required one. It's the industry default, which sounds like a compliment. Sometimes it is. Sometimes it just means you have exactly as much coverage as your insurer was legally required to offer, not a dollar more.
 
@@ -46,7 +46,7 @@ Your home itself, the structure, the attached garage, the built-in cabinets, is 
 
 Your personal property (furniture, clothing, electronics, appliances) works the opposite way. It's covered on a "named perils" basis. The policy lists exactly what it will pay for: fire, theft, vandalism, windstorm, and roughly a dozen other events. If something damages your stuff and that cause isn't on the list, you don't have a claim.
 
-This situation comes up regularly. A homeowner's chest freezer fails while they're vacationing. They come home to $800 in ruined food and a waterlogged basement. The floor gets covered under dwelling coverage. The food? Almost certainly not, because power outage isn't a named peril for personal property. Same with the freezer itself, mechanical breakdown isn't on the list.
+This situation comes up regularly for homeowners. A homeowner's chest freezer fails while they're vacationing. They come home to $800 in ruined food and a waterlogged basement. The floor gets covered under dwelling coverage. The food? Almost certainly not, because power outage isn't a named peril for personal property. Same with the freezer itself, mechanical breakdown isn't on the list.
 
 This isn't exactly a flaw in the HO-3. It's a design choice. But you should walk into your policy knowing it.
 
