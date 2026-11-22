@@ -1,5 +1,5 @@
 ---
-title: "State Farm Homeowners Insurance: $1,200 Annual Cost Breakdown"
+title: "State Farm Homeowners Insurance Review: Coverage, Claims and Costs"
 date: 2026-11-22T21:51:54.048855+00:00
 draft: false
 description: "See what State Farm homeowners insurance costs and what $1,200 annual premiums cover. Compare coverage limits and deductibles for your home."
