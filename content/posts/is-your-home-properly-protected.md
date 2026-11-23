@@ -11,7 +11,7 @@ author_title: "Risk and Pricing"
 author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
-Most homeowners think hard about their insurance policy exactly twice: when they buy it and when they file a claim. Everything in between? That's where things fall apart. A coverage gap you didn't know existed. A deductible that somehow doubled. A [kitchen renovation](/best-home-insurance-for-new-homeowners/) that never made it onto the paperwork.
+Most homeowners think hard about their insurance policy exactly twice: when they buy it and when they file a claim. Everything in between? That's where things fall apart. A coverage gap you didn't know existed. A deductible that somehow doubled. A [kitchen renovation](/home-insurance-for-first-time-buyers/) that never made it onto the paperwork.
 
 This 7-question quiz is a quick reality check on how actually protected your home is right now. Two minutes, tops. It only asks about what you know and what you've done, then points you toward one concrete next step. No fishing for your Social Security number, no sales call waiting at the end, just a clearer sense of where you actually stand.
 

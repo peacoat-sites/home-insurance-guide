@@ -87,7 +87,7 @@ Two critical details:
 
 ## Liability and Loss of Use: The Two Covers People Skip
 
-**Coverage D: [Loss of Use](/what-is-loss-of-use-coverage-explained/).** If your home becomes unlivable after a covered loss, this pays for hotel rooms, rentals, and other reasonable living expenses while you're rebuilding. Standard limits run 20-30% of your dwelling coverage. Do the math for your area. Rebuilding a total loss takes 14 months, easy, in a busy market. If a comparable rental runs $3,000 monthly, you need at least $42,000 just for housing. Add meals out, storage, laundry. The standard limit often works, but in expensive cities it doesn't.
+**Coverage D: [Loss of Use](/loss-of-use-coverage-home-insurance/).** If your home becomes unlivable after a covered loss, this pays for hotel rooms, rentals, and other reasonable living expenses while you're rebuilding. Standard limits run 20-30% of your dwelling coverage. Do the math for your area. Rebuilding a total loss takes 14 months, easy, in a busy market. If a comparable rental runs $3,000 monthly, you need at least $42,000 just for housing. Add meals out, storage, laundry. The standard limit often works, but in expensive cities it doesn't.
 
 **Coverage E: Liability.** This pays if someone slips on your property and sues. Your dog bites a neighbor's kid. Standard policies offer $100,000. That's the bare minimum, not the target. A serious injury lawsuit blows through $100,000 in medical bills alone. A $300,000 minimum is generally recommended. If you have real assets, stack a personal umbrella policy on top of your home and auto coverage. Umbrella policies are often quite affordable for the protection.
 

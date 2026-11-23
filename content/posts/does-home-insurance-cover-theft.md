@@ -28,7 +28,7 @@ faqs:
 
 Most homeowners assume theft is covered the same way fire is. It's not. And that gap costs people real money when they finally file a claim.
 
-Standard [homeowners insurance](/homeowners-insurance-mold-coverage/) does cover theft, but the actual payout often lands well below what you lost. The reasons are specific and predictable, and most insurers won't walk you through them unprompted. In practice, the coverage looks solid on the first page of your policy and gets complicated fast once you're reading the exclusions.
+Standard [homeowners insurance](/does-home-insurance-cover-mold-removal/) does cover theft, but the actual payout often lands well below what you lost. The reasons are specific and predictable, and most insurers won't walk you through them unprompted. In practice, the coverage looks solid on the first page of your policy and gets complicated fast once you're reading the exclusions.
 
 Here's what actually happens when someone breaks into your home, grabs your laptop, and disappears.
 

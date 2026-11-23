@@ -25,7 +25,7 @@ author_title: "Policy Comparison"
 author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-You just got hit with a $4,000 HVAC repair bill, and your first call was to your [homeowner's insurance](/best-home-insurance-for-new-homeowners/) company. The agent told you they couldn't help. So you called the home warranty company you've been paying $60 a month for, and they sent a technician who said the problem wasn't covered because of "improper maintenance." Now you're out $4,000, plus months of premiums, and nobody seems to be on your side. If that scenario sounds familiar, or if you're trying to figure out how to avoid it, you're in exactly the right place.
+You just got hit with a $4,000 HVAC repair bill, and your first call was to your [homeowner's insurance](/home-insurance-for-first-time-buyers/) company. The agent told you they couldn't help. So you called the home warranty company you've been paying $60 a month for, and they sent a technician who said the problem wasn't covered because of "improper maintenance." Now you're out $4,000, plus months of premiums, and nobody seems to be on your side. If that scenario sounds familiar, or if you're trying to figure out how to avoid it, you're in exactly the right place.
 
 ## What Each One Actually Covers (And Why People Confuse Them)
 

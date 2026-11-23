@@ -46,7 +46,7 @@ The threshold also affects your payout calculation. Once total loss is declared,
 
 This distinction has the potential to devastate homeowners financially. Over and over.
 
-If your policy pays [Actual Cash Value](/actual-cash-value-explained/) (ACV) on the dwelling, the insurer applies depreciation to your home's structure before writing you a check. A roof that cost $28,000 to install but is 15 years old might get valued at $9,000 after depreciation. That's what ACV pays. If you have Replacement Cost Value (RCV) coverage, you get the full cost to rebuild with comparable materials at today's prices, which, as of 2026, are significantly higher than even three years ago due to ongoing labor shortages and material cost increases.
+If your policy pays [Actual Cash Value](/actual-cash-value-vs-replacement-cost-explained/) (ACV) on the dwelling, the insurer applies depreciation to your home's structure before writing you a check. A roof that cost $28,000 to install but is 15 years old might get valued at $9,000 after depreciation. That's what ACV pays. If you have Replacement Cost Value (RCV) coverage, you get the full cost to rebuild with comparable materials at today's prices, which, as of 2026, are significantly higher than even three years ago due to ongoing labor shortages and material cost increases.
 
 Most policies with RCV coverage actually pay in two stages. The insurer cuts you an initial check for ACV, then releases the remaining "recoverable depreciation" after you complete repairs or rebuild. You typically have 180 days to 2 years to make repairs and claim that recoverable depreciation, depending on the policy. Missing that window means forfeiting the difference.
 

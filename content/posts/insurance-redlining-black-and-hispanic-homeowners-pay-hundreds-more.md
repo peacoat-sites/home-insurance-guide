@@ -44,7 +44,7 @@ What most people don't realize is that insurers rarely say they're pricing by ra
 
 The engineers and architects community has flagged this too, noting that the technical inputs insurers use for property risk assessment can embed historical inequities in infrastructure, maintenance patterns, and investment levels that trace directly back to decades of discriminatory lending and disinvestment. The ZIP code isn't neutral. It carries history.
 
-Insurers will argue that this reflects real actuarial risk, that claims are genuinely higher in some of these areas. That [may have](/your-insurer-may-have-already-inspected-your-home-by-drone/) partial truth to it in specific markets. But the CFA's methodology was designed to test exactly this: if you hold the individual home's characteristics constant and the price still moves based on neighborhood demographics, the individual homeowner isn't being charged for their own risk. They're being charged for their neighbors' demographics. That's the definition of group-based penalization.
+Insurers will argue that this reflects real actuarial risk, that claims are genuinely higher in some of these areas. That [may have](/your-insurer-may-be-watching-from-above-before-dropping-you/) partial truth to it in specific markets. But the CFA's methodology was designed to test exactly this: if you hold the individual home's characteristics constant and the price still moves based on neighborhood demographics, the individual homeowner isn't being charged for their own risk. They're being charged for their neighbors' demographics. That's the definition of group-based penalization.
 
 ## What Regulators Can Actually Do, and the Gap Between "Can" and "Will"
 

@@ -91,7 +91,7 @@ Don't just plug in your address and accept the output. Run the calculator as one
 
 **Step 5: Cross-reference with a local contractor.** This is the step almost no one takes, and it's the most valuable one. A local general contractor can give you a rough cost-per-square-foot estimate for your area and your finish level in about 15 minutes. That number is worth more than any online calculator.
 
-**Step 6: Review annually.** Construction costs change. Your home changes. Set a calendar reminder to revisit your dwelling limit every year at renewal, not just when you first buy the policy. Our guide on [how much home insurance do you need](/how-much-home-insurance-do-you-need/) walks through this ongoing review process in more detail.
+**Step 6: Review annually.** Construction costs change. Your home changes. Set a calendar reminder to revisit your dwelling limit every year at renewal, not just when you first buy the policy. Our guide on [how much home insurance do you need](/how-much-home-insurance-do-i-need/) walks through this ongoing review process in more detail.
 
 ## What About Personal Property and Liability Calculators?
 

@@ -25,7 +25,7 @@ author_title: "Policy Comparison"
 author_bio: "Carl Brooks is the byline used at Home Insurance Clear for articles on policy comparison and the fine print in home insurance contracts. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most [condo owners](/condo-insurance-explained/) are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.
+Most condo owners are carrying the wrong insurance policy right now. Not because they're careless, but because the coverage gap hiding inside condo ownership is genuinely confusing, and the industry doesn't exactly rush to clear it up.
 
 Here's what makes condos different from single-family homes: you don't own the building. You own a unit inside it. Your homeowners association owns the structure, the roof, the exterior walls, the hallways. They carry a master policy for all of that. You're responsible for everything else, which turns out to be more than most people think.
 

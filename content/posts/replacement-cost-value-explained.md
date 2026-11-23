@@ -28,7 +28,7 @@ faqs:
 
 About two-thirds of American homes are underinsured. That's not a scare tactic. That's what the Insurance Information Institute has been tracking for years, and adjusters see it play out on people's kitchen tables every single time a major loss comes in. The homeowner sits across the table thinking they had plenty of coverage. Then the rebuilding cost gets priced out. The gap is almost always thousands of dollars, sometimes tens of thousands, and the reason almost always traces back to one misunderstood term on page four of the policy.
 
-[Replacement cost](/home-insurance-replacement-cost-vs-actual-cash-value/) value. Three words that should be simple. They're not, because the insurance industry has spent decades letting people confuse them with something very different, and that confusion costs ordinary homeowners real money at the worst possible moment.
+[Replacement cost](/actual-cash-value-vs-replacement-cost-explained/) value. Three words that should be simple. They're not, because the insurance industry has spent decades letting people confuse them with something very different, and that confusion costs ordinary homeowners real money at the worst possible moment.
 
 Here's what I want you to actually understand by the time you finish reading this: replacement cost value (RCV) is not what your house is worth on Zillow, and it's not what you paid for it. It's what it would cost to rebuild it from the ground up, today, using current labor and materials prices. That number can be startlingly higher than any figure you've seen elsewhere, and whether your policy uses it matters enormously.
 

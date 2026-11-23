@@ -61,7 +61,7 @@ One more thing landlord policies typically don't cover: your tenant's belongings
 
 ## The Coverage Gap That Catches People Most Often
 
-[Vacant and unoccupied properties](/vacant-home-insurance/) are treated differently still. If your rental sits empty between tenants for more than 30 to 60 days (the threshold varies), some policies suspend coverage or require a vacancy endorsement. This is a detail that trips up a lot of landlords managing turnover.
+[Vacant and unoccupied properties](/unoccupied-home-insurance/) are treated differently still. If your rental sits empty between tenants for more than 30 to 60 days (the threshold varies), some policies suspend coverage or require a vacancy endorsement. This is a detail that trips up a lot of landlords managing turnover.
 
 Short-term rental platforms add another layer of complexity. Renting through Airbnb or Vrbo with a standard landlord policy may not cover you either, because the liability and usage profile is different from a long-term tenant. Some platforms offer their own host protections, but I'd encourage you to read the actual terms and not assume "coverage" means what you think it means. Check [your state's insurance department](https://www.naic.org/state_web_map.htm) for guidance on short-term rental regulations in your area, since some states have specific disclosure requirements too.
 

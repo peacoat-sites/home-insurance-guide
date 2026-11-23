@@ -28,7 +28,7 @@ faqs:
 
 Most people find out what their policy actually covers at the worst possible moment: standing in a gutted kitchen, smoke smell still in the walls, waiting on a claims adjuster who's about to deliver news they weren't prepared for.
 
-A common scenario: a homeowner files a claim after a fire or burst pipe, fully expecting the insurer to cover restoration costs. Instead they receive a check that covers maybe 60 cents on the dollar. This gap is almost always preventable. The culprit, nine times out of ten, is a misunderstanding of four words that appear somewhere in every homeowners policy: *[actual cash value](/actual-cash-value-explained/)* and *replacement cost*.
+A common scenario: a homeowner files a claim after a fire or burst pipe, fully expecting the insurer to cover restoration costs. Instead they receive a check that covers maybe 60 cents on the dollar. This gap is almost always preventable. The culprit, nine times out of ten, is a misunderstanding of four words that appear somewhere in every homeowners policy: *actual cash value* and *replacement cost*.
 
 These aren't just insurance jargon. They represent two fundamentally different promises your insurer is making to you, and the gap between them can be tens of thousands of dollars.
 

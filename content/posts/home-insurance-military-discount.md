@@ -84,7 +84,7 @@ Water leak sensors near your water heater and under sinks are cheap insurance ag
 
 ---
 
-The discount is a place to start, not a reason to [stop asking questions](/homeowners-insurance-shopping-tips/). A 10% savings on a policy that denies your claim during deployment isn't a deal. Know what you're actually buying.
+The discount is a place to start, not a reason to [stop asking questions](/home-insurance-quotes-comparison/). A 10% savings on a policy that denies your claim during deployment isn't a deal. Know what you're actually buying.
 
 ## Sources & References
 

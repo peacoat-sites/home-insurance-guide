@@ -56,7 +56,7 @@ AirCover covers physical damage to your home and belongings caused by guests. It
 
 That liability gap is the one that should concern you most. A guest falls down your stairs, breaks a wrist, and hires an attorney. AirCover won't touch it. According to the National Association of Insurance Commissioners (NAIC), liability claims from rental properties have been rising year over year as short-term rental volume grows. A single premises liability lawsuit can run well past $500,000 in legal fees and settlement before a verdict is even reached.
 
-I had a host tell me she thought AirCover was "basically like insurance." It's closer to a warranty with Airbnb as the judge. File the claim through proper channels anyway, because it does [pay out](/nearly-half-of-home-insurance-claims-now-pay-out-nothing/) for guest damage, but don't let it replace a real policy.
+I had a host tell me she thought AirCover was "basically like insurance." It's closer to a warranty with Airbnb as the judge. File the claim through proper channels anyway, because it does [pay out](/nearly-half-of-home-insurance-claims-go-unpaid-what-the-data-really-sh/) for guest damage, but don't let it replace a real policy.
 
 ## Your Actual Coverage Options, Ranked
 

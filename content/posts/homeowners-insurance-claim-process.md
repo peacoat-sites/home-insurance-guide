@@ -116,7 +116,7 @@ Most denials aren't random. They follow predictable patterns.
 
 **Misrepresentation.** Overstating the value of lost items or claiming items you didn't own is fraud. It also gives the insurer grounds to deny the entire claim under some policy conditions.
 
-**Coverage limits too low.** This isn't a denial, but it's just as painful. If you've made improvements to your home but never updated your coverage, you might receive far less than you need to rebuild. Understanding [how much home insurance you actually need](/how-much-home-insurance-do-you-need/) is worth reviewing before you ever file a claim.
+**Coverage limits too low.** This isn't a denial, but it's just as painful. If you've made improvements to your home but never updated your coverage, you might receive far less than you need to rebuild. Understanding [how much home insurance you actually need](/how-much-home-insurance-do-i-need/) is worth reviewing before you ever file a claim.
 
 For older homes especially, the gap between insured value and actual replacement cost can be significant. The article on [homeowners insurance for older homes](/homeowners-insurance-for-older-homes/) covers this in detail and is worth reading if your home was built before 1980.
 

@@ -49,7 +49,7 @@ Reinsurance pricing is the other piece that doesn't get talked about enough in m
 
 ## What the Coverage Gaps Actually Look Like
 
-Here's where my claims background makes me want to grab people by the shoulders. The rate increases get the headlines, but the coverage erosion happening alongside them is just as important. Insurers under margin pressure have been quietly raising deductibles, capping roof coverage, and switching from replacement cost to [actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/) on older roofs. A lot of Midwest homeowners don't know their policy changed until they file a hail claim and find out their 14-year-old roof is worth $4,200 in actual cash value, not $18,000 to replace it.
+Here's where my claims background makes me want to grab people by the shoulders. The rate increases get the headlines, but the coverage erosion happening alongside them is just as important. Insurers under margin pressure have been quietly raising deductibles, capping roof coverage, and switching from replacement cost to [actual cash value](/actual-cash-value-vs-replacement-cost-explained/) on older roofs. A lot of Midwest homeowners don't know their policy changed until they file a hail claim and find out their 14-year-old roof is worth $4,200 in actual cash value, not $18,000 to replace it.
 
 Sub-limits on outbuildings, detached garages, and farm structures have also tightened in Nebraska and Oklahoma markets specifically. If you haven't re-read your declarations page in the last 18 months, do it this week. Not later. This week.
 

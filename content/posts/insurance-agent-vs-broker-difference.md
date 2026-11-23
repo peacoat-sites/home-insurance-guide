@@ -46,7 +46,7 @@ What most people don't realize is that both types of agents are compensated by c
 
 A broker doesn't hold an appointment with a specific carrier the way an agent does. Instead, they're licensed to shop the market on your behalf and present options from multiple insurers. The legal obligation runs to you, the client, not to an insurer.
 
-In practice, this means a broker will put together a coverage analysis, identify gaps, and compare actual policy language across carriers, not just price. A broker might catch things like ACV ([actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/)) vs. replacement cost on roof coverage that policyholders may not realize they're carrying. That one distinction alone can mean a difference of tens of thousands of dollars on a claim.
+In practice, this means a broker will put together a coverage analysis, identify gaps, and compare actual policy language across carriers, not just price. A broker might catch things like ACV ([actual cash value](/actual-cash-value-vs-replacement-cost-explained/)) vs. replacement cost on roof coverage that policyholders may not realize they're carrying. That one distinction alone can mean a difference of tens of thousands of dollars on a claim.
 
 There's a tradeoff, though. Brokers often charge a broker fee. As of 2026, I see these ranging from about $25 on the low end to $150 or more for complex properties. That fee is usually disclosed upfront, but not always prominently. Ask about it before you assume the quote you're getting is all-in.
 

@@ -71,7 +71,7 @@ One detail only someone who's been inside this process would know: some carriers
 
 I want to linger here because this is the [coverage gap](/home-insurance-coverage-gap/) I saw cause genuine financial devastation to policyholders, and it doesn't get nearly enough attention.
 
-Many policies written today include a provision that covers your roof on an [Actual Cash Value](/home-insurance-replacement-cost-vs-actual-cash-value/) basis rather than Replacement Cost Value once the roof reaches a certain age (often 10 years, sometimes 15). The IBHS home fortification guides are a good reference here; they're explicit about how material age affects both performance and insurability. Under ACV, your insurer depreciates the roof's value. A 15-year-old roof that cost $18,000 to replace might only get you $6,000 in a claim payout after depreciation. You're on the hook for the rest.
+Many policies written today include a provision that covers your roof on an [Actual Cash Value](/actual-cash-value-vs-replacement-cost-explained/) basis rather than Replacement Cost Value once the roof reaches a certain age (often 10 years, sometimes 15). The IBHS home fortification guides are a good reference here; they're explicit about how material age affects both performance and insurability. Under ACV, your insurer depreciates the roof's value. A 15-year-old roof that cost $18,000 to replace might only get you $6,000 in a claim payout after depreciation. You're on the hook for the rest.
 
 A new roof almost always resets your coverage to full replacement cost. The coverage reset is often worth more over the policy's life than the premium discount itself.
 

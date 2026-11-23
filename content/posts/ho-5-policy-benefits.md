@@ -83,7 +83,7 @@ Whether that math works in your favor depends heavily on what you own. If your p
 | Relative annual premium | Baseline | ~10-15% higher |
 | Best fit | Average-risk households | High-value contents, collectors |
 
-The valuation row matters more than most people check. Many HO-3 policies default to [actual cash value](/actual-cash-value-explained/) (ACV) on personal property, meaning depreciation applies. A 4-year-old laptop worth $1,800 new might pay out $600 under ACV. The HO-5 almost universally defaults to replacement cost value (RCV) on contents, one of its strongest practical advantages. Always verify this on your declarations page; policies marketed as HO-5 occasionally have ACV contents riders buried in the endorsement stack with certain regional carriers.
+The valuation row matters more than most people check. Many HO-3 policies default to [actual cash value](/actual-cash-value-vs-replacement-cost-explained/) (ACV) on personal property, meaning depreciation applies. A 4-year-old laptop worth $1,800 new might pay out $600 under ACV. The HO-5 almost universally defaults to replacement cost value (RCV) on contents, one of its strongest practical advantages. Always verify this on your declarations page; policies marketed as HO-5 occasionally have ACV contents riders buried in the endorsement stack with certain regional carriers.
 
 ## Who Actually Needs an HO-5
 

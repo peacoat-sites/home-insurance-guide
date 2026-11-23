@@ -31,7 +31,7 @@ That gap is what this article is about.
 
 Most homeowners assume a dispute means the insurer is acting in bad faith. Sometimes that's true. More often, it's something simpler: genuine disagreement over what the damage actually costs, ambiguous language buried in the policy, or an adjuster who's juggling 80 open files and spent 45 minutes on your roof.
 
-Underpayment beats outright denial most of the time. An adjuster prices your [water-damaged hardwood floors](/home-insurance-water-damage-coverage/) at replacement cost for builder-grade materials when your floors are quarter-sawn white oak. Or a hail claim gets written up as "cosmetic damage" when you know the shingles are genuinely compromised. These aren't fraud, necessarily. They're judgment calls. And judgment calls can be challenged.
+Underpayment beats outright denial most of the time. An adjuster prices your [water-damaged hardwood floors](/does-homeowners-insurance-cover-water-damage/) at replacement cost for builder-grade materials when your floors are quarter-sawn white oak. Or a hail claim gets written up as "cosmetic damage" when you know the shingles are genuinely compromised. These aren't fraud, necessarily. They're judgment calls. And judgment calls can be challenged.
 
 Then there's depreciation. Most standard HO-3 policies use [Actual Cash Value (ACV)](/homeowners-insurance-claim-process/), which means replacement cost minus depreciation. The depreciation schedules adjusters use vary wildly by carrier. A 12-year-old roof might be depreciated at 70% by one company and 55% by another. On a $25,000 replacement, that difference is huge.
 

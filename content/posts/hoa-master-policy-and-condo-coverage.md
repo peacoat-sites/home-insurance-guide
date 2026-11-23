@@ -56,7 +56,7 @@ There are three places where condo owners routinely get exposed. I want to be sp
 
 **Personal property and betterments.** Even a truly all-in master policy won't cover your furniture, clothing, electronics, or the upgraded hardwood floors you installed after you bought the unit. Those "betterments and improvements" are yours to insure. I've talked to owners who assumed their $8,000 custom tile work was covered under the master policy because it was "part of the building." It wasn't.
 
-**The liability gap inside your unit.** If a guest slips on your wet kitchen floor, that's your liability exposure, not a common-area incident. The master policy covers the association. It doesn't step in to defend you personally for what happens inside your unit. Your [HO-6 policy](/condo-insurance-explained/)'s liability coverage handles this. The standard limit is $100,000, which sounds like a lot until someone breaks an ankle and hires an attorney.
+**The liability gap inside your unit.** If a guest slips on your wet kitchen floor, that's your liability exposure, not a common-area incident. The master policy covers the association. It doesn't step in to defend you personally for what happens inside your unit. Your [HO-6 policy](/homeowners-insurance-for-condos/)'s liability coverage handles this. The standard limit is $100,000, which sounds like a lot until someone breaks an ankle and hires an attorney.
 
 ## Reading the Documents You Actually Need
 

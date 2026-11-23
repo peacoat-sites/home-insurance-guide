@@ -54,7 +54,7 @@ This isn't exactly a flaw in the HO-3. It's a design choice. But you should walk
 
 The policy breaks into several coverage components, each with its own limit and its own rules.
 
-**Dwelling coverage (Coverage A)** pays to repair or rebuild your home's structure. The number that matters here isn't your purchase price or current market value. It's *[replacement cost](/home-insurance-replacement-cost-vs-actual-cash-value/)*: what it would actually cost to rebuild from scratch at current labor and material prices. In 2026, with construction costs still elevated across most markets, a surprising number of homeowners are significantly underinsured without knowing it.
+**Dwelling coverage (Coverage A)** pays to repair or rebuild your home's structure. The number that matters here isn't your purchase price or current market value. It's *[replacement cost](/actual-cash-value-vs-replacement-cost-explained/)*: what it would actually cost to rebuild from scratch at current labor and material prices. In 2026, with construction costs still elevated across most markets, a surprising number of homeowners are significantly underinsured without knowing it.
 
 **Other structures (Coverage B)** covers detached garages, fences, sheds. It's automatically set at 10% of your dwelling coverage. For most people that works fine. But if you have a detached workshop you've invested real money into, verify that 10% actually covers it.
 

@@ -57,7 +57,7 @@ Three exclusions catch new homeowners most off guard:
 
 **Earth movement and settlement.** New construction homes settle. Footings cure, soil compresses, and framing adjusts. If that settling causes a crack that lets water in, most policies won't cover the resulting damage because settlement is a standard exclusion. This isn't fraud. It's in the policy language. Read section after section on exclusions before you sign.
 
-**[Vacancy provisions](/vacant-home-insurance/).** If you close on a new build but don't move in for 30 to 60 days, some policies reduce coverage or void certain protections entirely because the home is considered vacant. Check your policy's vacancy clause before you assume occupancy delays are fine.
+**[Vacancy provisions](/unoccupied-home-insurance/).** If you close on a new build but don't move in for 30 to 60 days, some policies reduce coverage or void certain protections entirely because the home is considered vacant. Check your policy's vacancy clause before you assume occupancy delays are fine.
 
 ---
 

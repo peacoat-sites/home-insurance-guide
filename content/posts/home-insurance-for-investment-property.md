@@ -39,13 +39,13 @@ A standard HO-3 homeowners policy is written for owner-occupied residences. The 
 
 Here's the practical problem: many landlords don't realize their coverage is invalid until they file a claim. By then it's too late to fix it retroactively. Some insurers will cancel your policy outright when they discover the property is tenant-occupied. Others will void specific claims tied to rental activity. Either way, you're exposed.
 
-If you only rent occasionally, say you list your home on Airbnb during summer while you travel, you might qualify for a home-sharing endorsement. But if you're renting a property full-time and you don't live there, you need a [landlord insurance policy](/landlord-insurance-vs-homeowners/), sometimes called a dwelling fire policy or DP-3. These are not the same thing as homeowners insurance. The distinction matters enormously.
+If you only rent occasionally, say you list your home on Airbnb during summer while you travel, you might qualify for a home-sharing endorsement. But if you're renting a property full-time and you don't live there, you need a [landlord insurance policy](/homeowners-insurance-for-landlords/), sometimes called a dwelling fire policy or DP-3. These are not the same thing as homeowners insurance. The distinction matters enormously.
 
 ## What Landlord Insurance Actually Covers
 
 Landlord insurance, specifically a DP-3 policy, is designed for non-owner-occupied residential rental properties. Here's what a solid landlord policy typically includes:
 
-**Dwelling coverage:** Protects the structure itself, including the roof, walls, built-in appliances, and permanently attached fixtures. This is the core of any rental property policy, and you'll want it set at replacement cost value, not actual cash value. The difference can be tens of thousands of dollars in a serious loss. If you want to understand how that gap works, the [home insurance replacement cost vs actual cash value](/home-insurance-replacement-cost-vs-actual-cash-value/) comparison is worth reading before you choose a policy.
+**Dwelling coverage:** Protects the structure itself, including the roof, walls, built-in appliances, and permanently attached fixtures. This is the core of any rental property policy, and you'll want it set at replacement cost value, not actual cash value. The difference can be tens of thousands of dollars in a serious loss. If you want to understand how that gap works, the [home insurance replacement cost vs actual cash value](/actual-cash-value-vs-replacement-cost-explained/) comparison is worth reading before you choose a policy.
 
 **Other structures coverage:** Covers [detached garages, fences, and sheds](/homeowners-insurance-detached-garage-coverage/) on the property.
 
@@ -80,7 +80,7 @@ Not all rental situations are identical. Here's a practical breakdown:
 | Multi-unit building (2-4 units) | DP-3 or commercial residential policy |
 | Multi-unit building (5+ units) | Commercial property insurance |
 
-The [vacant property](/vacant-home-insurance/) situation deserves a specific callout. If your rental sits empty between tenants for more than 30 to 60 days (the exact threshold varies by insurer), standard landlord policies may stop covering it. Vacant homes are high-risk: vandalism, pipe freezes, undetected leaks, and fires with no one to call 911. You need a standalone vacant home policy for those periods, or at minimum a vacancy endorsement. The cost is higher than a standard policy, but not as high as an uncovered loss on an empty building.
+The [vacant property](/unoccupied-home-insurance/) situation deserves a specific callout. If your rental sits empty between tenants for more than 30 to 60 days (the exact threshold varies by insurer), standard landlord policies may stop covering it. Vacant homes are high-risk: vandalism, pipe freezes, undetected leaks, and fires with no one to call 911. You need a standalone vacant home policy for those periods, or at minimum a vacancy endorsement. The cost is higher than a standard policy, but not as high as an uncovered loss on an empty building.
 
 For landlords shopping for coverage, a proper [home insurance quotes comparison](/home-insurance-quotes-comparison/) across landlord-specific products matters more than just accepting whoever you use for your primary residence. Coverage terms vary significantly between carriers.
 

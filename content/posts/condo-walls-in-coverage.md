@@ -28,7 +28,7 @@ faqs:
 
 Thirty-seven days into my career reviewing claims, a condo owner named Gerald called me absolutely convinced his HOA's [master policy](/hoa-master-policy-and-condo-coverage/) would cover the water damage that had soaked through his bathroom floor and ruined the unit below. He was wrong. His HOA's policy stopped at the bare concrete. Gerald owed his downstairs neighbor nearly $14,000, and his own HO-6 policy had a coverage limit that didn't come close to what the repairs actually cost. That moment is burned into my memory, because I saw a version of it probably three hundred more times over the next fourteen years.
 
-[Condo insurance](/condo-insurance-explained/) is confusing in a specific, expensive way. The confusion usually lives in one place: the line between what your HOA's master policy covers and what your individual HO-6 policy is supposed to pick up. That line is called "walls-in" coverage, and getting it wrong costs real money.
+[Condo insurance](/homeowners-insurance-for-condos/) is confusing in a specific, expensive way. The confusion usually lives in one place: the line between what your HOA's master policy covers and what your individual HO-6 policy is supposed to pick up. That line is called "walls-in" coverage, and getting it wrong costs real money.
 
 Here's what I want you to walk away knowing, before we go deeper:
 

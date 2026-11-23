@@ -33,7 +33,7 @@ That's the part nobody explains when you're signing your policy.
 
 The moment you file a claim, your insurer does more than just process a payment. They flag your account. The claim gets logged in a database called CLUE, which stands for Comprehensive Loss Underwriting Exchange. This is a report maintained by LexisNexis that insurers use to see your [claims history](/home-insurance-claims-statistics/) across companies, going back up to seven years. Any insurer you apply to in the future can pull this report. It follows you.
 
-At renewal time, underwriters review your file. They're not just looking at whether your claim was legitimate. They're evaluating what your claim says about risk going forward. A [water damage claim](/home-insurance-water-damage-coverage/), for example, often signals to underwriters that there may be ongoing moisture issues in the home. A liability claim might suggest a pattern they want to price accordingly.
+At renewal time, underwriters review your file. They're not just looking at whether your claim was legitimate. They're evaluating what your claim says about risk going forward. A [water damage claim](/does-homeowners-insurance-cover-water-damage/), for example, often signals to underwriters that there may be ongoing moisture issues in the home. A liability claim might suggest a pattern they want to price accordingly.
 
 What happens next falls into three categories: your premium goes up, your policy gets modified with a new exclusion attached to that type of loss, or your insurer decides not to renew you at all. None of these outcomes are guaranteed after a single claim, but all are real possibilities.
 
@@ -104,7 +104,7 @@ Home hardening is one of the most overlooked tools here. Upgrades like impact-re
 
 Installing a water leak sensor in your basement or near your water heater is a concrete step that costs very little and demonstrates proactive risk management. [Water leak sensors on Amazon](https://www.amazon.com/s?k=water+leak+sensor) can run under $30 and some insurers will offer discounts for them (the site may earn a commission on purchases made through that link).
 
-Bundling your home and auto insurance with the same carrier is another lever. You can learn more about how [home insurance bundling discounts](/home-insurance-bundling-discount/) work and whether they apply even after a claim, which they often do.
+Bundling your home and auto insurance with the same carrier is another lever. You can learn more about how [home insurance bundling discounts](/multi-policy-discount-insurance/) work and whether they apply even after a claim, which they often do.
 
 And keep a detailed home inventory. If you ever file another claim, a documented inventory speeds up settlement and reduces disputes. Apps like Encircle or Sortly make this easy. A [fireproof document safe on Amazon](https://www.amazon.com/s?k=fireproof+document+safe) is also worth having for your policy documents and receipts (commission disclosure applies).
 

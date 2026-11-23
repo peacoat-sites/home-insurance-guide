@@ -42,7 +42,7 @@ That's what this article is actually about. Not the pipes themselves. The covera
 | Homeowner maintained adequate heat and precautions | Better coverage prospects | Documentation of prevention measures |
 | Homeowner failed to prevent freezing conditions | Likely denied | Breach of duty to maintain reasonable care |
 
-Most standard homeowners policies cover sudden and accidental [water damage from frozen pipes](/home-insurance-water-damage-coverage/). If a pipe freezes and bursts while you're living normally in your home, your insurer will generally pay to repair the pipe, dry out the structure, replace damaged flooring or drywall, and in some cases cover damaged personal property.
+Most standard homeowners policies cover sudden and accidental [water damage from frozen pipes](/does-homeowners-insurance-cover-water-damage/). If a pipe freezes and bursts while you're living normally in your home, your insurer will generally pay to repair the pipe, dry out the structure, replace damaged flooring or drywall, and in some cases cover damaged personal property.
 
 That word "sudden" is doing a lot of work in that sentence.
 

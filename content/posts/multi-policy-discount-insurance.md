@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people stumble on the multi-policy discount the way they stumble on a lot of things about insurance: by accident, usually years after they've already overpaid. A coworker mentions it. A new agent brings it up during a quote. Or you finally read your renewal notice closely and notice you're paying $340 a year more than your neighbor for almost identical coverage.
 
-[Bundling your home and auto](/home-insurance-bundling-discount/) with one insurer is one of the most consistently solid discounts in personal insurance. Insurers price it into their underwriting models, and you can verify the savings on paper. Discounts typically range from 10% to 25% off combined premiums, though the amount varies by state, carrier, and coverage selections.
+Bundling your home and auto with one insurer is one of the most consistently solid discounts in personal insurance. Insurers price it into their underwriting models, and you can verify the savings on paper. Discounts typically range from 10% to 25% off combined premiums, though the amount varies by state, carrier, and coverage selections.
 
 There's a trap version though. Let me make sure you know the difference before you call anyone.
 

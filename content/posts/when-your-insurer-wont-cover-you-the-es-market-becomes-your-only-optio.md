@@ -56,7 +56,7 @@ According to Matic's December 2025 analysis, E&S products accounted for roughly 
 
 Total surplus lines premiums across 15 stamping-office states hit $90.3 billion through year-end 2025, up 7.8% year-over-year according to WSIA data reported by Insurance Business in January 2026. That growth is slowing slightly from the torrid pace of 2022-2023, but the residential personal lines segment is bucking the moderation trend. The homes segment is still accelerating.
 
-What this means practically: if you receive a non-renewal notice and your agent comes back with an E&S quote, the premium shock is real. E&S carriers price freely, they're responding to [reinsurance costs](/reinsurance-costs-just-fell-hard-will-your-premium-follow/) and catastrophe models that have been recalibrated aggressively since 2020. A policy that cost $1,800 in the admitted market can come back at $3,200-$4,500 in E&S, and that's before you've compared what's actually covered.
+What this means practically: if you receive a non-renewal notice and your agent comes back with an E&S quote, the premium shock is real. E&S carriers price freely, they're responding to [reinsurance costs](/reinsurance-rates-just-fell-sharply-will-your-premium-follow/) and catastrophe models that have been recalibrated aggressively since 2020. A policy that cost $1,800 in the admitted market can come back at $3,200-$4,500 in E&S, and that's before you've compared what's actually covered.
 
 ## What to Do Before You Sign Anything
 

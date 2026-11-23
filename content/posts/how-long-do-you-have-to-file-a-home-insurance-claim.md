@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the time limits for filing a home insurance claim, what triggers the clock, and how to avoid missing critical deadlines."
 image: "/img/heroes/6636326.jpg"
-categories: ["Filing a Claim"]
+categories: ["Claims"]
 tags: ["long", "have", "file", "home", "insurance"]
 author: "Laura Martinez"
 author_slug: "laura-martinez"

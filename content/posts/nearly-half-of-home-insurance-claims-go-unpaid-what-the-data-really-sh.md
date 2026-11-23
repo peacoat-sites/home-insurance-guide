@@ -56,7 +56,7 @@ One finding in the WSJ analysis that didn't get enough coverage: Erie Insurance,
 
 Here's what I tell people about that: regional insurers sometimes maintain tighter underwriting and pricing discipline because they can't dilute risk across the entire country. Erie's underwriting culture is genuinely different from the national carriers, and this data suggests that difference shows up when customers file claims.
 
-This isn't an endorsement of Erie or any specific carrier. What it is, though, is evidence that the 44% figure isn't an inevitable industry-wide ceiling. It reflects specific choices made by specific companies. When you're shopping for coverage or renewing, the insurer's [claims payment history](/why-the-biggest-home-insurers-are-denying-nearly-half-of-all-claims/), not just the premium, is worth researching. Your state insurance commissioner's website often publishes complaint ratios and claim settlement data by company. Use it.
+This isn't an endorsement of Erie or any specific carrier. What it is, though, is evidence that the 44% figure isn't an inevitable industry-wide ceiling. It reflects specific choices made by specific companies. When you're shopping for coverage or renewing, the insurer's claims payment history, not just the premium, is worth researching. Your state insurance commissioner's website often publishes complaint ratios and claim settlement data by company. Use it.
 
 ## Questions to Ask Before Hurricane Season Gets Serious
 
