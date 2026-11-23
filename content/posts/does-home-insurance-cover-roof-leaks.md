@@ -4,7 +4,7 @@ date: 2026-06-01T15:37:42.612271+00:00
 draft: false
 description: "Find out if home insurance covers roof leaks, what conditions apply, and when claims may be denied. Learn how to protect your home and maximize your coverage."
 image: "/img/heroes/37701875.jpg"
-categories: ["coverage"]
+categories: ["Coverage Basics"]
 tags: ["does", "home", "insurance", "cover", "roof"]
 slug: "does-home-insurance-cover-roof-leaks"
 affiliate_disclosure: true

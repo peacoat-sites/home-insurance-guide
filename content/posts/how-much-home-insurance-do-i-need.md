@@ -4,7 +4,7 @@ date: 2026-05-30T10:57:52.818842+00:00
 draft: false
 description: "Find out how much home insurance you really need to protect your property. Learn about coverage types, key factors, and how to calculate the right amount for yo"
 image: "/img/heroes/6761677.jpg"
-categories: ["coverage"]
+categories: ["Coverage Basics"]
 tags: ["much", "home", "insurance", "need"]
 slug: "how-much-home-insurance-do-i-need"
 affiliate_disclosure: true

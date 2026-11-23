@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what home insurance covers for theft, what's excluded, and how to protect your belongings with the right policy limits and coverage options."
 image: "/img/heroes/9928589.jpg"
-categories: ["Does Insurance Cover"]
+categories: ["Coverage Basics"]
 tags: ["does", "home", "insurance", "cover", "theft"]
 author: "Kevin Park"
 author_slug: "kevin-park"

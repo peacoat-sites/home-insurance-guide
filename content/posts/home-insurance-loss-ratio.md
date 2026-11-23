@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how insurance companies use loss ratios to set home insurance premiums and what it means for your coverage costs."
 image: "/img/heroes/17142572.jpg"
-categories: ["General Info"]
+categories: ["Coverage Basics"]
 tags: ["home", "insurance", "loss", "ratio"]
 author: "Kevin Park"
 author_slug: "kevin-park"

@@ -4,7 +4,7 @@ date: 2026-05-31T11:11:32.534003+00:00
 draft: false
 description: "Learn which types of water damage homeowners insurance covers, what it excludes, and how to file a claim to protect your home and get the compensation you deser"
 image: "/img/heroes/35539075.jpg"
-categories: ["coverage"]
+categories: ["Coverage Basics"]
 tags: ["does", "homeowners", "insurance", "cover", "water"]
 slug: "does-homeowners-insurance-cover-water-damage"
 affiliate_disclosure: true

@@ -4,7 +4,7 @@ date: 2026-06-02T12:55:52.595251+00:00
 draft: false
 description: "Choose the right home insurance deductible by balancing upfront costs with monthly premiums. Learn how deductible amounts impact your savings and coverage today"
 image: "/img/heroes/8439732.jpg"
-categories: ["policies"]
+categories: ["Coverage Basics"]
 tags: ["choose", "home", "insurance", "deductible"]
 slug: "how-to-choose-a-home-insurance-deductible"
 affiliate_disclosure: true

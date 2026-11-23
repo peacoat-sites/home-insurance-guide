@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether homeowners insurance covers foundation repair, what damages are typically excluded, and when you'll pay out of pocket."
 image: "/img/heroes/30395714.jpg"
-categories: ["Does Insurance Cover"]
+categories: ["Coverage Basics"]
 tags: ["does", "home", "insurance", "cover", "foundation"]
 author: "Laura Martinez"
 author_slug: "laura-martinez"

@@ -4,7 +4,7 @@ date: 2026-06-12T12:48:17.329478+00:00
 draft: false
 description: "Learn how home insurance replacement cost coverage works, what it pays out after a loss, and why it differs from actual cash value to protect your home fully."
 image: "/img/heroes/34192130.jpg"
-categories: ["coverage"]
+categories: ["Coverage Basics"]
 tags: ["does", "home", "insurance", "replacement", "cost"]
 slug: "how-does-home-insurance-replacement-cost-work"
 affiliate_disclosure: true
