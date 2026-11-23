@@ -25,7 +25,7 @@ faqs:
     a: "A rough rule: if your agricultural activity generates any consistent income, or if you have more than a few thousand dollars of farm equipment or livestock, you've likely outgrown what endorsements alone can cover. A standalone farm owner's policy provides specific coverage for machinery, stored crops, farm liability, and structures in a single package designed for the purpose."
 ---
 
-Rural [homeowners pay](/insurance-redlining-black-and-hispanic-homeowners-pay-hundreds-more/) more for less coverage than their suburban counterparts, and most don't find out until they file a claim. That's the uncomfortable reality. Distance from a fire station, well water instead of municipal supply, outbuildings that standard policies ignore by default, these factors combine to create coverage gaps that can leave you seriously exposed. If you own property outside city limits, the standard HO-3 policy form you'd buy for a suburban ranch house doesn't translate cleanly to your situation.
+Rural homeowners pay more for less coverage than their suburban counterparts, and most don't find out until they file a claim. That's the uncomfortable reality. Distance from a fire station, well water instead of municipal supply, outbuildings that standard policies ignore by default, these factors combine to create coverage gaps that can leave you seriously exposed. If you own property outside city limits, the standard HO-3 policy form you'd buy for a suburban ranch house doesn't translate cleanly to your situation.
 
 The good news is that the gaps are predictable. Once you know where they are, you can close most of them before you need to.
 
@@ -35,7 +35,7 @@ The good news is that the gaps are predictable. Once you know where they are, yo
 
 ## Fire Protection Class: The Rural Premium Driver
 
-[Insurance companies](/best-homeowners-insurance-companies/) rate your property's fire risk on a scale called the ISO Public Protection Classification (PPC), running from 1 (best protection) to 10 (essentially unprotected). Most rural homes land between 7 and 10. That gap from a Class 4 suburban rating to a Class 9 rural rating can account for a significant portion of your premium difference.
+Insurance companies rate your property's fire risk on a scale called the ISO Public Protection Classification (PPC), running from 1 (best protection) to 10 (essentially unprotected). Most rural homes land between 7 and 10. That gap from a Class 4 suburban rating to a Class 9 rural rating can account for a significant portion of your premium difference.
 
 The PPC score depends on three things: the fire department's equipment and staffing, the water supply available to fight a fire, and your property's distance from the responding station. Rural well water and long response times hurt you on all three. If your home is more than five miles from a fire station or more than 1,000 feet from a fire hydrant (or any reliable water supply), expect to land in Class 8 or worse.
 

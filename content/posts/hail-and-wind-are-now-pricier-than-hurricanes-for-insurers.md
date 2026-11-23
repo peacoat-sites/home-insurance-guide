@@ -46,7 +46,7 @@ Here's the market dynamic that should make Midwest homeowners legitimately frust
 
 Hail and wind states are not. The reinsurance repricing that benefits coastal carriers doesn't translate cleanly to SCS-exposed books of business. Severe convective storms are geographically diffuse, strike with little warning, and generate high-frequency moderate losses rather than infrequent catastrophic ones. That loss profile is harder to hedge and more expensive to carry. Insurers writing heavy Midwest and Plains exposure are still absorbing three consecutive years of $50-billion-plus losses with no obvious trend reversal in sight. Policyholders in those markets are paying for that math.
 
-Some carriers have responded by tightening eligibility, not just raising rates. Older roofs, properties with prior hail claims, and homes in higher-density suburban zones are getting non-renewed or quoted with narrower coverage terms. If your renewal arrived with a new cosmetic damage exclusion or a [separate wind and hail deductible](/hail-season-is-here-why-your-deductibles-just-changed/), that's not random. It's underwriting responding to loss data.
+Some carriers have responded by tightening eligibility, not just raising rates. Older roofs, properties with prior hail claims, and homes in higher-density suburban zones are getting non-renewed or quoted with narrower coverage terms. If your renewal arrived with a new cosmetic damage exclusion or a separate wind and hail deductible, that's not random. It's underwriting responding to loss data.
 
 ## El Niño Doesn't Mean What You Think This Season
 

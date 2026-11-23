@@ -1,5 +1,5 @@
 ---
-title: "Does Your Homeowners Policy Cover Hurricane Damage?"
+title: "Does Homeowners Insurance Cover Hurricane Damage?"
 date: 2026-06-20T11:47:30.984727+00:00
 draft: false
 description: "Learn what homeowners insurance covers for hurricane damage, including wind, rain, and flooding, plus how to protect your home and file a claim."

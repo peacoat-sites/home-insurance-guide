@@ -1,5 +1,5 @@
 ---
-title: "Ice Dam Coverage: What $1,200 in Damage Really Costs"
+title: "Is Ice Dam Removal Covered by Insurance?"
 date: 2026-07-24T11:30:37.260811+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

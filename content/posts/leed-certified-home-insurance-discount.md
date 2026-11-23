@@ -1,5 +1,5 @@
 ---
-title: "LEED Certified Homes: 32% Insurance Discount Explained"
+title: "LEED Certified Home Insurance Discount: How to Qualify"
 date: 2026-08-14T10:44:37.257894+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -57,7 +57,7 @@ Here's where I saw homeowners get surprised, and not pleasantly. A LEED Platinum
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) has flagged green reconstruction cost as an emerging coverage gap, specifically because replacement cost calculators built into most policies use conventional material pricing as their benchmark. If your home burns down and you have standard replacement cost coverage, your payout may not cover what it costs to rebuild to your original LEED spec.
 
-What I tell people: ask your insurer explicitly whether they offer "green rebuild" endorsements. Some do. These riders extend coverage to account for green-material cost premiums, sometimes up to 25% above standard [replacement cost](/replacement-cost-value-explained/). They add maybe $80-$150 per year to your premium. Worth it.
+What I tell people: ask your insurer explicitly whether they offer "green rebuild" endorsements. Some do. These riders extend coverage to account for green-material cost premiums, sometimes up to 25% above standard replacement cost. They add maybe $80-$150 per year to your premium. Worth it.
 
 **A worked example:**
 

@@ -1,5 +1,5 @@
 ---
-title: "Does Your Home Insurance Meet Local Code Requirements?"
+title: "Homeowners Insurance and Building Code Compliance Gaps"
 date: 2026-05-27T00:52:55.017393+00:00
 draft: false
 description: "Learn what ordinance or law coverage means for home insurance, why standard policies may fall short, and how this add-on protects you during rebuilds or repairs"

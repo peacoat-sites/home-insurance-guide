@@ -80,7 +80,7 @@ Not all rental situations are identical. Here's a practical breakdown:
 | Multi-unit building (2-4 units) | DP-3 or commercial residential policy |
 | Multi-unit building (5+ units) | Commercial property insurance |
 
-The [vacant property](/unoccupied-home-insurance/) situation deserves a specific callout. If your rental sits empty between tenants for more than 30 to 60 days (the exact threshold varies by insurer), standard landlord policies may stop covering it. Vacant homes are high-risk: vandalism, pipe freezes, undetected leaks, and fires with no one to call 911. You need a standalone vacant home policy for those periods, or at minimum a vacancy endorsement. The cost is higher than a standard policy, but not as high as an uncovered loss on an empty building.
+The vacant property situation deserves a specific callout. If your rental sits empty between tenants for more than 30 to 60 days (the exact threshold varies by insurer), standard landlord policies may stop covering it. Vacant homes are high-risk: vandalism, pipe freezes, undetected leaks, and fires with no one to call 911. You need a standalone vacant home policy for those periods, or at minimum a vacancy endorsement. The cost is higher than a standard policy, but not as high as an uncovered loss on an empty building.
 
 For landlords shopping for coverage, a proper [home insurance quotes comparison](/home-insurance-quotes-comparison/) across landlord-specific products matters more than just accepting whoever you use for your primary residence. Coverage terms vary significantly between carriers.
 

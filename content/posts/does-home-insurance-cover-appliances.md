@@ -25,7 +25,7 @@ faqs:
     a: "Built-in dishwashers that are permanently installed are usually treated as part of the dwelling. Portable, freestanding dishwashers that roll to the sink are personal property. The distinction affects which coverage limit and deductible applies."
 ---
 
-Most [home insurance](/home-insurance-premiums-are-finally-dropping-for-some-homeowners/) policies do cover appliances, but only under very specific circumstances. The coverage usually isn't what you'd hope for when your refrigerator stops cooling or your dishwasher springs a leak, and understanding exactly where the line falls could save you from a nasty surprise after a claim.
+Most home insurance policies do cover appliances, but only under very specific circumstances. The coverage usually isn't what you'd hope for when your refrigerator stops cooling or your dishwasher springs a leak, and understanding exactly where the line falls could save you from a nasty surprise after a claim.
 
 Your homeowner's policy will generally pay for appliance damage caused by a covered peril: fire, lightning, theft, vandalism, or certain types of sudden [water damage](/does-homeowners-insurance-cover-water-damage/). What it won't cover is the vast majority of real-world appliance failures, which tend to be mechanical breakdowns, wear and tear, or manufacturer defects. Those aren't insurance events. They're maintenance problems, and insurers treat them differently.
 

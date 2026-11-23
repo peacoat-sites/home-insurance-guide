@@ -1,5 +1,5 @@
 ---
-title: "How Your Insurance Deductible Really Works"
+title: "Home Insurance Deductible: How It Works"
 date: 2026-05-21T07:58:41.357006+00:00
 draft: false
 description: "Learn what a homeowners insurance deductible is, how it works, and how choosing the right amount can lower your premium and protect your finances when filing a "

@@ -1,5 +1,5 @@
 ---
-title: "Bundle Your Policies And Lower Your Home Insurance"
+title: "Multi-Policy Insurance Discount: Where Bundling Pays"
 date: 2026-06-10T12:48:30.791074+00:00
 draft: false
 description: "Save money by bundling your home, auto, and life insurance policies. Learn how multi-policy discounts work and how to maximize your savings with top insurers."
@@ -43,7 +43,7 @@ Here's the uncomfortable part: the discount doesn't always compensate for covera
 
 This is the part most articles skip. It's also the part I care about most.
 
-Bundling creates loyalty. Loyalty creates inertia. After two or three years with one carrier, most people stop shopping. The insurer knows this. In most states, carriers are permitted to raise renewal premiums incrementally (sometimes called "[price optimization](/home-insurance-loyalty-discount/)") in ways that quietly erase your discount without you noticing.
+Bundling creates loyalty. Loyalty creates inertia. After two or three years with one carrier, most people stop shopping. The insurer knows this. In most states, carriers are permitted to raise renewal premiums incrementally (sometimes called "price optimization") in ways that quietly erase your discount without you noticing.
 
 A common pattern seen across the industry is this: a customer bundles home and auto, saves $280 in year one, receives a small loyalty credit in year two, then experiences 6% to 9% rate increases two years running while assuming they still have a deal. By year four, they were paying more than they would've with separate policies from competitive carriers.
 

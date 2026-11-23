@@ -1,5 +1,5 @@
 ---
-title: "First-Time Homebuyers' Guide to Getting Insured"
+title: "Home Insurance for First-Time Buyers: How to Shop Smart"
 date: 2026-05-18T12:47:17.847300+00:00
 draft: false
 description: "Buying your first home? Discover everything you need to know about home insurance for first time buyers, including costs, coverage types and how to find the bes"
@@ -61,7 +61,7 @@ This is where things get real. Standard HO-3 policies have named exclusions, and
 
 **Flood:** Not covered. Full stop. Homeowner's insurance does not cover flood damage from rising water, storm surge, or overland flooding, regardless of your insurer. Your lender will require a separate flood policy if you're in a FEMA-designated flood zone. If you're not in a mapped flood zone, many buyers skip it. Don't. Research your property's flood history and consider the National Flood Insurance Program or a private flood policy anyway. Roughly 20% of flood claims come from properties outside high-risk zones.
 
-**Earthquake:** Also excluded from standard policies. If you're in a seismically active region, [buy a separate earthquake endorsement](/how-to-lower-homeowners-insurance-cost/) or standalone policy.
+**Earthquake:** Also excluded from standard policies. If you're in a seismically active region, buy a separate earthquake endorsement or standalone policy.
 
 **Sewer Backup:** Sewage backing up through your drains is typically excluded unless you buy a specific endorsement. These endorsements cost $40 to $80 per year. Damage from a sewer backup can easily run into the tens of thousands.
 

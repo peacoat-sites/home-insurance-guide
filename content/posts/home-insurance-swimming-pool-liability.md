@@ -1,5 +1,5 @@
 ---
-title: "Pool Liability Coverage: What Homeowners Need To Know"
+title: "Swimming Pool Liability Insurance: What Homeowners Need"
 date: 2026-06-05T12:23:51.208601+00:00
 draft: false
 description: "Discover how a swimming pool affects your home insurance liability coverage, what risks are involved, and how to protect yourself from costly lawsuits and accid"
@@ -45,7 +45,7 @@ Here's what most people don't realize: the liability limit printed on your decla
 
 The Insurance Information Institute consistently recommends that homeowners with pools carry at least $300,000 to $500,000 in personal liability coverage, and many insurance professionals I know push higher than that. Bumping your limit from $100,000 to $300,000 often costs less than $30 extra per year. It's the cheapest upgrade most pool owners never make.
 
-What standard policies typically will not cover: intentional acts, business use of the pool (think swim lessons for pay), and, in some cases, [injuries to household members](/homeowners-insurance-dog-bite-coverage/). That last one surprises people. If your own child is injured, your homeowner's policy generally won't help. That falls under health insurance.
+What standard policies typically will not cover: intentional acts, business use of the pool (think swim lessons for pay), and, in some cases, injuries to household members. That last one surprises people. If your own child is injured, your homeowner's policy generally won't help. That falls under health insurance.
 
 ## The Disclosure Problem (This One Gets People)
 

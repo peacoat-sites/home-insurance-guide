@@ -1,5 +1,5 @@
 ---
-title: "Why Your Homeowners Policy Needs Updating After Refinancing"
+title: "Home Insurance After Refinancing: What You Need to Update"
 date: 2026-06-09T12:29:12.570861+00:00
 draft: false
 description: "Refinancing your home? Learn how it affects your homeowners insurance, what updates you may need to make, and how to ensure you stay fully protected after closi"
@@ -63,7 +63,7 @@ What surprised me during my adjuster years was how rarely people questioned thei
 
 While you're updating your mortgagee clause anyway, ask your agent to run a current replacement cost estimate on your home. Most insurers use a calculator based on your home's square footage, construction type, and local labor costs. It takes about ten minutes and might reveal a gap that needs addressing.
 
-One more thing: check your liability coverage. A refinance often signals that [your financial situation has changed](/homeowners-insurance-after-marriage/) or your home's value has grown. If you're now sitting on significantly more equity, the standard $100,000 in liability coverage most base policies carry may not be adequate. Umbrella policies are cheap relative to the coverage they provide, typically a few hundred dollars a year for $1 million in additional liability.
+One more thing: check your liability coverage. A refinance often signals that your financial situation has changed or your home's value has grown. If you're now sitting on significantly more equity, the standard $100,000 in liability coverage most base policies carry may not be adequate. Umbrella policies are cheap relative to the coverage they provide, typically a few hundred dollars a year for $1 million in additional liability.
 
 ## Escrow, Premiums, and the Paperwork Black Hole
 

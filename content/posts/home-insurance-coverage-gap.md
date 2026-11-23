@@ -1,5 +1,5 @@
 ---
-title: "80% of Homeowners Have Coverage Gaps: Here's Why"
+title: "Home Insurance Coverage Gaps Most Homeowners Miss"
 date: 2026-07-14T11:16:57.436301+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

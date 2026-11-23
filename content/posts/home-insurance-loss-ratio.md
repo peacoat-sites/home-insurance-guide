@@ -63,7 +63,7 @@ This is the part that frustrates people most, and honestly, it frustrated me too
 
 Your individual risk is only part of what determines your rate. Insurers pool risk by geography, property type, and coverage tier. If your carrier is getting crushed by wildfire claims in one region or hail claims in another, they may spread that cost across the entire portfolio. You can be a 15-year customer with zero claims and still see a 19% rate increase because your carrier's statewide homeowner loss ratio crossed 80%.
 
-Worked example: A homeowner in suburban Columbus, Ohio, no claims in 11 years, gets a renewal notice with a 17% premium increase in early 2025. She calls her agent expecting an explanation tied to her property. It wasn't. Her carrier had taken significant losses from a severe [hail season](/hail-season-is-here-why-your-deductibles-just-changed/) across the Midwest, and the regional loss ratio for their homeowner book had climbed to 84%. Her "reward" for being a good customer was sharing the correction cost with everyone else in the pool.
+Worked example: A homeowner in suburban Columbus, Ohio, no claims in 11 years, gets a renewal notice with a 17% premium increase in early 2025. She calls her agent expecting an explanation tied to her property. It wasn't. Her carrier had taken significant losses from a severe hail season across the Midwest, and the regional loss ratio for their homeowner book had climbed to 84%. Her "reward" for being a good customer was sharing the correction cost with everyone else in the pool.
 
 This is legal. It's standard practice. It's also something most insurers won't explain unprompted.
 

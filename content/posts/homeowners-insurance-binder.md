@@ -38,7 +38,7 @@ This gap is where problems often arise.
 
 A standard binder includes your name, the property address, the policy period (usually 30 to 90 days), the insurer's name, your coverage limits, your deductible, and the name of any mortgagee. That last part matters: if you're financing, the lender's name and loan number need to be listed correctly, or the title company will kick it back.
 
-What it doesn't always include: a full schedule of endorsements. If you added [water backup coverage](/water-leak-sensor-insurance-discount/) or scheduled a valuable piece of jewelry, those additions might not appear on the binder face page. A common scenario: buyers assume the binder reflects their complete coverage, then discover a key endorsement wasn't bound yet. The fix is easy; ask your agent to confirm in writing that all requested endorsements are active as of the binder date.
+What it doesn't always include: a full schedule of endorsements. If you added water backup coverage or scheduled a valuable piece of jewelry, those additions might not appear on the binder face page. A common scenario: buyers assume the binder reflects their complete coverage, then discover a key endorsement wasn't bound yet. The fix is easy; ask your agent to confirm in writing that all requested endorsements are active as of the binder date.
 
 One more thing people miss: a binder is not a policy. If a dispute ever went to coverage litigation, the terms of the eventual issued policy would govern, not the binder. This matters more in theory than in practice for most straightforward closings, but it's worth knowing.
 

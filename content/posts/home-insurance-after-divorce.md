@@ -44,13 +44,13 @@ The National Association of Insurance Commissioners (NAIC) has noted that life c
 
 This isn't a situation where you wait until the divorce is final. You need to act as soon as you know who's staying in the house.
 
-The spouse keeping the home needs to contact the insurer immediately and clarify the named insured situation. Get your name on the policy as the primary. If the current policy is in your ex's name only, you may need to start a [fresh policy](/home-insurance-after-refinancing/). Don't assume you're covered just because you're living there.
+The spouse keeping the home needs to contact the insurer immediately and clarify the named insured situation. Get your name on the policy as the primary. If the current policy is in your ex's name only, you may need to start a fresh policy. Don't assume you're covered just because you're living there.
 
 The spouse who leaves needs to understand something critical: the day you move out, your personal property inside that house is likely no longer covered by the homeowner's policy. Renters insurance for your new place is not optional. Personal property in storage after a move often falls into a coverage gap during the transition.
 
 A few other pressure points worth addressing directly:
 
-Liability coverage. If your ex is still on the policy but no longer lives there, you could have liability exposure tied to their activities. Get clarity on this with your insurer. The Insurance Information Institute (III) recommends reviewing all named insureds whenever there's a [major life change](/homeowners-insurance-after-marriage/), precisely because liability follows named parties, not just the physical dwelling.
+Liability coverage. If your ex is still on the policy but no longer lives there, you could have liability exposure tied to their activities. Get clarity on this with your insurer. The Insurance Information Institute (III) recommends reviewing all named insureds whenever there's a major life change, precisely because liability follows named parties, not just the physical dwelling.
 
 Rebuilding cost estimates. If years have passed since the original policy was written, the dwelling coverage limit may no longer reflect current rebuild costs. Inflation in construction materials has been brutal in recent years, and as of July 2026, rebuild costs per square foot in many markets remain substantially higher than they were even three years ago. A divorce is a natural trigger to get a fresh appraisal and make sure you're not sitting on a $280,000 dwelling limit when your house would cost $410,000 to rebuild.
 

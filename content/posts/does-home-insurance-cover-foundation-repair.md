@@ -26,7 +26,7 @@ faqs:
     a: "If your claim is over $15,000 and you've received a denial or a lowball offer, yes. Public adjusters typically charge 10-15% of the claim settlement, but they know how to build the documentation and argue ensuing loss provisions in ways that most homeowners can't. In my experience adjusting claims, a well-prepared public adjuster filing changed the outcome more often than any other single factor."
 ---
 
-Most homeowners assume their [insurance policy](/insurance-policy-declarations-page/) covers foundation repair. Most homeowners are wrong, and the average cost of finding out the hard way is somewhere between $5,000 and $100,000, depending on how bad things have gotten.
+Most homeowners assume their insurance policy covers foundation repair. Most homeowners are wrong, and the average cost of finding out the hard way is somewhere between $5,000 and $100,000, depending on how bad things have gotten.
 
 That number isn't invented. The Foundation Repair Association estimates that foundation repair in the U.S. costs homeowners between $2,000 on the low end to well over $100,000 for full replacement and stabilization on expansive clay soils. The median repair lands around $4,500 to $7,000 for pier installation or crack injection, but serious structural failure in states like Texas or Oklahoma can blow past $50,000 without blinking. And the policy sitting in your email inbox, the one you paid $1,847 a year for? It almost certainly won't touch it.
 
@@ -50,7 +50,7 @@ It does happen. Rarely, but it happens, and knowing the exact scenarios matters.
 
 **Sudden water damage.** If a supply line under your slab bursts and the resulting water intrusion undermines your foundation, some policies will cover it. The key word is "sudden." A slow leak that went undetected for a year doesn't qualify. A pipe that catastrophically failed last Tuesday might. You'll need a plumber's report establishing the failure date, and you'll want a structural engineer's assessment showing the water event caused the foundation movement, not pre-existing soil conditions.
 
-For example, if a homeowner discovers a burst supply line under her slab after noticing significant floor tilt over a weekend, calling a plumber first and obtaining a written report documenting acute pipe failure can make a critical difference.   In such a scenario, filing with a structural engineer letter linking the water event to differential settlement may result in the insurer paying for slab lifting, pier installation, and plumbing repair under the [water damage](/how-to-file-a-home-insurance-claim-for-water-damage/) provision. Waiting months before filing the same claim would almost certainly result in denial as gradual damage.
+For example, if a homeowner discovers a burst supply line under her slab after noticing significant floor tilt over a weekend, calling a plumber first and obtaining a written report documenting acute pipe failure can make a critical difference.   In such a scenario, filing with a structural engineer letter linking the water event to differential settlement may result in the insurer paying for slab lifting, pier installation, and plumbing repair under the water damage provision. Waiting months before filing the same claim would almost certainly result in denial as gradual damage.
 
 **Fire or explosion.** If fire damage compromises a structural element that then affects the foundation, that typically falls under fire coverage. Rare, but clean coverage when it happens.
 

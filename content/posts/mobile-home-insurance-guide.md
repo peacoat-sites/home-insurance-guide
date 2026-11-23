@@ -36,7 +36,7 @@ Here's what insurers don't advertise and what you should pin down before you ren
 
 ## What You're Actually Buying
 
-Here's what I tell people first: the biggest misunderstanding is thinking mobile home insurance is just regular homeowner's coverage with a different label. It's not. A standard HO-3 policy form, the most common homeowner's policy in the country, explicitly excludes manufactured and mobile homes. If you somehow got an HO-3 written on a mobile home, that's worth a call to your agent, because that policy may not [pay out](/nearly-half-of-home-insurance-claims-go-unpaid-what-the-data-really-sh/) the way you expect.
+Here's what I tell people first: the biggest misunderstanding is thinking mobile home insurance is just regular homeowner's coverage with a different label. It's not. A standard HO-3 policy form, the most common homeowner's policy in the country, explicitly excludes manufactured and mobile homes. If you somehow got an HO-3 written on a mobile home, that's worth a call to your agent, because that policy may not pay out the way you expect.
 
 Mobile and manufactured homes (HUD-code homes built after June 15, 1976, if we're being precise) are insured under what's called an MH or HO-7 policy form. The structure of coverage is similar on the surface: dwelling protection, [personal property](/homeowners-insurance-personal-property-coverage/), liability, additional living expenses if you're displaced. But the devil is in how losses get calculated.
 

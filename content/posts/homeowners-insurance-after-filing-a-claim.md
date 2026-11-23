@@ -1,5 +1,5 @@
 ---
-title: "Will Your Insurer Raise Rates After Filing a Claim?"
+title: "Does Filing a Home Insurance Claim Raise Your Rates?"
 date: 2026-05-19T21:34:58.931899+00:00
 draft: false
 description: "Homeowners insurance coverage after filing a claim: understand how claims affect your rates, policy renewal, and future insurability options."
@@ -25,13 +25,13 @@ author_title: "Risk and Pricing"
 author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You filed a claim last spring after a [burst pipe](/home-insurance-frozen-pipes/) soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.
+You filed a claim last spring after a burst pipe soaked your hardwood floors. The repair went smoothly, the check arrived, and you felt relieved the whole thing was behind you. Then your renewal notice showed up. Your premium jumped 18%. You called your agent, who explained it in vague terms about "risk recalculation," and suddenly you realized: filing that claim started a process you didn't fully understand, and you're still in the middle of it.
 
 That's the part nobody explains when you're signing your policy.
 
 ## What Actually Happens to Your Policy After a Claim
 
-The moment you file a claim, your insurer does more than just process a payment. They flag your account. The claim gets logged in a database called CLUE, which stands for Comprehensive Loss Underwriting Exchange. This is a report maintained by LexisNexis that insurers use to see your [claims history](/home-insurance-claims-statistics/) across companies, going back up to seven years. Any insurer you apply to in the future can pull this report. It follows you.
+The moment you file a claim, your insurer does more than just process a payment. They flag your account. The claim gets logged in a database called CLUE, which stands for Comprehensive Loss Underwriting Exchange. This is a report maintained by LexisNexis that insurers use to see your claims history across companies, going back up to seven years. Any insurer you apply to in the future can pull this report. It follows you.
 
 At renewal time, underwriters review your file. They're not just looking at whether your claim was legitimate. They're evaluating what your claim says about risk going forward. A [water damage claim](/does-homeowners-insurance-cover-water-damage/), for example, often signals to underwriters that there may be ongoing moisture issues in the home. A liability claim might suggest a pattern they want to price accordingly.
 

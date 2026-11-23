@@ -1,5 +1,5 @@
 ---
-title: "When Your Neighbor's Damage Becomes Your Problem"
+title: "Home Insurance and Neighbor Damage Liability Explained"
 date: 2026-06-17T13:34:30.669627+00:00
 draft: false
 description: "Learn how home insurance handles neighbor damage liability, what your policy covers, and steps to take when your property causes harm to a neighbor."
@@ -51,7 +51,7 @@ Your retaining wall collapses and crushes your neighbor's car. An engineer deter
 
 What liability coverage won't do: it won't cover intentional acts. It also won't cover damage to your own property. And it won't substitute for a neighborly conversation. Small claims can spiral into litigation when communication breaks down and legal costs mount.
 
-One thing I see people get confused about: [your liability coverage](/home-insurance-swimming-pool-liability/) follows you personally, not just your home. If you're doing yardwork and accidentally throw a rock through their window with your mower, that's a liability situation too, not just a property damage claim against your own dwelling coverage.
+One thing I see people get confused about: your liability coverage follows you personally, not just your home. If you're doing yardwork and accidentally throw a rock through their window with your mower, that's a liability situation too, not just a property damage claim against your own dwelling coverage.
 
 ## The Negligence Test: Where Every Disputed Claim Lives
 

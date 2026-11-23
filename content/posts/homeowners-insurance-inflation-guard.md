@@ -1,5 +1,5 @@
 ---
-title: "Inflation Guard: Why 55% More Coverage Matters"
+title: "Inflation Guard: What It Does for Your Home Insurance"
 date: 2026-07-13T12:24:09.514011+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

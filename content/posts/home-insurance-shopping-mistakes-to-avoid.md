@@ -76,7 +76,7 @@ Scheduled personal property endorsements matter here too. Standard policies cap 
 
 You renovated your kitchen. Added a finished basement. Put in a pool. Built a detached garage. Each of those increases your home's rebuild cost and potentially adds liability exposure. Your policy, written three years ago, doesn't know any of that happened.
 
-Most people call their insurer once at purchase and then treat the policy as a background utility until they need it. That's the wrong mental model. [Annual review isn't paranoid](/how-to-switch-home-insurance/). It's just sensible. If your dwelling coverage was set correctly in 2022, construction cost inflation alone may have widened a gap since then.
+Most people call their insurer once at purchase and then treat the policy as a background utility until they need it. That's the wrong mental model. Annual review isn't paranoid. It's just sensible. If your dwelling coverage was set correctly in 2022, construction cost inflation alone may have widened a gap since then.
 
 The IBHS home fortification guides are worth reading on this because upgrades that harden your home, impact-resistant roofing, reinforced garage doors, can actually qualify you for premium discounts with many carriers. That fact goes wildly underadvertised.
 

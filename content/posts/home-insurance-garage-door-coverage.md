@@ -1,5 +1,5 @@
 ---
-title: "Does Your Garage Door Damage Really Count?"
+title: "Does Insurance Cover Backing Into a Garage Door?"
 date: 2026-06-23T12:27:21.658353+00:00
 draft: false
 description: "Learn what home insurance covers for garage doors, from storm damage to break-ins, and how to file a claim or add extra protection to your policy."
@@ -45,7 +45,7 @@ Here's what I tell people who are sorting this out: start with the cause, not th
 As of June 2026, 
 Your homeowner's insurance covers your garage door as part of your home's structure, typically under what's called "Coverage A" or "dwelling coverage." The door, the tracks, the opener, the hardware, all of it is considered part of the physical structure of the house. So the coverage exists. The question is whether the *cause* of the damage is a covered peril.
 
-Standard homeowner's policies list covered perils, and most modern policies are "open peril" or "all-risk" on the dwelling, which sounds comprehensive but has significant exceptions. The perils that almost always cover garage door damage include fire, windstorm, hail, lightning, vandalism, and the [weight of ice or snow](/home-insurance-frozen-pipes/). If a tornado took your door clean off the hinges, you're covered. If a hailstorm left the panels pockmarked, you're covered. If someone deliberately smashed it, vandalism coverage applies.
+Standard homeowner's policies list covered perils, and most modern policies are "open peril" or "all-risk" on the dwelling, which sounds comprehensive but has significant exceptions. The perils that almost always cover garage door damage include fire, windstorm, hail, lightning, vandalism, and the weight of ice or snow. If a tornado took your door clean off the hinges, you're covered. If a hailstorm left the panels pockmarked, you're covered. If someone deliberately smashed it, vandalism coverage applies.
 
 What gets people into trouble is the exclusion side. Flood damage is excluded on virtually every standard policy (you'd need a separate NFIP or private flood policy). Earthquake damage is excluded unless you have a rider. And here's the one that catches almost everyone: *wear and tear*. If your door is 20 years old and the springs finally gave out, that's maintenance, not a covered loss. Insurers will not pay for that, and they're right not to. That's what a home maintenance budget is for.
 

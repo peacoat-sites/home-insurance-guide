@@ -68,7 +68,7 @@ This is where it gets practical. There's a real difference between lowering your
 
 **Step 2: Bundle your auto and home policies.** [Multi-policy discounts](/multi-policy-discount-insurance/) are real and often range from 5% to 15%. Just verify the bundled home policy still has the coverage terms you need. A cheap bundled policy is still a cheap policy.
 
-**Step 3: Ask about every discount the carrier offers.** Many people miss: new roof discounts, security system discounts, [claims-free discounts](/home-insurance-loyalty-discount/), loyalty discounts, and discounts for newer construction. Some carriers offer a discount if you pay annually instead of monthly. Call and ask for the full discount list.
+**Step 3: Ask about every discount the carrier offers.** Many people miss: new roof discounts, security system discounts, claims-free discounts, loyalty discounts, and discounts for newer construction. Some carriers offer a discount if you pay annually instead of monthly. Call and ask for the full discount list.
 
 **Step 4: Install monitored [water leak sensors](/water-leak-sensor-insurance-discount/).** Some carriers offer premium reductions for leak detection devices, and even if yours doesn't, you're protecting yourself from the most common source of homeowner claims. Water leak sensors cost under $30 and can alert you before a slow leak becomes a catastrophic one.
 

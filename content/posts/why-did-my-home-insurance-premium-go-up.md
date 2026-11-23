@@ -1,5 +1,5 @@
 ---
-title: "Why Your Home Insurance Premium Went Up This Year"
+title: "Why Did My Homeowners Insurance Go Up and What to Do"
 date: 2026-07-12T11:01:58.632566+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

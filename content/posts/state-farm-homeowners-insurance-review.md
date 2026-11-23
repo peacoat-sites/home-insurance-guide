@@ -25,7 +25,7 @@ faqs:
     a: "Raising your deductible reduces your premium but increases your out-of-pocket exposure on a claim. The math only favors a higher deductible if you can genuinely absorb that amount in cash without hardship. Use a home insurance deductible calculator to model how much premium you'd actually save versus the increased risk you're taking on."
 ---
 
-State Farm writes more [homeowners insurance](/homeowners-insurance-for-landlords/) policies than any other private insurer in the United States. That fact alone makes it worth understanding carefully, because market dominance tells you nothing about whether a policy will actually pay when you need it.
+State Farm writes more homeowners insurance policies than any other private insurer in the United States. That fact alone makes it worth understanding carefully, because market dominance tells you nothing about whether a policy will actually pay when you need it.
 
 This article isn't a glowing endorsement or a takedown. It's a close look at what State Farm's standard homeowners policy covers, where the gaps are, what the company does well on claims, and the questions you should ask before signing anything.
 

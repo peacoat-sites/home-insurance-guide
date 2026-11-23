@@ -25,7 +25,7 @@ faqs:
     a: "Almost certainly. Standard homeowner's policies typically exclude or sharply limit coverage for business property and equipment. If you run any kind of business from home, ask your insurer specifically about a home business endorsement or a separate business owner's policy."
 ---
 
-Most people who file a homeowner's claim discover the same painful truth at the worst possible moment: their insurer will pay for what they can *prove* they owned, not what they remember owning. A [home inventory](/home-inventory-for-insurance-claims/) is how you do that proving. Without one, you're negotiating against an adjuster who does this every day, armed with nothing but your memory and a few blurry photos from a birthday party two years ago.
+Most people who file a homeowner's claim discover the same painful truth at the worst possible moment: their insurer will pay for what they can *prove* they owned, not what they remember owning. A home inventory is how you do that proving. Without one, you're negotiating against an adjuster who does this every day, armed with nothing but your memory and a few blurry photos from a birthday party two years ago.
 
 The good news is that building a solid record isn't complicated. It just requires doing it before you need it.
 

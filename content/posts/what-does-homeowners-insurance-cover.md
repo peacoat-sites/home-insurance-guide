@@ -1,5 +1,5 @@
 ---
-title: "What Your Homeowners Policy Actually Covers"
+title: "Homeowners Insurance Coverage: What Your Policy Includes"
 date: 2026-05-24T10:26:21.169295+00:00
 draft: false
 description: "Discover what homeowners insurance covers, including dwelling protection, personal property, liability, and additional living expenses, so you can choose the ri"

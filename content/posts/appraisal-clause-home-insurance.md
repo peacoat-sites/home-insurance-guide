@@ -54,7 +54,7 @@ The process only addresses the amount of loss. If your insurer is denying covera
 
 ## When to Invoke It (and When Not To)
 
-The appraisal clause is worth invoking when the gap between what you're claiming and what the insurer is offering is significant and specific. If you have a $90,000 [roof and siding loss](/does-home-insurance-cover-roof-leaks/) and the insurer offers $54,000, you have a real valuation dispute. Invoke it.
+The appraisal clause is worth invoking when the gap between what you're claiming and what the insurer is offering is significant and specific. If you have a $90,000 roof and siding loss and the insurer offers $54,000, you have a real valuation dispute. Invoke it.
 
 If the insurer is claiming the damage was pre-existing, or that your policy excludes the peril entirely, appraisal won't solve that. You're trying to use a screwdriver as a hammer.
 

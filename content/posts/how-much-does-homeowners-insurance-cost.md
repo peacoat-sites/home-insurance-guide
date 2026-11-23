@@ -60,7 +60,7 @@ Your premium isn't one price. It's a stack of coverage components bundled togeth
 
 **Other structures (Coverage B)** covers detached garages, fences, and sheds. It's usually set at 10% of your dwelling limit automatically.
 
-**Personal property (Coverage C)** covers your belongings. Standard policies typically offer actual cash value, meaning depreciation is applied. Replacement cost coverage for contents costs more but pays out significantly better after a claim. If you have jewelry, electronics, or collectibles above certain sublimits, you'll need [scheduled endorsements](/home-insurance-endorsements-explained/).
+**Personal property (Coverage C)** covers your belongings. Standard policies typically offer actual cash value, meaning depreciation is applied. Replacement cost coverage for contents costs more but pays out significantly better after a claim. If you have jewelry, electronics, or collectibles above certain sublimits, you'll need scheduled endorsements.
 
 **[Loss of use (Coverage D)](/loss-of-use-coverage-home-insurance/)** pays your living expenses if your home becomes uninhabitable. Most people don't think about this until they're in a hotel for six months after a fire.
 

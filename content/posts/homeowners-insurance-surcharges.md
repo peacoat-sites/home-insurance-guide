@@ -1,5 +1,5 @@
 ---
-title: "Why Your Insurance Company Is Charging Extra Fees"
+title: "Insurance Surcharges on Homeowners Policies Explained"
 date: 2026-05-27T05:55:47.278148+00:00
 draft: false
 description: "Learn what homeowners insurance surcharges are, why insurers add them to your policy, and how to reduce or avoid extra charges on your premium."
@@ -59,7 +59,7 @@ What sets these off? A handful of causes account for most surcharges homeowners 
 
 **Credit-based insurance scores.** Most states let insurers use credit information as a rating factor. A dip in your credit score translates directly into a higher premium. The [Insurance Information Institute](https://www.iii.org/) has published guidance on how this works, and it's worth understanding if you've had any financial disruptions lately.
 
-**[Lapse in coverage](/lender-placed-insurance/).** Even a short gap between policies signals risk to underwriters. Thirty days without insurance during a move or policy dispute can follow you.
+**Lapse in coverage.** Even a short gap between policies signals risk to underwriters. Thirty days without insurance during a move or policy dispute can follow you.
 
 **Home-based business activity.** Running any kind of business from your home without proper endorsements triggers a surcharge or an exclusion. Standard homeowners policies weren't written for business activity.
 

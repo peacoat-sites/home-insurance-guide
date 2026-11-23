@@ -72,7 +72,7 @@ The premium difference for upgrading from ACV to RCV is typically in the range o
 
 Here's a misunderstanding that catches many policyholders off guard. I assumed that if a homeowner had replacement cost on their dwelling, they had it on everything. That's wrong, and it trips up more policyholders than almost any other misunderstanding in the claims process.
 
-Many standard policies cover the dwelling structure under RCV but default [personal property](/scheduled-personal-property-insurance/) (your furniture, clothes, electronics, appliances) to ACV unless you specifically add or upgrade that coverage. You can have a $400,000 RCV policy on your house and a very disappointing payout on the $60,000 worth of stuff inside it.
+Many standard policies cover the dwelling structure under RCV but default personal property (your furniture, clothes, electronics, appliances) to ACV unless you specifically add or upgrade that coverage. You can have a $400,000 RCV policy on your house and a very disappointing payout on the $60,000 worth of stuff inside it.
 
 Read the declarations page. Find the section labeled "Coverage C" or "Personal Property." Look for the words "replacement cost" or "actual cash value." If you're not sure what you have, call your agent and ask directly: "Does my personal property coverage pay replacement cost or actual cash value?" Don't let them answer with marketing language. Push for a yes or no on that specific question. [Your state's insurance department](https://www.naic.org/state_web_map.htm) can also help you understand what disclosures insurers are required to provide in your state.
 

@@ -54,7 +54,7 @@ This isn't surprising if you've worked inside the industry. Insurance regulation
 
 ## What Homeowners Should Actually Be Watching
 
-If you're in one of the four states with a commissioner race, the candidates' positions on a few specific things will matter more than their general rhetoric. Rate filing timelines: how long does a carrier have to wait for approval before a rate increase [takes effect](/colorados-new-wildfire-insurance-law-takes-effect-as-fires-burn/)? Prior approval versus file-and-use rules: can a carrier start charging the new rate immediately and face review later? And market conduct: will the commissioner's office actually investigate claims handling, or focus only on solvency?
+If you're in one of the four states with a commissioner race, the candidates' positions on a few specific things will matter more than their general rhetoric. Rate filing timelines: how long does a carrier have to wait for approval before a rate increase takes effect? Prior approval versus file-and-use rules: can a carrier start charging the new rate immediately and face review later? And market conduct: will the commissioner's office actually investigate claims handling, or focus only on solvency?
 
 These aren't exciting campaign talking points. You're unlikely to hear them in a debate. But they're the levers that directly connect the commissioner's office to your renewal notice. I'd suggest looking at endorsements from state consumer advocacy organizations, not because endorsements are definitive, but because those groups have usually done the homework on where candidates actually stand on the technical stuff.
 

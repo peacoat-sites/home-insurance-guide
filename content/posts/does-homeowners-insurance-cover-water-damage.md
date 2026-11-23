@@ -75,7 +75,7 @@ The flood exclusion isn't a technicality. It's a massive coverage gap that affec
 
 About 20 percent of NFIP flood claims come from homes outside high-risk flood zones, according to federal data. Many homeowners have no idea they need separate coverage because their agent never explained it and they never asked. By the time the water was in the house, it was too late.
 
-The [NFIP has coverage limits](/how-much-home-insurance-do-i-need/): $250,000 for the structure and $100,000 for contents. If your home is worth more than that, or you have significant personal property, you'd need to look at excess flood coverage from private insurers. Premiums vary dramatically based on elevation, proximity to water, and your flood zone designation, so the only way to know your actual cost is to get a quote.
+The NFIP has coverage limits: $250,000 for the structure and $100,000 for contents. If your home is worth more than that, or you have significant personal property, you'd need to look at excess flood coverage from private insurers. Premiums vary dramatically based on elevation, proximity to water, and your flood zone designation, so the only way to know your actual cost is to get a quote.
 
 One thing worth knowing: there's typically a 30-day waiting period before NFIP coverage kicks in. You can't buy it when a hurricane is in the Gulf and expect it to cover the storm surge. This is a feature of the program designed to prevent adverse selection, and it catches people off guard every hurricane season.
 

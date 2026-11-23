@@ -1,5 +1,5 @@
 ---
-title: "Mold Damage: What Your Home Insurance Actually Covers"
+title: "Will Insurance Pay for Mold Removal? What's Covered"
 date: 2026-06-19T13:27:43.924470+00:00
 draft: false
 description: "Find out if home insurance covers mold removal, what policies typically include, and how to file a claim for mold damage in your house."

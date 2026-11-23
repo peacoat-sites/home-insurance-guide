@@ -1,5 +1,5 @@
 ---
-title: "Does Your Homeowners Policy Cover Frozen Pipes?"
+title: "Does Homeowners Insurance Cover Frozen Pipes?"
 date: 2026-07-07T12:18:41.108003+00:00
 draft: false
 description: "Learn how home insurance covers frozen pipe damage, what claims are typically denied, and how to protect your home before winter strikes."
@@ -62,7 +62,7 @@ Vacancy thresholds in exclusion language are strict: a home vacant for just one 
 
 That situation stuck with me. $40,000. One day.
 
-If you have a winter home, a rental property that sits empty between tenants, or you're planning any trip longer than a month, call your insurer before you leave and ask explicitly: "Is my [frozen pipe coverage affected](/home-insurance-dispute-resolution/) by how long the home is unoccupied?" Get the answer in writing if you can.
+If you have a winter home, a rental property that sits empty between tenants, or you're planning any trip longer than a month, call your insurer before you leave and ask explicitly: "Is my frozen pipe coverage affected by how long the home is unoccupied?" Get the answer in writing if you can.
 
 ## What the Claim Process Actually Looks Like
 

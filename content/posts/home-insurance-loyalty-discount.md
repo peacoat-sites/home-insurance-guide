@@ -1,5 +1,5 @@
 ---
-title: "Loyalty Rewards: How Long Homeowners Keep Their Insurer"
+title: "Home Insurance Loyalty Discounts: Are They Worth It?"
 date: 2026-06-26T12:05:13.077420+00:00
 draft: false
 description: "Find out how home insurance loyalty discounts work, how much you can save, and whether staying with your insurer beats switching to a cheaper policy."

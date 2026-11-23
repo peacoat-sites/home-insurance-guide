@@ -1,5 +1,5 @@
 ---
-title: "Home Insurance Claims: Deadlines and Filing Requirements"
+title: "How Long You Have to File a Home Insurance Claim"
 date: 2026-08-06T11:54:26.387657+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

@@ -58,7 +58,7 @@ Can you maintain coverage while deployed without a vacancy exclusion kicking in?
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) published guidance specifically for servicemembers on insurance rights and what to watch for during active duty, including state-level protections you probably don't know about. Spend 20 minutes reading it.
 
-One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a [landlord policy](/best-homeowners-insurance-companies/) (sometimes called a dwelling fire policy). Damage caused by tenants can trigger claim denials under a standard homeowner's policy. The premium difference is real. So is the coverage gap.
+One more thing: if you own a home you're renting out while stationed elsewhere, your standard homeowner's policy almost certainly doesn't cover it. You need a landlord policy (sometimes called a dwelling fire policy). Damage caused by tenants can trigger claim denials under a standard homeowner's policy. The premium difference is real. So is the coverage gap.
 
 ## How to Actually Ask for the Discount (Without Getting the Runaround)
 

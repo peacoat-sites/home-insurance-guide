@@ -1,5 +1,5 @@
 ---
-title: "When Your Homeowners Policy Isn't Enough: Umbrella Coverage Explained"
+title: "What Is Not Covered by an Umbrella Policy?"
 date: 2026-05-19T07:40:50.095874+00:00
 draft: false
 description: "Discover how a home insurance umbrella policy adds extra liability protection beyond standard coverage, safeguarding your assets from costly lawsuits and unexpe"

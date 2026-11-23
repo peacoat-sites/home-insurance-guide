@@ -1,5 +1,5 @@
 ---
-title: "Does Your Homeowners Policy Cover Sewer Backup?"
+title: "Is Sewer Backup Covered by Homeowners Insurance?"
 date: 2026-06-18T12:46:17.687060+00:00
 draft: false
 description: "Learn how home insurance sewer backup coverage works, what it covers, policy limits, and how to add this essential endorsement to protect your home."
@@ -58,7 +58,7 @@ Push your insurer for higher limits. $25,000 is a more realistic floor if you ha
 
 The premium for water backup coverage varies by region, home age, and your existing policy, but you're typically looking at $40 to $150 a year for a basic endorsement. For a risk that the [Insurance Information Institute](https://www.iii.org/) has described as one of the fastest-growing sources of homeowner losses, the endorsement is priced like an afterthought.
 
-Here's my contrarian take: this is one of the few insurance add-ons that genuinely earns its price, every time, no debate. I'm usually skeptical of upsells. Extended replacement cost endorsements, scheduled personal property riders, [equipment breakdown coverage](/home-insurance-umbrella-policy/), all worth scrutinizing carefully. Water backup? Just get it. Especially if your home was built before 1980, when clay or cast-iron lateral lines were common and root intrusion is practically inevitable over time. Especially if you have a finished basement. Especially if your neighborhood sees heavy rain events.
+Here's my contrarian take: this is one of the few insurance add-ons that genuinely earns its price, every time, no debate. I'm usually skeptical of upsells. Extended replacement cost endorsements, scheduled personal property riders, equipment breakdown coverage, all worth scrutinizing carefully. Water backup? Just get it. Especially if your home was built before 1980, when clay or cast-iron lateral lines were common and root intrusion is practically inevitable over time. Especially if you have a finished basement. Especially if your neighborhood sees heavy rain events.
 
 The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) tracks consumer complaints by coverage type, and water damage disputes are consistently near the top. A significant slice of those are people who thought they were covered and weren't.
 

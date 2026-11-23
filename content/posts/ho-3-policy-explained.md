@@ -54,11 +54,11 @@ This isn't exactly a flaw in the HO-3. It's a design choice. But you should walk
 
 The policy breaks into several coverage components, each with its own limit and its own rules.
 
-**Dwelling coverage (Coverage A)** pays to repair or rebuild your home's structure. The number that matters here isn't your purchase price or current market value. It's *[replacement cost](/actual-cash-value-vs-replacement-cost-explained/)*: what it would actually cost to rebuild from scratch at current labor and material prices. In 2026, with construction costs still elevated across most markets, a surprising number of homeowners are significantly underinsured without knowing it.
+**Dwelling coverage (Coverage A)** pays to repair or rebuild your home's structure. The number that matters here isn't your purchase price or current market value. It's *replacement cost*: what it would actually cost to rebuild from scratch at current labor and material prices. In 2026, with construction costs still elevated across most markets, a surprising number of homeowners are significantly underinsured without knowing it.
 
 **Other structures (Coverage B)** covers detached garages, fences, sheds. It's automatically set at 10% of your dwelling coverage. For most people that works fine. But if you have a detached workshop you've invested real money into, verify that 10% actually covers it.
 
-**Personal property (Coverage C)** gets complicated fast. Most policies set this at 50% to 70% of your dwelling coverage, which feels substantial until you actually count everything you own. Jewelry, electronics, and collectibles often have sub-limits buried in the fine print, sometimes as low as $1,500 for jewelry theft. If you own anything valuable in those categories, you need a separate [scheduled endorsement](/home-insurance-endorsements-explained/).
+**Personal property (Coverage C)** gets complicated fast. Most policies set this at 50% to 70% of your dwelling coverage, which feels substantial until you actually count everything you own. Jewelry, electronics, and collectibles often have sub-limits buried in the fine print, sometimes as low as $1,500 for jewelry theft. If you own anything valuable in those categories, you need a separate scheduled endorsement.
 
 **[Loss of use (Coverage D)](/loss-of-use-coverage-home-insurance/)** pays additional living expenses if your home becomes unlivable after a covered loss. Hotel bills, restaurant meals beyond your usual spending, temporary rental costs. This one rescues people financially after major losses and hardly anyone thinks about it when buying the policy.
 

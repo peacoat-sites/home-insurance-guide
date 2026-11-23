@@ -26,7 +26,7 @@ faqs:
     a: "Not necessarily, but it's complicated. Agents have what's called a 'duty to advise' in some states, and there have been successful E&O (errors and omissions) claims against agents who recommended clearly inadequate coverage. It's rare to win, honestly, but it's not impossible. Document everything your agent tells you, in writing, whenever you can."
 ---
 
-Most people assume the person selling them [home insurance](/home-insurance-dispute-resolution/) is working for them. That assumption has cost more homeowners than I can count.
+Most people assume the person selling them home insurance is working for them. That assumption has cost more homeowners than I can count.
 
 I spent 14 years on the claims side of this industry, and I watched the confusion play out constantly. Someone would call in frustrated after a denial, convinced their agent had promised them coverage. Nine times out of ten, the problem started long before the claim, at the moment they bought the policy and didn't understand who, exactly, they were talking to.
 

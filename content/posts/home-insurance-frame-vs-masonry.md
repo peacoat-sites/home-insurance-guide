@@ -1,5 +1,5 @@
 ---
-title: "Frame vs Masonry Homes: 25% Insurance Cost Difference"
+title: "Wood-Frame vs. Brick Home Insurance Cost Differences"
 date: 2026-11-17T18:49:23.672370+00:00
 draft: false
 description: "Compare frame and masonry home insurance costs and coverage. Learn how construction type affects your premiums and protection."
@@ -75,7 +75,7 @@ If you own a frame home, you're not stuck. A few actions that move the needle:
 
 Installing a monitored fire alarm system and a whole-home sprinkler system (if feasible) can reduce the insurer's fire severity assumption. Home sprinklers are expensive to retrofit but are sometimes required in new construction; if your home already has them, make absolutely sure your insurer knows. Sprinklers can reduce your fire premium significantly depending on the carrier.
 
-If you're buying, ask the seller for the original building permits and a full structural description. Know before you close whether you're buying frame, veneer, or true masonry. It affects your [insurance cost](/how-much-does-homeowners-insurance-cost/) from day one.
+If you're buying, ask the seller for the original building permits and a full structural description. Know before you close whether you're buying frame, veneer, or true masonry. It affects your insurance cost from day one.
 
 If you're shopping policies, request quotes with the construction type explicitly stated, and ask each insurer how they rate masonry veneer specifically. Answers will vary. That variance is information.
 

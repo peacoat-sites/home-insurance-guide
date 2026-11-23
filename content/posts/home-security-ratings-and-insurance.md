@@ -78,7 +78,7 @@ Step five: consider [water leak sensors](https://www.amazon.com/s?k=water+leak+s
 
 Not all monitoring is equal, and switching companies without telling your insurer can void your discount.
 
-I handled a claim where a homeowner switched from a UL-listed monitoring company to a cheaper regional alternative to save $10 a month. Never told the insurer. When a burglary happened, the insurer's investigation found the gap in monitoring, flagged it as a [material change in risk](/homeowners-insurance-surcharges/), and the claim process got complicated fast.
+I handled a claim where a homeowner switched from a UL-listed monitoring company to a cheaper regional alternative to save $10 a month. Never told the insurer. When a burglary happened, the insurer's investigation found the gap in monitoring, flagged it as a material change in risk, and the claim process got complicated fast.
 
 Your insurer's rating of your home is based on the setup you disclosed. If that changes, tell them.
 

@@ -1,5 +1,5 @@
 ---
-title: "Required Home Insurance vs. What You Choose"
+title: "Required vs. Optional Home Insurance Coverage Explained"
 date: 2026-05-25T03:05:17.076057+00:00
 draft: false
 description: "Discover which home insurance coverages are legally required and which are optional. Learn how to protect your home and finances with the right policy choices."

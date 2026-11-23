@@ -1,5 +1,5 @@
 ---
-title: "HO-1 Homeowners Insurance: 16 Key Coverage Limits Explained"
+title: "HO-1 Insurance: What It Covers and Why It Still Exists"
 date: 2026-08-08T10:17:31.747878+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

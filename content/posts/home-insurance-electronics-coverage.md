@@ -1,5 +1,5 @@
 ---
-title: "Your Electronics Deserve Real Coverage at Home"
+title: "Insurance for Electronic Devices: What Home Policies Cover"
 date: 2026-06-08T13:59:17.909338+00:00
 draft: false
 description: "Protect your TVs, laptops, and gadgets with home insurance electronics coverage. Learn what's covered, what's excluded, and how to maximize your policy today."

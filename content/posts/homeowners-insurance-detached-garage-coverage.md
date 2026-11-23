@@ -65,7 +65,7 @@ A few situations come up constantly that throw people off.
 
 **Renting out the garage.** If you rent your detached garage to someone, for storage, as a workshop, for parking, Coverage B likely won't apply to that structure at all. Standard policy language excludes structures "rented to others." Some insurers will add an endorsement for this; some won't. You need to tell your agent before you collect a dime, not after something goes wrong.
 
-**Using it for a business.** Similar problem. If you're doing auto repairs for customers, [running a small contracting operation](/homeowners-insurance-for-landlords/), or even storing business inventory in there, you've probably voided or severely limited your coverage without knowing it. A business owner's policy (BOP) or commercial property rider is what you'd need.
+**Using it for a business.** Similar problem. If you're doing auto repairs for customers, running a small contracting operation, or even storing business inventory in there, you've probably voided or severely limited your coverage without knowing it. A business owner's policy (BOP) or commercial property rider is what you'd need.
 
 **Earthquake and flood.** Neither is covered under a standard HO-3 for the main dwelling or for other structures. This catches people in California and Gulf Coast states especially hard. If a flood takes out your detached garage, your homeowners policy won't help. That's a separate NFIP or private flood policy, and even then, detached structures have their own coverage rules under the NFIP. Check with your state's insurance department (you can find yours through [NAIC's state map](https://www.naic.org/state_web_map.htm)) if you're not sure what's available in your area.
 

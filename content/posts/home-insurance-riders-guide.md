@@ -28,7 +28,7 @@ faqs:
 
 Most people buy a home [insurance policy](/insurance-policy-declarations-page/), shove the declaration page in a drawer, and assume they're covered. I spent 14 years on the other side of that assumption, reviewing claims where people discovered exactly how wrong they were, usually at the worst possible moment.
 
-Riders (also called endorsements, depending on your carrier) are the patches you bolt onto a standard policy to fill coverage gaps that the base policy quietly ignores. They're one of the most underexplained parts of [home insurance](/home-insurance-for-first-time-buyers/), and I'll be honest, the industry doesn't exactly go out of its way to market them aggressively. Carriers earn more when you're underinsured and then don't file. That's not a conspiracy theory, it's just economics.
+Riders (also called endorsements, depending on your carrier) are the patches you bolt onto a standard policy to fill coverage gaps that the base policy quietly ignores. They're one of the most underexplained parts of home insurance, and I'll be honest, the industry doesn't exactly go out of its way to market them aggressively. Carriers earn more when you're underinsured and then don't file. That's not a conspiracy theory, it's just economics.
 
 Many riders cost almost nothing per year but protect against losses that run into tens of thousands of dollars. The math on that is almost embarrassing.
 

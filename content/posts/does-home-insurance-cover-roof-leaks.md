@@ -79,7 +79,7 @@ Here's how the typical claim breaks down:
 
 **Dwelling coverage (Coverage A)** pays for structural damage, including the roof itself, the decking underneath, interior framing, ceilings, and walls. This is where the cost of actually repairing the roof and drying out the structure comes from.
 
-**Personal property coverage (Coverage C)** can cover belongings damaged by the covered water intrusion: furniture, clothing, electronics soaked by the leak. Note that coverage limits and sub-limits vary widely. Check whether your policy covers personal property at actual cash value (ACV) or [replacement cost value (RCV)](/how-does-home-insurance-replacement-cost-work/). ACV deducts depreciation, meaning a five-year-old couch gets paid out at what it's worth now, not what it costs to replace.
+**Personal property coverage (Coverage C)** can cover belongings damaged by the covered water intrusion: furniture, clothing, electronics soaked by the leak. Note that coverage limits and sub-limits vary widely. Check whether your policy covers personal property at actual cash value (ACV) or replacement cost value (RCV). ACV deducts depreciation, meaning a five-year-old couch gets paid out at what it's worth now, not what it costs to replace.
 
 **[Additional living expenses (Coverage D)](/loss-of-use-coverage-home-insurance/)** may kick in if the damage makes your home temporarily uninhabitable. This covers hotel stays and meals above your normal food costs while repairs happen.
 

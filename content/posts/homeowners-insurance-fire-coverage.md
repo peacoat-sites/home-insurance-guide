@@ -1,5 +1,5 @@
 ---
-title: "Does Your Homeowners Policy Cover Fire Damage?"
+title: "Does Homeowners Insurance Cover Fire Damage?"
 date: 2026-05-23T03:32:50.529878+00:00
 draft: false
 description: "Learn what homeowners insurance fire coverage includes, what it excludes, and how to ensure your home and belongings are fully protected after a fire."

@@ -61,7 +61,7 @@ The shutoff systems are where insurer interest really spikes. Automatic water sh
 
 Don't guess. Call your insurer directly and ask these specific questions:
 
-Do you offer a [discount for water leak sensors](/how-to-lower-homeowners-insurance-cost/) or automatic water shutoff devices? If yes, what type of device qualifies? Does it need to be professionally installed? What documentation do I need to provide? What is the discount, and is it applied to my full premium or a specific coverage line?
+Do you offer a discount for water leak sensors or automatic water shutoff devices? If yes, what type of device qualifies? Does it need to be professionally installed? What documentation do I need to provide? What is the discount, and is it applied to my full premium or a specific coverage line?
 
 That last question matters more than most people realize. A 10% discount on your "water damage coverage" might sound meaningful but could translate to $8 off a $1,200 annual premium. Or it could be $60. The range is genuinely wide and you won't know until you ask.
 

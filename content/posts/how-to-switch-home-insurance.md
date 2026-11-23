@@ -51,7 +51,7 @@ The most obvious trigger is price. If your premium jumped significantly at renew
 
 The less obvious triggers matter more, honestly. A rate increase you can't explain is annoying. But inadequate coverage is dangerous. A common gap emerges after major losses: what policyholders thought they had versus what their policy actually paid. If your dwelling coverage hasn't kept pace with local construction costs, or if your policy still carries actual cash value on your roof instead of replacement cost, you may be technically insured but practically underinsured. Before you compare prices, spend a few minutes with your current declarations page and cross-reference it against a [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) to understand where you stand.
 
-Other legitimate reasons to switch exist. Your insurer's [claims handling reputation](/homeowners-insurance-binder/) declined. You've added a major structure or renovation that changed your risk profile and your current carrier isn't repricing fairly. A life event (marriage, a home-based business, adding a pool) has changed what you actually need.
+Other legitimate reasons to switch exist. Your insurer's claims handling reputation declined. You've added a major structure or renovation that changed your risk profile and your current carrier isn't repricing fairly. A life event (marriage, a home-based business, adding a pool) has changed what you actually need.
 
 Switching for a $40 annual savings? Not worth the hassle. Switching for $300 or more a year, or to get meaningfully better coverage? Almost always worth it.
 

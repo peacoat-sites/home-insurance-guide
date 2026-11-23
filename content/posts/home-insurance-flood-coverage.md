@@ -54,7 +54,7 @@ There are other meaningful gaps:
 - Temporary living expenses (additional living expenses) aren't covered by the NFIP. If your home becomes uninhabitable after a flood, you're paying for the hotel yourself.
 - Landscaping, decks, patios, fences, and swimming pools are excluded.
 - Vehicles aren't covered (that's what comprehensive auto coverage handles).
-- [Damage from mold or mildew](/home-insurance-sewer-backup-coverage/) that you could have prevented after the flood isn't covered.
+- Damage from mold or mildew that you could have prevented after the flood isn't covered.
 
 Because NFIP caps are modest, homeowners with higher-value properties often need excess flood insurance from private carriers, which layers additional coverage above NFIP limits. If you're trying to understand how your overall coverage fits together, our [home insurance coverage limits guide](/home-insurance-coverage-limits-guide/) walks through what "enough" actually looks like for your specific home.
 

@@ -1,5 +1,5 @@
 ---
-title: "Add Coverage Without Buying a New Policy"
+title: "Homeowners Insurance Endorsements: The Ones That Matter"
 date: 2026-07-04T11:16:58.462114+00:00
 draft: false
 description: "Learn how home insurance endorsements can customize your policy to fill coverage gaps and better protect your home, belongings, and finances."

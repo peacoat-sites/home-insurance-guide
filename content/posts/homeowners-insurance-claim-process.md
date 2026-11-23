@@ -25,7 +25,7 @@ author_title: "Coverage Basics"
 author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most homeowners never read their policy until the moment they need it. A [pipe bursts](/home-insurance-frozen-pipes/) at 11 p.m., water spreads across the hardwood floors, and suddenly you're squinting at a 60-page document trying to figure out what comes next. The homeowners who navigate claims smoothly aren't the ones with the best policies, they're the ones who knew what to expect before disaster struck. The process has more steps than insurers advertise, and the gaps where claims go sideways are entirely predictable.
+Most homeowners never read their policy until the moment they need it. A pipe bursts at 11 p.m., water spreads across the hardwood floors, and suddenly you're squinting at a 60-page document trying to figure out what comes next. The homeowners who navigate claims smoothly aren't the ones with the best policies, they're the ones who knew what to expect before disaster struck. The process has more steps than insurers advertise, and the gaps where claims go sideways are entirely predictable.
 
 ---
 

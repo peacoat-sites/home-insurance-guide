@@ -1,5 +1,5 @@
 ---
-title: "Renters vs. Homeowners: Which Coverage Do You Need?"
+title: "Homeowners vs. Renters Insurance: Which Do You Need?"
 date: 2026-05-21T07:39:23.227678+00:00
 draft: false
 description: "Discover the key differences between home insurance and renters insurance, what each policy covers, and which one you need to protect your property and belongin"

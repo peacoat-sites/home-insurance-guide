@@ -55,7 +55,7 @@ The big ones:
 
 **Minimum deductible limits.** Some lenders cap how high your deductible can be, typically somewhere around $1,000 to $5,000, though this varies. They want to know you can actually afford to file a claim and start repairs without the property sitting damaged.
 
-**Additional requirements in high-risk areas.** If you're buying in a FEMA-designated flood zone, your lender will require a [separate flood insurance policy](/escrow-and-home-insurance/) through the National Flood Insurance Program or a private carrier. In hurricane-prone coastal states, they may require a separate windstorm policy. Earthquake coverage is less universal but still required by some lenders in seismic zones.
+**Additional requirements in high-risk areas.** If you're buying in a FEMA-designated flood zone, your lender will require a separate flood insurance policy through the National Flood Insurance Program or a private carrier. In hurricane-prone coastal states, they may require a separate windstorm policy. Earthquake coverage is less universal but still required by some lenders in seismic zones.
 
 ## The Replacement Cost Calculation Is Where Things Get Sticky
 
