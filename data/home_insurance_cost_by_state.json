@@ -1,0 +1,387 @@
+{
+ "title": "Average home insurance cost by state, 2026",
+ "search_placeholder": "Search your state",
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "annual",
+   "label": "Avg annual cost"
+  },
+  {
+   "key": "monthly",
+   "label": "Avg monthly"
+  },
+  {
+   "key": "vs",
+   "label": "vs. national ($2,490)"
+  },
+  {
+   "key": "rank",
+   "label": "Rank (1 = most expensive)"
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "annual": "$4,285",
+   "monthly": "$357",
+   "vs": "+72%",
+   "rank": 7
+  },
+  {
+   "state": "Alaska",
+   "annual": "$1,385",
+   "monthly": "$115",
+   "vs": "-44%",
+   "rank": 48
+  },
+  {
+   "state": "Arizona",
+   "annual": "$3,415",
+   "monthly": "$285",
+   "vs": "+37%",
+   "rank": 17
+  },
+  {
+   "state": "Arkansas",
+   "annual": "$4,955",
+   "monthly": "$413",
+   "vs": "+99%",
+   "rank": 4
+  },
+  {
+   "state": "California",
+   "annual": "$1,820",
+   "monthly": "$152",
+   "vs": "-27%",
+   "rank": 36
+  },
+  {
+   "state": "Colorado",
+   "annual": "$3,910",
+   "monthly": "$326",
+   "vs": "+57%",
+   "rank": 10
+  },
+  {
+   "state": "Connecticut",
+   "annual": "$2,135",
+   "monthly": "$178",
+   "vs": "-14%",
+   "rank": 32
+  },
+  {
+   "state": "Delaware",
+   "annual": "$1,365",
+   "monthly": "$114",
+   "vs": "-45%",
+   "rank": 49
+  },
+  {
+   "state": "Florida",
+   "annual": "$2,845",
+   "monthly": "$237",
+   "vs": "+14%",
+   "rank": 23
+  },
+  {
+   "state": "Georgia",
+   "annual": "$3,225",
+   "monthly": "$269",
+   "vs": "+30%",
+   "rank": 19
+  },
+  {
+   "state": "Hawaii",
+   "annual": "$900",
+   "monthly": "$75",
+   "vs": "-64%",
+   "rank": 51
+  },
+  {
+   "state": "Idaho",
+   "annual": "$2,195",
+   "monthly": "$183",
+   "vs": "-12%",
+   "rank": 30
+  },
+  {
+   "state": "Illinois",
+   "annual": "$3,240",
+   "monthly": "$270",
+   "vs": "+30%",
+   "rank": 18
+  },
+  {
+   "state": "Indiana",
+   "annual": "$2,985",
+   "monthly": "$249",
+   "vs": "+20%",
+   "rank": 22
+  },
+  {
+   "state": "Iowa",
+   "annual": "$3,765",
+   "monthly": "$314",
+   "vs": "+51%",
+   "rank": 13
+  },
+  {
+   "state": "Kansas",
+   "annual": "$5,455",
+   "monthly": "$455",
+   "vs": "+119%",
+   "rank": 3
+  },
+  {
+   "state": "Kentucky",
+   "annual": "$3,795",
+   "monthly": "$316",
+   "vs": "+52%",
+   "rank": 12
+  },
+  {
+   "state": "Louisiana",
+   "annual": "$2,020",
+   "monthly": "$168",
+   "vs": "-19%",
+   "rank": 34
+  },
+  {
+   "state": "Maine",
+   "annual": "$1,525",
+   "monthly": "$127",
+   "vs": "-39%",
+   "rank": 45
+  },
+  {
+   "state": "Maryland",
+   "annual": "$2,375",
+   "monthly": "$198",
+   "vs": "-5%",
+   "rank": 27
+  },
+  {
+   "state": "Massachusetts",
+   "annual": "$1,645",
+   "monthly": "$137",
+   "vs": "-34%",
+   "rank": 42
+  },
+  {
+   "state": "Michigan",
+   "annual": "$2,415",
+   "monthly": "$201",
+   "vs": "-3%",
+   "rank": 26
+  },
+  {
+   "state": "Minnesota",
+   "annual": "$3,615",
+   "monthly": "$301",
+   "vs": "+45%",
+   "rank": 15
+  },
+  {
+   "state": "Mississippi",
+   "annual": "$4,445",
+   "monthly": "$370",
+   "vs": "+79%",
+   "rank": 6
+  },
+  {
+   "state": "Missouri",
+   "annual": "$3,805",
+   "monthly": "$317",
+   "vs": "+53%",
+   "rank": 11
+  },
+  {
+   "state": "Montana",
+   "annual": "$3,765",
+   "monthly": "$314",
+   "vs": "+51%",
+   "rank": 14
+  },
+  {
+   "state": "Nebraska",
+   "annual": "$6,015",
+   "monthly": "$501",
+   "vs": "+142%",
+   "rank": 2
+  },
+  {
+   "state": "Nevada",
+   "annual": "$1,635",
+   "monthly": "$136",
+   "vs": "-34%",
+   "rank": 44
+  },
+  {
+   "state": "New Hampshire",
+   "annual": "$1,500",
+   "monthly": "$125",
+   "vs": "-40%",
+   "rank": 46
+  },
+  {
+   "state": "New Jersey",
+   "annual": "$1,480",
+   "monthly": "$123",
+   "vs": "-41%",
+   "rank": 47
+  },
+  {
+   "state": "New Mexico",
+   "annual": "$2,800",
+   "monthly": "$233",
+   "vs": "+12%",
+   "rank": 24
+  },
+  {
+   "state": "New York",
+   "annual": "$1,710",
+   "monthly": "$143",
+   "vs": "-31%",
+   "rank": 40
+  },
+  {
+   "state": "North Carolina",
+   "annual": "$3,025",
+   "monthly": "$252",
+   "vs": "+21%",
+   "rank": 21
+  },
+  {
+   "state": "North Dakota",
+   "annual": "$3,510",
+   "monthly": "$293",
+   "vs": "+41%",
+   "rank": 16
+  },
+  {
+   "state": "Ohio",
+   "annual": "$2,080",
+   "monthly": "$173",
+   "vs": "-16%",
+   "rank": 33
+  },
+  {
+   "state": "Oklahoma",
+   "annual": "$7,255",
+   "monthly": "$605",
+   "vs": "+191%",
+   "rank": 1
+  },
+  {
+   "state": "Oregon",
+   "annual": "$1,705",
+   "monthly": "$142",
+   "vs": "-32%",
+   "rank": 41
+  },
+  {
+   "state": "Pennsylvania",
+   "annual": "$1,720",
+   "monthly": "$143",
+   "vs": "-31%",
+   "rank": 39
+  },
+  {
+   "state": "Rhode Island",
+   "annual": "$2,230",
+   "monthly": "$186",
+   "vs": "-10%",
+   "rank": 29
+  },
+  {
+   "state": "South Carolina",
+   "annual": "$3,205",
+   "monthly": "$267",
+   "vs": "+29%",
+   "rank": 20
+  },
+  {
+   "state": "South Dakota",
+   "annual": "$3,965",
+   "monthly": "$330",
+   "vs": "+59%",
+   "rank": 9
+  },
+  {
+   "state": "Tennessee",
+   "annual": "$4,220",
+   "monthly": "$352",
+   "vs": "+69%",
+   "rank": 8
+  },
+  {
+   "state": "Texas",
+   "annual": "$4,915",
+   "monthly": "$410",
+   "vs": "+97%",
+   "rank": 5
+  },
+  {
+   "state": "Utah",
+   "annual": "$1,810",
+   "monthly": "$151",
+   "vs": "-27%",
+   "rank": 37
+  },
+  {
+   "state": "Vermont",
+   "annual": "$1,170",
+   "monthly": "$98",
+   "vs": "-53%",
+   "rank": 50
+  },
+  {
+   "state": "Virginia",
+   "annual": "$2,265",
+   "monthly": "$189",
+   "vs": "-9%",
+   "rank": 28
+  },
+  {
+   "state": "Washington",
+   "annual": "$1,880",
+   "monthly": "$157",
+   "vs": "-24%",
+   "rank": 35
+  },
+  {
+   "state": "Washington, D.C.",
+   "annual": "$1,645",
+   "monthly": "$137",
+   "vs": "-34%",
+   "rank": 43
+  },
+  {
+   "state": "West Virginia",
+   "annual": "$2,465",
+   "monthly": "$205",
+   "vs": "-1%",
+   "rank": 25
+  },
+  {
+   "state": "Wisconsin",
+   "annual": "$2,175",
+   "monthly": "$181",
+   "vs": "-13%",
+   "rank": 31
+  },
+  {
+   "state": "Wyoming",
+   "annual": "$1,805",
+   "monthly": "$150",
+   "vs": "-28%",
+   "rank": 38
+  }
+ ],
+ "note": "Source: NerdWallet, \"The Average Home Insurance Cost in the U.S. for 2026\" (updated May 6, 2026): median quoted rates for a 40-year-old homeowner with good credit, a home built in 1984, $400,000 dwelling coverage and a $1,000 deductible, across every ZIP code. Percent and rank columns are our calculations. Not a quote."
+}
