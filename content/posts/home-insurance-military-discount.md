@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 If you're active-duty, a veteran, or a military spouse renewing your homeowner's policy right now, you're probably wondering if there's a discount waiting for you. Short answer: sometimes yes, sometimes it's buried deep in the fine print, and sometimes what gets marketed as a "military discount" is really just good branding. Military discounts vary widely in what they cover and how much they save. It's worth checking the fine print rather than assuming a discount label delivers real savings.
 
-Here's what I tell people who come to me confused: the discount itself is rarely the most important part of the conversation.
+Here's what matters most in this conversation: the discount itself is rarely the most important part.
 
 ## What Military Discounts on Home Insurance Actually Look Like
 

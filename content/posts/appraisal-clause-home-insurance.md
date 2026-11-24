@@ -38,7 +38,7 @@ That distinction matters enormously, and I'll come back to it.
 
 ## What the Clause Actually Says (vs. What You Think It Says)
 
-Here's where I'll admit I got it wrong for the first two years of my adjusting career: I assumed the appraisal clause was mostly a formality, a backstop that rarely got used. I was wrong. In catastrophe years, particularly after major wind or hail events, appraisal invocations spike dramatically. Insurers know this. Policyholders mostly don't.
+The appraisal clause is often treated as a formality, a backstop that rarely gets used. In reality, appraisal invocations spike dramatically in catastrophe years, particularly after major wind or hail events. Insurers know this. Policyholders mostly don't.
 
 The standard ISO HO-3 policy language (which most U.S. residential policies are based on) reads roughly like this: if you and the insurer disagree on the amount of loss, either party may demand an appraisal in writing. Each side selects a competent, independent appraiser within 20 days. Those two appraisers choose an umpire. Any two of the three must agree on an award for it to be binding.
 

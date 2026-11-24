@@ -25,7 +25,7 @@ author_title: "Coverage Basics"
 author_bio: "Mark Thompson is the byline used at Home Insurance Clear for articles on what home insurance covers and how to choose limits. It is a pen name, not a licensed agent; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most homeowners find out what their policy doesn't cover right after something breaks. I've sat with hundreds of people in that position, staring at a denial letter and realizing they've been paying for something that doesn't protect what they thought it did. A burst pipe in January? Covered. A slow leak hidden behind drywall for six months that turned into mold? Not a chance. Understanding this stuff before disaster hits is one of the smartest financial moves you can make.
+Most homeowners find out what their policy doesn't cover right after something breaks. A burst pipe in January? Covered. A slow leak hidden behind drywall for six months that turned into mold? Not a chance. Understanding what your policy actually covers before disaster hits is one of the smartest financial moves you can make.
 
 ---
 

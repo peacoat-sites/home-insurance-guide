@@ -65,7 +65,7 @@ One thing the marketing brochures won't tell you: insurers can pay AM Best for a
 Go to [ambest.com](https://www.ambest.com) and use the free consumer lookup. You don't need an account. Search by company name. What you'll see:
 
 1. The current FSR letter grade
-2. The rating outlook (Stable, Positive, or Negative) -- this matters more than people realize
+2. The rating outlook (Stable, Positive, or Negative), this matters more than people realize
 3. The date the rating was last affirmed or changed
 
 The outlook is the signal most readers skip over. A carrier rated A with a Negative outlook is worth watching. It means AM Best's analysts see conditions that could push that rating down. You may want to revisit in 6 to 12 months if you're on a multi-year policy or considering a long-term relationship.

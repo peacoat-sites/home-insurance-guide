@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 If you've recently bought a rental property, or you're thinking about converting your current home into one, there's a good chance you're staring at your existing homeowners policy wondering whether it still covers you. It might. Partially. And that partial coverage is exactly where the expensive surprises live.
 
-Here's what I tell people who come to me in this situation: your standard homeowners policy was designed around an owner-occupied home. The moment you hand keys to a tenant, you've changed the risk profile in ways your insurer takes seriously, and the policy language usually reflects that, buried in exclusions most people never read until they're filing a claim.
+Your standard homeowners policy was designed around an owner-occupied home. The moment you hand keys to a tenant, you've changed the risk profile in ways insurers take seriously, and the policy language usually reflects that, buried in exclusions most people never read until they're filing a claim.
 
 I reviewed claims for 14 years. The saddest ones weren't from disasters. They were from landlords who thought they were covered.
 
