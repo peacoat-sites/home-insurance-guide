@@ -28,7 +28,7 @@ faqs:
 
 Most homeowners don't read their cancellation clause until they're holding a notice that says coverage ends in 30 days. By then, options for negotiation are limited.
 
-That clause is where insurers bury some of their most consequential terms, and the marketing brochure never touches it. I spent 14 years reviewing claims at a national carrier, and I can tell you: the cancellation and nonrenewal language is where the real policy is. Not in the [declarations page](/insurance-policy-declarations-page/), not in the summary of coverages. In the fine print that almost nobody reads until they need it.
+That clause is where insurers bury some of their most consequential terms, and the marketing brochure never touches it. The cancellation and nonrenewal language is where the real policy is. Not in the [declarations page](/insurance-policy-declarations-page/), not in the summary of coverages. In the fine print that almost nobody reads until they need it.
 
 So let's fix that before you need it.
 

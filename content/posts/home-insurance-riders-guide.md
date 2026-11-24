@@ -26,7 +26,7 @@ faqs:
     a: "Almost never in full. Most base policies cap business property at $2,500 and exclude business liability entirely. If you run any business from home, even a small one, ask specifically about a home business endorsement. The gap between base coverage and actual exposure can be substantial, particularly for liability if a client is ever injured on your property."
 ---
 
-Most people buy a home [insurance policy](/insurance-policy-declarations-page/), shove the declaration page in a drawer, and assume they're covered. I spent 14 years on the other side of that assumption, reviewing claims where people discovered exactly how wrong they were, usually at the worst possible moment.
+Most people buy a home [insurance policy](/insurance-policy-declarations-page/), shove the declaration page in a drawer, and assume they're covered. But claims often reveal gaps in that coverage, usually at the worst possible moment.
 
 Riders (also called endorsements, depending on your carrier) are the patches you bolt onto a standard policy to fill coverage gaps that the base policy quietly ignores. They're one of the most underexplained parts of home insurance, and I'll be honest, the industry doesn't exactly go out of its way to market them aggressively. Carriers earn more when you're underinsured and then don't file. That's not a conspiracy theory, it's just economics.
 

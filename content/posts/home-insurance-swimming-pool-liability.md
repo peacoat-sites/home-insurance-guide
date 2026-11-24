@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 A neighbor's kid drowned in a backyard pool outside Columbus, Ohio in 2017. The family who owned the pool thought they had solid homeowner's insurance. They didn't. Their liability limit was $100,000. The lawsuit exceeded $400,000. Their policy had a specific exclusion because they hadn't told their insurer about the pool when it was installed. They lost their home.
 
-I spent 14 years reviewing claims before I switched sides, and I can tell you that story isn't unusual. Pools are the single most liability-heavy feature you can add to a residential property, and most homeowners have no idea what their actual coverage looks like until something goes wrong.
+Pools are the single most liability-heavy feature you can add to a residential property, and most homeowners have no idea what their actual coverage looks like until something goes wrong.
 
 Let's fix that.
 

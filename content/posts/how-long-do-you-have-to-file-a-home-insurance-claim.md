@@ -36,7 +36,7 @@ The short version is that most homeowner policies require you to file "promptly"
 
 ## "Promptly" Is a Loaded Word
 
-I spent 14 years reading the word "promptly" in policy language, and I can tell you it is one of the most strategically vague terms in the insurance industry. It sounds like a reasonable request. It functions like a trap.
+The word "promptly" is one of the most strategically vague terms in the insurance industry. It sounds like a reasonable request. It functions like a trap.
 
 When your policy says you must report a loss "promptly" or "as soon as practicable," your insurer gets to argue later what that means. Carriers may deny claims filed weeks after a loss if the delay allowed damage to worsen, while approving others filed months later. The difference usually comes down to documentation: photos taken the day of the loss, calls to contractors, and a paper trail showing prompt action all support your claim.
 

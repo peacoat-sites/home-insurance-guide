@@ -25,11 +25,11 @@ author_title: "Risk and Pricing"
 author_bio: "Kevin Park is the byline used at Home Insurance Clear for articles on how insurers price risk and where coverage gaps hide. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-A reader emailed me last month after her basement flooded. Her 75-inch Samsung QLED, two gaming consoles, and a Sonos surround system she'd spent three years building sat in four inches of water. Total loss. Her homeowner's policy paid exactly zero dollars for any of it.
+A basement flood can destroy expensive electronics. A homeowner with a 75-inch Samsung QLED, two gaming consoles, and a Sonos surround system sitting in four inches of water would likely face a total loss. Standard homeowner's policies typically do not cover water damage from flooding, leaving the owner to absorb the full cost of replacement.
 
 She wasn't uninsured. She wasn't careless. She just didn't know what her policy actually covered, and nobody at the insurance company had volunteered to explain it.
 
-I spent 14 years reviewing claims like hers. That experience made me protective of people about to get the same surprise.
+People often face surprises when they don't understand how claims are reviewed. Knowing what to expect helps protect you from unexpected denials or delays.
 
 <div class="value-module">
  <div class="vm-head">Electronics Claim Scenarios: What Pays Out</div>

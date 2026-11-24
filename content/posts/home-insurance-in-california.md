@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You just got a non-renewal notice in the mail. Your insurer, the one you've had for eleven years, is dropping you. Not because you filed too many claims. Not because you missed a payment. Because your zip code is now on an internal risk model that penciled out the wrong way. This is happening to California homeowners by the tens of thousands right now, and if it hasn't happened to you personally, there's a good chance it's happened to someone on your street.
 
-California's home insurance market is in a genuine crisis, and I don't use that word loosely. I spent 14 years on the inside of this industry, reviewing claims, learning how policies are written, and watching how insurers manage their exposure. What's happening in California right now is unlike anything I saw in that entire career. Major carriers have paused or ended new homeowner policies in the state. Wildfire risk maps have expanded dramatically. And homeowners who thought they were protected are discovering, often at the worst possible moment, that they weren't.
+California's home insurance market is in a genuine crisis. Major carriers have paused or ended new homeowner policies in the state. Wildfire risk maps have expanded dramatically. And homeowners who thought they were protected are discovering, often at the worst possible moment, that they weren't.
 
 This article won't sugarcoat any of that. But it will give you a clear picture of what you're actually dealing with, what your options are, and how to make sure that if the worst happens, your policy actually does what you paid for.
 

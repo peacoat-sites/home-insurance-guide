@@ -26,7 +26,7 @@ faqs:
     a: "Probably not on a standard MH policy. If you're renting your home to a tenant, even occasionally, you likely need a landlord or dwelling fire policy. This is a common coverage gap that doesn't surface until a tenant files a liability claim and the carrier disclaims coverage because the home was tenant-occupied without disclosure."
 ---
 
-Most people buying a mobile home don't think much about insurance until the bank requires it. Then they grab whatever policy is cheapest, sign it, and move on. I spent 14 years reviewing claims, and I can tell you that decision costs people real money when something goes wrong.
+Most people buying a mobile home don't think much about insurance until the bank requires it. Then they grab whatever policy is cheapest, sign it, and move on. That decision costs people real money when something goes wrong. Cheap policies often have high deductibles, narrow coverage, or exclusions that don't show up until a claim is filed.
 
 Mobile [home insurance](/home-insurance-mandatory-vs-optional-coverage/) is not the same as standard homeowner's insurance. The coverage forms are different, the loss calculations work differently, and the risks the industry assigns to manufactured housing are genuinely distinct. You might be wondering whether your current policy actually covers what you think it does. That's the right question to be asking.
 

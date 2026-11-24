@@ -26,7 +26,7 @@ faqs:
     a: "This is genuinely murky territory, and I don't have a clean answer for you. Disclose what you know and what the dog looks like. DNA test results (Embark and Wisdom Panel are the two I'd trust) can actually help here: having documentation that your dog is 38% this and 22% that can give an underwriter something to work with rather than a visual guess. Whether that documentation changes the outcome depends on the insurer, but it's better than nothing."
 ---
 
-Most people shopping for homeowner's insurance don't think twice about listing their dog on the application. Big mistake. I spent 14 years reviewing claims at a national insurer, and [dog bite](/homeowners-insurance-dog-bite-coverage/) liability was one of the most consistent sources of denied coverage, policy cancellations, and very awkward conversations with policyholders who had no idea this was even a factor.
+Most people shopping for homeowner's insurance don't think twice about listing their dog on the application. Big mistake. [Dog bite](/homeowners-insurance-dog-bite-coverage/) liability is one of the most common sources of denied coverage, policy cancellations, and disputes with policyholders who had no idea this was even a factor.
 
 Here's what actually happens: you buy a policy, you sign the application, somewhere on page four there's a question about "potentially dangerous animals," and you either miss it, misread it, or assume your well-behaved Rottweiler doesn't count. Then your dog nips a delivery driver, and you learn very quickly that your insurer knew something you didn't.
 

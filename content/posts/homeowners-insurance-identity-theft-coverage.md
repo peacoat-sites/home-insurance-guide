@@ -39,7 +39,7 @@ The coverage limit usually sits somewhere between $15,000 and $25,000, though th
 
 ## What It Doesn't Cover (And Where People Get Burned)
 
-I spent 14 years watching people learn this the hard way. The policy language sounds comprehensive until you read the exclusions.
+The policy language sounds comprehensive until you read the exclusions.
 
 Direct financial losses are almost always excluded. Wire transfer fraud, unauthorized credit card charges, drained investment accounts. Not covered. Your credit card issuer handles chargebacks. Your bank's fraud policies handle account theft. Your homeowner's rider handles paperwork costs.
 

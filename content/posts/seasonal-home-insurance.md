@@ -33,7 +33,7 @@ Here's the problem: your home's risk profile changes dramatically across the sea
 
 A standard homeowner's policy reads like your house exists in some kind of permanent, weather-neutral bubble. It doesn't. Winter brings frozen pipes and ice dams. Spring brings flooding and wind events. Summer means wildfire risk in many regions, plus the liability exposure of pools and guests. Fall is when you should be reviewing everything, but almost nobody does.
 
-I spent 14 years reviewing claims at a national insurer. The seasonal patterns were so consistent I could almost predict our caseload by the calendar. January and February: frozen pipes and roof collapses from snow load. Late spring: water intrusion claims, usually from people who didn't know sump pump failure typically isn't covered under a standard policy. August and September in coastal states: hurricane season, with homeowners discovering their windstorm coverage had a separate deductible they'd never noticed.
+Seasonal patterns in home insurance claims follow predictable cycles throughout the year. January and February bring frozen pipes and roof collapses from snow load. Late spring sees water intrusion claims, often from homeowners unaware that sump pump failure typically isn't covered under a standard policy. August and September in coastal states coincide with hurricane season, when homeowners discover their windstorm coverage carries a separate deductible they may not have noticed.
 
 The National Association of Insurance Commissioners (NAIC) has published consumer guidance noting that homeowners consistently underestimate how much their coverage needs change year to year. They're right. Your insurer counts on you not noticing.
 

@@ -47,7 +47,7 @@ There's also a lag built into the system. State insurance regulators approve rat
 
 ## The Margin Question Nobody Advertises
 
-I spent 14 years reviewing claims on the inside, and what surprised me after switching to advocacy was how rarely insurers are required to explain their margin decisions to consumers. When reinsurance costs rose sharply in 2022 and 2023, carriers moved quickly to pass those increases to policyholders, often citing reinsurance as a key justification in rate filings. The reverse argument, that falling reinsurance costs should trigger premium reductions, gets much less airtime.
+Insurers are rarely required to explain their margin decisions to consumers. When reinsurance costs rose sharply in 2022 and 2023, carriers moved quickly to pass those increases to policyholders, often citing reinsurance as a key justification in rate filings. The reverse argument, that falling reinsurance costs should trigger premium reductions, gets much less airtime.
 
 Insurers would argue, not entirely without merit, that they're rebuilding reserves after years of underwriting losses. The industry did post genuine losses during the hard market years. But there's a difference between rebuilding capital adequacy and quietly pocketing a margin improvement while consumers continue paying elevated premiums. The Pew data suggests most homeowners don't have the visibility to know which one is happening.
 

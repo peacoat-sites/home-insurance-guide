@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners never actually pay their home insurance premium. The bill goes straight to an escrow account, the servicer writes the check, and the homeowner sees a line item on their mortgage statement and moves on. Convenient, right? It is, until it isn't.
 
-I spent 14 years reviewing insurance claims. A shocking number of homeowners I dealt with were genuinely stunned to learn their policy had lapsed. Their mortgage payment never skipped a beat. How could their coverage just disappear? Almost every time, the answer was an escrow miscalculation, a misdirected payment, or a policy change the servicer botched.
+A shocking number of homeowners discover their insurance policy has lapsed without realizing it. Their mortgage payment continues smoothly, leaving them puzzled about how coverage could simply disappear. In most cases, the culprit is an escrow miscalculation, a misdirected payment, or a policy change the servicer mishandled.
 
 Let's fix that gap.
 

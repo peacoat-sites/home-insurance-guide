@@ -28,7 +28,7 @@ faqs:
 
 Most people assume the person selling them home insurance is working for them. That assumption has cost more homeowners than I can count.
 
-I spent 14 years on the claims side of this industry, and I watched the confusion play out constantly. Someone would call in frustrated after a denial, convinced their agent had promised them coverage. Nine times out of ten, the problem started long before the claim, at the moment they bought the policy and didn't understand who, exactly, they were talking to.
+The confusion around agent roles plays out constantly in claims disputes. Someone might call in frustrated after a denial, convinced their agent had promised them coverage. Nine times out of ten, the problem started long before the claim, at the moment they bought the policy and didn't understand who, exactly, they were talking to.
 
 The agent vs. broker distinction sounds like insider jargon. It's not. It's the difference between someone who's legally obligated to the insurance company and someone who's supposed to be working on your behalf. Those are not the same thing.
 

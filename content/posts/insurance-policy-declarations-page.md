@@ -25,7 +25,7 @@ author_title: "Claims"
 author_bio: "Diana Foster is the byline used at Home Insurance Clear for articles on the claims process and settlement disputes. It is a pen name, not a public adjuster; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. I spent 14 years on the other side of that claim, and I can tell you: that one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.
+Most people glance at their declarations page once, shove it in a drawer, and never think about it again until they're filing a claim. That one page (sometimes two) is the most consequential document in your relationship with your insurer. Getting comfortable with it before disaster strikes is one of the smartest things you can do as a homeowner.
 
 You might be wondering what exactly the declarations page even is, since insurers aren't always great at explaining it. Here's the short version: it's the summary sheet at the front of your policy that spells out who's covered, what's covered, how much, and what you'll pay out of pocket if something goes wrong. Think of it as the cover sheet that tells the story your 60-page policy document tells in legal language. The difference is that the declarations page is actually readable.
 

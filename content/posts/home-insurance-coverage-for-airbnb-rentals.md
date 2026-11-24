@@ -26,7 +26,7 @@ faqs:
     a: "No. Your policy covers your property. Guests' belongings are their own responsibility; that's what their renters or travel insurance covers. AirCover also explicitly excludes coverage for guest-owned items."
 ---
 
-Roughly 44% of Airbnb hosts in the United States have no idea their standard homeowner's policy won't cover a guest injury. I know this because I spent 14 years on the other side of that phone call, listening to hosts describe what happened and then waiting while they processed the silence I had to give them.
+Roughly 44% of Airbnb hosts in the United States don't realize their standard homeowner's policy won't cover a guest injury. This gap in coverage often comes as a shock when hosts learn that a guest accident won't be protected under their existing insurance.
 
 The problem isn't that hosts are careless. It's that the insurance industry has never been great at advertising its own exclusions. Your standard HO-3 policy was written for owner-occupied dwellings. The moment you hand keys to a paying stranger, the legal and actuarial math changes. Insurers know this. They're just not obligated to remind you at renewal.
 

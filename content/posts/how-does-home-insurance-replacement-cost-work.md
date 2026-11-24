@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people find out what "replacement cost" actually means at the worst possible moment: standing in a gutted living room, smoke still in the air, waiting for an adjuster to tell them what they're getting back.
 
-I spent 14 years on the other side of that conversation. And I can tell you that the gap between what homeowners *thought* their policy covered and what it actually paid out was, more often than not, a direct result of one misunderstood term: replacement cost value, and how it's calculated.
+The gap between what homeowners *thought* their policy covered and what it actually paid out is, more often than not, a direct result of one misunderstood term: replacement cost value, and how it's calculated.
 
 Let me save you from learning this the hard way.
 

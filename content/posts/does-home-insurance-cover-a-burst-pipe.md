@@ -40,7 +40,7 @@ If a pipe bursts because a deep freeze hit your house overnight and the temperat
 
 The Insurance Information Institute confirms that water damage from burst pipes is among the most frequently paid claims in homeowner insurance, but coverage hinges on that "sudden and accidental" language. Slow leaks that developed over weeks? Pipes that failed because of long-deferred maintenance? Typically excluded. The insurer's argument is that a homeowner exercising reasonable care would have caught the problem before it became a catastrophe.
 
-Here's something I didn't fully appreciate until I was sitting on the other side of the desk reviewing claims: insurance adjusters are specifically trained to look for evidence of pre-existing conditions. Rust staining inside a pipe. Corrosion that took years to develop. A slow drip that discolored the ceiling before it finally gave way. These details become part of the file, and they're used to reduce or deny the claim.
+Insurance adjusters are specifically trained to look for evidence of pre-existing conditions. Rust staining inside a pipe. Corrosion that took years to develop. A slow drip that discolored the ceiling before it finally gave way. These details become part of the file, and they're used to reduce or deny the claim.
 
 ## The Coverage Breakdown: What Gets Paid and What Doesn't
 

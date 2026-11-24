@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners have no idea their hail claim has already been partially decided before they even call their insurer. The adjuster arriving at your house isn't walking in neutral. They're working from a damage threshold matrix, a regional hail history database, and years of training on how to separate "cosmetic" damage from "functional" damage. That distinction alone determines whether you get a check or a denial letter.
 
-I spent 14 years on the other side of that equation. Here's what I actually saw.
+Here's what actually happens.
 
 ---
 

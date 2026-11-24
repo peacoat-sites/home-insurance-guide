@@ -46,7 +46,7 @@ The gap between admitted and E&S coverage isn't just price. It's structural.
 
 The guaranty fund issue is the one most homeowners don't catch until it's too late. If your admitted carrier becomes insolvent, your state's insurance guaranty association steps in and covers claims up to statutory limits, typically $300,000-$500,000 depending on the state. With an E&S carrier, there's no such backstop. You're an unsecured creditor.
 
-Policy form variability is the other trap. An admitted homeowners policy in most states uses a standardized form, HO-3 being the most common, and state regulators have approved every exclusion in it. An E&S policy can be manuscripted, meaning the insurer wrote the language themselves. A phrase that looks like coverage might have a carve-out three pages later that effectively guts it. I spent 14 years reviewing claims, and the most preventable denials I saw consistently involved people who assumed their E&S policy worked like the standard one they'd had before. It often doesn't.
+Policy form variability is the other trap. An admitted homeowners policy in most states uses a standardized form, HO-3 being the most common, and state regulators have approved every exclusion in it. An E&S policy can be manuscripted, meaning the insurer wrote the language themselves. A phrase that looks like coverage might have a carve-out three pages later that effectively guts it. People who assume their E&S policy works like the standard one they'd had before often face preventable denials. It frequently doesn't work the same way.
 
 ## The Price of Being Unwanted
 

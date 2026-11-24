@@ -46,7 +46,7 @@ Let's fix that knowledge gap right now.
 
 A standard HO-3 homeowners policy, the most common form sold in the country, covers a list of named perils for your belongings and covers the dwelling against all perils except those specifically excluded. Earthquakes are explicitly excluded. So are volcanic eruption, landslide, and earth movement broadly. That last phrase is the real killer, because insurers use "earth movement" as a catch-all that also blocks claims for damage caused by sinkholes, mudslides, and soil settling.
 
-I spent 14 years reviewing claims. The earth movement exclusion surprised policyholders more than almost anything else I saw. People assumed that "all-risk" meant all risks. It doesn't. If your foundation cracks because the ground shifted, the cause is excluded. Full stop.
+The earth movement exclusion surprises many policyholders. People assume that "all-risk" means all risks. It doesn't. If your foundation cracks because the ground shifted, the cause is excluded. Full stop.
 
 There's a related trap worth understanding: fire following an earthquake. If the quake ruptures a gas line and your house burns down, many standard policies will actually cover that fire, because fire is a covered peril. The cause of the fire doesn't matter once fire becomes the proximate cause of the loss. That nuance doesn't help you with structural, foundation, or contents damage from the shaking itself, though.
 
