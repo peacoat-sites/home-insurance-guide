@@ -54,4 +54,4 @@ You should revisit your dwelling coverage limit:
 
 For the most accurate figure, ask your insurance company to run a replacement cost estimator (tools like CoreLogic or Marshall & Swift are industry standard), or hire a licensed appraiser who specializes in insurance valuations.
 
-For more guidance, see our article on [understanding homeowners insurance coverage types](/posts/) or get a sense of what major carriers offer before you shop.
+For more guidance, see our article on understanding homeowners insurance coverage types or get a sense of what major carriers offer before you shop.
