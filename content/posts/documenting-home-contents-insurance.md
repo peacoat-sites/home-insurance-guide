@@ -29,9 +29,7 @@ Most people who file a homeowner's claim discover the same painful truth at the 
 
 The good news is that building a solid record isn't complicated. It just requires doing it before you need it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Insurers pay claims based on documented proof of ownership, not your memory of what you owned.</li><li style="margin:5px 0">Video walkthroughs take under an hour and are accepted as evidence by virtually every major insurer.</li><li style="margin:5px 0">Off-site or cloud backup is non-negotiable: a home inventory stored only at home burns with the house.</li><li style="margin:5px 0">Replacement Cost Value (RCV) policies reimburse what it costs to buy new; Actual Cash Value (ACV) policies subtract depreciation.</li><li style="margin:5px 0">High-value items (jewelry, art, electronics, instruments) often need a separate scheduled endorsement to be fully covered.</li></ul></div>
-
 
 ## Why Your Current Documentation Probably Isn't Enough
 
@@ -101,7 +99,6 @@ Your insurer should ideally never see your home inventory. When they do, you wan
 
 ---
 
-
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
@@ -116,4 +113,3 @@ Your insurer should ideally never see your home inventory. When they do, you wan
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

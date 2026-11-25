@@ -29,9 +29,7 @@ Your construction type is probably the single biggest factor in what you pay for
 
 The short version: frame homes (wood-framed walls) typically cost more to insure than masonry homes (brick or block construction) because wood burns faster and more completely. But the full picture involves fire ratings, wind resistance, and the ISO construction class system that most U.S. insurers use to price policies. Knowing how that system works lets you have a real conversation with your agent instead of just accepting whatever quote lands in your inbox.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Frame homes generally cost 5–25% more to insure than comparable masonry homes due to fire risk.</li><li style="margin:5px 0">Insurers use ISO construction classes (1–6) to categorize your home; class 1 is frame, class 4–6 covers masonry types.</li><li style="margin:5px 0">"Masonry veneer" (brick face over wood framing) is NOT rated as full masonry, it's typically still class 1 or 2.</li><li style="margin:5px 0">Wind risk flips the equation: in hurricane zones, wood-frame construction can outperform rigid masonry.</li><li style="margin:5px 0">You can request your home's ISO construction class from your insurer or agent and verify it against your policy.</li></ul></div>
-
 
 ## How Insurers Actually Classify Your Home
 
@@ -91,7 +89,6 @@ Keeping a solid home inventory helps you document contents separately from the d
 
 ---
 
-
 *Photo: [D Goug](https://www.pexels.com/@d-goug-211350543) via Pexels*
 
 ---
@@ -106,4 +103,3 @@ Keeping a solid home inventory helps you document contents separately from the d
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

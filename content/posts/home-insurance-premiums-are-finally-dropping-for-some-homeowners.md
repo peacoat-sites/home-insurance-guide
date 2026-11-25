@@ -18,9 +18,7 @@ Something genuinely surprising is happening in the home insurance market right n
 
 I'll be honest: I didn't expect to be writing this story in 2026. After watching carriers flee states, gut coverage options, and push through increases of 20, 25, even 30 percent in back-to-back renewal cycles, the idea of a genuine turning point felt like wishful thinking. But the numbers from Matic's August 6 mid-year report, which analyzed roughly 3 million quotes and policies, are hard to dismiss. A record 11.7% of renewing homeowners saw their premium actually decrease in the first half of 2026. That's up from 7.4% in 2025 and just 4.9% in 2024. Small percentages, sure, but the direction of the trend is the story.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A record 11.7% of renewing homeowners saw premium decreases in H1 2026, per Matic's August report.</li><li style="margin:5px 0">Average renewal premium increases slowed to 10.6% in H1 2026, down from 19.4% in 2025 and 28% in 2024.</li><li style="margin:5px 0">New policy premiums rose only 5.9% year-over-year; the average new policy now costs $2,057.</li><li style="margin:5px 0">Available quotes per shopper rose 74% from the 2024 low, meaning real shopping options are back.</li><li style="margin:5px 0">California, Florida, and New Jersey still saw double-digit increases, relief is not universal.</li></ul></div>
-
 
 ## Why Prices Are Softening Now
 
@@ -42,9 +40,7 @@ The rate of change tells the real story here better than any single year's figur
 
 The average new policy now costs $2,057, per Matic's August 2026 report. That's still historically high. Nobody is celebrating cheap insurance. But the trajectory has changed, and if you haven't shopped your policy in the last 12 to 18 months, you may be leaving real money on the table.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Share of renewing homeowners who saw a premium decrease</div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">4.9%</span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">7.4%</span></div><div class="sc-row"><span class="sc-label">H1 2026</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">11.7%</span></div><div class="sc-src">Source: Matic Mid-Year 2026 Report</div></div>
-
 
 ## Geography Is Everything Right Now
 
@@ -98,4 +94,3 @@ The good news is real. So is the context. You deserve both.
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

@@ -120,15 +120,7 @@ Bad faith claims are more common than many people assume, and an insurer's behav
 
 ---
 
----
-
-One last thing. Keep a home inventory. I know everyone says this, but I saw the difference it made in real time. Policyholders who had documented their belongings, even just photos stored in something like the [Encircle app](https://www.encircleapp.com/) or a fireproof document safe (the [SentrySafe SFW123GDC](https://www.amazon.com/s?k=SentrySafe+SFW123GDC) runs around $65 on Amazon, and yes, the site may earn a small commission on that link), had dramatically faster and larger settlements than people trying to reconstruct a decade of possessions from memory. A denial is harder to sustain when every item on your list has a timestamp and a photograph attached to it. Do it before you need it.
-
----
-
 *This article is for general informational purposes only and does not constitute insurance advice. Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. Always review your policy documents and consult a licensed insurance professional for advice specific to your situation.*
-
----
 
 ---
 
@@ -138,4 +130,3 @@ One last thing. Keep a home inventory. I know everyone says this, but I saw the 
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

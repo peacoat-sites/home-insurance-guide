@@ -20,9 +20,7 @@ The report calculates that insurers pocketed roughly $113 billion in excess unde
 
 The first half of 2026 made it worse. The [loss ratio](/home-insurance-loss-ratio/) fell further, to just 48 cents per premium dollar. Insurers were keeping more than half of everything homeowners paid. That's the number that shifts this from a bad trend to an active policy question.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Home insurance premiums rose 59% from 2021–2025; claims payouts rose only 28%.</li><li style="margin:5px 0">Insurers paid just 55 cents per premium dollar in claims in 2025, down from 69 cents in 2021.</li><li style="margin:5px 0">In H1 2026, the loss ratio dropped to 48 cents, meaning insurers kept over half of every premium dollar.</li><li style="margin:5px 0">Florida premiums rose 64% to $18.7B while payouts fell 67%, the widest gap of any state studied.</li><li style="margin:5px 0">About 30% of claims from 2021–2025 were closed with zero payment to the policyholder.</li></ul></div>
-
 
 ## The State-Level Numbers Are Even Harder to Explain
 
@@ -85,4 +83,3 @@ The industry will respond, and their response will likely center on investment l
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

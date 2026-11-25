@@ -31,9 +31,7 @@ The good news is that the military community has genuine options that most gener
 
 The single most important thing to understand before shopping: "[military discount](/home-insurance-military-discount/)" and "military-focused insurer" are not the same thing. A 5% discount from a standard carrier doesn't address a vacant-home exclusion, a war/government action exclusion, or a total-loss situation where you're deployed and can't be reached.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">USAA is exclusively available to servicemembers, veterans, and their families, not the general public.</li><li style="margin:5px 0">Standard HO-3 policies often void coverage for vacant homes after 30-60 days; deployed families need a vacancy endorsement or a military-specific carrier.</li><li style="margin:5px 0">SCRA protections cap certain financial penalties but do NOT provide homeowners insurance coverage.</li><li style="margin:5px 0">Storage coverage for personal property during PCS moves is a separate product from homeowners insurance.</li><li style="margin:5px 0">Replacement cost coverage (not actual cash value) is the minimum you should accept for military-owned homes.</li></ul></div>
-
 
 ## What Makes Military Coverage Actually Different
 
@@ -123,7 +121,6 @@ The IBHS (Insurance Institute for Business and Home Safety) publishes home forti
 
 ---
 
-
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 
 ---
@@ -138,4 +135,3 @@ The IBHS (Insurance Institute for Business and Home Safety) publishes home forti
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

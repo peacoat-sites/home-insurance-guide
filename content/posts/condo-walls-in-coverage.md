@@ -111,8 +111,6 @@ Worked example three: A high-rise unit in Miami, bare-walls HOA policy, 750 squa
 
 ---
 
----
-
 One last thing, and I mean this: pull out your current HO-6 policy tonight, find the declarations page, and look at your dwelling coverage limit. Then walk through your unit and honestly estimate what it would cost to rebuild the interior from scratch. If those two numbers are close, great. If there's a gap, you know what to do. Most people are surprised by what they find, and not in a good way.
 
 *Photo: [Krakograff Textures](https://www.pexels.com/@krakograff-textures-124842124) via Pexels*
@@ -129,4 +127,3 @@ One last thing, and I mean this: pull out your current HO-6 policy tonight, find
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

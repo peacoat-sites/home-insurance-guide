@@ -112,8 +112,6 @@ Worked example: Homeowner shops around, gets a better quote, cancels existing po
 
 ---
 
----
-
 The most useful thing you can do right now, before any of this becomes relevant, is pull out your current policy and find the cancellation and nonrenewal section. Read it. Know your notice period. Know the refund method. Know what your insurer considers grounds for mid-term cancellation. If that information isn't in your policy documents, call and ask. You want to understand the exit before you're being pushed through it.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
@@ -130,4 +128,3 @@ The most useful thing you can do right now, before any of this becomes relevant,
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

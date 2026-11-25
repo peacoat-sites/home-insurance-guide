@@ -147,8 +147,6 @@ Earthquake coverage is one of those decisions you have to make before you need i
 
 ---
 
----
-
 ### Do I need earthquake insurance?
 
 You need it if you're in a moderate or high-risk seismic zone, your home's replacement cost exceeds your liquid savings, or you couldn't absorb a 15-20% deductible on your dwelling value. You may skip it if you're in a low-hazard zone, own your home outright with substantial savings, or your home is newer wood-frame construction in a stable area.
@@ -169,4 +167,3 @@ Insurance companies use percentage deductibles for earthquake coverage because t
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

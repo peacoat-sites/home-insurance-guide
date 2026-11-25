@@ -29,9 +29,7 @@ Complaint ratios are one of the most useful numbers you've never heard of, and y
 
 The complaint ratio measures how many justified complaints a company received per 1,000 (or sometimes per million dollars of) premiums written. The National Association of Insurance Commissioners calculates these annually through its Consumer Insurance Information Source, compiling data from every state insurance department. A ratio below 1.0 is generally considered favorable. A ratio of 3.0 or higher should make you pause and ask why.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NAIC complaint ratios below 1.0 indicate better-than-average customer complaint levels for homeowners insurers.</li><li style="margin:5px 0">The NAIC publishes free complaint data annually; check it before buying or renewing any policy.</li><li style="margin:5px 0">"Justified" complaints only count, meaning the regulator agreed the insurer acted wrongly.</li><li style="margin:5px 0">A high ratio in just one year matters less than a pattern across two or three years.</li><li style="margin:5px 0">Your state insurance department can show complaints specific to your state, which may differ from national averages.</li></ul></div>
-
 
 ## What the Ratio Actually Measures
 
@@ -90,7 +88,6 @@ If an agent can't or won't get you those numbers, that's information too.
 
 ---
 
-
 *Photo: [Cup of  Couple](https://www.pexels.com/@cup-of-couple) via Pexels*
 
 ---
@@ -105,4 +102,3 @@ If an agent can't or won't get you those numbers, that's information too.
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

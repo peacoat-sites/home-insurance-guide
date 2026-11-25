@@ -76,8 +76,6 @@ If you're in a wildfire-risk area, ask your agent specifically: do I have extend
 
 ---
 
----
-
 The honest summary is that wildfire coverage hasn't failed homeowners because it doesn't exist. It's failed them because of limits that don't match reality, gaps in what's included, and insurers quietly exiting markets where the math no longer works for them. None of that is spelled out in the brochure. Know what your policy actually says, run a current replacement cost estimate, and do it before fire season, not during it.
 
 ---
@@ -88,18 +86,7 @@ The honest summary is that wildfire coverage hasn't failed homeowners because it
 
 ## Sources
 
-- [Arlo Pro 4 Wireless Security Camera System](https://www.amazon.com/dp/B07WDTXX6J?tag=contentportfo-20)
 - [NAIC's state map](https://www.naic.org/state_web_map.htm)
-- [home inventory apps](https://www.amazon.com/s?k=home+inventory+app&tag=contentportfo-20)
-- [fireproof document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
-- [Kidde Carbon Monoxide and Propane Detector](https://www.amazon.com/dp/B075WF7WGX?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 
 ---
 
@@ -110,4 +97,3 @@ The honest summary is that wildfire coverage hasn't failed homeowners because it
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 - **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40), Hardwired interconnected smoke and CO detector, when one alarm sounds, all alarms in the house sound.
-

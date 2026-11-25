@@ -20,9 +20,7 @@ The reason they're so far apart isn't complicated, but it is deliberate. The Bur
 
 A Dallas Fed research paper from April 2026 put hard numbers on the gap. Using ICE McDash data, researchers found a 62% national premium increase from 2019 to 2024. The PCE index, the Fed's preferred inflation gauge, captured 35% of that increase. So the official record missed nearly half the actual cost burden, for a expense that now represents 9% of the typical homeowner's monthly mortgage payment, the highest share ever recorded according to Matic's December 2025 analysis.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Homeowners insurance has risen 110% since 2016, versus 37.4% for overall CPI.</li><li style="margin:5px 0">The CPI structurally excludes dwelling coverage, affecting two-thirds of American households.</li><li style="margin:5px 0">Insurance now equals ~9% of the average homeowner's monthly mortgage payment.</li><li style="margin:5px 0">JP Morgan estimated the 2023 CPI would have been ~0.8 points higher with accurate insurance data.</li><li style="margin:5px 0">Insurify projects the average premium will reach $3,057 by end of 2026.</li></ul></div>
-
 
 ## Why the BLS Made This Call, and Why It Still Matters
 
@@ -35,7 +33,6 @@ JP Morgan Asset Management analysts estimated that if homeowners insurance repla
 ## The Premium Numbers That Don't Show Up in Fed Briefings
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual homeowners insurance premium</div><div class="sc-row"><span class="sc-label">2016</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$1,186</span></div><div class="sc-row"><span class="sc-label">2026 current avg.</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$2,490</span></div><div class="sc-row"><span class="sc-label">2026 projected end</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3,057</span></div><div class="sc-src">Source: CEPR/Dean Baker, Insurify March 2026</div></div>
-
 
 Since 2021 alone, national premiums have climbed 46%, roughly three times the rate of general inflation over the same period. Insurify's March 2026 projections put the average at $3,057 by year's end. That's not a forecast for Florida or California. That's the national average.
 
@@ -92,4 +89,3 @@ If you own a home, your actual cost of living is running well ahead of what any 
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

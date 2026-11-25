@@ -85,9 +85,6 @@ Insurers want to see that you're a conscientious property owner. In some cases, 
 
 ---
 
-
----
-
 Renting out a property isn't a passive income situation. It's a business with real legal and financial exposure. The right insurance is one of the few things that actually limits that exposure when things go sideways. Get the coverage that matches what you're actually doing, not what you assumed was still covered.
 
 ---
@@ -98,19 +95,8 @@ Renting out a property isn't a passive income situation. It's a business with re
 
 ## Sources
 
-- [Ring Video Doorbell 4 with Motion Detection](https://www.amazon.com/dp/B09WDMXM2G?tag=contentportfo-20)
 - [your state's insurance department](https://www.naic.org/state_web_map.htm)
 - [IBHS home fortification guides](https://ibhs.org/)
-- [water leak sensor](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20)
-- [AmazonBasics fireproof safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 
 ---
 
@@ -120,4 +106,3 @@ Renting out a property isn't a passive income situation. It's a business with re
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

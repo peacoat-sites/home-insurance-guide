@@ -29,9 +29,7 @@ Most home insurance policies do cover appliances, but only under very specific c
 
 Your homeowner's policy will generally pay for appliance damage caused by a covered peril: fire, lightning, theft, vandalism, or certain types of sudden [water damage](/does-homeowners-insurance-cover-water-damage/). What it won't cover is the vast majority of real-world appliance failures, which tend to be mechanical breakdowns, wear and tear, or manufacturer defects. Those aren't insurance events. They're maintenance problems, and insurers treat them differently.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard homeowner's policies cover appliances damaged by covered perils (fire, theft, lightning), not mechanical failure.</li><li style="margin:5px 0">Sudden appliance-related water damage (burst hose, sudden overflow) is often covered; slow leaks are usually excluded.</li><li style="margin:5px 0">Home warranty plans, not insurance, are designed to cover breakdown and mechanical failure.</li><li style="margin:5px 0">Actual Cash Value (ACV) policies pay depreciated value, on a 10-year-old washer, that may be nearly nothing.</li><li style="margin:5px 0">Always document appliances with a home inventory before you need to file a claim.</li></ul></div>
-
 
 ## What "covered peril" actually means for your appliances
 
@@ -86,7 +84,6 @@ Your state's insurance department is also a resource people overlook. The [NAIC'
 
 ---
 
-
 *Photo: [Charlotte May](https://www.pexels.com/@charlotte-may) via Pexels*
 
 ---
@@ -101,4 +98,3 @@ Your state's insurance department is also a resource people overlook. The [NAIC'
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

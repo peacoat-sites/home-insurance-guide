@@ -29,9 +29,7 @@ State Farm writes more homeowners insurance policies than any other private insu
 
 This article isn't a glowing endorsement or a takedown. It's a close look at what State Farm's standard homeowners policy covers, where the gaps are, what the company does well on claims, and the questions you should ask before signing anything.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">State Farm's HO-3 policy is the industry standard form, but exclusions for flood, earthquake, and sewer backup still apply unless you add them.</li><li style="margin:5px 0">Replacement cost coverage on your dwelling is typically included; personal property defaults to actual cash value unless you upgrade.</li><li style="margin:5px 0">State Farm's bundling discount (auto + home) can be meaningful, but compare the bundled total against competitors before assuming it's the best deal.</li><li style="margin:5px 0">Filing a claim, even one that doesn't pay out, can raise your premium or affect renewability. Ask before you file small claims.</li><li style="margin:5px 0">State Farm has faced non-renewal waves in high-risk states; check availability and renewal stability in your area before buying.</li></ul></div>
-
 
 ## What State Farm's Standard Policy Actually Covers
 
@@ -102,7 +100,6 @@ Being dropped mid-policy is disruptive and potentially expensive. It can force y
 
 ---
 
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -117,4 +114,3 @@ Being dropped mid-policy is disruptive and potentially expensive. It can force y
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

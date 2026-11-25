@@ -29,9 +29,7 @@ An insurer's AM Best rating is one of the fastest ways to gauge whether that com
 
 AM Best has been rating [insurance companies](/best-homeowners-insurance-companies/) since 1906, which makes it the oldest credit rating agency focused specifically on the insurance industry. When you're evaluating a carrier, the AM Best Financial Strength Rating (FSR) is the number you want. Other ratings exist, including AM Best's Issuer Credit Rating and Long-Term Issue Credit Rating, but the FSR is what most consumers need to look at first.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">AM Best's Financial Strength Rating (FSR) runs from A++ (Superior) down to D (Poor); anything below B+ deserves serious scrutiny.</li><li style="margin:5px 0">Ratings from A to A++ indicate the carrier has superior or excellent ability to meet ongoing insurance obligations.</li><li style="margin:5px 0">A rating of B or lower signals potential vulnerability to adverse financial conditions, not necessarily imminent failure, but a yellow flag.</li><li style="margin:5px 0">FSR lookups are free at ambest.com; you don't need an account to search a carrier's current rating.</li><li style="margin:5px 0">State regulators also monitor insurer solvency, check your state's department via the NAIC's directory at naic.org.</li></ul></div>
-
 
 ## What the Scale Actually Means
 
@@ -104,7 +102,6 @@ A practical home inventory, stored somewhere fireproof, also matters a lot when 
 
 ---
 
-
 *Photo: [Teté  Gallardo Batista](https://www.pexels.com/@tete-gallardo-batista-46104697) via Pexels*
 
 ---
@@ -119,4 +116,3 @@ A practical home inventory, stored somewhere fireproof, also matters a lot when 
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

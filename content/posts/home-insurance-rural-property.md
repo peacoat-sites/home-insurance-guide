@@ -29,9 +29,7 @@ Rural homeowners pay more for less coverage than their suburban counterparts, an
 
 The good news is that the gaps are predictable. Once you know where they are, you can close most of them before you need to.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Rural homes often face 10–25% higher premiums due to fire protection class ratings based on distance from fire stations.</li><li style="margin:5px 0">Standard HO-3 policies cap "other structures" coverage at 10% of dwelling value, often far too low for farms with multiple outbuildings.</li><li style="margin:5px 0">Well and septic systems are routinely excluded or severely sublimited under most standard homeowners policies.</li><li style="margin:5px 0">Livestock, farm equipment, and crops require separate farm/ranch endorsements or a standalone farm policy entirely.</li><li style="margin:5px 0">Replacement cost for rural homes can be hard to estimate accurately; use a [Replacement Cost Calc](/home-replacement-cost-calculator/) before you renew.</li></ul></div>
-
 
 ## Fire Protection Class: The Rural Premium Driver
 
@@ -97,7 +95,6 @@ If you're shopping rather than renewing, check [average home insurance costs by 
 
 ---
 
-
 *Photo: [Damir K](https://www.pexels.com/@damir) via Pexels*
 
 ---
@@ -112,4 +109,3 @@ If you're shopping rather than renewing, check [average home insurance costs by 
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

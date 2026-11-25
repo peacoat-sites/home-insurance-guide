@@ -29,9 +29,7 @@ Most homeowners assume they can recall what they own. They can't. After a fire, 
 
 The good news: this doesn't require a lot of time upfront. A single afternoon, done properly, protects you better than years of paying premiums without it. The National Association of Insurance Commissioners (NAIC) has a free tool called the **Home Inventory Checklist** that walks room by room. It's a reasonable starting point, but it doesn't tell you the mistakes people make storing the final document or which categories adjusters scrutinize most.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Video walkthroughs with spoken descriptions are faster to create than spreadsheets and hold up well during claims.</li><li style="margin:5px 0">Store your inventory off-site or in cloud storage; a copy destroyed in the same fire it's meant to document is useless.</li><li style="margin:5px 0">High-value items (jewelry, art, electronics) need separate scheduled endorsements; standard policies cap them well below replacement cost.</li><li style="margin:5px 0">Serial numbers and purchase receipts for items over roughly $200 dramatically speed up claims processing.</li><li style="margin:5px 0">Update your inventory every 12 months or after any major purchase.</li></ul></div>
-
 
 ## Why Standard Policies Make This Harder
 
@@ -96,7 +94,6 @@ Once a year works for most people. Tie it to something you already do: your poli
 
 ---
 
-
 *Photo: [https://kaboompics.com/](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
@@ -111,4 +108,3 @@ Once a year works for most people. Tie it to something you already do: your poli
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-

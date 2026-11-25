@@ -29,9 +29,7 @@ North Carolina homeowners face a genuinely complicated insurance market right no
 
 The state's insurance environment has tightened considerably. After years of above-average hurricane and severe weather losses, some carriers have restricted new business in coastal counties or raised wind deductibles significantly. Shoppers who compare only premium price are setting themselves up for a nasty surprise at claim time.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NC's coastal counties often require separate wind/hail coverage through the NC Joint Underwriting Association (NCJUA/Beach Plan), your standard policy may not cover it.</li><li style="margin:5px 0">Hurricane deductibles in NC are typically percentage-based (1%–5% of dwelling value), not a flat dollar amount, making them far larger than homeowners expect.</li><li style="margin:5px 0">Replacement cost coverage (RCV) beats actual cash value (ACV) coverage for most NC homeowners, especially older homes in storm-prone areas.</li><li style="margin:5px 0">The NC Rate Bureau sets maximum rates; your insurer can charge at or below that ceiling, so rates across companies do vary meaningfully.</li><li style="margin:5px 0">Always verify whether your policy covers the full 4-part bundle: dwelling, other structures, personal property, and loss of use, at what value basis.</li></ul></div>
-
 
 ## How the NC Insurance Market Actually Works
 
@@ -110,7 +108,6 @@ Keeping a solid home inventory matters more than most people act on it. The NAIC
 
 ---
 
-
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 
 ---
@@ -125,4 +122,3 @@ Keeping a solid home inventory matters more than most people act on it. The NAIC
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
-
