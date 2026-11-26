@@ -19,11 +19,15 @@ faqs:
    a: "Almost certainly not under a standard umbrella. Home-based business liability is one of the most consistently excluded categories. If a client slips at your home office, or a product you sell injures a customer, your personal umbrella will likely deny the claim as a business activity. You need either a home-based business endorsement on your homeowner's policy or a separate business owner's policy. Don't assume personal coverage extends to commercial activity, even if the activity feels casual."
  - q: "How does the claims process work with an umbrella policy?"
    a: "You report the claim to your homeowner's insurer first. They investigate and defend using their process. If a judgment or settlement exceeds your underlying limit, the umbrella carrier steps in. You'll likely need to notify your umbrella carrier early in the process, even if you don't know yet whether the underlying limit will be exceeded. Most umbrella policies require prompt notice of any event that might trigger coverage, and delayed notice can become grounds for a coverage dispute. When in doubt, notify both carriers simultaneously."
+ - q: "Do I need an umbrella policy if I own a high-value home?"
+   a: "It depends on your total exposed assets, not just the value of the home. A common starting point is to buy enough coverage to protect your net worth, including home equity, investments and savings, and to consider future income as well. If your assets exceed your homeowner's liability limit, an umbrella is worth serious consideration."
+ - q: "Is umbrella homeowners insurance the same as a homeowner's policy?"
+   a: "No. An umbrella policy is excess liability coverage that sits on top of your homeowner's and auto policies. It pays only after those underlying liability limits are exhausted, and it does not cover damage to your own home."
 author: "Laura Martinez"
 author_slug: "laura-martinez"
 author_title: "Disaster Coverage"
 author_bio: "Laura Martinez is the byline used at Home Insurance Clear for articles on coverage for storms, wildfire, flood and other large losses. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 Your neighbor's kid breaks his arm on your backyard trampoline. The family sues. Your homeowner's liability limit is $300,000, but the lawsuit demands $750,000. Your standard policy pays its cap and stops. The remaining $450,000 is your problem. An umbrella policy would have covered it. Most people find out what an umbrella does, and doesn't do, only after they need one.
 
@@ -79,6 +83,12 @@ Coverage is broader than most people expect. Narrower than most people assume.
 - Contracts where you've assumed another party's liability
 
 The exclusions list is where experienced adjusters earn their keep. For example, claims can be denied if you operate a business from home and the liability is deemed business-related, or if your dog's breed appears on an exclusion endorsement you didn't know about. Read your exclusions before you bind coverage, not after a loss.
+
+## Does an Umbrella Policy Cover Property Damage?
+
+It covers property damage you cause to other people, such as damage to a neighbor's fence or vehicle, once your underlying policy's liability limit is used up. It does not cover damage to your own property. If a fire or storm damages your house, your homeowner's policy handles that loss, not the umbrella.
+
+Coverage language is not standardized, so check how your carrier's policy treats property damage and which exclusions apply, including any business-related use of the property.
 
 ## How Much Coverage You Actually Need
 

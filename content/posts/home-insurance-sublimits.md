@@ -23,12 +23,14 @@ faqs:
    a: "It depends on the category and the policy. Jewelry sublimits often apply specifically to theft, meaning fire or water damage to jewelry might be covered up to your full personal property limit. But not always. Some policies apply sublimits to all causes of loss for certain categories. Read your policy language carefully, and ask your agent to clarify if you're unsure."
  - q: "How do I know if my home business equipment is covered?"
    a: "Check whether your policy covers business property at home and at what sublimit. Many standard policies cap this at $2,500 for on-premises business property. If your equipment, inventory, or business liability exposure exceeds that, talk to your agent about a home business endorsement or a separate business owner's policy."
-lastmod: 2026-11-16T16:00:00Z
+ - q: "Can I raise a sublimit without scheduling an item?"
+   a: "Often, yes. Some insurers will let you increase a category limit, such as jewelry, for a modest premium increase without requiring a formal appraisal. This is not as complete as scheduling, which covers each item at its appraised value, but it can narrow the gap. Ask your agent which options your insurer offers."
+lastmod: 2026-11-26
 ---
 
-Most policyholders have no idea sublimits exist until they're sitting across a desk from someone like me, staring at a claim denial that makes no sense to them. That moment, I saw it hundreds of times in fourteen years. Someone loses a collection of jewelry in a break-in, files a claim under their $300,000 homeowners policy, and walks away with $1,500. Technically, the policy paid. Practically, they were blindsided.
+Most policyholders have no idea sublimits exist until they file a claim and the payout makes no sense to them. Picture someone who loses a collection of jewelry in a break-in, files a claim under a $300,000 homeowners policy, and receives $1,500. Technically, the policy paid. Practically, they were blindsided.
 
-So if you're reading this because something happened, or because you're finally sitting down to actually understand your policy, good. You're in the right place, and I'm not going to waste your time with vague reassurances.
+A sublimit is a cap on specific categories of property that sits inside your overall personal property coverage. If you're reading this because something happened, or because you're finally sitting down to understand your policy, the sections below explain which categories are capped and how to close the gaps.
 
 ## What Sublimits Actually Are (And Why Insurers Don't Highlight Them)
 
@@ -36,11 +38,11 @@ Your homeowners policy has a total [personal property coverage](/homeowners-insu
 
 A sublimit is a cap within your overall coverage. It applies to specific categories of property, regardless of what your total policy limit says. These aren't buried in the fine print exactly, but they're not featured in the brochure either. They live in a section of your policy typically labeled "Special Limits of Liability," and most people never read it until after a loss.
 
-Here's what I tell people when they first hear this: think of your total policy like a budget envelope. The sublimits are smaller envelopes inside it, each labeled for a different category. Even if the big envelope has plenty of money left, once a small envelope is empty, that category is done.
+A helpful way to picture it: think of your total policy like a budget envelope. The sublimits are smaller envelopes inside it, each labeled for a different category. Even if the big envelope has plenty of money left, once a small envelope is empty, that category is done.
 
 The [Insurance Information Institute](https://www.iii.org/) lays out the standard categories that most policies cap separately, and the list is longer than people expect. Jewelry and watches. Firearms. Silverware and goldware. Business property kept at home. Cash and bank notes. Securities. Watercraft. And increasingly, electronics have their own sublimit in some policies.
 
-Standard sublimit amounts vary by insurer, but based on my years reviewing policies, a typical [HO-3 policy](/ho-3-policy-explained/) will cap jewelry theft coverage somewhere between $1,000 and $2,500. Cash is often capped at $200. Securities at $1,500. These numbers haven't moved meaningfully in years, even as the value of what people own has climbed considerably.
+Standard sublimit amounts vary by insurer, but a typical [HO-3 policy](/ho-3-policy-explained/) will cap jewelry theft coverage somewhere between $1,000 and $2,500. Cash is often capped at $200. Securities at $1,500. These numbers haven't moved meaningfully in years, even as the value of what people own has climbed considerably.
 
 ## The Categories That Bite People Most Often
 
@@ -54,7 +56,7 @@ Standard sublimit amounts vary by insurer, but based on my years reviewing polic
 
 Jewelry is the one that generates the most shock. A single engagement ring bought today can easily run $8,000 to $20,000. A modest collection built over decades can hit six figures. Standard sublimits cover almost none of that in a theft scenario. (Damage from, say, a house fire might be treated differently depending on the cause of loss, but theft is where sublimits hit hardest.)
 
-I watched a claim come through once where a woman had inherited her grandmother's jewelry, a mix of estate pieces she'd had appraised at roughly $34,000. Her policy's jewelry theft sublimit was $2,500. She had no scheduled endorsement. She received $2,500. I had to deliver that news. It doesn't get easier.
+Consider a homeowner who inherits a grandmother's jewelry, a mix of estate pieces appraised at roughly $34,000. If the policy's jewelry theft sublimit is $2,500 and there is no scheduled endorsement, a theft claim pays $2,500, no matter how large the appraised value is.
 
 The second category that surprises people: home-based business property. If you work from home and have $10,000 worth of equipment, you might assume your homeowners policy covers it. Maybe it does, partially. Standard policies often cap business property at $2,500 on-premises, and some cap it even lower or exclude it entirely when it's used for business purposes. As of July 2026, with remote and hybrid work being the norm rather than the exception, this gap is affecting more households than ever.
 

@@ -1,8 +1,8 @@
 ---
-title: "Wood-Frame vs. Brick Home Insurance Cost Differences"
+title: "Frame vs. Masonry Construction: Home Insurance Costs"
 date: 2026-11-17T18:49:23.672370+00:00
 draft: false
-description: "Compare frame and masonry home insurance costs and coverage. Learn how construction type affects your premiums and protection."
+description: "Frame vs. masonry vs. masonry veneer: how ISO construction classes work, why veneer is often rated as frame, and how it changes your premium."
 image: "/img/heroes/34192130.jpg"
 categories: ["Cost Factors"]
 tags: ["home", "insurance", "frame", "masonry"]
@@ -23,11 +23,16 @@ faqs:
     a: "Yes. If you believe your home has been misclassified (for example, rated as frame when it has masonry bearing walls), you can provide documentation including building permits, inspection reports, or a licensed contractor's statement. Submit this to your insurer and request a re-rating. Your state insurance department can help if the insurer refuses to review it."
   - q: "Does construction type affect claims payouts, not just premiums?"
     a: "Directly, no. Your coverage limit and policy terms govern the payout, not your construction class. Indirectly, construction type affects actual rebuild costs, which should inform your dwelling coverage limit. Masonry construction typically costs more per square foot to rebuild than wood frame, so a masonry homeowner who insures to frame-rebuild costs may be underinsured."
+  - q: "What is the difference between joisted masonry and frame construction?"
+    a: "Frame construction means wood-framed walls. Joisted masonry has masonry exterior walls but a wood floor and roof structure, and ISO rates it as construction class 2 rather than class 1. Insurers generally price joisted masonry below frame because the masonry walls improve fire resistance."
+  - q: "Is masonry veneer rated the same as frame construction?"
+    a: "Usually it is rated close to frame. Masonry veneer is a thin layer of brick or stone over wood framing, so the structural system is still wood. Ask your insurer how it rates veneer specifically, since the treatment can vary between carriers."
+lastmod: 2026-11-26
 ---
 
 Your construction type is probably the single biggest factor in what you pay for homeowner's insurance, and most buyers don't find that out until after they close. Frame versus masonry isn't just an industry classification, it's a pricing variable that can shift your premium by 5% to 25% depending on your insurer, your state, and what else is on your risk profile.
 
-The short version: frame homes (wood-framed walls) typically cost more to insure than masonry homes (brick or block construction) because wood burns faster and more completely. But the full picture involves fire ratings, wind resistance, and the ISO construction class system that most U.S. insurers use to price policies. Knowing how that system works lets you have a real conversation with your agent instead of just accepting whatever quote lands in your inbox.
+The short version: frame homes (wood-framed walls) typically cost more to insure than masonry homes (brick or block construction) because wood burns faster and more completely. Masonry veneer (a brick face over wood framing) is not the same as masonry: it is typically still rated as frame, and joisted masonry (masonry walls with a wood floor and roof structure) falls between the two. But the full picture involves fire ratings, wind resistance, and the ISO construction class system that most U.S. insurers use to price policies. Knowing how that system works lets you have a real conversation with your agent instead of just accepting whatever quote lands in your inbox.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Frame homes generally cost 5–25% more to insure than comparable masonry homes due to fire risk.</li><li style="margin:5px 0">Insurers use ISO construction classes (1–6) to categorize your home; class 1 is frame, class 4–6 covers masonry types.</li><li style="margin:5px 0">"Masonry veneer" (brick face over wood framing) is NOT rated as full masonry, it's typically still class 1 or 2.</li><li style="margin:5px 0">Wind risk flips the equation: in hurricane zones, wood-frame construction can outperform rigid masonry.</li><li style="margin:5px 0">You can request your home's ISO construction class from your insurer or agent and verify it against your policy.</li></ul></div>
 
@@ -53,7 +58,7 @@ Exact figures vary by state, insurer, and property profile, so treat the table b
 |---|---|---|---|---|
 | Wood frame | 1 | Baseline (highest) | Lower | Moderate (flexible) |
 | Masonry veneer over frame | 1–2 | Near baseline | Lower-moderate | Moderate |
-| Joisted masonry | 2–3 | 5–15% below frame | Moderate | Moderate |
+| Joisted masonry | 2 | 5–15% below frame | Moderate | Moderate |
 | Brick/block masonry | 4–6 | 10–25% below frame | High | Lower (rigid, cracks) |
 | Superior construction (fireproof) | 6 | Lowest | Highest | Variable |
 
