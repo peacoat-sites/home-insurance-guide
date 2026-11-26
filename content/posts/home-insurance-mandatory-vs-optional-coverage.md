@@ -53,13 +53,13 @@ If you have a mortgage, your lender mandates insurance. This isn't optional in a
 
 Lenders require, at minimum:
 
-- **Dwelling coverage** at a replacement cost value sufficient to protect the loan. Some require 100% replacement cost; others accept 80%. Know which.
+- **Dwelling coverage** at a replacement cost value sufficient to protect the loan. Some require 100% replacement cost; others accept 80%. Know which. ([Policygenius](https://www.policygenius.com/homeowners-insurance/mortgage-lender-requirements-for-homeowners-insurance/))
 - **Named perils** that include fire, windstorm, and hail at a minimum.
 - **Liability coverage** to protect their collateral if someone is injured on the property.
 
 What lenders do *not* typically require: coverage for your personal belongings, flood insurance (though this changes if your property sits in a FEMA-designated Special Flood Hazard Area), or loss of use coverage. Some lenders in coastal or high-wildfire zones will require specific endorsements. Read your mortgage agreement, not just the insurance certificate.
 
-A common trap is lender-placed insurance, also called "force-placed" coverage. If you let your policy lapse, the lender buys a policy on your behalf and charges it to your escrow. That policy protects the lender's investment, not yours. Personal property, liability, and loss of use are typically not included. The premium is often double what you'd pay on the open market. Don't let that happen.
+A common trap is lender-placed insurance, also called "force-placed" coverage. If you let your policy lapse, the lender buys a policy on your behalf and charges it to your escrow. That policy protects the lender's investment, not yours. Personal property, liability, and loss of use are typically not included. The premium is often much higher than what you'd pay on the open market. Don't let that happen.
 
 ---
 
@@ -72,20 +72,20 @@ A common trap is lender-placed insurance, also called "force-placed" coverage. I
 | Personal Property | No | Included in base premium | Named-peril only; sublimits on jewelry, art, firearms |
 | Flood | No | Separate policy | Standard HO-3 excludes entirely |
 | Earthquake | No | Separate endorsement | Standard HO-3 excludes entirely |
-| Sewer/Water Backup | No | $50-$150/year | Standard HO-3 excludes entirely |
-| Extended Replacement Cost | No | 10-15% premium increase (typical) | Applies only to dwelling coverage |
+| Sewer/Water Backup | No | Usually a low-cost endorsement | Standard HO-3 excludes entirely |
+| Extended Replacement Cost | No | Varies by insurer and home | Applies only to dwelling coverage |
 | Scheduled Personal Property | No | Variable by item | Covers items above sublimits at appraised value |
-| Ordinance or Law | No | 5-10% premium increase (typical) | Standard coverage excludes code upgrades |
+| Ordinance or Law | No | Varies by insurer and home | Standard coverage excludes code upgrades |
 
 The word "optional" implies these are nice-to-haves. Some are. Several aren't.
 
-**Flood insurance.** The standard HO-3 excludes flood damage entirely. If you live near water, in a low-lying area, or in a region with heavy seasonal rain, this exclusion can be catastrophic. Flood coverage is typically purchased separately through the National Flood Insurance Program or private carriers. According to the NAIC, even an inch of floodwater can cause tens of thousands of dollars in damage. This is less optional than the name suggests.
+**Flood insurance.** The standard HO-3 excludes flood damage entirely. If you live near water, in a low-lying area, or in a region with heavy seasonal rain, this exclusion can be catastrophic. Flood coverage is typically purchased separately through the National Flood Insurance Program or private carriers. Even a small amount of floodwater can cause major damage to a home and its contents. This is less optional than the name suggests.
 
 **Earthquake insurance.** Also excluded from the standard HO-3. Relevant in more than just California. The New Madrid Seismic Zone runs through the central United States; Oklahoma has had increased seismic activity from injection wells; the Pacific Northwest sits on the Cascadia Subduction Zone. If you're in any of these regions, the add-on deserves a real look.
 
-**Sewer and water backup coverage.** This is underused and underpriced. A sewage backup is disgusting, expensive, and not covered by your standard policy. The endorsement usually costs between $50 and $150 per year. Considering that remediation for a backed-up sewer can run into five figures, the math is obvious. A water leak sensor placed near floor drains, water heaters, and washing machines won't prevent a backup, but it can limit damage by alerting you early.
+**Sewer and water backup coverage.** This is underused and underpriced. A sewage backup is disgusting, expensive, and not covered by your standard policy. The endorsement is usually inexpensive compared with the cost of cleanup, and remediation for a backed-up sewer can be very costly, so the math is usually favorable. A water leak sensor placed near floor drains, water heaters, and washing machines won't prevent a backup, but it can limit damage by alerting you early.
 
-**[Extended replacement cost coverage](/home-insurance-extended-replacement-cost/).** If your home is destroyed, standard dwelling coverage pays up to your policy limit. If construction costs have risen since you bought the policy, that limit might not cover a full rebuild. Extended replacement cost adds a percentage buffer, typically 25% to 50% above your dwelling limit. After major regional disasters, when labor and materials spike suddenly, this endorsement has made a measurable difference for claimants.
+**[Extended replacement cost coverage](/home-insurance-extended-replacement-cost/).** If your home is destroyed, standard dwelling coverage pays up to your policy limit. If construction costs have risen since you bought the policy, that limit might not cover a full rebuild. Extended replacement cost adds a percentage buffer, typically 25% to 50% above your dwelling limit ([Insurance.com](https://www.insurance.com/home-and-renters-insurance/extended-replacement-cost-coverage)). After major regional disasters, when labor and materials spike suddenly, this endorsement has made a measurable difference for claimants.
 
 **Scheduled personal property.** Standard policies cap payouts on specific categories: jewelry, art, firearms, electronics. If you own items that exceed those sublimits, a scheduled personal property rider covers them at their appraised value. Expensive engagement rings, heirloom watches, and camera equipment are the most common candidates.
 
@@ -99,9 +99,9 @@ Don't wait for a claim to find your gaps.
 
 **Step 1: Find your declarations page.** This single-page summary lists your coverage types, limits, and deductibles. If you can't find it, call your agent or log into your insurer's portal.
 
-**Step 2: Check your dwelling coverage limit against current replacement cost.** Your dwelling limit should reflect what it would cost to rebuild your home today, not what you paid for it and not its market value. Construction costs have risen sharply in recent years. If your policy hasn't been updated in three or more years, you're probably underinsured. Ask your agent for a replacement cost estimate.
+**Step 2: Check your dwelling coverage limit against current replacement cost.** Your dwelling limit should reflect what it would cost to rebuild your home today, not what you paid for it and not its market value. Rebuilding costs can change quickly with labor and material prices. If your policy hasn't been updated in several years, you may be underinsured. Ask your agent for a replacement cost estimate.
 
-**Step 3: Look at your personal property sublimits.** Most policies cap jewelry at $1,500 to $2,500 and firearms at $2,500. If your actual possessions exceed those numbers, note what needs a rider.
+**Step 3: Look at your personal property sublimits.** Sublimits on jewelry, firearms, and similar items vary by insurer, so look up the exact caps in your policy. If your actual possessions exceed those caps, note what needs a rider.
 
 **Step 4: Build a home inventory.** Photograph or video every room, open every drawer and closet, and document what you own before you need to claim it. Store the inventory offsite or in cloud storage, not just on a local hard drive that a house fire could destroy. A fireproof document safe works well for paper documents, insurance certificates, and physical backups.
 

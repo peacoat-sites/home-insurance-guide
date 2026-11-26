@@ -16,7 +16,7 @@ faqs:
  - q: "What is a sublimit in home insurance?"
    a: "A sublimit is a coverage cap that applies to a specific category of personal property, regardless of your overall policy limit. Even if your policy covers $200,000 in personal property, a jewelry sublimit of $2,500 means that's all you'd receive for stolen jewelry, no matter how much was taken."
  - q: "Does scheduling jewelry remove the sublimit?"
-   a: "Yes. When you schedule an item, it's covered at its full appraised value under a separate endorsement, and the general jewelry sublimit no longer applies to that piece. Scheduling also typically provides broader coverage, including mysterious disappearance, which standard policies exclude."
+   a: "Yes. When you schedule an item, it's covered at its full appraised value under a separate endorsement, and the general jewelry sublimit no longer applies to that piece. Scheduling often provides broader coverage, such as mysterious disappearance, which standard policies often exclude, though terms vary by insurer."
  - q: "Are sublimits the same on every home insurance policy?"
    a: "No. Sublimit amounts vary by insurer and policy type. Standard ISO-based policies have baseline amounts, but individual insurers can set their own, and they do. Always review the 'Special Limits of Liability' section in your specific policy document rather than assuming industry norms apply."
  - q: "Do sublimits apply to damage from a fire, or just theft?"
@@ -58,7 +58,7 @@ Jewelry is the one that generates the most shock. A single engagement ring bough
 
 Consider a homeowner who inherits a grandmother's jewelry, a mix of estate pieces appraised at roughly $34,000. If the policy's jewelry theft sublimit is $2,500 and there is no scheduled endorsement, a theft claim pays $2,500, no matter how large the appraised value is.
 
-The second category that surprises people: home-based business property. If you work from home and have $10,000 worth of equipment, you might assume your homeowners policy covers it. Maybe it does, partially. Standard policies often cap business property at $2,500 on-premises, and some cap it even lower or exclude it entirely when it's used for business purposes. As of July 2026, with remote and hybrid work being the norm rather than the exception, this gap is affecting more households than ever.
+The second category that surprises people: home-based business property. If you work from home and have $10,000 worth of equipment, you might assume your homeowners policy covers it. Maybe it does, partially. Standard policies often cap business property at $2,500 on-premises, and some cap it even lower or exclude it entirely when it's used for business purposes. Because many people now work from home at least part of the week, this gap affects more households than it used to.
 
 Firearms get their own sublimit in many policies, often $2,500 for theft. If you have a safe full of hunting rifles or collectible pieces, that's going to fall short fast.
 
@@ -66,19 +66,19 @@ A worked example of what this looks like in practice:
 
 Homeowner has $200,000 in personal property coverage. Their home is burglarized. Stolen: one laptop ($2,800), one wedding ring ($9,500), one engagement ring ($14,000), $400 cash, two shotguns ($3,200 combined). Total stolen: roughly $30,000.
 
-Claim filed. Adjuster applies sublimits. Jewelry covered up to $2,500. Cash covered up to $200. Firearms up to $2,500. Laptop covered in full at $2,800 (minus deductible). Total payout: approximately $8,000 on a $30,000 loss. The $200,000 policy limit was completely irrelevant.
+Claim filed. Adjuster applies sublimits. Both rings fall under the same jewelry category, so together they are covered up to a single $2,500 cap. Cash covered up to $200. Firearms up to $2,500. Laptop covered in full at $2,800. Those amounts add up to $8,000, and the policy deductible is then subtracted from that, so the payout is at most about $8,000 on a roughly $30,000 loss. The $200,000 policy limit was completely irrelevant.
 
 ## How to Actually Fix This
 
-Scheduling, also called a "[scheduled personal property endorsement](/home-insurance-endorsements-explained/)" or a "floater," is the answer for high-value items. You get each item appraised, submit that to your insurer, and pay an additional premium to have it covered at full appraised value, often with no deductible and broader coverage (including mysterious disappearance, which standard policies don't cover).
+Scheduling, also called a "[scheduled personal property endorsement](/home-insurance-endorsements-explained/)" or a "floater," is the answer for high-value items. You get each item appraised, submit that to your insurer, and pay an additional premium to have it covered at full appraised value. Many insurers also offer broader terms for scheduled items, such as coverage for mysterious disappearance, which standard policies often exclude, and some waive the deductible. These terms vary by insurer, so confirm them in the endorsement.
 
-Many people assume that scheduling jewelry is automatically expensive. The cost often turns out to be modest. For example, scheduling a $7,000 ring as a separate item might cost only $9 per month. That's $108 a year to fully cover something worth $7,000. That math is almost always worth doing.
+Many people assume that scheduling jewelry is automatically expensive. The cost often turns out to be modest. Scheduling rates vary by insurer, item, and location, but the added premium is often small compared with the value of the item. Ask for a quote on each piece, since the math is often worth doing.
 
-For items you want to track and value accurately before scheduling them, a home inventory is non-negotiable. Apps like Sortly (free tier available, premium around $99/year) make this genuinely manageable. Go room by room, photograph everything, record serial numbers. Keep the file somewhere that isn't your house: a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) works for physical copies, or cloud backup for digital. (Affiliate disclosure: as an Amazon associate, this site may earn a commission on qualifying purchases.)
+For items you want to track and value accurately before scheduling them, a home inventory is non-negotiable. Home inventory apps, some with free tiers, make this genuinely manageable. Go room by room, photograph everything, record serial numbers. Keep the file somewhere that isn't your house: a [document safe](https://www.amazon.com/s?k=fireproof+document+safe&tag=contentportfo-20) works for physical copies, or cloud backup for digital. (Affiliate disclosure: as an Amazon associate, this site may earn a commission on qualifying purchases.)
 
 For home-based business equipment, look at whether your insurer offers a home business endorsement, or whether a separate business owner's policy (BOP) makes more sense. The [National Association of Insurance Commissioners](https://www.naic.org/) has a helpful explainer on when homeowners coverage stops and business coverage needs to start. Roughly speaking: if you have clients visiting your home, have significant equipment, or carry liability related to your business, a homeowners endorsement probably isn't enough.
 
-And for water damage, which is its own sublimit conversation: many policies sublimit sewer backup and water backup coverage at $5,000 or less. This is a coverage gap I'd close immediately. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) can help prevent the loss in the first place, and they're a reasonable secondary precaution while you sort out your policy.
+Water damage is a separate coverage conversation: sewer and water backup is often excluded or limited unless an endorsement is added, so check your policy for it and ask your agent about options. [Water leak sensors](https://www.amazon.com/s?k=water+leak+sensor&tag=contentportfo-20) can help prevent the loss in the first place, and they're a reasonable secondary precaution while you sort out your policy.
 
 ## How to Actually Read Your Policy for Sublimits
 
@@ -94,8 +94,7 @@ One more thing worth knowing: sublimits can often be raised incrementally even w
 
 - [Insurance Information Institute (III)](https://www.iii.org/): Industry resource on homeowners policy structure, standard coverage categories, and special limits of liability.
 - [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/): Consumer guidance on homeowners coverage, business property, and filing complaints.
-- ISO HO-3 Policy Form (current standard edition): The industry-standard homeowners policy form used as the baseline for most residential policies; defines special limits of liability categories and standard amounts.
-- NAIC Homeowners Insurance Report (2025): Annual data on homeowners market trends, coverage gaps, and premium comparisons by state.
+- ISO HO-3 Policy Form (current standard edition): The industry-standard homeowners policy form used as the baseline for most residential policies; defines special limits of liability categories and standard amounts, such as $1,500 for theft of jewelry and watches and $2,500 for on-premises business property ([The Zebra](https://www.thezebra.com/homeowners-insurance/policies/what-is-ho-3-insurance-policy/)).
 
 ---
 

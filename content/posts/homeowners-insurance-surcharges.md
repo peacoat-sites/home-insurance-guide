@@ -49,17 +49,17 @@ Why does this distinction matter in practice? If it's a broad rate increase, you
 
 What sets these off? A handful of causes account for most surcharges homeowners encounter.
 
-**Claims history.** This is the big one. File a claim, especially more than one in a three-to-five year window, and you'll almost certainly get surcharged. The amount doesn't always matter much either. A $1,800 water damage claim hits you just as hard as a much larger one. Insurers share claims data through a system called CLUE (Comprehensive Loss Underwriting Exchange), so your history follows you when you switch companies.
+**Claims history.** This is the big one. File a claim, especially more than one in a three-to-five year window, and you'll almost certainly get surcharged. The amount doesn't always matter much either. A $1,800 water damage claim hits you just as hard as a much larger one. Many insurers share claims data through a system called CLUE (Comprehensive Loss Underwriting Exchange), so your history often follows you when you switch companies, though not every insurer reports to or uses it the same way.
 
 **Certain dog breeds.** Many insurers keep internal lists of breeds they consider high-liability risks. Pit bulls, Rottweilers, German Shepherds, and Akitas show up frequently. Adopt a dog they've flagged, and you'll either get surcharged or face a coverage exclusion for dog bite liability.
 
 **Attractive nuisances.** That's what insurers call trampolines and pools because they increase liability exposure. Add either one without telling your insurer, and you've got a coverage gap. Tell them, and you'll usually get surcharged or need a rider.
 
-**[Roof age and condition](/homeowners-insurance-roof-age-restrictions/).** Roofs over 15 to 20 years old increasingly get surcharged or downgraded to actual cash value (ACV) coverage instead of replacement cost. It's a significant coverage cut dressed up as a pricing adjustment.
+**[Roof age and condition](/homeowners-insurance-roof-age-restrictions/).** Roofs over 15 to 20 years old increasingly get surcharged or downgraded to actual cash value (ACV) coverage instead of replacement cost ([SageSure](https://sagesure.com/insurance-insights/roof-replacement-cost-acv/)). It's a significant coverage cut dressed up as a pricing adjustment.
 
 **Credit-based insurance scores.** Most states let insurers use credit information as a rating factor. A dip in your credit score translates directly into a higher premium. The [Insurance Information Institute](https://www.iii.org/) has published guidance on how this works, and it's worth understanding if you've had any financial disruptions lately.
 
-**Lapse in coverage.** Even a short gap between policies signals risk to underwriters. Thirty days without insurance during a move or policy dispute can follow you.
+**Lapse in coverage.** Even a short gap between policies can signal risk to underwriters. A lapse during a move or policy dispute may affect the rates you are offered, depending on the insurer.
 
 **Home-based business activity.** Running any kind of business from your home without proper endorsements triggers a surcharge or an exclusion. Standard homeowners policies weren't written for business activity.
 
@@ -70,7 +70,7 @@ What sets these off? A handful of causes account for most surcharges homeowners 
 | Surcharge Type | Typical Duration | Conditions for Removal |
 | --- | --- | --- |
 | Claims-related | 3-5 years | Surcharge drops when claim exits insurer's lookback period |
-| Credit-based | Variable | Improves when credit score improves; requires insurer re-evaluation |
+| Credit-based | Variable, changes as your credit changes | Improves when credit score improves; requires insurer re-evaluation at renewal or on request |
 | Breed-related | Ongoing | Removed when dog is no longer on policy |
 | Pool/Trampoline | Ongoing | Removed when feature is removed and reported to insurer |
 | Roof age | Ongoing until replacement | Removed after roof replacement with proof of completion |
@@ -93,15 +93,15 @@ Roof surcharges are harder. They don't usually go away until you replace the roo
 
 You have more options than a renewal notice suggests.
 
-**Step 1: Ask for a specific explanation in writing.** Call your agent or insurer and ask exactly what changed on your policy and why. Get it on paper. Insurers are generally required to send written notice of surcharge reasons, and if you haven't received one, request it. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes consumer guidance on your rights, including how to file a complaint if your insurer isn't being transparent.
+**Step 1: Ask for a specific explanation in writing.** Call your agent or insurer and ask exactly what changed on your policy and why. Get it on paper. Notice rules vary by state and by the type of action the insurer takes, so a written explanation is not guaranteed in every case. If you haven't received one, request it. The [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/) publishes consumer guidance on your rights, including how to file a complaint if your insurer isn't being transparent.
 
-**Step 2: Check your CLUE report.** You're entitled to one free CLUE report per year through LexisNexis. Pull it and verify the claims listed are actually yours and accurately described. Errors happen. A claim listed from a prior homeowner at your address, or a claim categorized wrong, can be disputed and corrected.
+**Step 2: Check your CLUE report.** Under the Fair Credit Reporting Act, you can request a free copy of your CLUE report from LexisNexis. Request it through LexisNexis's consumer disclosure process (details and frequency can change, so check their site), then verify the claims listed are actually yours and accurately described. Errors happen. A claim listed from a prior homeowner at your address, or a claim categorized wrong, can be disputed and corrected.
 
 **Step 3: Ask what would remove or reduce the surcharge.** Sometimes it's a home improvement. Sometimes it's a home inspection. Sometimes it's a mitigation measure like water leak sensors (genuinely useful, and some insurers will actually discount for them). Ask directly.
 
-**Step 4: Shop your policy.** Not all insurers surcharge the same factors at the same rates. If you filed one claim two years ago and your current insurer is adding 30% to your premium, another carrier might add 10% or nothing if you're otherwise clean. Get at least three quotes before renewing.
+**Step 4: Shop your policy.** Not all insurers surcharge the same factors at the same rates. If you filed one claim two years ago and your current insurer is adding 30% to your premium, another carrier might add 10% or nothing if you're otherwise clean ([MoneyGeek](https://www.moneygeek.com/insurance/homeowners/home-insurance-costs-after-a-claim/)). Get at least three quotes before renewing.
 
-**Step 5: Consider whether filing a claim is worth it in the first place.** A $2,000 loss that costs you $500 per year for five years in surcharges is a net loss of $500. Many experienced homeowners keep a high deductible and treat insurance as catastrophic coverage, self-insuring smaller losses.
+**Step 5: Consider whether filing a claim is worth it in the first place.** As a hypothetical, a $2,000 loss that leads to a $500 per year surcharge for five years adds $2,500 in extra premiums. Even after the insurer pays the claim, that can leave you worse off, especially once your deductible is subtracted from the payout. Many experienced homeowners keep a high deductible and treat insurance as catastrophic coverage, self-insuring smaller losses.
 
 ---
 
@@ -121,7 +121,7 @@ This table isn't exact. Dollar amounts vary too much by insurer, state, and indi
 
 ---
 
-Surcharges feel opaque because insurers have little reason to explain them clearly. But once you understand what you're looking at, you're no longer at the mercy of a confusing renewal notice. You can ask questions, pull your own data, and shop for better pricing. A document safe for your policy paperwork, a home inventory app to document belongings, and basic mitigation tools like water leak sensors can all reduce your exposure and sometimes lower your premium. The more proactive you are about managing your risk, the less reactive you'll be when a surcharge arrives. If any of this leaves you uncertain, talking to a licensed independent agent or your state's insurance department is a smart next step.
+Surcharges feel opaque because insurers have little reason to explain them clearly. But once you understand what you're looking at, you're no longer at the mercy of a confusing renewal notice. You can ask questions, pull your own data, and shop for better pricing. Basic mitigation tools like water leak sensors can reduce your exposure and sometimes lower your premium, and keeping your policy paperwork and a home inventory organized makes any future claim easier to document. The more proactive you are about managing your risk, the less reactive you'll be when a surcharge arrives. If any of this leaves you uncertain, talking to a licensed independent agent or your state's insurance department is a smart next step.
 
 ---
 

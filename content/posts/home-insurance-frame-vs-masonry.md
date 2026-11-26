@@ -30,15 +30,15 @@ faqs:
 lastmod: 2026-11-26
 ---
 
-Your construction type is probably the single biggest factor in what you pay for homeowner's insurance, and most buyers don't find that out until after they close. Frame versus masonry isn't just an industry classification, it's a pricing variable that can shift your premium by 5% to 25% depending on your insurer, your state, and what else is on your risk profile.
+Your construction type is probably the single biggest factor in what you pay for homeowner's insurance, and most buyers don't find that out until after they close. Frame versus masonry isn't just an industry classification, it's a pricing variable that can shift your premium by a meaningful amount depending on your insurer, your state, and what else is on your risk profile.
 
 The short version: frame homes (wood-framed walls) typically cost more to insure than masonry homes (brick or block construction) because wood burns faster and more completely. Masonry veneer (a brick face over wood framing) is not the same as masonry: it is typically still rated as frame, and joisted masonry (masonry walls with a wood floor and roof structure) falls between the two. But the full picture involves fire ratings, wind resistance, and the ISO construction class system that most U.S. insurers use to price policies. Knowing how that system works lets you have a real conversation with your agent instead of just accepting whatever quote lands in your inbox.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Frame homes generally cost 5–25% more to insure than comparable masonry homes due to fire risk.</li><li style="margin:5px 0">Insurers use ISO construction classes (1–6) to categorize your home; class 1 is frame, class 4–6 covers masonry types.</li><li style="margin:5px 0">"Masonry veneer" (brick face over wood framing) is NOT rated as full masonry, it's typically still class 1 or 2.</li><li style="margin:5px 0">Wind risk flips the equation: in hurricane zones, wood-frame construction can outperform rigid masonry.</li><li style="margin:5px 0">You can request your home's ISO construction class from your insurer or agent and verify it against your policy.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Frame homes generally cost more to insure than comparable masonry homes in standard fire-risk markets, though the size of the gap varies by insurer and state.</li><li style="margin:5px 0">Insurers use ISO construction classes (1–6) to categorize your home; class 1 is frame, class 2 is joisted masonry, and classes 4–6 cover the more fire-resistant masonry and noncombustible types.</li><li style="margin:5px 0">"Masonry veneer" (brick face over wood framing) is NOT rated as full masonry, and it is still class 1 (frame) ([TWIA](https://www.twia.org/wp-content/uploads/2018/03/ISO-Construction-Types.pdf)).</li><li style="margin:5px 0">Wind risk flips the equation: in hurricane zones, wood-frame construction can outperform rigid masonry.</li><li style="margin:5px 0">You can request your home's ISO construction class from your insurer or agent and verify it against your policy.</li></ul></div>
 
 ## How Insurers Actually Classify Your Home
 
-The Insurance Services Office (ISO) construction classification system runs from class 1 through class 6. Frame is class 1. Masonry construction (brick, block, or stone exterior walls with masonry floors and roof) sits in classes 4 through 6. Classes 2 and 3 cover joisted masonry and noncombustible construction. These aren't just labels, they feed directly into the base rate your insurer charges per $1,000 of [dwelling coverage](/home-insurance-dwelling-coverage/).
+The Insurance Services Office (ISO) construction classification system runs from class 1 through class 6. Frame is class 1. Joisted masonry (masonry walls with a combustible floor and roof) is class 2, and noncombustible construction is class 3. Masonry noncombustible is class 4, with modified fire resistive and fire resistive construction in classes 5 and 6 ([Centurisk](https://centurisk.com/blog/hot-details-on-fire-resistive-construction-and-other-iso-classifications-rm20/)). These aren't just labels, they feed directly into the base rate your insurer charges per $1,000 of [dwelling coverage](/home-insurance-dwelling-coverage/).
 
 Most homeowners have never seen their ISO class. It's not on your [declarations page](/insurance-policy-declarations-page/) in plain language. You may need to ask your agent specifically: "What ISO construction class is my home rated at?" That's a reasonable question and any competent agent can answer it.
 
@@ -52,15 +52,15 @@ You can usually tell from your home's original building permits or a structural 
 
 ## Premium Differences in Practice
 
-Exact figures vary by state, insurer, and property profile, so treat the table below as directional rather than a quote. The ranges reflect general industry patterns; your state insurance department (find yours through the [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)) can point you to rate filings where specific differences are publicly documented.
+Exact figures vary by state, insurer, and property profile, so treat the table below as directional rather than a quote. The relative differences reflect general industry patterns; your state insurance department (find yours through the [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)) can point you to rate filings where specific differences are publicly documented.
 
 | Construction Type | ISO Class | Relative Annual Premium* | Fire Resistance | Wind Resistance |
 |---|---|---|---|---|
 | Wood frame | 1 | Baseline (highest) | Lower | Moderate (flexible) |
-| Masonry veneer over frame | 1–2 | Near baseline | Lower-moderate | Moderate |
-| Joisted masonry | 2 | 5–15% below frame | Moderate | Moderate |
-| Brick/block masonry | 4–6 | 10–25% below frame | High | Lower (rigid, cracks) |
-| Superior construction (fireproof) | 6 | Lowest | Highest | Variable |
+| Masonry veneer over frame | 1 | Near baseline | Lower-moderate | Moderate |
+| Joisted masonry | 2 | Somewhat below frame | Moderate | Moderate |
+| Masonry noncombustible / fire-resistive masonry | 4–6 | Well below frame | High | Lower (rigid, cracks) |
+| Fire resistive (for example, reinforced concrete) | 6 | Lowest | Highest | Variable |
 
 *Premium differences are approximate industry ranges, not guaranteed figures. Actual pricing depends on carrier, location, age of home, and coverage selections.
 
@@ -70,7 +70,7 @@ Exact figures vary by state, insurer, and property profile, so treat the table b
 
 The fire story is clean. Wind is messier. In coastal regions, the Gulf Coast, South Florida, the Carolinas, masonry construction's rigidity becomes a liability. Brick and concrete block walls crack under lateral wind loads. Wood-frame construction has more flex, and engineered wood framing with modern hurricane straps and impact windows can outperform a solid block home in wind-driven rain events.
 
-This is why some Florida insurers have historically charged more for block construction in certain high-wind territories, not less. The [NAIC](https://www.naic.org/) publishes consumer guides that touch on regional construction risk factors, and your state's insurance department often has wind mitigation resources specific to local building codes. If you're in a hurricane-prone area, the wind mitigation inspection (typically $150–$200 from a licensed inspector) is worth getting regardless of construction type. It documents your home's features and can directly reduce your wind premium.
+Because of this, the relationship between construction type and wind premium varies by region and insurer, and masonry does not always earn a lower price in high-wind areas. Florida wind mitigation forms do credit concrete block walls, so block construction often still helps on the wind side there. The [NAIC](https://www.naic.org/) publishes consumer guides that touch on regional construction risk factors, and your state's insurance department often has wind mitigation resources specific to local building codes. If you're in a hurricane-prone area, the wind mitigation inspection (typically $150–$200 from a licensed inspector) is worth getting regardless of construction type. It documents your home's features and can directly reduce your wind premium.
 
 ## What You Can Actually Do With This Information
 

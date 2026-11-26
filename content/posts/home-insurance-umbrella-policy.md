@@ -37,7 +37,7 @@ An umbrella policy is excess liability coverage. That's it. It sits on top of yo
 
 It does not cover your house. It does not replace your homeowner's policy. It will not pay to rebuild your kitchen after a fire. What it does do is protect your bank account, your retirement savings, and your future income if someone wins a large judgment against you in court.
 
-The mechanics are straightforward: you file a claim, your homeowner's policy pays up to its liability limit, then the umbrella kicks in for anything above that threshold, up to its own limit. Most umbrella policies start at $1 million in additional coverage. You can typically buy up to $5 million or more in increments, and the annual cost for a $1 million policy usually runs a few hundred dollars (though your specific premium depends heavily on your risk profile).
+The mechanics are straightforward: you file a claim, your homeowner's policy pays up to its liability limit, then the umbrella kicks in for anything above that threshold, up to its own limit. Most umbrella policies start at $1 million in additional coverage. You can typically buy up to $5 million or more in increments. The annual cost of a $1 million policy is generally modest compared with the protection it provides, though your specific premium depends heavily on your risk profile and carrier.
 
 Here's what insurers don't lead with: umbrella policies aren't standardized. Coverage language varies significantly between carriers, and exclusions buried in the fine print can gut the protection you think you're buying.
 
@@ -100,32 +100,32 @@ Here's a more useful framework:
 
 **Step 1:** Add up your exposed assets (home equity, investment accounts, savings, any property you own).
 
-**Step 2:** Add a reasonable estimate of your future income over the next decade. Courts can garnish wages.
+**Step 2:** Add a reasonable estimate of your future income over the next decade, since a judgment can sometimes be collected from future earnings, depending on state law.
 
 **Step 3:** Round up to the next million-dollar increment.
 
 **Step 4:** Check whether your lifestyle involves elevated risk (pool, dog, teen drivers, rental income). If yes, add another million.
 
-The cost difference between a $1 million and $2 million umbrella policy is usually modest, often less than $100 annually. The coverage difference is not.
+The cost difference between a $1 million and $2 million umbrella policy is usually modest, often $50 to $150 more annually ([Longmeadow Insurance Agency](https://longmeadow.agency/how-much-does-umbrella-insurance-cost-a-complete-guide-to-pricing-for-1m-2m-and-5m-policies/)). The coverage difference is not.
 
-The National Association of Insurance Commissioners (NAIC) recommends reviewing your coverage limits any time your financial situation changes significantly, whether that's buying a new home, inheriting assets, or experiencing major income growth. Most people ignore this advice until something goes wrong.
+It makes sense to review your coverage limits any time your financial situation changes significantly, whether that's buying a new home, inheriting assets, or experiencing major income growth. Many people skip this review until something goes wrong.
 
 ## What Insurers Require Before They'll Sell You One
 
 You can't just buy an umbrella policy independently. Insurers require you to carry underlying homeowner's and auto policies that meet minimum liability thresholds first.
 
-Typical minimums required:
+Required minimums vary by carrier, so confirm the exact figures with any insurer you are considering. Common examples of what carriers ask for include:
 
 | Underlying Policy | Minimum Liability Usually Required |
 |---|---|
-| Homeowner's | $300,000 per occurrence |
-| Auto (per person/per accident) | $250,000 / $500,000 |
-| Watercraft (if applicable) | $300,000 |
-| Rental property (if applicable) | $300,000 |
+| Homeowner's | $300,000 per occurrence ([USAA via CarInsurance.com](https://www.carinsurance.com/umbrella-insurance-companies/)) |
+| Auto (per person/per accident) | $250,000 / $500,000 ([SelectQuote](https://www.selectquote.com/auto-and-home-insurance/articles/what-is-umbrella-insurance)) |
+| Watercraft (if applicable) | $300,000 ([USAA via CarInsurance.com](https://www.carinsurance.com/umbrella-insurance-companies/)) |
+| Rental property (if applicable) | $300,000 ([USAA and Allstate via CarInsurance.com](https://www.carinsurance.com/umbrella-insurance-companies/)) |
 
 If your underlying policies don't meet these minimums, you'll need to increase those limits first (adding cost) or accept a gap where no policy pays. That gap is called a "retained limit," and it comes out of your pocket before the umbrella activates.
 
-Many carriers require that you hold your homeowner's and umbrella with the same insurer, or at minimum your auto and umbrella together. Bundling can get you a discount, but it also limits your ability to shop underlying policies independently. Worth knowing before you bundle.
+Some carriers require or prefer that you hold your auto or homeowner's policy with them before they will write an umbrella, while others will write one on top of policies placed elsewhere. Bundling can get you a discount, but it also limits your ability to shop underlying policies independently. Worth knowing before you bundle.
 
 If you're unsure whether your current policies meet the thresholds an umbrella requires, your state's insurance department can clarify your rights and what disclosures insurers must make. The NAIC maintains a directory of state insurance department websites at naic.org if you need to find yours.
 
