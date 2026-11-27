@@ -18,12 +18,3 @@ This 7-question quiz is a quick reality check on how actually protected your hom
 {{< quiz >}}
 
 Whatever score you land on, you're walking away with something useful: a real picture of what your coverage looks like today. That's the whole thing. If something felt off, there are beginner-friendly guides here to help you figure it out. When you're ready to actually change something, grab a licensed agent and have them walk through your policy with you word by word.
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.

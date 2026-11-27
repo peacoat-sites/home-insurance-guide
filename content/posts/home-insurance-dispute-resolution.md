@@ -119,7 +119,6 @@ Document every attempt at contact with dates, names, and methods. Then file a co
 
 ---
 
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 *Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
 
@@ -130,12 +129,3 @@ Document every attempt at contact with dates, names, and methods. Then file a co
 - [National Association of Insurance Commissioners (NAIC)](https://www.naic.org/)
 - [your state's insurance department](https://www.naic.org/state_web_map.htm)
 - [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
